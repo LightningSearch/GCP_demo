@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<script>
+	  dataLayer = [];
+	</script>
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P7XMSF4');</script>
+<!-- End Google Tag Manager -->
+
+	<link rel="apple-touch-icon" sizes="180x180" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/favicon-16x16.png">
+	<link rel="shortcut icon" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/favicon.ico" />
+	<link rel="manifest" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/manifest.json">
+	<link rel="mask-icon" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/safari-pinned-tab.svg" color="#244149">
+	<meta name="msapplication-TileColor" content="#244149">
+	<meta name="msapplication-config" content="https://pulse2.com/wp-content/themes/pulse2/images/icons/browserconfig.xml" /> 
+	
+	<title>Women In Tech | Pulse 2.0</title>
+
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://pulse2.com/women-in-tech/" />
+	<link rel="next" href="https://pulse2.com/women-in-tech/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Women In Tech | Pulse 2.0" />
+	<meta property="og:url" content="https://pulse2.com/women-in-tech/" />
+	<meta property="og:site_name" content="Pulse 2.0" />
+	<meta property="og:image" content="https://cdn.pulse2.com/cdn/2019/06/pulse2-logo.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@pulse2news" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://pulse2.com/#organization","name":"Pulse 2.0","url":"https://pulse2.com/","sameAs":["https://www.facebook.com/pulse2news/","https://www.linkedin.com/company/pulse2news/","https://twitter.com/pulse2news"],"logo":{"@type":"ImageObject","@id":"https://pulse2.com/#logo","inLanguage":"en-US","url":"https://cdn.pulse2.com/cdn/2018/06/19164358/logo.png","width":409,"height":70,"caption":"Pulse 2.0"},"image":{"@id":"https://pulse2.com/#logo"}},{"@type":"WebSite","@id":"https://pulse2.com/#website","url":"https://pulse2.com/","name":"Pulse 2.0","description":"Technology &amp; Business News","publisher":{"@id":"https://pulse2.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://pulse2.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://pulse2.com/women-in-tech/#webpage","url":"https://pulse2.com/women-in-tech/","name":"Women In Tech | Pulse 2.0","isPartOf":{"@id":"https://pulse2.com/#website"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://pulse2.com/women-in-tech/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Pulse 2.0 &raquo; Women In Tech Category Feed" href="https://pulse2.com/women-in-tech/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://pulse2.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='aawp-styles-css'  href='https://pulse2.com/wp-content/plugins/aawp/public/assets/css/styles.min.css?ver=3.14.3' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://pulse2.com/wp-json/" /><link rel="alternate" type="application/json" href="https://pulse2.com/wp-json/wp/v2/categories/833" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pulse2.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pulse2.com/wp-includes/wlwmanifest.xml" /> 
+<style type="text/css">.aawp .aawp-tb__row--highlight{background-color:#256aaf;}.aawp .aawp-tb__row--highlight{color:#fff;}.aawp .aawp-tb__row--highlight a{color:#fff;}</style><style type='text/css'>img#wpstats{display:none}</style><!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://cdn.pulse2.com/cdn/2018/11/cropped-p2icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cdn.pulse2.com/cdn/2018/11/cropped-p2icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cdn.pulse2.com/cdn/2018/11/cropped-p2icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cdn.pulse2.com/cdn/2018/11/cropped-p2icon-270x270.png" />
+
+	<link href="https://pulse2.com/wp-content/themes/pulse2/css/bootstrap.min.css?v=3.4.1" rel="stylesheet">
+	<link href="https://pulse2.com/wp-content/themes/pulse2/style.css?v=6.6" rel="stylesheet">
+	<link href="https://pulse2.com/wp-content/themes/pulse2/style-wit.css?v=6.6" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700" rel="stylesheet">
+	<script src="https://pulse2.com/wp-content/themes/pulse2/js/jquery.js"></script>	
+	<script src="https://pulse2.com/wp-content/themes/pulse2/js/plugins/waypoints/noframework.waypoints.min.js"></script>
+	
+	<link href="https://pulse2.com/wp-content/themes/pulse2/icon-fonts/pulse2.css" rel="stylesheet">
+	
+
+</head>
+
+<body>
+
+	<header class="page-header">
+		<nav class="navbar" id="slide-nav">
+			<div class="container">
+				<div class="navbar-header">
+					<div class="header-top">
+
+						<div class="row">
+							<div class="col-xs-2">
+							</div>
+							<div class="col-xs-8 text-center">
+								<div class="logo">
+									<a title="Pulse 2.0" href="https://pulse2.com"><img src="https://pulse2.com/wp-content/themes/pulse2/images/logo-white.png" alt="Pulse 2.0">
+									</a>
+								</div>
+							</div>
+							<div class="col-xs-2">
+								<a href="#" class="mobile-search p2-search hidden-lg hidden-md hidden-sm"><i class="icon-search"></i></i></a>
+							</div>
+
+						</div>
+					</div>
+					<button type="button" class="navbar-toggle"><i class="icon icon-menu"></i><i class="icon icon-cancel-circled icon-cancel"></i></button>
+				</div>
+				<div id="slidemenu" data-hover="dropdown" data-animations="fadeIn">
+					<ul id="nav navbar-nav" class="nav navbar-nav"><li id="menu-item-127544" class="p2-home-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-127544"><a href="https://pulse2.com/"><i class="icon icon-home"></i></a></li>
+<li id="menu-item-116245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-116245"><a href="https://pulse2.com/innovation/">Innovation</a></li>
+<li id="menu-item-129319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-129319"><a href="https://pulse2.com/venture-capital/">Funding</a></li>
+<li id="menu-item-116246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-116246"><a href="https://pulse2.com/startups/">Startups</a></li>
+<li id="menu-item-115520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115520"><a href="https://pulse2.com/enterprise/">Enterprise</a></li>
+<li id="menu-item-145397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145397"><a href="https://pulse2.com/advertise-with-us/">Partner With Us</a></li>
+<li id="menu-item-127545" class="p2-search menu-item menu-item-type-custom menu-item-object-custom menu-item-127545"><a title="Search" href="https://pulse2.com#"><i class="icon icon-search"></i></a></li>
+</ul>				</div>
+			</div>
+		</nav>
+	</header>
+
+<div id="pulse2-search-box" class="search-overlay" style="display: none;">
+  <span class="closebtn" onclick="closeSearch()" title="Close">×</span>
+  <div class="search-overlay-content">
+  <span class="search-title">Search Pulse 2.0</span>
+    <form action="https://pulse2.com/">
+      <input id="search-input" type="text" placeholder="" name="s" required pattern=".*\S+.*" title="This field is required">
+      <button type="submit"><i class="icon-search"></i></button>
+    </form>
+  </div>
+</div>
+<div class="container">
+
+	<div class="main-section-header">
+			<h1>Women in Tech</h1>
+			<h3>Impactful stories of inspiring and innovative women in technology.</h3>
+
+		<div class="block" style="padding: 20px 0 0 0;">
+				<div class="row">
+						
+				</div>
+		</div>
+				
+		
+		</div>
+	</div>
+
+		<!-- Content  -->
+	<div id="page-content">
+
+			<div class="container mt-30">
+
+																<div class="row mb-30" id="post-164259">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/goldman-sachs-gs-committing-10-billion-black-women/" title="Goldman Sachs (GS) Is Committing $10 Billion In Investment Capital To Impact 1 Million Black Women">
+			<img src="https://cdn.pulse2.com/cdn/2019/12/GS-logo-feat-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/goldman-sachs-gs-committing-10-billion-black-women/" title="Goldman Sachs (GS) Is Committing $10 Billion In Investment Capital To Impact 1 Million Black Women"><h3> Goldman Sachs (GS) Is Committing $10 Billion In Investment Capital To Impact 1 Million Black Women</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 11, 2021</span></span>
+
+					<div class="category-text hidden-xs content">Goldman Sachs Group, Inc. (NYSE: GS) announced a new investment initiative of more than $10 billion to advance racial equity and economic opportunity by investing in Black women.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-164242">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/avid-ventures-launches-68-million-debut-venture-capital-fund/" title="Avid Ventures Launches $68 Million Debut Venture Capital Fund">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Avid-Ventures-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/avid-ventures-launches-68-million-debut-venture-capital-fund/" title="Avid Ventures Launches $68 Million Debut Venture Capital Fund"><h3> Avid Ventures Launches $68 Million Debut Venture Capital Fund</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 11, 2021</span></span>
+
+					<div class="category-text hidden-xs content">Avid Ventures recently launched a $68 million debut venture capital fund. These are the details.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-162433">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/sustainable-lifestyle-brand-brightly-raises-1-million-for-scaling-shopping-platform/" title="Sustainable Lifestyle Brand Brightly Raises $1 Million For Scaling Shopping Platform">
+			<img src="https://cdn.pulse2.com/cdn/2021/02/Brightly-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/sustainable-lifestyle-brand-brightly-raises-1-million-for-scaling-shopping-platform/" title="Sustainable Lifestyle Brand Brightly Raises $1 Million For Scaling Shopping Platform"><h3> Sustainable Lifestyle Brand Brightly Raises $1 Million For Scaling Shopping Platform</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>February 16, 2021</span></span>
+
+					<div class="category-text hidden-xs content">Brightly — a female-founded startup combining content, community, and commerce to scale conscious consumerism founded in 2019 by Laura Alexander Wittig and Liza Moiseeva — recently announced it has raised $1.15 million to date.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-162238">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/halogen-ventures-closes-21-million-for-second-fund/" title="Halogen Ventures Closes $21 Million For Second Fund">
+			<img src="https://cdn.pulse2.com/cdn/2021/02/Halogen-Ventures-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/halogen-ventures-closes-21-million-for-second-fund/" title="Halogen Ventures Closes $21 Million For Second Fund"><h3> Halogen Ventures Closes $21 Million For Second Fund</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>February 15, 2021</span></span>
+
+					<div class="category-text hidden-xs content">Halogen Ventures — the venture capital fund led by Jesse Draper — announced it has closed a second fund of $21 million</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-159308">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/salesforce-com-crm-names-sarah-franklin-as-cmo/" title="Salesforce.com (CRM) Names Sarah Franklin As CMO">
+			<img src="https://cdn.pulse2.com/cdn/2021/01/Sarah-Franklin-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/salesforce-com-crm-names-sarah-franklin-as-cmo/" title="Salesforce.com (CRM) Names Sarah Franklin As CMO"><h3> Salesforce.com (CRM) Names Sarah Franklin As CMO</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>January 6, 2021</span></span>
+
+					<div class="category-text hidden-xs content">Salesforce.com, Inc. (NYSE: CRM) announced it is naming Sarah Franklin as the chief marketing officer of the company. These are the details.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-159198">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/penn-national-gaming-penn-felicia-hendrix-named-as-cfo-and-evp/" title="Penn National Gaming (PENN): Felicia Hendrix Named As CFO And EVP">
+			<img src="https://cdn.pulse2.com/cdn/2020/12/Penn-National-Gaming-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/penn-national-gaming-penn-felicia-hendrix-named-as-cfo-and-evp/" title="Penn National Gaming (PENN): Felicia Hendrix Named As CFO And EVP"><h3> Penn National Gaming (PENN): Felicia Hendrix Named As CFO And EVP</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>January 4, 2021</span></span>
+
+					<div class="category-text hidden-xs content">Penn National Gaming, Inc (NASDAQ: PENN) announced today that  David Williams has stepped down as Executive Vice President and Chief Financial Officer. He will be succeeded by Felicia Hendrix.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-158193">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/mackenzie-scott-donates-4-158-billion-to-384-organizations/" title="MacKenzie Scott Donates $4.158 Billion To 384 Organizations">
+			<img src="https://cdn.pulse2.com/cdn/2020/12/MacKenzie-Scott-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/mackenzie-scott-donates-4-158-billion-to-384-organizations/" title="MacKenzie Scott Donates $4.158 Billion To 384 Organizations"><h3> MacKenzie Scott Donates $4.158 Billion To 384 Organizations</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>December 17, 2020</span></span>
+
+					<div class="category-text hidden-xs content">MacKenzie Scott announced she has donated $4.158 billion to 384 organizations. These are the details.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-158176">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/workit-health-12-million-in-series-b-funding/" title="Addiction Healthcare Company Workit Health Secures $12 Million In Series B Funding">
+			<img src="https://cdn.pulse2.com/cdn/2020/12/Workit-Health-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/workit-health-12-million-in-series-b-funding/" title="Addiction Healthcare Company Workit Health Secures $12 Million In Series B Funding"><h3> Addiction Healthcare Company Workit Health Secures $12 Million In Series B Funding</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>December 17, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Ann Arbor, Michigan-based Workit Health, a virtual substance use disorder provider that brings evidence-based telemedicine care to individuals, healthcare organizations, and employers, announced a $12 million round of investment led by FirstMark Capital</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-157037">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/ford-f-hires-suzy-deering-as-new-global-cmo/" title="Ford (F) Hires Suzy Deering As New Global CMO">
+			<img src="https://cdn.pulse2.com/cdn/2020/11/Suzy-Deering-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/ford-f-hires-suzy-deering-as-new-global-cmo/" title="Ford (F) Hires Suzy Deering As New Global CMO"><h3> Ford (F) Hires Suzy Deering As New Global CMO</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>November 27, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Ford Motor Company (NYSE: F) recently announced it is hiring Suzy Deering as a dedicated head of Global Marketing for helping it execute a plan to unlock customer and company value. These are the details.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-156999">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/pinterest-pins-celestine-maddy/" title="Pinterest (PINS) Hires Celestine Maddy As Head Of Consumer And Brand Marketing">
+			<img src="https://cdn.pulse2.com/cdn/2020/11/Celestine-Maddy-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/pinterest-pins-celestine-maddy/" title="Pinterest (PINS) Hires Celestine Maddy As Head Of Consumer And Brand Marketing"><h3> Pinterest (PINS) Hires Celestine Maddy As Head Of Consumer And Brand Marketing</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>November 24, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Pinterest Inc (NYSE: PINS) recently announced it has hired Celestine Maddy as the company’s head of consumer marketing. These are the details.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-155267">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/yext-names-hillary-smith-to-board-of-directors/" title="Yext Names Hillary Smith To Board Of Directors">
+			<img src="https://cdn.pulse2.com/cdn/2020/10/Hillary-Smith-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/yext-names-hillary-smith-to-board-of-directors/" title="Yext Names Hillary Smith To Board Of Directors"><h3> Yext Names Hillary Smith To Board Of Directors</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>October 23, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Search Experience Cloud company Yext, Inc. (NYSE: YEXT) announced it named Hillary Smith to its Board of Directors, effective October 21, 2020.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-154884">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/fiveable-raises-2-3-million-funding/" title="Edtech Platform Fiveable Raises $2.3 Million">
+			<img src="https://cdn.pulse2.com/cdn/2020/10/Fiveable-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/fiveable-raises-2-3-million-funding/" title="Edtech Platform Fiveable Raises $2.3 Million"><h3> Edtech Platform Fiveable Raises $2.3 Million</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>October 18, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Fiveable — a company that is addressing both the challenges and opportunities within the changing education landscape has never been more top-of-mind for educators, investors, and tech leaders — announced it has raised $2.3 million in venture capital funding.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-154095">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/match-group-mtch-tracey-breeden-as-head-of-safety-and-social-advocacy/" title="Match Group (MTCH) Names Tracey Breeden As Head Of Safety And Social Advocacy">
+			<img src="https://cdn.pulse2.com/cdn/2020/09/Tracey-Breeden-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/match-group-mtch-tracey-breeden-as-head-of-safety-and-social-advocacy/" title="Match Group (MTCH) Names Tracey Breeden As Head Of Safety And Social Advocacy"><h3> Match Group (MTCH) Names Tracey Breeden As Head Of Safety And Social Advocacy</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>September 29, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Match Group (NASDAQ: MTCH) announced that Tracey Breeden, former Head of Women's Safety and Gender-Based Violence Operations at Uber, will join the company as its new Head of Safety and Social Advocacy.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-154074">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/bed-bath-beyond-bbby-hiring-anu-gupta-chief-strategy-transformation-officer/" title="Bed Bath &#038; Beyond (BBBY) Hiring Anu Gupta As Chief Strategy And Transformation Officer">
+			<img src="https://cdn.pulse2.com/cdn/2020/09/Anu-Gupta-BBBY-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/bed-bath-beyond-bbby-hiring-anu-gupta-chief-strategy-transformation-officer/" title="Bed Bath &#038; Beyond (BBBY) Hiring Anu Gupta As Chief Strategy And Transformation Officer"><h3> Bed Bath &#038; Beyond (BBBY) Hiring Anu Gupta As Chief Strategy And Transformation Officer</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>September 28, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Bed Bath & Beyond Inc. (Nasdaq: BBBY) announced it has named Anu Gupta as Chief Strategy and Transformation Officer, effective October 5, 2020.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-153958">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/walt-disney-co-dis-hires-diane-jurgens-as-cio/" title="Walt Disney Co (DIS) Hires Diane Jurgens As CIO">
+			<img src="https://cdn.pulse2.com/cdn/2020/09/Diane-Jurgens-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/walt-disney-co-dis-hires-diane-jurgens-as-cio/" title="Walt Disney Co (DIS) Hires Diane Jurgens As CIO"><h3> Walt Disney Co (DIS) Hires Diane Jurgens As CIO</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>September 25, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Walt Disney Co (NYSE: DIS) has hired Diane Jurgens as its new chief information officer. These are the details.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-153153">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/ukonwa-ojo-cmo-amazon-prime-video-studios/" title="Amazon.com (AMZN): Ukonwa Ojo Named As CMO For Prime Video And Studios">
+			<img src="https://cdn.pulse2.com/cdn/2020/09/Ukonwa-Ojo-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/ukonwa-ojo-cmo-amazon-prime-video-studios/" title="Amazon.com (AMZN): Ukonwa Ojo Named As CMO For Prime Video And Studios"><h3> Amazon.com (AMZN): Ukonwa Ojo Named As CMO For Prime Video And Studios</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>September 12, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Amazon.com, Inc. (NASDAQ: AMZN) has named Ukonwa Ojo as the chief marketing officer for Prime Video and Amazon Studios.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-152954">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/sap-sabine-bendiek-executive-board-member/" title="SAP Supervisory Board Appointing Sabine Bendiek As Executive Board Member">
+			<img src="https://cdn.pulse2.com/cdn/2020/09/Sabine-Bendiek-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/sap-sabine-bendiek-executive-board-member/" title="SAP Supervisory Board Appointing Sabine Bendiek As Executive Board Member"><h3> SAP Supervisory Board Appointing Sabine Bendiek As Executive Board Member</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>September 6, 2020</span></span>
+
+					<div class="category-text hidden-xs content">SAP SE (NYSE: SAP) recently announced that Microsoft Germany Management Board Chairwoman Sabine Bendiek has been appointed to join the SAP Executive Board as chief people officer and labor director in early 2021.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-152893">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/synopsys-snps-jeannine-sargent-board-of-directors/" title="Synopsys (SNPS) Appoints Jeannine Sargent To Board of Directors">
+			<img src="https://cdn.pulse2.com/cdn/2020/09/Jeannine-Sargent-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/synopsys-snps-jeannine-sargent-board-of-directors/" title="Synopsys (SNPS) Appoints Jeannine Sargent To Board of Directors"><h3> Synopsys (SNPS) Appoints Jeannine Sargent To Board of Directors</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>September 4, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Synopsys, Inc. (Nasdaq: SNPS) announced recently that it appointed Jeannine Sargent to its board of directors.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-152042">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/nurx-raises-22-5-million-funding/" title="Women&#8217;s Health Digital Practice Company Nurx Raises $22.5 Million">
+			<img src="https://cdn.pulse2.com/cdn/2020/08/Nurx-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/nurx-raises-22-5-million-funding/" title="Women&#8217;s Health Digital Practice Company Nurx Raises $22.5 Million"><h3> Women&#8217;s Health Digital Practice Company Nurx Raises $22.5 Million</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>August 14, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Nurx — which is the largest digital practice for women's health — announced it has raised an additional $22.5 million in funding in May for its Series C funding round.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-151833">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/general-motors-cfo-dhivya-suryadevara-to-join-stripe/" title="General Motors CFO Dhivya Suryadevara To Join Stripe">
+			<img src="https://cdn.pulse2.com/cdn/2020/08/Dhivya-Suryadevara-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/general-motors-cfo-dhivya-suryadevara-to-join-stripe/" title="General Motors CFO Dhivya Suryadevara To Join Stripe"><h3> General Motors CFO Dhivya Suryadevara To Join Stripe</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>August 11, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Online payments company Stripe announced General Motors Company (NYSE: GM) CFO Dhivya Suryadevara will be joining the company with the same title.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-151552">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/cloudera-promotes-sarah-shin-to-new-role-of-chief-diversity-officer-cldr/" title="Cloudera Promotes Sarah Shin To New Role Of Chief Diversity Officer (CLDR)">
+			<img src="https://cdn.pulse2.com/cdn/2020/08/Sarah-Shin-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/cloudera-promotes-sarah-shin-to-new-role-of-chief-diversity-officer-cldr/" title="Cloudera Promotes Sarah Shin To New Role Of Chief Diversity Officer (CLDR)"><h3> Cloudera Promotes Sarah Shin To New Role Of Chief Diversity Officer (CLDR)</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>August 6, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Enterprise data cloud company Cloudera (NYSE: CLDR) announced it has promoted Sarah Shin to the new role of Chief Diversity Officer.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-151393">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/leidos-ldos-elizabeth-porter-appointed-to-health-group-president/" title="Leidos (LDOS): Elizabeth Porter Appointed To Health Group President">
+			<img src="https://cdn.pulse2.com/cdn/2020/08/Liz-Porter-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/leidos-ldos-elizabeth-porter-appointed-to-health-group-president/" title="Leidos (LDOS): Elizabeth Porter Appointed To Health Group President"><h3> Leidos (LDOS): Elizabeth Porter Appointed To Health Group President</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>August 5, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Science and technology leader Leidos (NYSE: LDOS) announced the appointment of Elizabeth (Liz) Porter to Health Group President, effective immediately.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-151386">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/calamp-nasdaq-camp-amal-johnson-chair-board-of-directors/" title="CalAmp (CAMP): Amal Johnson To Chair Board Of Directors">
+			<img src="https://cdn.pulse2.com/cdn/2020/08/CalAmp-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/calamp-nasdaq-camp-amal-johnson-chair-board-of-directors/" title="CalAmp (CAMP): Amal Johnson To Chair Board Of Directors"><h3> CalAmp (CAMP): Amal Johnson To Chair Board Of Directors</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>August 5, 2020</span></span>
+
+					<div class="category-text hidden-xs content">CalAmp (Nasdaq: CAMP) — a global technology solutions pioneer transforming the mobile connected economy — announced that Amal Johnson has been appointed to Chair of the Board of Directors.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-151319">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/clorox-clx-linda-rendle-promoted-as-first-female-ceo/" title="Clorox Co (CLX): Linda Rendle Promoted As First Female CEO Of The Company">
+			<img src="https://cdn.pulse2.com/cdn/2020/08/Linda-Rendle-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/clorox-clx-linda-rendle-promoted-as-first-female-ceo/" title="Clorox Co (CLX): Linda Rendle Promoted As First Female CEO Of The Company"><h3> Clorox Co (CLX): Linda Rendle Promoted As First Female CEO Of The Company</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>August 3, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Consumer products company Clorox Co (NYSE: CLX) announced Linda Rendle has been promoted as the first female CEO of the company. And the quarterly results were also revealed.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-151077">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/alan-patricof-and-abby-levy-launch-primetime-partners/" title="Alan Patricof And Abby Levy Launch Primetime Partners">
+			<img src="https://cdn.pulse2.com/cdn/2020/07/Abby-Levy-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/alan-patricof-and-abby-levy-launch-primetime-partners/" title="Alan Patricof And Abby Levy Launch Primetime Partners"><h3> Alan Patricof And Abby Levy Launch Primetime Partners</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>July 30, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Wellness executive and founder Abby Levy and iconic investor and Alan Patricof have announced the launch of Primetime Partners.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-150430">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/teleteachers-raises-2-7-million/" title="TeleTeachers Raises $2.7 Million To Provide Learning Solutions For Students With Disabilities">
+			<img src="https://cdn.pulse2.com/cdn/2020/07/TeleTeachers-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/teleteachers-raises-2-7-million/" title="TeleTeachers Raises $2.7 Million To Provide Learning Solutions For Students With Disabilities"><h3> TeleTeachers Raises $2.7 Million To Provide Learning Solutions For Students With Disabilities</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>July 16, 2020</span></span>
+
+					<div class="category-text hidden-xs content">TeleTeachers -- a leading provider of engaging and effective technology-enabled learning and therapy solutions -- announced that it has raised $2.785 million in Series A equity private placement.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-150283">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/fertility-care-and-testing-company-kindbody-secures-32-million/" title="Fertility Care And Testing Company Kindbody Secures $32 Million">
+			<img src="https://cdn.pulse2.com/cdn/2020/07/Kindbody-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/fertility-care-and-testing-company-kindbody-secures-32-million/" title="Fertility Care And Testing Company Kindbody Secures $32 Million"><h3> Fertility Care And Testing Company Kindbody Secures $32 Million</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>July 14, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Kindbody — a rapidly growing health and technology company providing fertility, gynecology, and family-building care — announced that it has raised $32 million in Series B funding.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-150273">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/rethink-impact-closes-182-million-fund-ii-to-invest-in-female-led-tech-companies/" title="Rethink Impact Closes $182 Million Fund II To Invest In Female-Led Tech Companies">
+			<img src="https://cdn.pulse2.com/cdn/2020/07/Rethink-Impact-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/rethink-impact-closes-182-million-fund-ii-to-invest-in-female-led-tech-companies/" title="Rethink Impact Closes $182 Million Fund II To Invest In Female-Led Tech Companies"><h3> Rethink Impact Closes $182 Million Fund II To Invest In Female-Led Tech Companies</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>July 13, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Rethink Impact — the largest impact venture firm in the U.S. dedicated to investing in female tech entrepreneurs — announced recently that it closed the new $182 million Fund II.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-150195">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/magic-leap-names-peggy-johnson-ceo/" title="Magic Leap Names Peggy Johnson As Chief Executive Officer, Effective August 1">
+			<img src="https://cdn.pulse2.com/cdn/2020/07/Peggy-Johnson-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/magic-leap-names-peggy-johnson-ceo/" title="Magic Leap Names Peggy Johnson As Chief Executive Officer, Effective August 1"><h3> Magic Leap Names Peggy Johnson As Chief Executive Officer, Effective August 1</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>July 9, 2020</span></span>
+
+					<div class="category-text hidden-xs content">Magic Leap announced that it has appointed Peggy Johnson as the company’s new Chief Executive Officer, effective August 1, 2020.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+																<div class="row mb-30" id="post-150066">
+									<div class="category-item">
+
+
+<div class="col-xs-4 col-md-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/career-destination-for-moms-the-mom-project-raises-25-million/" title="Career Destination For Moms The Mom Project Raises $25 Million">
+			<img src="https://cdn.pulse2.com/cdn/2020/07/The-Mom-Project-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+				<div class="col-xs-8 col-md-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/career-destination-for-moms-the-mom-project-raises-25-million/" title="Career Destination For Moms The Mom Project Raises $25 Million"><h3> Career Destination For Moms The Mom Project Raises $25 Million</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>July 6, 2020</span></span>
+
+					<div class="category-text hidden-xs content">The Mom Project — a leading career destination for moms — announced that it raised $25 million in Series B funding led by growth investment firm 7GC.</div>
+
+					</div>
+
+				</div>
+				</div>
+
+				
+			</div>
+
+	</div>
+
+	<div class="footer-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+						<div class="pagination-prev-next-container"><a href="https://pulse2.com/women-in-tech/page/2/" class="pagination-prev-next">Next ></a></div>				</div>
+			</div>
+		</div>
+	</div>
+
+<!-- // Content  -->
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-5">
+        <div class="headline"><a title="Pulse 2.0" href="https://pulse2.com">
+<img src="https://pulse2.com/wp-content/themes/pulse2/images/footer-logo.png"/></a>        </div>
+        <div class="footer-content mb-20-mobile"> 
+        Pulse 2.0 is a leading national technology and business news publication located in Ann Arbor, Michigan.
+        </div>
+      </div>
+      <div class="col-sm-2">
+        <div class="headline">
+          <h3>FOLLOW US</h3>
+        </div>
+        <div class="footer-content"> 
+<div class="social-links">
+	<ul>
+		<li>
+				
+			<a title="Pulse 2.0 LinkedIn" target="_blank" class="icon icon-linkedin-circled" href="https://www.linkedin.com/company/pulse2news"></a>
+			<a title="Pulse 2.0 Twitter" target="_blank" class="icon icon-twitter-circled" href="https://twitter.com/pulse2news"></a>
+			<a title="Pulse 2.0 Facebook" target="_blank" class="icon icon-facebook-circled" href="https://www.facebook.com/pulse2news"></a>
+		</li>
+	</ul> 
+</div>
+
+          </div>
+      </div>
+      <div class="col-sm-5">
+        <div class="headline col-md-text-left">
+          <h3>POPULAR CHANNELS</h3>
+        </div>
+        <div class="footer-content areas col-md-text-left">
+
+<ul id="menu-footer" class="menu-footer"><li id="menu-item-136134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136134"><a href="https://pulse2.com/learn-2-0/">Learn 2.0</a></li>
+<li id="menu-item-135937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135937"><a href="https://pulse2.com/reviews-site-map/">Reviews</a></li>
+<li id="menu-item-133153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133153"><a href="https://pulse2.com/midwest-tech/">Midwest Tech</a></li>
+<li id="menu-item-131911" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-131911"><a href="https://pulse2.com/women-in-tech/" aria-current="page">Women In Tech</a></li>
+<li id="menu-item-145765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145765"><a href="https://pulse2.com/leadership/">Leadership</a></li>
+<li id="menu-item-145764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145764"><a href="https://pulse2.com/mergers-acquisitions/">M&#038;A Deals</a></li>
+<li id="menu-item-143550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143550"><a title="Device Specs" href="https://pulse2.com/specs/">Device Specs</a></li>
+</ul>        </div>
+      </div>
+    </div>
+  </div>
+  <div class="legal">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-4"> <span> © 2020 Pulse 2.0 LLC. All rights reserved.</span> </div>
+        <div class="col-sm-8 col-md-text-left legal-menu"> 
+        <ul id="navbar-footer" class="navbar-footer"><li id="menu-item-115606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115606"><a href="https://pulse2.com/about-us/">About Us</a></li>
+<li id="menu-item-120249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120249"><a href="https://pulse2.com/advertise-with-us/">Partner With Us</a></li>
+<li id="menu-item-115605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115605"><a href="https://pulse2.com/contact/">Contact Us</a></li>
+<li id="menu-item-113954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113954"><a href="https://pulse2.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-117957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117957"><a href="https://pulse2.com/privacy-policy/">Privacy Policy</a></li>
+</ul>        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+	<script src="https://pulse2.com/wp-content/themes/pulse2/js/custom.js?v=2.5"></script>
+	<script src="https://pulse2.com/wp-content/themes/pulse2/js/plugins/jquery-scrolltofixed-min.js"></script>
+	
+	<script type='text/javascript' src='https://pulse2.com/wp-includes/js/wp-embed.min.js?ver=5.6.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202112.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.2.1',blog:'5979423',post:'0',tz:'-4',srv:'pulse2.com'} ]);
+	_stq.push([ 'clickTrackerInit', '5979423', '0' ]);
+</script>
+ 
+	
+	<script src="https://a.publir.com/platform/ads.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	if(document.getElementById('adblock1122112')){
+	} else { 
+	var p_currentPage = window.location.href;
+	var p_siteId = "388";
+	var p_json_final = { p_currentPage, p_siteId};
+	var url = 'https://l026e7vji8.execute-api.us-east-1.amazonaws.com/default/pAnalytics';
+	fetch(url, {method: 'POST', mode: 'no-cors',body: JSON.stringify(p_json_final),credentials: 'include',headers: {'Content-Type': 'text/plain',}});
+	document.write('<scri'+'pt src="https://fkrkkmxsqeb5bj9r.s3.amazonaws.com/388.js" type="text/javascript"></scri'+'pt>');
+	}
+	</script>
+	
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 3.6.1 on 2021-03-24 08:59:24 -->

@@ -1,0 +1,613 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]><html class="html-page no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="html-page no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="html-page no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="html-page no-js" xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" ><!--<![endif]-->
+<head>
+  
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!--[if lte IE 8]>
+     <meta http-equiv="refresh" content="0;url=http://nvidianews.nvidia.com/ie-8-below" />
+  <![endif]-->
+  <title>NVIDIA Achieves Breakthroughs in Language Understanding to Enable Real-Time Conversational AI | NVIDIA Newsroom</title>
+  <meta name="author" content="NVIDIA Newsroom">
+  <meta name="description" content="NVIDIA today announced breakthroughs in language understanding that allow businesses to engage more naturally with customers using real-time conversational AI.">
+  <meta name="keywords" content="">
+
+  <link rel="canonical" href="https://nvidianews.nvidia.com/news/nvidia-achieves-breakthroughs-in-language-understandingto-enable-real-time-conversational-ai/" />
+
+  
+  <meta property="og:title" content="NVIDIA Achieves Breakthroughs in Language Understanding to Enable Real-Time Conversational AI">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="NVIDIA Newsroom Newsroom">
+  <meta property="og:url" content="http://nvidianews.nvidia.com/news/nvidia-achieves-breakthroughs-in-language-understandingto-enable-real-time-conversational-ai">
+  <meta property="og:description" content="NVIDIA today announced breakthroughs in language understanding that allow businesses to engage more naturally with customers using real-time conversational AI.">
+  
+  <meta property="og:image" content="https://s3.amazonaws.com/cms.ipressroom.com/219/files/201908/5d52b9c9ed6ae57ef18942b4_de7e142e-a107-405b-a3a9-332d5a1afd3/de7e142e-a107-405b-a3a9-332d5a1afd3_mid.jpg">
+  
+
+  
+  <meta property="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@nvidia">
+  <meta property="twitter:title" content="NVIDIA Achieves Breakthroughs in Language Understanding to Enable Real-Time Conversational AI">
+  <meta property="twitter:description" content="NVIDIA today announced breakthroughs in language understanding that allow businesses to engage more naturally with customers using real-time conversational AI.">
+  <meta property="twitter:url" content="http://nvidianews.nvidia.com/news/nvidia-achieves-breakthroughs-in-language-understandingto-enable-real-time-conversational-ai">
+  
+	<meta property="twitter:image" content="https://s3.amazonaws.com/cms.ipressroom.com/219/files/201908/5d52b9c9ed6ae57ef18942b4_de7e142e-a107-405b-a3a9-332d5a1afd3/de7e142e-a107-405b-a3a9-332d5a1afd3_mid.jpg">
+  
+
+
+  
+  <link rel="shortcut icon" href="/media/sites/219/images/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" href="/media/sites/219/images/itouch.png">
+  <link rel="alternate" type="application/rss+xml" title="Main site feed" href="https://nvidianews.nvidia.com/rss.xml" >
+  <link rel="shortcut icon" href="/media/sites/219/images/favicon.ico">
+
+  
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/common.css" media="screen">
+  
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/jquery-ui.css" media="screen">
+  
+
+  
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/main.min.b4994788cf1eaeed300a0aa7af53f3c8.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/clientlibs_base.min.535b5b5300a53d096e23547fa1e63496.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/clientlibs-all.min.a0519a25cf347ed8c36e40bebb34a411.css">
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/clientlibs-deep-learning.min.a7246548c1d8a2c1185ce7b8a07ce674.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/clientlibs-locales.min.1c8759f790eff30604b2a8253bc0abc8.css" media="screen">
+
+
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/jquery.fancybox.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/select2.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/forms2.css" media="screen">
+
+  
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/ext-gnw.css" media="screen">
+
+  <link rel="stylesheet" type="text/css" href="/media/sites/219/css/slidebars.css?ver=3" media="screen">
+  <link rel="stylesheet" type="text/css" href="/media/sites/219/css/style.css?ver=062415" media="screen">
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/responsive.css?updated=2019-06-10" media="screen">
+  <link rel="stylesheet" type="text/css" href="/media/themes/5e8b9e5e2cfac276148d312e/css/theme_2019-06-01.css?updated=2020-04-22" media="screen">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+  <script src="//assets.adobedtm.com/b92787824f2e0e9b68dc2e993f9bd995339fe417/satelliteLib-ee6402c9231e8a27b7144b678ce0c7200107a43c.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  
+         <!-- Google Analytics Section -->
+  
+    
+
+  <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        var ga_event = function(type,title,id){
+        //console.log(type,title,id);
+            try {
+                    
+                        ga('ipr.send', 'event', type, title, id);
+                    
+            }
+            catch(e) {
+
+            }
+        }
+
+        function ga_social_event(network,action,target){
+                 ga('ipr.send', 'social', network, action, target);
+            }
+
+        ga('create', 'UA-65241159-1', {'name':'ipr','cookieName': 'ipr_ga'});
+
+        
+
+            ga('ipr.set', 'contentGroup4', '5d52b9d6ed6ae57ef18942b6');
+
+            
+                ga('ipr.set', 'contentGroup1', 'releases');
+            
+
+            
+
+             
+                ga_event('Categories','View_21926','Press Releases');
+            
+            
+            
+            
+            
+            
+            
+        
+
+        
+        
+
+        
+            ga('ipr.set', 'contentGroup3', 'Press Releases|');
+        
+
+        
+
+        var referrer = document.referrer;
+        if(referrer != "" && referrer.indexOf('?q') >=0){
+          var qs = referrer.split('?q=')[1] || '';
+          var final_qs = qs.split('&')[0]
+          
+            ga_event('Search',final_qs,'/news/nvidia-achieves-breakthroughs-in-language-understandingto-enable-real-time-conversational-ai');
+            //alert("send");
+          
+        }
+
+        jQuery( document ).ready(function(){
+
+            if(jQuery(".ipr_ga_mixed_gallery_page_flag").length > 0)
+                ga('ipr.set', 'contentGroup2', 'mixed_gallery');
+
+            ga('ipr.send', 'pageview');
+
+            try {
+                jQuery(".mixed_gallery_low_res_download, .mixed_gallery_hi_res_download").click(function(){
+                    ga_event('mixed_gallery_download',jQuery(this).attr('title'),jQuery(this).attr('data-ipr-ga'));
+                });
+            }
+            catch(e){
+
+            }
+
+            try {
+                jQuery(".ga-fileview").click(function(){
+                  page_id = "5d52b9d6ed6ae57ef18942b6";
+                  user_id = "";
+                  if(user_id == ""){user_id='ANONYMOUS'}
+                  track_event_label = page_id+"_"+user_id;
+                  ga_event('fileView',jQuery(this).attr('data-ipr-ga'),track_event_label);
+                });
+            }
+            catch(e){
+
+            }
+
+         
+            if(typeof(addthis)!='undefined'){
+
+              addthis.addEventListener('addthis.menu.share', function (evt) {
+              ga_social_event( evt.data.service, 'Share', evt.data.url);
+              });
+            }
+
+            jQuery('a').click(function(){
+                if(jQuery(this).attr("href") != ''){
+                    ga_event('linkClick',jQuery(this).attr("href"),jQuery(this).text());
+                }
+
+            })
+        });
+
+        
+        // For Tracking Whole Clients Pageviews
+
+         ga('create', 'UA-111728443-1', 'auto','clientTracker');
+
+         // Testing - UA-111727747-1 Test local account
+         // Production - 'UA-111728443-1' 
+
+         // custom dimension name is : Site
+         ga('clientTracker.set', 'dimension1', 'nvidia');
+         ga('clientTracker.send', 'pageview');
+
+         var audio_view = function(file_id){
+              page_id = "5d52b9d6ed6ae57ef18942b6";
+              user_id = "";
+              if(user_id == ""){user_id='ANONYMOUS'}
+              track_event_label = page_id+"_"+user_id;
+              ga_event('fileView',file_id,track_event_label);
+              }
+
+
+        var file_view = function(file_id){
+              page_id = "5d52b9d6ed6ae57ef18942b6";
+              user_id = "";
+              if(user_id == "")
+              {
+                
+                   user_id='ANONYMOUS'
+                
+              }
+              track_event_label = page_id+"_"+user_id;
+              ga_event('fileView',file_id,track_event_label);
+              }
+
+              
+         var video_view = function(file_id){
+              page_id = "5d52b9d6ed6ae57ef18942b6";
+              user_id = "";
+              if(user_id == ""){user_id='ANONYMOUS'}
+              track_event_label = page_id+"_"+user_id;
+              ga_event('fileView',file_id,track_event_label);
+              }
+
+
+    </script>
+  <!-- End Google Analytics -->
+  
+
+
+  
+  
+
+  
+
+
+  
+  
+
+  
+     
+     <link href="/static/contentbuilder/contentbuilder-content.css" rel="stylesheet" type="text/css" />
+      
+     
+
+
+   <script type="text/javascript" src="/static/flowplayer/flowplayer-3.2.8.min.js"></script>
+   <script type="text/javascript" src="/static/js/media_player.js"></script>
+   <script type="text/javascript" src="/static/flowplayer/videosubtitles.js"></script>
+
+</head>
+<body class="body-page theme-en-us theme-deeplearning release-detail" data-edit-mode>
+  <header id="main-header">
+    <div class="navigation">
+      <nav class="global-nav" id="navigation6216d93f_3ee6_4a5f_a15e_52782564b7cc">
+        
+
+
+ 
+   <div class="nav-header">
+  <div class="nav-header-container">
+          <div class="brand-container">
+            <a class="brand-link pull-left" href="https://www.nvidia.com">
+              <svg enable-background="new 0 0 974.7 179.7" version="1.1" viewBox="0 0 974.7 179.7" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" width="110" height="44"><title> Artificial Intelligence Computing Leadership from NVIDIA</title><path d="m962.1 144.1v-2.7h1.7c0.9 0 2.2 0.1 2.2 1.2s-0.7 1.5-1.8 1.5h-2.1m0 1.9h1.2l2.7 4.7h2.9l-3-4.9c1.5 0.1 2.7-1 2.8-2.5v-0.4c0-2.6-1.8-3.4-4.8-3.4h-4.3v11.2h2.5v-4.7m12.6-0.9c0-6.6-5.1-10.4-10.8-10.4s-10.8 3.8-10.8 10.4 5.1 10.4 10.8 10.4 10.8-3.8 10.8-10.4m-3.2 0c0.2 4.2-3.1 7.8-7.3 8h-0.3c-4.4 0.2-8.1-3.3-8.3-7.7s3.3-8.1 7.7-8.3 8.1 3.3 8.3 7.7c-0.1 0.1-0.1 0.2-0.1 0.3z"/><path d="m578.2 34v118h33.3v-118h-33.3zm-262-0.2v118.1h33.6v-91.7l26.2 0.1c8.6 0 14.6 2.1 18.7 6.5 5.3 5.6 7.4 14.7 7.4 31.2v53.9h32.6v-65.2c0-46.6-29.7-52.9-58.7-52.9h-59.8zm315.7 0.2v118h54c28.8 0 38.2-4.8 48.3-15.5 7.2-7.5 11.8-24.1 11.8-42.2 0-16.6-3.9-31.4-10.8-40.6-12.2-16.5-30-19.7-56.6-19.7h-46.7zm33 25.6h14.3c20.8 0 34.2 9.3 34.2 33.5s-13.4 33.6-34.2 33.6h-14.3v-67.1zm-134.7-25.6l-27.8 93.5-26.6-93.5h-36l38 118h48l38.4-118h-34zm231.4 118h33.3v-118h-33.3v118zm93.4-118l-46.5 117.9h32.8l7.4-20.9h55l7 20.8h35.7l-46.9-117.8h-44.5zm21.6 21.5l20.2 55.2h-41l20.8-55.2z"/><path fill="#76B900" d="m101.3 53.6v-16.2c1.6-0.1 3.2-0.2 4.8-0.2 44.4-1.4 73.5 38.2 73.5 38.2s-31.4 43.6-65.1 43.6c-4.5 0-8.9-0.7-13.1-2.1v-49.2c17.3 2.1 20.8 9.7 31.1 27l23.1-19.4s-16.9-22.1-45.3-22.1c-3-0.1-6 0.1-9 0.4m0-53.6v24.2l4.8-0.3c61.7-2.1 102 50.6 102 50.6s-46.2 56.2-94.3 56.2c-4.2 0-8.3-0.4-12.4-1.1v15c3.4 0.4 6.9 0.7 10.3 0.7 44.8 0 77.2-22.9 108.6-49.9 5.2 4.2 26.5 14.3 30.9 18.7-29.8 25-99.3 45.1-138.7 45.1-3.8 0-7.4-0.2-11-0.6v21.1h170.2v-179.7h-170.4zm0 116.9v12.8c-41.4-7.4-52.9-50.5-52.9-50.5s19.9-22 52.9-25.6v14h-0.1c-17.3-2.1-30.9 14.1-30.9 14.1s7.7 27.3 31 35.2m-73.5-39.5s24.5-36.2 73.6-40v-13.2c-54.4 4.4-101.4 50.4-101.4 50.4s26.6 77 101.3 84v-14c-54.8-6.8-73.5-67.2-73.5-67.2z"/></svg>
+            </a>
+					  <a href="#" class="da-container">
+              <div class="dropdown-arrow"></div>
+            </a>
+			    </div>
+          <div class="search-container">
+            <a href="/search" class="search-caller" data-action=dropdown id="topSearch">
+              <svg class="open" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><g><g><path fill="#bdbdbd" d="M6.68 11.32A4.631 4.631 0 1 1 6.7 2.058a4.631 4.631 0 0 1-.018 9.262zm6.18 0h-.82l-.28-.283a6.612 6.612 0 0 0 1.61-4.348 6.7 6.7 0 1 0-2.34 5.079l.29.283v.813l5.14 5.135 1.53-1.534z"/></g></g></svg>
+              <svg class="close" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><g><g><path fill="#bdbdbd" d="M18 1.819L16.18 0 9 7.18 1.82 0 0 1.819 7.18 9 0 16.181 1.82 18 9 10.819 16.18 18 18 16.181 10.82 9z"></path></g></g></svg>
+            </a>
+            <div class="searchoverlay searchoverlaydisplay"></div>
+            <form method="get" class="search-popup" action="/search" aria-labelledby="topSearch">
+              <input type="search" name="q" value="" placeholder="Search Newsroom" />
+              <button type="submit">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><g><g><path fill="#bdbdbd" d="M6.68 11.32A4.631 4.631 0 1 1 6.7 2.058a4.631 4.631 0 0 1-.018 9.262zm6.18 0h-.82l-.28-.283a6.612 6.612 0 0 0 1.61-4.348 6.7 6.7 0 1 0-2.34 5.079l.29.283v.813l5.14 5.135 1.53-1.534z"/></g></g></svg>
+              </button>
+              <!--
+              <button type="button" data-action='close' aria-label="Close the form">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><g><g><path fill="#bdbdbd" d="M18 1.819L16.18 0 9 7.18 1.82 0 0 1.819 7.18 9 0 16.181 1.82 18 9 10.819 16.18 18 18 16.181 10.82 9z"/></g></g></svg>
+              </button>
+            -->
+            </form>
+          </div>
+	      </div>
+
+        <aside class="global-menu-overlay fade hide">
+          <div class="menu-container">
+            <div class="row overlay-padding">
+              <div class="column small-12 medium-12 large-8 xl-8 ">
+                <div class="nav-section-title">
+                  <span class="body-text">PLATFORMS</span>
+                </div>
+
+                  <div class="global-nav-item">
+                    <a href="https://www.nvidia.com/en-us/autonomous-machines/" class="global-nav-link"> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/intelligent-machines.png" class="global-nav-image" alt="Autonomous Machines" title="Autonomous Machines"> <span class="global-nav-title">Autonomous Machines</span>
+                    </a>
+                  </div>
+
+                  <div class="global-nav-item">
+                    <a href="https://www.nvidia.com/en-us/data-center/" class="global-nav-link"> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/data-center.png" class="global-nav-image" alt="Cloud & Data Center" title="Cloud & Data Center"> <span class="global-nav-title">Cloud & Data Center</span>
+                    </a>
+                  </div>
+
+                  <div class="global-nav-item">
+                    <a href="https://www.nvidia.com/en-us/deep-learning-ai/" class="global-nav-link"> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/ai-deeplearning.png" class="global-nav-image" alt="Deep Learning & Ai" title="Deep Learning & Ai"> <span class="global-nav-title">Deep Learning & Ai</span>
+                    </a>
+                  </div>
+
+                  <div class="global-nav-item">
+                    <a href="https://www.nvidia.com/en-us/design-visualization/" class="global-nav-link"> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/design-visualization.png" class="global-nav-image" alt="Design & Pro Visualization" title="Design & Pro Visualization"> <span class="global-nav-title">Design & Pro Visualization</span>
+                    </a>
+                  </div>
+
+                  <div class="global-nav-item">
+                    <a href="https://www.nvidia.com/en-us/healthcare/" class="global-nav-link"> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/healthcare.jpg" class="global-nav-image" alt="Healthcare" title="Healthcare"> <span class="global-nav-title">Healthcare</span>
+                    </a>
+                  </div>
+
+                  <div class="global-nav-item">
+                    <a href="https://www.nvidia.com/en-us/high-performance-computing/" class="global-nav-link"> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/hpc-nvidia-mega-menu-image-hpc-188x106.jpg" class="global-nav-image" alt="High Performance Computing" title="High Performance Computing"> <span class="global-nav-title">High Performance Computing</span>
+                    </a>
+                  </div>
+
+                  <div class="global-nav-item">
+                    <a href="https://www.nvidia.com/en-us/self-driving-cars/" class="global-nav-link"> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/self-driving-cars.png" class="global-nav-image" alt="Self-Driving Cars" title="Self-Driving Cars"> <span class="global-nav-title">Self-Driving Cars</span>
+                    </a>
+                  </div>
+
+                  <div class="global-nav-item">
+                    <a href="https://www.nvidia.com/en-us/geforce/" class="global-nav-link"> <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/geforce.png" class="global-nav-image" alt="Gaming & Entertainment" title="Gaming & Entertainment"> <span class="global-nav-title">Gaming & Entertainment</span>
+                    </a>
+                  </div>
+
+              </div>
+              <div class="column small-12 medium-12 large-4 xl-4 ">
+                <div class="nav-section-title">
+                  <span class="body-text">other links</span>
+                </div>
+                <ul class="nav-other-links">
+
+
+                    <li class="other-links-element"><a href="https://developer.nvidia.com/" class="global-nav-link">Developers</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/en-us/industries/" class="global-nav-link">Industries</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/en-us/shop/" class="global-nav-link">Shop</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/Download/index.aspx?lang=en-us" class="global-nav-link">Drivers</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/object/support.html" class="global-nav-link">Support</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/en-us/about-nvidia/" class="global-nav-link">About NVIDIA</a></li>
+
+                </ul>
+                <ul class="nav-other-links">
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/page/products.html" class="global-nav-link">View All Products</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/en-us/gtc/" class="global-nav-link">GPU TECHNOLOGY CONFERENCE</a></li>
+
+
+                    <li class="other-links-element"><a href="https://blogs.nvidia.com/" class="global-nav-link">NVIDIA Blog</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/object/nvidia-communities.html" class="global-nav-link">Community</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/en-us/about-nvidia/careers/" class="global-nav-link">Careers</a></li>
+
+
+                    <li class="other-links-element"><a href="https://www.nvidia.com/en-us/technologies/" class="global-nav-link">TECHNOLOGIES</a></li>
+
+                </ul>
+              </div>
+
+
+            </div>
+          </div>
+        </aside>
+</div>
+
+ 
+
+        
+
+
+
+
+  <div class="sub-brand-nav">
+    <div class="sub-brand-nav-container">
+      <div class="brand-nav-left fade in">
+        <div id="sub-brand">
+          <a class="sub-brand-name" href="/"> 
+            <span class="sub-brand-label">Newsroom</span>
+          </a>
+        </div>
+        
+  
+  
+    
+    <div class="sub-brand-item">
+      
+        <a href="/multimedia" class="sub-brand-link " >Multimedia</a>
+        
+      
+    </div>
+    
+    
+    <div class="sub-brand-item">
+      
+        <a href="/bios" class="sub-brand-link " >Executive Bios</a>
+        
+      
+    </div>
+    
+    
+    <div class="sub-brand-item">
+      
+        <a href="/contacts" class="sub-brand-link " >Media Contacts</a>
+        
+      
+    </div>
+    
+    
+    <div class="sub-brand-item">
+      
+        <a href="/in-the-news" class="sub-brand-link " >In the News</a>
+        
+      
+    </div>
+    
+    
+    <div class="sub-brand-item">
+      
+        <a href="https://blogs.nvidia.com/" class="sub-brand-link " >NVIDIA Blog</a>
+        
+      
+    </div>
+    
+    
+    <div class="sub-brand-item">
+      
+        <a href="https://blogs.nvidia.com/ai-podcast/" class="sub-brand-link " >AI Podcast</a>
+        
+      
+    </div>
+    
+  
+  
+
+      </div>
+      <div class="brand-nav-right">
+        <a class="ic-menu unsubset" title="Menu"> 
+          <svg id="menu-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24">
+            <line id="menu-line-top" class="menu-line" x1="1" y1="6" x2="23" y2="6" stroke-width="2.4" vector-effect="non-scaling-stroke" style="transform-origin: 0px 0px 0px; stroke: rgb(255, 255, 255); transform: matrix(1, 0, 0, 1, 0, 0);"></line>
+            <line id="menu-line-mid" class="menu-line" x1="1" y1="12" x2="23" y2="12" stroke-width="2.4" vector-effect="non-scaling-stroke" style="transform-origin: 0px 0px 0px; stroke: rgb(255, 255, 255); transform: matrix(1, 0, 0, 1, 0, 0);"></line>
+            <line id="menu-line-bot" class="menu-line" x1="1" y1="18" x2="23" y2="18" stroke-width="2.4" vector-effect="non-scaling-stroke" style="transform-origin: 0px 0px 0px; stroke: rgb(255, 255, 255); transform: matrix(1, 0, 0, 1, 0, 0);"></line>
+          </svg>
+        </a>
+      </div>
+    </div>
+    <div style="opacity: 0; visibility: hidden;" class="lightbox-background tablet-only"></div>
+    <div class="mobile-menu-container background-color-black fade">
+      
+  
+  <ul class="mobile-menu">
+    
+  
+    
+    <li class="">
+      
+      <a href="/multimedia" class="sub-brand-link " >Multimedia</a>
+
+      
+    </li>
+    
+    
+    <li class="">
+      
+      <a href="/bios" class="sub-brand-link " >Executive Bios</a>
+
+      
+    </li>
+    
+    
+    <li class="">
+      
+      <a href="/contacts" class="sub-brand-link " >Media Contacts</a>
+
+      
+    </li>
+    
+    
+    <li class="">
+      
+      <a href="/in-the-news" class="sub-brand-link " >In the News</a>
+
+      
+    </li>
+    
+    
+    <li class="">
+      
+      <a href="https://blogs.nvidia.com/" class="sub-brand-link " >NVIDIA Blog</a>
+
+      
+    </li>
+    
+    
+    <li class="">
+      
+      <a href="https://blogs.nvidia.com/ai-podcast/" class="sub-brand-link " >AI Podcast</a>
+
+      
+    </li>
+    
+  
+  </ul>
+  
+
+    </div>
+  </div>
+        
+        <div class="header-innerpage">
+          <div class="container"><div class="header-innerpage-title">Press Release
+    
+  </div>
+            
+<div class="header-innerpage-share">
+  <span class="header-innerpage-share-title">Share</span>
+  <div class="header-innerpage-share-container">
+    <div class="addthis_inline_share_toolbox"></div>
+  </div>
+</div>
+
+          </div>
+        </div>
+        
+        <div class="back-to-top">
+		      <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.5 47.5">
+            <defs>
+              <style>
+              .cls-1 {
+                fill: #79b600;
+              }
+
+              .cls-2 {
+                fill: #fff;
+              }
+              </style>
+            </defs>
+            <title>ic_arrow-back-to-top</title>
+            <rect class="cls-1" width="47.5" height="47.5" />
+		        <path class="cls-2" d="M13.53,31.77,24,21.29,34.54,31.77l3.23-3.23L24,14.81,10.3,28.54Z" transform="translate(0 -0.5)" />
+          </svg>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <div id="page-content">
+
+    
+    <div class="main_wrap white_wrap clearfix">
+      <div class="container">
+      
+  <div class="main row">
+    <div class="main-content col-lg-8">
+      <div class="article">
+      
+
+        <h1 class="article-title">NVIDIA Achieves Breakthroughs in Language Understanding to Enable Real-Time Conversational AI</h1>
+        
+        <div class="article-subtitle">Trains BERT in Record-Setting 53 Minutes and Slashes Inference to 2 Milliseconds; Enables Microsoft, Others to Use State-of-the-Art Language Understanding in Large-Scale Applications</div>
+        
+        <div class="article-date">
+          Tuesday, August 13, 2019
+        </div>
+        
+        <figure class="article-hero">
+          <a href="http://cms.ipressroom.com.s3.amazonaws.com/219/files/201908/de7e142e-a107-405b-a3a9-332d5a1afd33" download>
+            <img
+              src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/201908/5d52b9c9ed6ae57ef18942b4_de7e142e-a107-405b-a3a9-332d5a1afd3/de7e142e-a107-405b-a3a9-332d5a1afd3_mid.jpg"
+              alt="NVIDIA Achieves Breakthroughs in Language Understanding to Enable Real-Time Conversational AI"
+              title="NVIDIA Achieves Breakthroughs in Language Understanding to Enable Real-Time Conversational AI"
+            />
+          </a>
+          
+          <figcaption class="article-hero-title">
+            <p>Conversational AI will improve applications in many fields including&nbsp;retail, customer service, automotive and banking.&nbsp;</p>

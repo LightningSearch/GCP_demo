@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<title>
+Scale AI: The Data Platform for AI 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Announcing Scale Transform, our first-ever conference. New speakers announced. Register Today Products Solutions Pricing Resources Company Documentation Sign In Docs Sign In The Data Platform for A I High quality training and validation data for AI applications Get Started Talk To Us Autonomous Vehicles Retail &amp; eCommerce Relevance &amp; Personalization Conversational AI Our Products Our API provides access to human-powered data for hundreds of use cases. Scale 3D Sensor Fusion Scale Text Scale Image Scale Video Scale Document Cuboid Segmentation &quot; Label all cars, pedestrians, and cyclists in each frame. &quot; client.createLidarAnnotationTask({ instruction : &#x27;Label all cars, pedestrians, and cyclists in each frame.&#x27; , labels : [ &#x27;car&#x27; , &#x27;pedestrian&#x27; , &#x27;cyclist&#x27; ], meters_per_unit : 2.3 , max_distance_meters : 30 }, ( err, task ) =&gt; { // do something with task }); Learn More Run code Technology Enabled ML-powered annotation tooling and quality assurance systems deliver high quality at low cost. Flexibility Operational excellence to provide extreme flexibility on quality and annotation requirements. Efficiency Efficiently scale large and multiple data pipelines to realize the impact of AI/ML projects. How It Works After sending us your data via API call, our platform through a combination of human work and review, smart tools, statistical confidence checks and machine learning checks returns scalable, accurate ground truth data. Talk To Us Nucleus The mission control for your data. Learn More Nucleus Public Dataset My Dataset Best IoU camera: FRONT and weather: sunny Nucleus The mission control for your data. Get Started Explore Datasets Nucleus Public Database My Dataset camera:FRONT and weather:sunny 14 Images Selected Create Slice Open Datasets Advancing Research and Development Large-scale datasets for cutting-edge Computer Vision and Natural Language Processing research. Explore Open Datasets Careers Scale is growing. Grow with us. Join us as we accelerate the development of AI applications. Learn More Open Roles Business Design Engineering IT Legal Marketing Operations People Sales Get Labeled Data Today Get Started Learn More Products Scale 3D Sensor Fusion Scale Image Scale Video Scale Text Scale Document Scale Audio Scale Nucleus Company About Pricing Careers Security Resources Blog Customers Events Open Datasets Interviews Documentation Find Us Facebook Linkedin Twitter Contact sales@scale.com support@scale.com careers@scale.com press@scale.com Copyright © 2021 Scale AI, Inc. All rights reserved. Terms of Use &amp; Privacy Policy 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="/events/transform">/events/transform</a> ( Register Today )
+</p>
+<p>
+<a href="/">/</a> ( )
+</p>
+<p>
+<a href="/pricing">/pricing</a> ( Pricing )
+</p>
+<p>
+<a href="/docs">/docs</a> ( Documentation )
+</p>
+<p>
+<a href="https://dashboard.scale.com/login">https://dashboard.scale.com/login</a> ( Sign In )
+</p>
+<p>
+<a href="/docs">/docs</a> ( Docs )
+</p>
+<p>
+<a href="https://dashboard.scale.com/login">https://dashboard.scale.com/login</a> ( Sign In )
+</p>
+<p>
+<a href="/signup">/signup</a> ( Get Started )
+</p>
+<p>
+<a href="/sales">/sales</a> ( Talk To Us )
+</p>
+<p>
+<a href="/self-driving-cars">/self-driving-cars</a> ( Autonomous Vehicles )
+</p>
+<p>
+<a href="/retail">/retail</a> ( Retail &amp; eCommerce )
+</p>
+<p>
+<a href="/content-language">/content-language</a> ( Relevance &amp; Personalization )
+</p>
+<p>
+<a href="/content-language">/content-language</a> ( Conversational AI )
+</p>
+<p>
+<a href="/3d-sensor-fusion">/3d-sensor-fusion</a> ( Learn More )
+</p>
+<p>
+<a href="/sales">/sales</a> ( Talk To Us )
+</p>
+<p>
+<a href="/nucleus">/nucleus</a> ( Learn More )
+</p>
+<p>
+<a href="https://dashboard.scale.com/signup?redirect_url=nucleus">https://dashboard.scale.com/signup?redirect_url=nucleus</a> ( Get Started )
+</p>
+<p>
+<a href="https://dashboard.scale.com/nucleus">https://dashboard.scale.com/nucleus</a> ( Explore Datasets )
+</p>
+<p>
+<a href="/open-datasets">/open-datasets</a> ( Explore Open Datasets )
+</p>
+<p>
+<a href="/open-datasets/waterloo">/open-datasets/waterloo</a> ( )
+</p>
+<p>
+<a href="https://level5.lyft.com/dataset/">https://level5.lyft.com/dataset/</a> ( )
+</p>
+<p>
+<a href="/open-datasets/pandaset">/open-datasets/pandaset</a> ( )
+</p>
+<p>
+<a href="/open-datasets/nuscenes">/open-datasets/nuscenes</a> ( )
+</p>
+<p>
+<a href="/careers">/careers</a> ( Learn More )
+</p>
+<p>
+<a href="/signup">/signup</a> ( Get Started )
+</p>
+<p>
+<a href="/sales">/sales</a> ( Learn More )
+</p>
+<p>
+<a href="/">/</a> ( )
+</p>
+<p>
+<a href="/3d-sensor-fusion">/3d-sensor-fusion</a> ( Scale 3D Sensor Fusion )
+</p>
+<p>
+<a href="/image">/image</a> ( Scale Image )
+</p>
+<p>
+<a href="/video">/video</a> ( Scale Video )
+</p>
+<p>
+<a href="/text">/text</a> ( Scale Text )
+</p>
+<p>
+<a href="/document">/document</a> ( Scale Document )
+</p>
+<p>
+<a href="/audio-speech">/audio-speech</a> ( Scale Audio )
+</p>
+<p>
+<a href="/nucleus">/nucleus</a> ( Scale Nucleus )
+</p>
+<p>
+<a href="/about">/about</a> ( About )
+</p>
+<p>
+<a href="/pricing">/pricing</a> ( Pricing )
+</p>
+<p>
+<a href="/careers">/careers</a> ( Careers )
+</p>
+<p>
+<a href="/legal/security">/legal/security</a> ( Security )
+</p>
+<p>
+<a href="/blog">/blog</a> ( Blog )
+</p>
+<p>
+<a href="/customers">/customers</a> ( Customers )
+</p>
+<p>
+<a href="/events">/events</a> ( Events )
+</p>
+<p>
+<a href="/open-datasets">/open-datasets</a> ( Open Datasets )
+</p>
+<p>
+<a href="/interviews">/interviews</a> ( Interviews )
+</p>
+<p>
+<a href="/docs">/docs</a> ( Documentation )
+</p>
+<p>
+<a href="https://www.facebook.com/scaleapi">https://www.facebook.com/scaleapi</a> ( Facebook )
+</p>
+<p>
+<a href="https://www.linkedin.com/company/scaleai">https://www.linkedin.com/company/scaleai</a> ( Linkedin )
+</p>
+<p>
+<a href="https://twitter.com/scale_ai">https://twitter.com/scale_ai</a> ( Twitter )
+</p>
+<p>
+<a href="/sales">/sales</a> ( sales@scale.com )
+</p>
+<p>
+<a href="mailto:support@scale.com">mailto:support@scale.com</a> ( support@scale.com )
+</p>
+<p>
+<a href="mailto:careers@scale.com">mailto:careers@scale.com</a> ( careers@scale.com )
+</p>
+<p>
+<a href="mailto:press@scale.com">mailto:press@scale.com</a> ( press@scale.com )
+</p>
+<p>
+<a href="/legal/terms">/legal/terms</a> ( Terms of Use &amp; Privacy Policy )
+</p>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=IE6" />
+	<meta http-equiv="cleartype" content="on">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>VB Special Issue: AI and the future of health care | VentureBeat</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="alternate" type="application/rss+xml" title="VentureBeat Feed" href="//feeds.feedburner.com/venturebeat/SZYF" />
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+		<script src="https://venturebeat.com/wp-content/themes/vb-news/js/ie/html5shiv.js"></script>
+		<script src="https://venturebeat.com/wp-content/themes/vb-news/js/ie/assets/js/respond.min.js"></script>
+	<![endif]-->
+
+	<meta name='robots' content='max-image-preview:large' />
+		<script async src="https://ccpa-wrapper.privacymanager.io/ccpa/9e40192a-fa05-4f09-b2e5-515213452068/ccpa-liveramp.js"></script>
+		<script async src="https://gdpr-wrapper.privacymanager.io/gdpr/c0e92fc2-9f8f-48f7-a529-7c3b1d744a7d/gdpr-liveramp.js"></script>
+		<script>
+			!function(e){var t={};function n(r){if(t[r])return t[r].exports;var a=t[r]={i:r,l:!1,exports:{}};return e[r].call(a.exports,a,a.exports,n),a.l=!0,a.exports}n.m=e,n.c=t,n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(n.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var a in e)n.d(r,a,function(t){return e[t]}.bind(null,a));return r},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="https://gdpr.privacymanager.io/1.0.10/",n(n.s=2)}({2:function(e,t){!function(){if("function"!=typeof window.__tcfapi){var e,t=[],n=window,r=n.document,a=n.__tcfapi?n.__tcfapi.start:function(){};!n.__tcfapi&&function e(){var t=!!n.frames.__tcfapiLocator;if(!t)if(r.body){var a=r.createElement("iframe");a.style.cssText="display:none",a.name="__tcfapiLocator",r.body.appendChild(a)}else setTimeout(e,5);return!t}()&&(n.__tcfapi=function(n,r,a,o){var i=[n,r,a,o];if(!i.length)return t;if("setGdprApplies"===i[0])i.length>3&&2===parseInt(i[1],10)&&"boolean"==typeof i[3]&&(e=i[3],"function"==typeof i[2]&&i[2]("set",!0));else if("ping"===i[0]){var c={gdprApplies:e,cmpLoaded:!1,apiVersion:"2.0"};"function"==typeof i[2]&&i[2](c,!0)}else t.push(i)},n.__tcfapi.commandQueue=t,n.__tcfapi.start=a,n.addEventListener("message",(function(e){var t="string"==typeof e.data,r={};try{r=t?JSON.parse(e.data):e.data}catch(e){}var a=r.__tcfapiCall;a&&n.__tcfapi(a.command,a.version,(function(n,r){if(e.source){var o={__tcfapiReturn:{returnValue:n,success:r,callId:a.callId,command:a.command}};t&&(o=JSON.stringify(o)),e.source.postMessage(o,"*")}}),a.parameter)}),!1))}}()}});
+		</script>
+			
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="VB Special Issue: AI and the future of health care" />
+	<meta property="og:description" content="In this issue, we examine how the medical field is using AI and data to tackle the challenges of this extraordinary&nbsp;time" />
+	<meta property="og:url" content="https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/" />
+	<meta property="og:site_name" content="VentureBeat" />
+	<meta property="article:publisher" content="https://www.facebook.com/venturebeat/" />
+	<meta property="article:modified_time" content="2021-03-09T02:36:28+00:00" />
+	<meta property="og:image" content="https://venturebeat.com/wp-content/uploads/2021/01/vb-special-issue-ai-health-care-Header.jpg?w=1200&#038;strip=all" />
+	<meta property="og:image:width" content="5001" />
+	<meta property="og:image:height" content="1668" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="VB Special Issue: AI and the future of health care" />
+	<meta name="twitter:image" content="https://venturebeat.com/wp-content/uploads/2021/01/vb-special-issue-ai-health-care-Header.jpg?w=1200&amp;strip=all" />
+	<meta name="twitter:creator" content="@venturebeat" />
+	<meta name="twitter:site" content="@venturebeat" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//accounts.google.com' />
+<link rel='dns-prefetch' href='//cdn.wallkit.net' />
+<link rel='dns-prefetch' href='//www.gstatic.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+		<script src="https://middycdn-a.akamaihd.net/bootstrap/bootstrap.js" id="browsi-tag" data-pubKey="venturebeat" data-siteKey="venturebeat" async></script>
+		<link rel='stylesheet' id='all-css-0' href='https://venturebeat.com/_static/??-eJyFy0sKAjEQhOELmTRRIm7EsySZBhvzItXjMLc3g+DWZdXPR1s3qVXlqqRPLgx6R1N5A0H3PGdsTaEjdBMD2B7JJuBEfyU6JwnZCLDyz0hNeV1mngctAqWYW3qZLHGEsX+xLVIP8Sh3d3X+cnbe3z4O/D9j' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='firebase-css'  href='https://www.gstatic.com/firebasejs/ui/4.5.1/firebase-ui-auth.css?ver=5.7' media='all' />
+<link rel="https://api.w.org/" href="https://venturebeat.com/wp-json/" /><link rel="alternate" type="application/json" href="https://venturebeat.com/wp-json/wp/v2/pages/2664495" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://venturebeat.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://venturebeat.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7" />
+<link rel='shortlink' href='https://wp.me/P8wLEc-bb9J' />
+<link rel="alternate" type="application/json+oembed" href="https://venturebeat.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fventurebeat.com%2Fvb-special-issue-ai-and-the-future-of-health-care%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://venturebeat.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fventurebeat.com%2Fvb-special-issue-ai-and-the-future-of-health-care%2F&#038;format=xml" />
+			<meta property="fb:pages" content="7419689078" />
+			<style type='text/css'>img#wpstats{display:none}</style><meta name="description" content="In this issue, we examine how the medical field is using AI and data to tackle the challenges of this extraordinary&nbsp;time"><meta property="fb:pages" content="7419689078"><link rel="shortcut icon" type="image/x-icon" href="https://venturebeat.com/wp-content/themes/vb-news/img/favicon.ico" />		<script type="text/javascript">
+			var vbSettings = {"property":"VBNews","infinitePostInjection":{"start":2,"offset":5}};
+		</script>
+					<script type="text/javascript">
+				var vb_page_info = {"title":"VB Special Issue: AI and the future of health care | VentureBeat","url":"venturebeat.com\/vb-special-issue-ai-and-the-future-of-health-care\/","post_id":2664495,"page_type":"page","is_mobile":false,"is_tablet":false,"is_forum":false,"ad_load":"normal","dfp_enabled":true};
+			</script>
+			<style type="text/css">.vb-ad-leaderboard {}

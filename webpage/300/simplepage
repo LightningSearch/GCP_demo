@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html>
+<title>
+NVIDIA Achieves Breakthroughs in Language Understanding to Enable Real-Time Conversational AI | NVIDIA Newsroom 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+<!--[if lt IE 7]> <![endif]-- > <!--[if IE 7]> <![endif]-- > <!--[if IE 8]> <![endif]-- > <!--[if gt IE 8]> <!--<![endif]-- > <!--[if lte IE 8]> <![endif]-- > --> PLATFORMS Autonomous Machines Cloud & Data Center Deep Learning & Ai Design & Pro Visualization Healthcare High Performance Computing Self-Driving Cars Gaming & Entertainment other links Developers Industries Shop Drivers Support About NVIDIA View All Products GPU TECHNOLOGY CONFERENCE NVIDIA Blog Community Careers TECHNOLOGIES Newsroom Multimedia Executive Bios Media Contacts In the News NVIDIA Blog AI Podcast Multimedia Executive Bios Media Contacts In the News NVIDIA Blog AI Podcast Press Release Share NVIDIA Achieves Breakthroughs in Language Understanding to Enable Real-Time Conversational AI Trains BERT in Record-Setting 53 Minutes and Slashes Inference to 2 Milliseconds; Enables Microsoft, Others to Use State-of-the-Art Language Understanding in Large-Scale Applications Tuesday, August 13, 2019 Conversational AI will improve applications in many fields including&nbsp;retail, customer service, automotive and banking.&nbsp; NVIDIA today announced breakthroughs in language understanding that allow businesses to engage more naturally with customers using real-time conversational AI. NVIDIA&#39;s AI platform is the first to train one of the most advanced AI language models &mdash; &nbsp;BERT &mdash; &nbsp;in less than an hour and complete AI inference in just over 2 milliseconds. This groundbreaking level of performance makes it possible for developers to use state-of-the-art language understanding for large-scale applications they can make available to hundreds of millions of consumers worldwide. Early adopters of NVIDIA&#39;s performance advances include Microsoft and some of the world&#39;s most innovative startups, which are harnessing NVIDIA&#39;s platform to develop highly intuitive, immediately responsive language-based services for their customers.&nbsp; Limited conversational AI services have existed for several years. But until this point, it has been extremely difficult for chatbots, intelligent personal assistants and search engines to operate with human-level comprehension due to the inability to deploy extremely large AI models in real time. NVIDIA has addressed this problem by adding key optimizations to its AI platform &mdash; &nbsp;achieving speed records in AI training and inference and building the largest language model of its kind to date. &quot;Large language models are revolutionizing AI for natural language,&quot; said Bryan Catanzaro, vice president of Applied Deep Learning Research at NVIDIA. &quot;They are helping us solve exceptionally difficult language problems, bringing us closer to the goal of truly conversational AI. NVIDIA&#39;s groundbreaking work accelerating these models allows organizations to create new, state-of-the-art services that can assist and delight their customers in ways never before imagined.&quot; Fastest Training, Fastest Inference, Largest Model AI services powered by natural language understanding are expected to grow exponentially in the coming years. Digital voice assistants alone are anticipated to climb from 2.5 billion to 8 billion within the next four years, according to Juniper Research . Additionally, Gartner predicts, by 2021, 15% of all customer service interactions will be completely handled by AI, an increase of 400% from 2017. 1 Helping lead this new era, NVIDIA has fine-tuned its AI platform with key optimizations that have resulted in three new natural language understanding performance records: Fastest training: Running the large version of one of the world&#39;s most advanced AI language models&nbsp; &mdash; &nbsp;Bidirectional Encoder Representations from Transformers (BERT) &mdash; &nbsp;an NVIDIA DGX SuperPOD&trade; using 92 NVIDIA DGX-2H&trade; systems running 1,472 NVIDIA V100 GPUs slashed the typical training time for BERT-Large from several days to just 53 minutes. Additionally, NVIDIA trained BERT-Large on just one NVIDIA DGX-2 system in 2.8 days - demonstrating NVIDIA GPUs&#39; scalability for conversational AI. Fastest inference: Using NVIDIA T4 GPUs running NVIDIA TensorRT&trade;, NVIDIA performed inference on the BERT-Base SQuAD dataset in only 2.2 milliseconds - well under the 10-millisecond processing threshold for many real-time applications, and a sharp improvement from over 40 milliseconds measured with highly optimized CPU code. Largest model: With a focus on developers&#39; ever-increasing need for larger models, NVIDIA Research built and trained the world&#39;s largest language model based on Transformers, the technology building block used for BERT and a growing number of other natural language AI models. NVIDIA&#39;s custom model, with 8.3 billion parameters, is 24 times the size of BERT-Large. Ecosystem Adoption Hundreds of developers worldwide are already using NVIDIA&#39;s AI platform to advance their own language understanding research and create new services. Microsoft Bing is using the power of its Azure AI platform and NVIDIA technology to run BERT and drive more accurate search results. &quot;Microsoft Bing relies on the most advanced AI models and computing platform to deliver the best global search experience possible for our customers,&quot; said Rangan Majumder, group program manager, Microsoft Bing. &quot;In close collaboration with NVIDIA, Bing further optimized the inferencing of the popular natural language model BERT using NVIDIA GPUs, part of Azure AI infrastructure, which led to the largest improvement in ranking search quality Bing deployed in the last year. We achieved two times the latency reduction and five times throughput improvement during inference using Azure NVIDIA GPUs compared with a CPU-based platform, enabling Bing to offer a more relevant, cost-effective, real-time search experience for all our customers globally.&quot; Several startups in NVIDIA&#39;s Inception program , including Clinc, Passage AI and Recordsure, are also using NVIDIA&#39;s AI platform to build cutting-edge conversational AI services for banks, car manufacturers, retailers, healthcare providers, travel and hospitality companies, and more. Clinc has made NVIDIA GPU-enabled conversational AI solutions accessible to more than 30 million people globally through a customer roster that includes leading car manufacturers, healthcare organizations and some of the world&#39;s leading financial institutions, including Barclays, USAA and Turkey&#39;s largest bank, Isbank.&nbsp; &quot;Clinc&#39;s leading AI platform understands complex questions and transforms them into powerful, actionable insights for the world&#39;s leading brands,&quot; said Jason Mars, CEO of Clinc. &quot;The breakthrough performance that NVIDIA&#39;s AI platform provides has allowed us to push the boundaries of conversational AI and deliver revolutionary services that help our customers use technology to engage with their customers in powerful, more meaningful ways.&quot; Optimizations Available Today NVIDIA has made the software optimizations used to accomplish these breakthroughs in conversational AI available to developers: NVIDIA GitHub BERT training code with PyTorch * NGC model scripts and check-points for TensorFlow TensorRT optimized BERT Sample on GitHub Faster Transformer :&nbsp; C++ API, TensorRT plugin, and TensorFlow OP MXNet Gluon-NLP with AMP support for BERT (training and inference) TensorRT optimized BERT Jupyter notebook on AI Hub Megatron-LM : PyTorch code for training massive Transformer models *NVIDIA&rsquo;s implementation of BERT is an optimized version of the popular Hugging Face repo Additional Resources NVIDIA video: What&rsquo;s Next in Conversational AI NVIDIA Developer Blog:&nbsp; NVIDIA Clocks World&rsquo;s Fastest BERT Training Time and Largest Transformer Based Model Ever, Paving Path For Advanced Conversational AI NVIDIA Developer Blog: Real-Time Natural Language Understanding with BERT using TensorRT NVIDIA Applied Deep Learning Blog: MegatronLM: Training Billion+ Parameter Language Models Using GPU Model Parallelism Keep Current on NVIDIA Subscribe to the NVIDIA blog , follow us on Facebook , Twitter , LinkedIn and Instagram , and view NVIDIA videos on YouTube and images on Flickr . About NVIDIA NVIDIA &lsquo;s (NASDAQ: NVDA) invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI &mdash; the next era of computing &mdash; with the GPU acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. More information at http://nvidianews.nvidia.com/ . Certain statements in this press release including, but not limited to, statements as to: NVIDIA achieving real-time breakthroughs in language understanding enabling real-time conversational AI and allowing businesses to engage more naturally with customers using real-time AI; the performance, impact and benefit of NVIDIA&rsquo;s technologies, NVIDIA&rsquo;s AI platform and BERT; NVIDIA&rsquo;s AI platform making it possible for developers to use language understanding for large-scale applications that they can make available to consumers worldwide; early adopters harnessing NVIDIA&rsquo;s platform to develop highly intuitive, responsive language-based services for their customers; NVIDIA achieving speed records in AI training and inference and building the largest language model of its kind to date; large language models revolutionizing AI for natural language, helping to solve language problems, and bringing us closer to conversational AI; NVIDIA&rsquo;s work accelerating models to create services that can assist customers in ways never before imagined; the expectation that AI services using natural language growing exponentially; the expected growth of digital voice assistants and the predicted growth of customer service interactions to be handled by AI; hundreds of developers using NVIDIA&rsquo;s AI platform to advance their research and create new services; Microsoft Bing using NVIDIA technology to run BERT and drive more accurate search results; NVIDIA and Microsoft collaborating to optimize Bing, and its benefits, impact and performance; startups using NVIDIA&rsquo;s AI platform to build cutting-edge AI services; NVIDIA&rsquo;s AI platform allowing Clinc to push the boundaries of conversation AI and deliver revolutionary services that help customers and engage them in new ways; and the availability of NVIDIA&rsquo;s code for BERT optimizations are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners&rsquo; products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company&rsquo;s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. &copy; 2019 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, NVIDIA DGX, NVIDIA DGX SuperPOD and TensorRT are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. A video accompanying this announcement&nbsp;is available at: https://www.globenewswire.com/NewsRoom/AttachmentNg/47a4da55-e11b-4cf2-9424-909941cf556b Media Contacts Kristin Bryson Enterprise Data Center, AI/DL +1-203-241-9190 kbryson@nvidia.com Downloads Download Press Release Download Attachments More Images Conversational AI Conversational AI will improve applications in many fields including&nbsp;retail, customer service, automotive and banking.&nbsp; Download / File Link Conversational AI will improve applications in many fields including retail, customer service, automotive and banking.  NVIDIA T4 GPU Download / File Link NVIDIA DGX SuperPOD Download / File Link More News NVIDIA CEO Jensen Huang to Host AI Pioneers Yoshua Bengio, Geoffrey Hinton and Yann LeCun, and Others, at GTC21 Tuesday, March 9, 2021 NVIDIA Unveils AI Enterprise Software Suite to Help Every Industry Unlock the Power of AI Tuesday, March 9, 2021 NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2021 Wednesday, February 24, 2021 NVIDIA Announces Upcoming Events for Financial Community Wednesday, February 17, 2021 NVIDIA Sets Conference Call for Fourth-Quarter Financial Results Wednesday, February 3, 2021 About NVIDIA NVIDIA &lsquo;s (NASDAQ: NVDA) invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI &mdash; the next era of computing &mdash; with the GPU acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. More information at http://nvidianews.nvidia.com/ . Certain statements in this press release including, but not limited to, statements as to: NVIDIA achieving real-time breakthroughs in language understanding enabling real-time conversational AI and allowing businesses to engage more naturally with customers using real-time AI; the performance, impact and benefit of NVIDIA&rsquo;s technologies, NVIDIA&rsquo;s AI platform and BERT; NVIDIA&rsquo;s AI platform making it possible for developers to use language understanding for large-scale applications that they can make available to consumers worldwide; early adopters harnessing NVIDIA&rsquo;s platform to develop highly intuitive, responsive language-based services for their customers; NVIDIA achieving speed records in AI training and inference and building the largest language model of its kind to date; large language models revolutionizing AI for natural language, helping to solve language problems, and bringing us closer to conversational AI; NVIDIA&rsquo;s work accelerating models to create services that can assist customers in ways never before imagined; the expectation that AI services using natural language growing exponentially; the expected growth of digital voice assistants and the predicted growth of customer service interactions to be handled by AI; hundreds of developers using NVIDIA&rsquo;s AI platform to advance their research and create new services; Microsoft Bing using NVIDIA technology to run BERT and drive more accurate search results; NVIDIA and Microsoft collaborating to optimize Bing, and its benefits, impact and performance; startups using NVIDIA&rsquo;s AI platform to build cutting-edge AI services; NVIDIA&rsquo;s AI platform allowing Clinc to push the boundaries of conversation AI and deliver revolutionary services that help customers and engage them in new ways; and the availability of NVIDIA&rsquo;s code for BERT optimizations are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners&rsquo; products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company&rsquo;s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. &copy; 2019 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, NVIDIA DGX, NVIDIA DGX SuperPOD and TensorRT are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. A video accompanying this announcement&nbsp;is available at: https://www.globenewswire.com/NewsRoom/AttachmentNg/47a4da55-e11b-4cf2-9424-909941cf556b Media Contacts Global contacts for media inquiries. All Contacts Stay Informed Newsroom updates delivered to your inbox. Subscribe Platforms CUDA-X Autonomous Machines Cloud &amp; Data Center Deep Learning &amp; AI Design and Visualization Healthcare & Life Sciences <g class="gr_ gr_13 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" id="13" data-gr-id="13"> High Performance Computing Self-Driving Cars Gaming &amp; Entertainment NGC Products DGX Systems DRIVE PX GeForce RTX 20-Series NVIDIA Virtual GPU Jetson Quadro SHIELD TV Tesla T4 Enterprise Server Developers NVIDIA Developer Developer News Developer Blog Developer Forums Open Source Portal Training GPU Tech Conference CUDA Corporate NVIDIA Partner Network Careers Contact Us Security Communities NVIDIA Blog Email Signup Privacy Center SIGN UP FOR NVIDIA NEWS Subscribe Follow NVIDIA <!--<img class="global-footer__region__icon" src="/etc/designs/nvidiaGDC/clientlibs_base/images/country-selector/us.png" />--> USA - United States Privacy Policy Legal Info Contact Us Copyright © 2021 NVIDIA Corporation NVIDIA websites use cookies to deliver and improve the website experience. See our cookie policy for further details on how we use cookies and how to change your cookie settings. Accept 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="https://www.nvidia.com">https://www.nvidia.com</a> ( )
+</p>
+<p>
+<a href="#">#</a> ( )
+</p>
+<p>
+<a href="/search">/search</a> ( )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/autonomous-machines/">https://www.nvidia.com/en-us/autonomous-machines/</a> ( Autonomous Machines )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/data-center/">https://www.nvidia.com/en-us/data-center/</a> ( Cloud & Data Center )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/deep-learning-ai/">https://www.nvidia.com/en-us/deep-learning-ai/</a> ( Deep Learning & Ai )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/design-visualization/">https://www.nvidia.com/en-us/design-visualization/</a> ( Design & Pro Visualization )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/healthcare/">https://www.nvidia.com/en-us/healthcare/</a> ( Healthcare )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/high-performance-computing/">https://www.nvidia.com/en-us/high-performance-computing/</a> ( High Performance Computing )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/self-driving-cars/">https://www.nvidia.com/en-us/self-driving-cars/</a> ( Self-Driving Cars )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/geforce/">https://www.nvidia.com/en-us/geforce/</a> ( Gaming & Entertainment )
+</p>
+<p>
+<a href="https://developer.nvidia.com/">https://developer.nvidia.com/</a> ( Developers )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/industries/">https://www.nvidia.com/en-us/industries/</a> ( Industries )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/shop/">https://www.nvidia.com/en-us/shop/</a> ( Shop )
+</p>
+<p>
+<a href="https://www.nvidia.com/Download/index.aspx?lang=en-us">https://www.nvidia.com/Download/index.aspx?lang=en-us</a> ( Drivers )
+</p>
+<p>
+<a href="https://www.nvidia.com/object/support.html">https://www.nvidia.com/object/support.html</a> ( Support )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/about-nvidia/">https://www.nvidia.com/en-us/about-nvidia/</a> ( About NVIDIA )
+</p>
+<p>
+<a href="https://www.nvidia.com/page/products.html">https://www.nvidia.com/page/products.html</a> ( View All Products )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/gtc/">https://www.nvidia.com/en-us/gtc/</a> ( GPU TECHNOLOGY CONFERENCE )
+</p>
+<p>
+<a href="https://blogs.nvidia.com/">https://blogs.nvidia.com/</a> ( NVIDIA Blog )
+</p>
+<p>
+<a href="https://www.nvidia.com/object/nvidia-communities.html">https://www.nvidia.com/object/nvidia-communities.html</a> ( Community )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/about-nvidia/careers/">https://www.nvidia.com/en-us/about-nvidia/careers/</a> ( Careers )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/technologies/">https://www.nvidia.com/en-us/technologies/</a> ( TECHNOLOGIES )
+</p>
+<p>
+<a href="/">/</a> ( Newsroom )
+</p>
+<p>
+<a href="/multimedia">/multimedia</a> ( Multimedia )
+</p>
+<p>
+<a href="/bios">/bios</a> ( Executive Bios )
+</p>
+<p>
+<a href="/contacts">/contacts</a> ( Media Contacts )
+</p>
+<p>
+<a href="/in-the-news">/in-the-news</a> ( In the News )
+</p>
+<p>
+<a href="https://blogs.nvidia.com/">https://blogs.nvidia.com/</a> ( NVIDIA Blog )
+</p>
+<p>
+<a href="https://blogs.nvidia.com/ai-podcast/">https://blogs.nvidia.com/ai-podcast/</a> ( AI Podcast )
+</p>
+<p>
+<a href="/multimedia">/multimedia</a> ( Multimedia )
+</p>
+<p>
+<a href="/bios">/bios</a> ( Executive Bios )
+</p>
+<p>
+<a href="/contacts">/contacts</a> ( Media Contacts )
+</p>
+<p>
+<a href="/in-the-news">/in-the-news</a> ( In the News )
+</p>
+<p>
+<a href="https://blogs.nvidia.com/">https://blogs.nvidia.com/</a> ( NVIDIA Blog )
+</p>
+<p>
+<a href="https://blogs.nvidia.com/ai-podcast/">https://blogs.nvidia.com/ai-podcast/</a> ( AI Podcast )
+</p>
+<p>
+<a href="http://cms.ipressroom.com.s3.amazonaws.com/219/files/201908/de7e142e-a107-405b-a3a9-332d5a1afd33">http://cms.ipressroom.com.s3.amazonaws.com/219/files/201908/de7e142e-a107-405b-a3a9-332d5a1afd33</a> ( )
+</p>
+<p>
+<a href="https://www.juniperresearch.com/press/press-releases/digital-voice-assistants-in-use-to-triple">https://www.juniperresearch.com/press/press-releases/digital-voice-assistants-in-use-to-triple</a> ( Juniper Research )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/deep-learning-ai/startups/">https://www.nvidia.com/en-us/deep-learning-ai/startups/</a> ( Inception program )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT">https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT</a> ( BERT training code with )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT">https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT</a> ( PyTorch )
+</p>
+<p>
+<a href="https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/quickStartGuide">https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/quickStartGuide</a> ( model scripts )
+</p>
+<p>
+<a href="https://ngc.nvidia.com/catalog/models/nvidia:bert_for_tensorflow">https://ngc.nvidia.com/catalog/models/nvidia:bert_for_tensorflow</a> ( check-points )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/">https://github.com/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/</a> ( TensorRT )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/">https://github.com/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/</a> ( optimized BERT Sample )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer">https://github.com/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer</a> ( Faster Transformer )
+</p>
+<p>
+<a href="https://gluon-nlp.mxnet.io/model_zoo/bert/index.html">https://gluon-nlp.mxnet.io/model_zoo/bert/index.html</a> ( MXNet Gluon-NLP )
+</p>
+<p>
+<a href="https://aihub.cloud.google.com/p/products%2F86c3b511-b604-48a5-8e19-0de5023ef057">https://aihub.cloud.google.com/p/products%2F86c3b511-b604-48a5-8e19-0de5023ef057</a> ( TensorRT optimized BERT )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/Megatron-LM">https://github.com/NVIDIA/Megatron-LM</a> ( Megatron-LM )
+</p>
+<p>
+<a href="https://github.com/huggingface/pytorch-transformers">https://github.com/huggingface/pytorch-transformers</a> ( Hugging Face )
+</p>
+<p>
+<a href="https://www.youtube.com/watch?v=Wxi_fbQxCM0&amp;feature=youtu.be">https://www.youtube.com/watch?v=Wxi_fbQxCM0&amp;feature=youtu.be</a> ( What&rsquo;s Next in Conversational AI )
+</p>
+<p>
+<a href="https://devblogs.nvidia.com/training-bert-with-gpus/">https://devblogs.nvidia.com/training-bert-with-gpus/</a> ( NVIDIA Clocks World&rsquo;s Fastest BERT Training Time and Largest Transformer Based Model Ever, Paving Path For Advanced Conversational AI )
+</p>
+<p>
+<a href="https://devblogs.nvidia.com/nlu-with-tensorrt-bert/">https://devblogs.nvidia.com/nlu-with-tensorrt-bert/</a> ( Real-Time Natural Language Understanding with BERT using TensorRT )
+</p>
+<p>
+<a href="https://nv-adlr.github.io/MegatronLM">https://nv-adlr.github.io/MegatronLM</a> ( MegatronLM: Training Billion+ Parameter Language Models Using GPU Model Parallelism )
+</p>
+<p>
+<a href="http://blogs.nvidia.com/">http://blogs.nvidia.com/</a> ( NVIDIA blog )
+</p>
+<p>
+<a href="https://www.facebook.com/NVIDIA">https://www.facebook.com/NVIDIA</a> ( Facebook )
+</p>
+<p>
+<a href="https://twitter.com/nvidia">https://twitter.com/nvidia</a> ( Twitter )
+</p>
+<p>
+<a href="http://www.linkedin.com/company/nvidia">http://www.linkedin.com/company/nvidia</a> ( LinkedIn )
+</p>
+<p>
+<a href="https://www.instagram.com/nvidia/">https://www.instagram.com/nvidia/</a> ( Instagram )
+</p>
+<p>
+<a href="https://www.youtube.com/user/nvidia">https://www.youtube.com/user/nvidia</a> ( YouTube )
+</p>
+<p>
+<a href="https://www.flickr.com/photos/nvidia">https://www.flickr.com/photos/nvidia</a> ( Flickr )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/">https://www.nvidia.com/en-us/</a> ( NVIDIA )
+</p>
+<p>
+<a href="https://nvidianews.nvidia.com/">https://nvidianews.nvidia.com/</a> ( http://nvidianews.nvidia.com/ )
+</p>
+<p>
+<a href="https://www.globenewswire.com/NewsRoom/AttachmentNg/47a4da55-e11b-4cf2-9424-909941cf556b">https://www.globenewswire.com/NewsRoom/AttachmentNg/47a4da55-e11b-4cf2-9424-909941cf556b</a> ( https://www.globenewswire.com/NewsRoom/AttachmentNg/47a4da55-e11b-4cf2-9424-909941cf556b )
+</p>
+<p>
+<a href="mailto:kbryson@nvidia.com">mailto:kbryson@nvidia.com</a> ( kbryson@nvidia.com )
+</p>
+<p>
+<a href="/_gallery/download_pdf/5d52b9d6ed6ae57ef18942b6/">/_gallery/download_pdf/5d52b9d6ed6ae57ef18942b6/</a> ( Download Press Release )
+</p>
+<p>
+<a href="/_gallery/get_files?page_id=5d52b9d6ed6ae57ef18942b6&include=pdf">/_gallery/get_files?page_id=5d52b9d6ed6ae57ef18942b6&include=pdf</a> ( Download Attachments )
+</p>
+<p>
+<a href="/file?fid=5d52b9c9ed6ae57ef18942b4">/file?fid=5d52b9c9ed6ae57ef18942b4</a> ( )
+</p>
+<p>
+<a href="/_gallery/get_file/?file_id=5d52b9c9ed6ae57ef18942b4">/_gallery/get_file/?file_id=5d52b9c9ed6ae57ef18942b4</a> ( Download / File Link )
+</p>
+<p>
+<a href="https://s3.amazonaws.com/cms.ipressroom.com/219/files/201908/5d52b9c9ed6ae57ef18942b4_de7e142e-a107-405b-a3a9-332d5a1afd3/de7e142e-a107-405b-a3a9-332d5a1afd3_mid.jpg">https://s3.amazonaws.com/cms.ipressroom.com/219/files/201908/5d52b9c9ed6ae57ef18942b4_de7e142e-a107-405b-a3a9-332d5a1afd3/de7e142e-a107-405b-a3a9-332d5a1afd3_mid.jpg</a> ( )
+</p>
+<p>
+<a href="/_gallery/get_file/?file_id=5d52b9c9ed6ae57ef18942b4">/_gallery/get_file/?file_id=5d52b9c9ed6ae57ef18942b4</a> ( )
+</p>
+<p>
+<a href="/file?fid=5b99d92a2cfac2466b59ce71">/file?fid=5b99d92a2cfac2466b59ce71</a> ( )
+</p>
+<p>
+<a href="/_gallery/get_file/?file_id=5b99d92a2cfac2466b59ce71">/_gallery/get_file/?file_id=5b99d92a2cfac2466b59ce71</a> ( Download / File Link )
+</p>
+<p>
+<a href="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20188/5b99d92a2cfac2466b59ce71_T4-GPU/T4-GPU_mid.jpg">https://s3.amazonaws.com/cms.ipressroom.com/219/files/20188/5b99d92a2cfac2466b59ce71_T4-GPU/T4-GPU_mid.jpg</a> ( )
+</p>
+<p>
+<a href="/_gallery/get_file/?file_id=5b99d92a2cfac2466b59ce71">/_gallery/get_file/?file_id=5b99d92a2cfac2466b59ce71</a> ( )
+</p>
+<p>
+<a href="/file?fid=5d51ac582cfac27cc4e33f76">/file?fid=5d51ac582cfac27cc4e33f76</a> ( )
+</p>
+<p>
+<a href="/_gallery/get_file/?file_id=5d51ac582cfac27cc4e33f76">/_gallery/get_file/?file_id=5d51ac582cfac27cc4e33f76</a> ( Download / File Link )
+</p>
+<p>
+<a href="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20197/5d51ac582cfac27cc4e33f76_NVIDIA+DGX+SuperPOD/NVIDIA+DGX+SuperPOD_mid.jpg">https://s3.amazonaws.com/cms.ipressroom.com/219/files/20197/5d51ac582cfac27cc4e33f76_NVIDIA+DGX+SuperPOD/NVIDIA+DGX+SuperPOD_mid.jpg</a> ( )
+</p>
+<p>
+<a href="/_gallery/get_file/?file_id=5d51ac582cfac27cc4e33f76">/_gallery/get_file/?file_id=5d51ac582cfac27cc4e33f76</a> ( )
+</p>
+<p>
+<a href="/news/nvidia-ceo-jensen-huang-to-host-ai-pioneers-yoshua-bengio-geoffrey-hinton-and-yann-lecun-and-others-at-gtc21">/news/nvidia-ceo-jensen-huang-to-host-ai-pioneers-yoshua-bengio-geoffrey-hinton-and-yann-lecun-and-others-at-gtc21</a> ( NVIDIA CEO Jensen Huang to Host AI Pioneers Yoshua Bengio, Geoffrey Hinton and Yann LeCun, and Others, at GTC21 )
+</p>
+<p>
+<a href="/news/nvidia-unveils-ai-enterprise-software-suite-to-help-every-industry-unlock-the-power-of-ai">/news/nvidia-unveils-ai-enterprise-software-suite-to-help-every-industry-unlock-the-power-of-ai</a> ( NVIDIA Unveils AI Enterprise Software Suite to Help Every Industry Unlock the Power of AI )
+</p>
+<p>
+<a href="/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2021">/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2021</a> ( NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2021 )
+</p>
+<p>
+<a href="/news/nvidia-announces-upcoming-events-for-financial-community-6833969">/news/nvidia-announces-upcoming-events-for-financial-community-6833969</a> ( NVIDIA Announces Upcoming Events for Financial Community )
+</p>
+<p>
+<a href="/news/nvidia-sets-conference-call-for-fourth-quarter-financial-results-6832142">/news/nvidia-sets-conference-call-for-fourth-quarter-financial-results-6832142</a> ( NVIDIA Sets Conference Call for Fourth-Quarter Financial Results )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/">https://www.nvidia.com/en-us/</a> ( NVIDIA )
+</p>
+<p>
+<a href="https://nvidianews.nvidia.com/">https://nvidianews.nvidia.com/</a> ( http://nvidianews.nvidia.com/ )
+</p>
+<p>
+<a href="https://www.globenewswire.com/NewsRoom/AttachmentNg/47a4da55-e11b-4cf2-9424-909941cf556b">https://www.globenewswire.com/NewsRoom/AttachmentNg/47a4da55-e11b-4cf2-9424-909941cf556b</a> ( https://www.globenewswire.com/NewsRoom/AttachmentNg/47a4da55-e11b-4cf2-9424-909941cf556b )
+</p>
+<p>
+<a href="/contacts">/contacts</a> ( All Contacts )
+</p>
+<p>
+<a href="/alerts">/alerts</a> ( Subscribe )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/technologies/cuda-x/">https://www.nvidia.com/en-us/technologies/cuda-x/</a> ( CUDA-X )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/autonomous-machines/">https://www.nvidia.com/en-us/autonomous-machines/</a> ( Autonomous Machines )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/data-center/">https://www.nvidia.com/en-us/data-center/</a> ( Cloud &amp; Data Center )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/deep-learning-ai/">https://www.nvidia.com/en-us/deep-learning-ai/</a> ( Deep Learning &amp; AI )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/design-visualization/">https://www.nvidia.com/en-us/design-visualization/</a> ( Design and Visualization )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/healthcare/">https://www.nvidia.com/en-us/healthcare/</a> ( Healthcare & Life Sciences )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/high-performance-computing/">https://www.nvidia.com/en-us/high-performance-computing/</a> ( <g class="gr_ gr_13 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" id="13" data-gr-id="13"> High Performance Computing )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/self-driving-cars/">https://www.nvidia.com/en-us/self-driving-cars/</a> ( Self-Driving Cars )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/geforce/">https://www.nvidia.com/en-us/geforce/</a> ( Gaming &amp; Entertainment )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/gpu-cloud/">https://www.nvidia.com/en-us/gpu-cloud/</a> ( NGC )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/data-center/dgx-systems/">https://www.nvidia.com/en-us/data-center/dgx-systems/</a> ( DGX Systems )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/self-driving-cars/drive-platform/">https://www.nvidia.com/en-us/self-driving-cars/drive-platform/</a> ( DRIVE PX )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/geforce/20-series/">https://www.nvidia.com/en-us/geforce/20-series/</a> ( GeForce RTX 20-Series )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/data-center/virtualization/">https://www.nvidia.com/en-us/data-center/virtualization/</a> ( NVIDIA Virtual GPU )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/">https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/</a> ( Jetson )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/design-visualization/quadro/">https://www.nvidia.com/en-us/design-visualization/quadro/</a> ( Quadro )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/shield/shield-tv/">https://www.nvidia.com/en-us/shield/shield-tv/</a> ( SHIELD TV )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/data-center/tesla/">https://www.nvidia.com/en-us/data-center/tesla/</a> ( Tesla )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/data-center/products/enterprise-server/">https://www.nvidia.com/en-us/data-center/products/enterprise-server/</a> ( T4 Enterprise Server )
+</p>
+<p>
+<a href="https://developer.nvidia.com/">https://developer.nvidia.com/</a> ( NVIDIA Developer )
+</p>
+<p>
+<a href="https://news.developer.nvidia.com/">https://news.developer.nvidia.com/</a> ( Developer News )
+</p>
+<p>
+<a href="https://devblogs.nvidia.com/">https://devblogs.nvidia.com/</a> ( Developer Blog )
+</p>
+<p>
+<a href="https://devtalk.nvidia.com/">https://devtalk.nvidia.com/</a> ( Developer Forums )
+</p>
+<p>
+<a href="https://developer.nvidia.com/open-source/">https://developer.nvidia.com/open-source/</a> ( Open Source Portal )
+</p>
+<p>
+<a href="https://developer.nvidia.com/training/">https://developer.nvidia.com/training/</a> ( Training )
+</p>
+<p>
+<a href="https://www.gputechconf.com">https://www.gputechconf.com</a> ( GPU Tech Conference )
+</p>
+<p>
+<a href="https://developer.nvidia.com/cuda-zone/">https://developer.nvidia.com/cuda-zone/</a> ( CUDA )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/about-nvidia/partners/">https://www.nvidia.com/en-us/about-nvidia/partners/</a> ( NVIDIA Partner Network )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/about-nvidia/careers/">https://www.nvidia.com/en-us/about-nvidia/careers/</a> ( Careers )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/contact/">https://www.nvidia.com/en-us/contact/</a> ( Contact Us )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/product-security/">https://www.nvidia.com/en-us/product-security/</a> ( Security )
+</p>
+<p>
+<a href="https://www.nvidia.com/object/nvidia-communities.html">https://www.nvidia.com/object/nvidia-communities.html</a> ( Communities )
+</p>
+<p>
+<a href="https://blogs.nvidia.com/">https://blogs.nvidia.com/</a> ( NVIDIA Blog )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/preferences/email-signup/">https://www.nvidia.com/en-us/preferences/email-signup/</a> ( Email Signup )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/privacy-center/">https://www.nvidia.com/en-us/privacy-center/</a> ( Privacy Center )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/preferences/email-signup/">https://www.nvidia.com/en-us/preferences/email-signup/</a> ( Subscribe )
+</p>
+<p>
+<a href="https://www.facebook.com/NVIDIA">https://www.facebook.com/NVIDIA</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/nvidia">https://twitter.com/nvidia</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/company/nvidia">https://www.linkedin.com/company/nvidia</a> ( )
+</p>
+<p>
+<a href="https://www.instagram.com/nvidia/?hl=en">https://www.instagram.com/nvidia/?hl=en</a> ( )
+</p>
+<p>
+<a href="https://www.youtube.com/user/nvidia">https://www.youtube.com/user/nvidia</a> ( )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/location-selector/">https://www.nvidia.com/en-us/location-selector/</a> ( <!--<img class="global-footer__region__icon" src="/etc/designs/nvidiaGDC/clientlibs_base/images/country-selector/us.png" />--> USA - United States )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/about-nvidia/privacy-policy/">https://www.nvidia.com/en-us/about-nvidia/privacy-policy/</a> ( Privacy Policy )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/about-nvidia/legal-info/">https://www.nvidia.com/en-us/about-nvidia/legal-info/</a> ( Legal Info )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/contact/">https://www.nvidia.com/en-us/contact/</a> ( Contact Us )
+</p>
+<p>
+<a href="https://www.nvidia.com/en-us/about-nvidia/cookie-policy/">https://www.nvidia.com/en-us/about-nvidia/cookie-policy/</a> ( cookie policy )
+</p>
+</body>
+</html>

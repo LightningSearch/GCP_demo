@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+<title>
+Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks | VentureBeat Profile 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+<!--[if lt IE 7]> <![endif]-- > <!--[if IE 7]> <![endif]-- > <!--[if IE 8]> <![endif]-- > <!--[if gt IE 8]> <!--<![endif]-- > <!--[if lt IE 9]> <![endif]-- > The Machine GamesBeat Jobs Special Issue Account Settings Log Out Become a Member Sign In Making sense of AI <g > <path fill-rule="evenodd" clip-rule="evenodd" d="M14.965 14.255H15.755L20.745 19.255L19.255 20.745L14.255 15.755V14.965L13.985 14.685C12.84515.665 11.365 16.255 9.755 16.255C6.16504 16.255 3.255 13.345 3.255 9.755C3.255 6.16501 6.16504 3.255 9.755 3.255C13.345 3.255 16.255 6.16501 16.255 9.755C16.255 11.365 15.665 12.845 14.6851 13.985L14.965 14.255ZM5.255 9.755C5.255 12.245 7.26501 14.255 9.755 14.255C12.245 14.255 14.255 12.245 14.255 9.755C14.255 7.26501 12.245 5.255 9.755 5.255C7.26501 5.255 5.255 7.26501 5.255 9.755Z" /> <g > <path fill-rule="evenodd" clip-rule="evenodd" d="M14.965 14.255H15.755L20.745 19.255L19.255 20.745L14.255 15.755V14.965L13.985 14.685C12.84515.665 11.365 16.255 9.755 16.255C6.16504 16.255 3.255 13.345 3.255 9.755C3.255 6.16501 6.16504 3.255 9.755 3.255C13.345 3.255 16.255 6.16501 16.255 9.755C16.255 11.365 15.665 12.845 14.6851 13.985L14.965 14.255ZM5.255 9.755C5.255 12.245 7.26501 14.255 9.755 14.255C12.245 14.255 14.255 12.245 14.255 9.755C14.255 7.26501 12.245 5.255 9.755 5.255C7.26501 5.255 5.255 7.26501 5.255 9.755Z" /> VentureBeat AR/VR Big Data Cloud Commerce Dev Enterprise Entrepreneur Marketing Media Mobile Security Social Transportation Follow The Machine AI Machine Learning Computer Vision Natural Language Processing Robotic Process Automation Follow GamesBeat Games Esports PC Gaming Follow Events Upcoming Transform Media Partner Webinars General Newsletters Got a news tip? Advertise Press Releases Guest Posts Deals Jobs VB Lab About Contact Privacy Policy &times; Join the VentureBeat Community Free: Join the VentureBeat Community for access to 3 premium posts or videos a month. Learn More Please wait... Share Profile Log Out Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks Kyle Wiggers @Kyle_L_Wiggers May 20, 2019 4:00 AM Finie, an app powered by Clinc, in action. Image Credit: Paul Sawers / VentureBeat Is AI getting used responsibly in health care? AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Register Now Join Transform 2021 for the most important themes in enterprise AI &amp; Data. Learn more . Clinc , a four-year-old AI startup based in Ann Arbor, Michigan, today announced that it’s secured $52 million in series B financing led by Insight Partners, with participation from DFJ Growth and existing investors Drive Capital and Hyde Park Venture Partners. The mammoth round is over eight times the size of the company’s $6.3 million series A in February 2017, and Clinc claims it’s one of the largest single investments in the history of conversational AI. Investors were seemingly won over by Clinc’s growth, which is nothing to shake a stick at, to be sure. Last year, the firm saw a 300% uptick in revenue and expects to more than triple business this year. And Clinc claims its technologies are accessible to over 30 million users via customers such as USAA, Ford, İşbank, Barclays, and others in verticals such as automotive, health care, travel, hospitality, banking, customer service, insurance, and food service. “We’ve had phenomenal growth and built unbelievable momentum in a very short period of time,” said CEO Jason Mars, who’s also an assistant professor of computer science at the University of Michigan. He adds that the capital infusion will enable Clinc to expand its workforce to 140 people by next year and open a new 26,000 square foot office in Ann Arbor. “Now we’re adding more world-class investors to support our growing team as we work to accelerate the pace of innovation and to reshape the conversational AI landscape, one industry at a time.” Clinc’s tech, like Apple’s Siri or Google Assistant, leverages a combination of natural language processing (NLP) engines, machine learning, and deep neural networks to make sense of human speech. It can suss out the semantics, context, intent, and meaning of utterances by analyzing dozens of factors like speech patterns, the company says. And it’s able to parse unstructured speech, enabling it to self-improve over time and recognize follow-up questions it’s never heard before. As Mars explained to VentureBeat in an interview earlier this year, Clinc builds corpa by posing open-ended questions to a large number of native speakers, like “If you could talk to your phone and ask about your personal finances, what would you say?” It treats the responses as “tuner” datasets for real-world use, and so long as the datasets are curated and created in a native language, Clinc can add support for a language with just three to 500 utterances. That’s thousands fewer than are required with traditional, statistical methods. Above: Jason Mars demos financial chatbot Finie made by his company Clinc. Image Credit: Intel Corporation. One of the company’s latest pursuits — its automotive platform, which was announced in September 2018 — is enabling drivers and passengers to control vehicle systems using natural language in Ford’s connected car lab, said Mars. They can make verbal requests to turn up the air conditioning, adjust cruise control, and check fuel mileage, or ask if there’s enough gas for a trip to a specific address. Prior to the Ford partnership, Clinc mostly provided NLP solutions for large financial institutions like the aforementioned İşbank, the largest private bank in Turkey, and fintech startups such as Bankjoy, which provides mobile banking applications for credit unions and small banks. It’s also involved in research programs with Intel, IBM Corp, and the National Science Foundation, and last year unveiled a product for drive-thru restaurants. “We are thrilled to welcome Clinc into the Insight portfolio and partner to help global companies deploy conversational AI to scale their businesses,” said Insight Partners managing director Jeff Lieberman, who will join the company’s board of directors along with DJF Growth’s Randy Glein. “At Insight we look for companies utilizing the most innovative technological advancements and Clinc has shown this with their conversational AI experiences and virtual assistant solutions that mimic human intelligence. We look forward to working together to further Clinc’s growth and scale their business.” Clinc is in a lucrative line of business. Market Research Future estimates that by 2023, the voice assistant market will be worth $7.8 billion, fueled by a steady uptick in smartphone, smart speaker, smart TV, and smart display adoption. Broadly speaking, voice-enabled product usage is on the rise. ComScore estimates that 50% of searches will be conducted with voice by 2020, and OC&amp;C Strategy Consultants forecasts that voice ecommerce sales could hit $40 billion in the U.S. alone in the next three years. Moreover, U.K. -based analysts at Juniper Research anticipates that there will be 8 billion digital voice assistants in use within four years, up from the 2.5 billion assistants in use at the end of 2018. VentureBeat VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative technology and transact. Our site delivers essential information on data technologies and strategies to guide you as you lead your organizations. We invite you to become a member of our community, to access: up-to-date information on the subjects of interest to you our newsletters gated thought-leader content and discounted access to our prized events, such as Transform 2021 : Learn More networking features, and more Become a member Transform 2021 Join us for the world’s leading event on applied AI for enterprise business &amp; technology decision-makers, presented by the #1 publisher of AI coverage. Learn More Join forces with OHUB &amp; VB to include &amp; hire 1,000 BIPOC students at SXSW Sponsor &amp; hire VB Lab Newsletters Events Special Issue Product Comparisons Jobs About Contact Careers Privacy Policy Terms of Service &copy; 2021 VentureBeat . All rights reserved. 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="/">/</a> ( )
+</p>
+<p>
+<a href="/category/ai/">/category/ai/</a> ( The Machine )
+</p>
+<p>
+<a href="/category/games/">/category/games/</a> ( GamesBeat )
+</p>
+<p>
+<a href="https://jobs.venturebeat.com/?app_source=venturebeat&source=venturebeat&utm_source=venturebeat&utm_medium=header&utm_campaign=jobbio_december">https://jobs.venturebeat.com/?app_source=venturebeat&source=venturebeat&utm_source=venturebeat&utm_medium=header&utm_campaign=jobbio_december</a> ( Jobs )
+</p>
+<p>
+<a href="https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/">https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/</a> ( Special Issue )
+</p>
+<p>
+<a href="#">#</a> ( Account Settings )
+</p>
+<p>
+<a href="#">#</a> ( Log Out )
+</p>
+<p>
+<a href="/venturebeat-membership-plans/">/venturebeat-membership-plans/</a> ( Become a Member )
+</p>
+<p>
+<a href="#">#</a> ( Sign In )
+</p>
+<p>
+<a href="/">/</a> ( )
+</p>
+<p>
+<a href="/category/ai/">/category/ai/</a> ( Making sense of AI )
+</p>
+<p>
+<a href="/">/</a> ( VentureBeat )
+</p>
+<p>
+<a href="/category/arvr/">/category/arvr/</a> ( AR/VR )
+</p>
+<p>
+<a href="/category/big-data/">/category/big-data/</a> ( Big Data )
+</p>
+<p>
+<a href="/category/cloud/">/category/cloud/</a> ( Cloud )
+</p>
+<p>
+<a href="/category/commerce/">/category/commerce/</a> ( Commerce )
+</p>
+<p>
+<a href="/category/dev/">/category/dev/</a> ( Dev )
+</p>
+<p>
+<a href="/category/enterprise/">/category/enterprise/</a> ( Enterprise )
+</p>
+<p>
+<a href="/category/entrepreneur/">/category/entrepreneur/</a> ( Entrepreneur )
+</p>
+<p>
+<a href="/category/marketing/">/category/marketing/</a> ( Marketing )
+</p>
+<p>
+<a href="/category/media/">/category/media/</a> ( Media )
+</p>
+<p>
+<a href="/category/mobile/">/category/mobile/</a> ( Mobile )
+</p>
+<p>
+<a href="/category/security/">/category/security/</a> ( Security )
+</p>
+<p>
+<a href="/category/social/">/category/social/</a> ( Social )
+</p>
+<p>
+<a href="/category/transportation/">/category/transportation/</a> ( Transportation )
+</p>
+<p>
+<a href="https://twitter.com/venturebeat">https://twitter.com/venturebeat</a> ( )
+</p>
+<p>
+<a href="https://www.facebook.com/venturebeat/">https://www.facebook.com/venturebeat/</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/company/venturebeat/">https://www.linkedin.com/company/venturebeat/</a> ( )
+</p>
+<p>
+<a href="https://feeds.feedburner.com/venturebeat/SZYF">https://feeds.feedburner.com/venturebeat/SZYF</a> ( )
+</p>
+<p>
+<a href="/category/ai/">/category/ai/</a> ( The Machine )
+</p>
+<p>
+<a href="/category/ai/">/category/ai/</a> ( AI )
+</p>
+<p>
+<a href="/tag/machine-learning/">/tag/machine-learning/</a> ( Machine Learning )
+</p>
+<p>
+<a href="/tag/computer-vision/">/tag/computer-vision/</a> ( Computer Vision )
+</p>
+<p>
+<a href="/tag/natural-language-processing/">/tag/natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="/tag/robotic-process-automation/">/tag/robotic-process-automation/</a> ( Robotic Process Automation )
+</p>
+<p>
+<a href="https://feeds.feedburner.com/the-machine/">https://feeds.feedburner.com/the-machine/</a> ( )
+</p>
+<p>
+<a href="/category/games/">/category/games/</a> ( GamesBeat )
+</p>
+<p>
+<a href="/category/games/">/category/games/</a> ( Games )
+</p>
+<p>
+<a href="/category/esports/">/category/esports/</a> ( Esports )
+</p>
+<p>
+<a href="/category/pc-gaming/">/category/pc-gaming/</a> ( PC Gaming )
+</p>
+<p>
+<a href="https://twitter.com/GamesBeat">https://twitter.com/GamesBeat</a> ( )
+</p>
+<p>
+<a href="http://feeds.feedburner.com/gamesbeat/">http://feeds.feedburner.com/gamesbeat/</a> ( )
+</p>
+<p>
+<a href="https://events.venturebeat.com/">https://events.venturebeat.com/</a> ( Events )
+</p>
+<p>
+<a href="https://events.venturebeat.com/upcoming-events/">https://events.venturebeat.com/upcoming-events/</a> ( Upcoming )
+</p>
+<p>
+<a href="https://events.venturebeat.com/transform2021/">https://events.venturebeat.com/transform2021/</a> ( Transform )
+</p>
+<p>
+<a href="mailto:partners@venturebeat.com">mailto:partners@venturebeat.com</a> ( Media Partner )
+</p>
+<p>
+<a href="/webinars/">/webinars/</a> ( Webinars )
+</p>
+<p>
+<a href="/newsletters/">/newsletters/</a> ( Newsletters )
+</p>
+<p>
+<a href="/contact/">/contact/</a> ( Got a news tip? )
+</p>
+<p>
+<a href="/advertise/">/advertise/</a> ( Advertise )
+</p>
+<p>
+<a href="/tag/business-sponsored-company-news/">/tag/business-sponsored-company-news/</a> ( Press Releases )
+</p>
+<p>
+<a href="/guest-posts/">/guest-posts/</a> ( Guest Posts )
+</p>
+<p>
+<a href="https://deals.venturebeat.com/">https://deals.venturebeat.com/</a> ( Deals )
+</p>
+<p>
+<a href="https://jobs.venturebeat.com/?app_source=venturebeat&source=venturebeat&utm_source=venturebeat&utm_medium=header&utm_campaign=jobbio_december">https://jobs.venturebeat.com/?app_source=venturebeat&source=venturebeat&utm_source=venturebeat&utm_medium=header&utm_campaign=jobbio_december</a> ( Jobs )
+</p>
+<p>
+<a href="/vb-lab/">/vb-lab/</a> ( VB Lab )
+</p>
+<p>
+<a href="/about/">/about/</a> ( About )
+</p>
+<p>
+<a href="/contact/">/contact/</a> ( Contact )
+</p>
+<p>
+<a href="/privacy-policy/">/privacy-policy/</a> ( Privacy Policy )
+</p>
+<p>
+<a href="https://venturebeat.com/venturebeat-membership-plans">https://venturebeat.com/venturebeat-membership-plans</a> ( Learn More )
+</p>
+<p>
+<a href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;t=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks">//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;t=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks</a> ( )
+</p>
+<p>
+<a href="//twitter.com/intent/tweet?text=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks&#038;url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;via=VentureBeat&#038;related=VentureBeat,GamesBeat">//twitter.com/intent/tweet?text=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks&#038;url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;via=VentureBeat&#038;related=VentureBeat,GamesBeat</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;token=&#038;isFramed=true">https://www.linkedin.com/cws/share?url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;token=&#038;isFramed=true</a> ( )
+</p>
+<p>
+<a href="https://venturebeat.com">https://venturebeat.com</a> ( )
+</p>
+<p>
+<a href="https://venturebeat.com/newsletters">https://venturebeat.com/newsletters</a> ( )
+</p>
+<p>
+<a href="https://events.venturebeat.com/">https://events.venturebeat.com/</a> ( )
+</p>
+<p>
+<a href="https://venturebeat.com/author/kylewiggers/">https://venturebeat.com/author/kylewiggers/</a> ( Kyle Wiggers )
+</p>
+<p>
+<a href="https://twitter.com/Kyle_L_Wiggers">https://twitter.com/Kyle_L_Wiggers</a> ( @Kyle_L_Wiggers )
+</p>
+<p>
+<a href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;t=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks">//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;t=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks</a> ( )
+</p>
+<p>
+<a href="//twitter.com/intent/tweet?text=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks&#038;url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;via=VentureBeat&#038;related=VentureBeat,GamesBeat">//twitter.com/intent/tweet?text=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks&#038;url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;via=VentureBeat&#038;related=VentureBeat,GamesBeat</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;token=&#038;isFramed=true">https://www.linkedin.com/cws/share?url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;token=&#038;isFramed=true</a> ( )
+</p>
+<p>
+<a href="https://www.brighttalk.com/webcast/12339/471416?utm_source=vb&#038;utm_medium=mar-18-sidebar&#038;utm_content=text-link&#038;utm_campaign=mar-31-optum-webinar">https://www.brighttalk.com/webcast/12339/471416?utm_source=vb&#038;utm_medium=mar-18-sidebar&#038;utm_content=text-link&#038;utm_campaign=mar-31-optum-webinar</a> ( Register Now )
+</p>
+<p>
+<a href="https://events.venturebeat.com/transform2021/?utm_source=vbhouse&amp;utm_medium=boilerplate&amp;utm_content=TransformLanding&amp;utm_campaign=landingpromo1">https://events.venturebeat.com/transform2021/?utm_source=vbhouse&amp;utm_medium=boilerplate&amp;utm_content=TransformLanding&amp;utm_campaign=landingpromo1</a> ( Learn more )
+</p>
+<p>
+<a href="https://clinc.com/">https://clinc.com/</a> ( Clinc )
+</p>
+<p>
+<a href="https://venturebeat.com/2019/01/18/ford-taps-clinc-for-conversational-ai-in-autos/">https://venturebeat.com/2019/01/18/ford-taps-clinc-for-conversational-ai-in-autos/</a> ( Clinc )
+</p>
+<p>
+<a href="https://www.marketwatch.com/press-release/voice-assistant-market-2019-profit-overview-size-global-trends-top-key-players-and-industry-growth-by-forecast-to-2023-2019-04-10">https://www.marketwatch.com/press-release/voice-assistant-market-2019-profit-overview-size-global-trends-top-key-players-and-industry-growth-by-forecast-to-2023-2019-04-10</a> ( Market Research Future )
+</p>
+<p>
+<a href="https://alphametic.com/8-voice-search-statistics-that-are-too-crazy-to-ignore">https://alphametic.com/8-voice-search-statistics-that-are-too-crazy-to-ignore</a> ( ComScore )
+</p>
+<p>
+<a href="https://www.prnewswire.com/news-releases/voice-shopping-set-to-jump-to-40-billion-by-2022-rising-from-2-billion-today-300605596.html">https://www.prnewswire.com/news-releases/voice-shopping-set-to-jump-to-40-billion-by-2022-rising-from-2-billion-today-300605596.html</a> ( OC&amp;C Strategy Consultants )
+</p>
+<p>
+<a href="https://events.venturebeat.com/transform2021/">https://events.venturebeat.com/transform2021/</a> ( Transform 2021 : Learn More )
+</p>
+<p>
+<a href="https://venturebeat.com/venturebeat-membership-plans/">https://venturebeat.com/venturebeat-membership-plans/</a> ( Become a member )
+</p>
+<p>
+<a href="https://events.venturebeat.com/transform2021/?utm_source=vbhouse&#038;utm_medium=footer&#038;utm_content=transformlanding&#038;utm_campaign=widget">https://events.venturebeat.com/transform2021/?utm_source=vbhouse&#038;utm_medium=footer&#038;utm_content=transformlanding&#038;utm_campaign=widget</a> ( Learn More )
+</p>
+<p>
+<a href="https://opportunityhub.co/sxsw/">https://opportunityhub.co/sxsw/</a> ( Sponsor &amp; hire )
+</p>
+<p>
+<a href="/">/</a> ( )
+</p>
+<p>
+<a href="/category/ai/">/category/ai/</a> ( )
+</p>
+<p>
+<a href="https://www.facebook.com/venturebeat/">https://www.facebook.com/venturebeat/</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/venturebeat">https://twitter.com/venturebeat</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/company/venturebeat">https://www.linkedin.com/company/venturebeat</a> ( )
+</p>
+<p>
+<a href="https://feeds.feedburner.com/venturebeat/SZYF">https://feeds.feedburner.com/venturebeat/SZYF</a> ( )
+</p>
+<p>
+<a href="/vb-lab/">/vb-lab/</a> ( VB Lab )
+</p>
+<p>
+<a href="/newsletters/">/newsletters/</a> ( Newsletters )
+</p>
+<p>
+<a href="https://events.venturebeat.com/">https://events.venturebeat.com/</a> ( Events )
+</p>
+<p>
+<a href="https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/">https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/</a> ( Special Issue )
+</p>
+<p>
+<a href="https://venturebeat.com/product-comparisons/">https://venturebeat.com/product-comparisons/</a> ( Product Comparisons )
+</p>
+<p>
+<a href="https://jobs.venturebeat.com/">https://jobs.venturebeat.com/</a> ( Jobs )
+</p>
+<p>
+<a href="/about/">/about/</a> ( About )
+</p>
+<p>
+<a href="/contact/">/contact/</a> ( Contact )
+</p>
+<p>
+<a href="/careers/">/careers/</a> ( Careers )
+</p>
+<p>
+<a href="/privacy-policy/">/privacy-policy/</a> ( Privacy Policy )
+</p>
+<p>
+<a href="/terms-of-service/">/terms-of-service/</a> ( Terms of Service )
+</p>
+<p>
+<a href="https://venturebeat.com/">https://venturebeat.com/</a> ( VentureBeat )
+</p>
+</body>
+</html>

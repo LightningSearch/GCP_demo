@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<title>
+302 Found 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Found The document has moved here . 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="https://twitter.com/en/tos">https://twitter.com/en/tos</a> ( here )
+</p>
+</body>
+</html>

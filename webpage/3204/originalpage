@@ -1,0 +1,1900 @@
+
+3208
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IRM Intake Sim</title>
+    <link href="/favicon.ico?v=2.25.66" rel="icon" type="image/x-icon" />
+    <script type="text/javascript" src="/v1.1/js/jquery-3.5.0.min.js"></script>
+    <script type="text/javascript" src="/v1/js/handlebars-4.0.5.min.js"></script>
+    <link type="text/css" href="/v1/css/bootstrap-3.3.7.min.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/v1/js/bootstrap-3.3.7.min.js"></script>
+    <link href="/webpage/css/wrapper.css?v=2.25.66" rel="stylesheet">
+    <!-- alpaca -->
+    <link type="text/css" href="/v1/css/bootstrap-alpaca-1.5.24.min.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/v1/js/alpaca-1.5.24.min.js"></script>
+
+    <!-- alpaca date plugin -->
+    <script type="text/javascript" src="/v1/js/moment-with-locales-2.24.0.min.js"></script>
+    <link type="text/css" href="/v1/css/bootstrap-datetimepicker-4.17.47.min.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/v1/js/bootstrap-datetimepicker-4.17.47.min.js"></script>
+
+    <style>
+        .intake-color-red {
+            color:red;
+        }
+        .confirmation-body {
+            height: 100px;
+        }
+        #form1 .checkbox a {
+            font-weight: bold;
+        }
+        @media only screen and (max-device-width : 767px) {
+            .alpaca-form-button-reset{
+                width: 100% !important;
+            }
+            .alpaca-form-button-submit{
+                margin-top: 10px;
+                width: 100% !important;
+            }
+
+            #form1{
+                padding-bottom: 55px;
+            }
+
+            .container, .alpaca-field-object{
+                padding-right: 0 !important;
+                padding-left: 0 !important;
+            }
+
+            .uploadDropZone{
+                height: auto !important;
+                line-height: normal !important;
+                padding: 10px;
+            }
+
+            .uploadDropInfoMsg {
+                font-size: 16px;
+                color: #004676;
+            }
+
+            .multi-value-field-mobile{
+                display: flex;
+                margin-top: 10px;
+            }
+        }
+
+        .uploadDropZone,.uploadDropInfo {
+            height: 50px;
+            margin-bottom: 0px;
+            color: #035801;
+            border: 2px dashed #ccc;
+            line-height: 50px;
+            text-align: center;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        .uploadDropZoneDrop {
+            color: #222;
+            border-color: #222;
+        }
+
+        .uploadDropZone a {
+            cursor: pointer;
+            color: #044e8e;
+        }
+
+        .uploadDropInfoMsg {
+            font-size: 14px;
+            text-overflow: ellipsis;
+            color: #004676;
+        }
+
+        select option.hiddenByRule {
+            display: none;
+        }
+
+        .modal-body {
+            position: relative;
+            display: table;
+            overflow-y: auto;
+            overflow-x: auto;
+            height: 100%;
+            width: auto;
+        }
+
+        .glyphicon-large {
+            font-size: 25px;
+        }
+
+        .glyphicon-medium {
+            font-size: 20px;
+        }
+
+        .alert-info{
+            display: flex;
+            align-items: center;
+            color: #214a5f;
+        }
+
+        .alert-info span{
+            text-align: justify;
+        }
+
+        a {
+            color: #224f77;
+        }
+
+        .btn-primary.focus,.btn-primary:focus{
+            background-color:#214f78;
+        }
+
+        .modal-title {
+            font-size: 18px;
+        }
+
+        .multi-value-pane {
+            margin-top: .5em;
+            margin-bottom: .5em;
+            margin-right: -10%;
+        }
+
+        .multi-value-trash {
+            margin-left: -4%;
+            margin-top: .5em;
+            cursor: pointer;
+        }
+
+        .multi-value-pane > .multi-value-field {
+            margin-top: .5em;
+        }
+
+        .multi-value-add {
+            cursor: pointer;
+        }
+
+        #companyName, #header{
+            text-align: center;
+        }
+
+        .col-md-6{
+            padding-bottom: 15px;
+        }
+
+        .captchaBox-mobile {
+            margin-bottom: 30px;
+            transition: none !important;
+            position: static !important;
+            background-color: #4a90e2 !important;
+            width: 100% !important;
+            display: inline-block;
+        }
+
+        .alpaca-form-buttons-container {
+            margin-bottom: 30px;
+        }
+    </style>
+
+    <script type="text/javascript">
+        function onRecaptchaLoadCallback() {
+            //WCAG 2 Compliance
+            $('.grecaptcha-badge textarea').attr('aria-label', 'form1');
+            $('.grecaptcha-badge iframe').attr('aria-hidden', true);
+            $('.grecaptcha-badge iframe').attr('title', 'grecaptcha iframe');
+
+
+            //Move captcha badge inside form container div for easier handling on mobile devices
+            $(".grecaptcha-badge").insertBefore($(".alpaca-form-buttons-container"));
+
+            //On load, resize captcha
+            resizeCaptcha();
+
+            window.addEventListener('resize', function() {
+               resizeCaptcha();
+            });
+
+        }
+
+        function resizeCaptcha() {
+            const captchaBadge = document.getElementsByClassName("grecaptcha-badge")[0];
+            if(window.innerWidth <= 785) {
+                captchaBadge.classList.add("captchaBox-mobile");
+            }
+            else {
+                captchaBadge.classList.remove("captchaBox-mobile");
+            }
+        }
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onRecaptchaLoadCallback&amp;render=6LdSn6gUAAAAAKZ5SiEQ8PdCUOgV9sf1ei4utXrB"></script>
+
+    
+
+    <script type="text/javascript">
+        if (typeof NodeList.prototype.forEach !== 'function')  {
+            NodeList.prototype.forEach = Array.prototype.forEach;
+        }
+
+        if (!String.prototype.includes) { //To check browser supports or not
+            String.prototype.includes = function (str) { //If not supported, then define the method
+                return this.indexOf(str) !== -1;
+            }
+        }
+
+        if (!Array.prototype.includes) {
+            Array.prototype.includes = function (elem){
+                return this.indexOf(elem)!== -1;
+            }
+        }
+
+        const nullSafeGet = function (p, o) {
+            return p.reduce(
+                function (xs, x) {
+                    return (xs && xs[x]) ? xs[x] : null;
+                }
+                , o
+            );
+        };
+
+        var locale = "en";
+        var authType = "GOOGLE_V3";
+        var noSubmit = authType == 'NONE';
+        var formId = "805d1596-d973-4d98-ad80-099661a0900c";
+        var requestId = null;
+        var suppValidationId = null;
+        var sourceWebsite = null;
+
+        (function($) {
+
+            var Alpaca = $.alpaca;
+
+            $.alpaca.Fields.StaticField = $.alpaca.Fields.TextField.extend({
+                getFieldType : function() {
+                    return "static";
+                },
+                getDescription: function() {
+                    return "Static Field.";
+                }
+            });
+            Alpaca.registerFieldClass("static", Alpaca.Fields.StaticField);
+            Alpaca.registerDefaultFormatFieldMapping("static", "string");
+
+            $.alpaca.Fields.EndField = $.alpaca.Fields.TextField.extend({
+                getFieldType : function() {
+                    return "end";
+                },
+                getDescription: function() {
+                    return "End of Submission Field.";
+                },
+                onShow: function() {
+                    this.base();
+                    this.schema.required = true;
+                    this.triggerUpdate();
+
+                    $('div[alpaca-layout-binding-field-name="'+ this.name +'"] ~ div').hide();
+                },
+                onHide: function() {
+                    this.base();
+                    this.schema.required = false;
+                    this.triggerUpdate();
+
+                    $('div[alpaca-layout-binding-field-name="'+ this.name +'"] ~ div').show();
+                }
+            });
+            Alpaca.registerFieldClass("end", Alpaca.Fields.EndField);
+            Alpaca.registerDefaultFormatFieldMapping("end", "string");
+
+            $.alpaca.Fields.NameField = $.alpaca.Fields.TextField.extend({
+                setValue: function(first, last) {
+
+                    var name = first;
+                    if (last) {
+                        name = name + last;
+                    }
+                    this.base(name);
+                },
+                getFieldType : function() {
+                    return "name";
+                },
+                getDescription: function() {
+                    return "Name Field.";
+                },
+                _validateOptional: function() {
+
+                    var self = this;
+
+                    if (self.schema.nameType === 'FIRSTLAST') {
+
+                        var fields = $(self.control).find(
+                            self.options.fields.map(function(f) { return "input[name='" + f.id + "']"; }).join(",")
+                        );
+
+                        if(!validateOptionalBaseCheck(self, fields)){
+                            return false;
+                        }
+                    }
+
+                    if(!validateOptionalMultiValuesBaseCheck(self)){
+                        return false;
+                    }
+
+                    return self.base();
+                },
+                addField: function() {
+                    MultiValue.addField(this, "name");
+                },
+                clear: function() {
+                    var self = this;
+                    if (self.schema.nameType === 'FIRSTLAST') {
+
+                        var fields = $(self.control).find(
+                            self.options.fields.map(function(f) { return "input[name='" + f.id + "']"; }).join(",")
+                        );
+
+                        fields.each(function(key, elem){
+                            elem.value = '';
+                        });
+                    } else if(self.schema.nameType === 'FULLNAME') {
+                        $(self.control).get(0).value = '';
+                    }
+
+                    hideErrors(self);
+                },
+                postRender: function(callback) {
+
+                    var self = this;
+
+                    if (self.schema.nameType === 'FIRSTLAST') {
+
+                        var fields = $(self.control).find(
+                            self.options.fields.map(function(f) { return "input[name='" + f.id + "']"; }).join(",")
+                        );
+
+                        fields.on("change", function () {
+                            var concatval = fields.map(function () {
+                                return $(this).val();
+                            }).get().join(" ");
+                            self.setValue(concatval);
+                            self.refreshValidationState(true);
+                        });
+                    }
+
+                    MultiValue.render(this);
+
+                    this.base(function() {
+                        callback();
+                    });
+                }
+            });
+            Alpaca.registerFieldClass("name", Alpaca.Fields.NameField);
+
+            $.alpaca.Fields.ExEmailField = $.alpaca.Fields.EmailField.extend({
+                addField: function() {
+                    MultiValue.addField(this, "text");
+                },
+                _validateOptional: function() {
+
+                    var self = this;
+
+                    if(!validateOptionalMultiValuesBaseCheck(self)){
+                        return false;
+                    }
+
+                    return self.base();
+                },
+                _validatePattern: function(){
+                    var self = this;
+
+                    var pattern = this.schema.pattern;
+
+                    if (pattern) {
+
+                        var fields = getMultiValueInputFields(self);
+
+                        var matchesPatternFunc = function() {
+                            return Alpaca.testRegex(pattern, $(this).val());
+                        };
+
+                        if (getFieldsFilterLength(fields, matchesPatternFunc) < fields.length) {
+                            return false;
+                        }
+
+                    }
+
+                    return self.base();
+                },
+                clear: function() {
+                    this.setValue(null);
+                    hideErrors(this);
+                },
+           
+22ed
+     postRender: function(callback) {
+                    MultiValue.render(this);
+
+                    this.base(function() {
+                        callback();
+                    });
+                }
+            });
+            Alpaca.registerFieldClass("email", Alpaca.Fields.ExEmailField);
+
+            $.alpaca.Fields.ExTextField = $.alpaca.Fields.TextField.extend({
+                addField: function() {
+                    MultiValue.addField(this, "text");
+                },
+                _validateOptional: function() {
+
+                    var self = this;
+
+                    if(!validateOptionalMultiValuesBaseCheck(self)){
+                        return false;
+                    }
+
+                    return self.base();
+                },
+                clear: function() {
+                    this.setValue(null);
+                    hideErrors(this);
+                },
+                postRender: function(callback) {
+                    MultiValue.render(this);
+
+                    this.base(function() {
+                        callback();
+                    });
+                },
+                _validatePattern: function(){
+                    var self = this;
+
+                    var pattern = this.schema.pattern;
+
+                    if (pattern) {
+
+                        var fields = getMultiValueInputFields(self);
+
+                        var matchesPatternFunc = function() {
+                            return Alpaca.testRegex(pattern, $(this).val());
+                        };
+
+                        if (getFieldsFilterLength(fields, matchesPatternFunc) < fields.length) {
+                            return false;
+                        }
+
+                    }
+
+                    return self.base();
+                },
+                handleValidate: function()
+                {
+                    var baseStatus = this.base();
+
+                    var valInfo = this.validation;
+
+                    var key  = this.name;
+                    var field = nullSafeGet(["view", "fields", key], this);
+                    var status = this._validatePattern();
+                    if(field){
+                        valInfo["invalidPattern"] = {
+                            "message": status ? "" : field.messages.invalidPattern,
+                            "status": status
+                        };
+                    }else{
+                        valInfo["invalidPattern"] = {
+                            "message": status ? "" : Alpaca.substituteTokens(this.getMessage("invalidPattern"), [this.schema.pattern]),
+                            "status": status
+                        };
+                    }
+
+                    status = this._validateMaxLength();
+                    valInfo["stringTooLong"] = {
+                        "message": status ? "" : Alpaca.substituteTokens(this.getMessage("stringTooLong"), [this.schema.maxLength]),
+                        "status": status
+                    };
+
+                    status = this._validateMinLength();
+                    valInfo["stringTooShort"] = {
+                        "message": status ? "" : Alpaca.substituteTokens(this.getMessage("stringTooShort"), [this.schema.minLength]),
+                        "status": status
+                    };
+
+                    return baseStatus && valInfo["invalidPattern"]["status"] && valInfo["stringTooLong"]["status"] && valInfo["stringTooShort"]["status"];
+                }
+            });
+            Alpaca.registerFieldClass("text", Alpaca.Fields.ExTextField);
+            Alpaca.registerView ({
+                "id": "base",
+                "templates": {
+                    "control-date": appendBuildVersionQueryParam("/v1.1/alpaca/templates/control-date.html"),
+                    "control-static": appendBuildVersionQueryParam("/v1.1/alpaca/templates/control-static.html"),
+                    "control-end": appendBuildVersionQueryParam("/v1.1/alpaca/templates/control-end.html"),
+                    "control-checkbox": appendBuildVersionQueryParam("/v1.1/alpaca/templates/control-checkbox.html"),
+                    "control-file": appendBuildVersionQueryParam("/v1.1/alpaca/templates/control-file.html"),
+                    "control-name": appendBuildVersionQueryParam("/v1.1/alpaca/templates/control-name.html"),
+                    "control-text": appendBuildVersionQueryParam("/v1.1/alpaca/templates/control-text.html")
+                },
+                "messages": {
+                    "en": {"invalidPassword":"Invalid Password","stringValueTooLargeExclusive":"Value of this field must be less than {0}","required":"This field is not optional.","invalidBigFiles":"Only accepts file less than {0} MB.","notOptional":"This field is not optional.","stringTooLong":"This field should contain at most {0} numbers or characters","stringTooShort":"This field should contain at least {0} numbers or characters","invalidEmail":"Invalid Email address e.g. info@example.com","multipleFiles":"Multiple files not supported.","stringDivisibleBy":"The value must be divisible by {0}","invalidPhone":"Invalid Phone Number, e.g. (123) 456-9999","notEnoughItems":"The minimum number of items is {0}","tooManyItems":"The maximum number of items is {0}","invalidFileTypes":"Invalid file type.","invalidValueOfEnum":"This field should have one of the values in the options. Current value is: [{1}]","invalidDate":"<div>Invalid date for format {0}<\/div>","notAnArray":"This value is not an Array","disallowValue":"{0} are disallowed values.","uploadIncomplete":"File upload not yet complete.","stringValueTooSmallExclusive":"Value of this field must be greater than {0}","stringNotAnInteger":"This value is not an integer.","stringValueTooSmall":"The minimum value for this field is {0}","invalid":"Invalid value.","stringValueTooLarge":"The maximum value for this field is {0}","invalidPattern":"This field should have pattern {0}","stringNotANumber":"This value is not a number.","valueNotUnique":"Values are not unique"}
+                }
+            });
+
+            $.alpaca.Fields.ExDateField = $.alpaca.Fields.TextField.extend({
+                setValue: function(value, clear) {
+                    if(clear){
+                        var dates = $(this.control).find('input');
+                        dates.each(function (index,elem) {
+                            elem.value = value;
+                        });
+                    }
+                    this.base(value);
+                },
+                getFieldType : function() {
+                    return "date";
+                },
+                getDateFormat: function() {
+                    if (!this.options.dateFormat) {
+                        return Alpaca.defaultDateFormat;
+                    }
+                    return this.options.dateFormat;
+                },
+                setup: function() {
+
+                    var self = this;
+
+                    this.base();
+
+                    if (!self.options.picker) {
+                        self.options.picker = {};
+                    }
+
+                    self.options.picker.format = self.getDateFormat();
+
+                    if (!self.options.picker.locale) {
+                        self.options.picker.locale = locale;
+                    }
+                },
+                handleValidate: function() {
+                    var baseStatus = this.base();
+
+                    var valInfo = this.validation;
+
+                    var status =  this._validateBasedOnRules();
+                    valInfo["invalidDate"] = {
+                        "message": status ? "" : this.errorMsg,
+                        "status": status
+                    };
+
+                    return baseStatus &&
+                        valInfo["invalidDate"]["status"];
+                },
+                _validateOptional: function() {
+                    var self = this;
+                    var isRequired = self.isRequired()
+
+                    if(isRequired){
+                        var first = self.cleanDate(self.domEl.find("input[data-index='0']").data("DateTimePicker").date());
+                        var secondExists = self.domEl.find("input[data-index='1']").data("DateTimePicker");
+                        var second = self.cleanDate( secondExists ? secondExists.date() : 0 );
+
+                        if (self.schema.dateType == 'DATERANGE' && (!first || !second)) {
+                            return false;
+                        }else if (!first) {
+                            return false;
+                        }
+                    }
+
+                    return true;
+                },
+                _validateBasedOnRules: function() {
+
+                    var self = this;
+                    var first = self.cleanDate(self.domEl.find("input[data-index='0']").data("DateTimePicker").date());
+                    var secondExists = self.domEl.find("input[data-index='1']").data("DateTimePicker");
+                 
+22ed
+   var second = self.cleanDate( secondExists ? secondExists.date() : 0 );
+                    var sys = self.cleanDate(moment());
+
+                    var rules = self.options.validationRules || [];
+                    if (rules.length) {
+                        if (self.schema.dateType == 'DATERANGE') {
+                            if (first && second) {
+                                for (var i in rules) {
+                                    var arr = rules[i].split("_");
+                                    var t1 = self.getTime(arr[0], first, sys, second);
+                                    var t2 = self.getTime(arr[2], first, sys, second);
+                                    if (!self.compareTime(t1, arr[1], t2)) {
+                                        self.setErrorMsg(arr);
+                                        return false;
+                                    }
+                                }
+                            }
+                        }else if (first) {
+                            for (var i in rules) {
+                                var arr = rules[i].split("_");
+                                if (!self.compareTime(first, arr[1], sys)) {
+                                    self.setErrorMsg(arr);
+                                    return false;
+                                }
+                            }
+                        }
+                    }
+                    return true;
+                },
+                setErrorMsg: function(ruleArr) {
+                    this.errorMsg = "";
+                    switch (ruleArr[0]) {
+                        case 'DATE':
+                            this.errorMsg += "Date ";
+                            break;
+                        case 'DATEA':
+                            this.errorMsg += "'From Date' ";
+                            break;
+                        case 'DATEB':
+                            this.errorMsg += "'To Date' ";
+                            break;
+                    }
+                    this.errorMsg += "should be ";
+
+                    switch (ruleArr[1]) {
+                        case 'G':
+                            this.errorMsg += "greater than ";
+                            break;
+                        case 'GE':
+                            this.errorMsg += "greater than or equal to ";
+                            break;
+                        case 'L':
+                            this.errorMsg += "less than ";
+                            break;
+                        case 'LE':
+                            this.errorMsg += "less than or equal to ";
+                            break;
+                    }
+
+                    switch (ruleArr[2]) {
+                        case 'SYS':
+                            this.errorMsg += "today's date";
+                            break;
+                        case 'DATEB':
+                            this.errorMsg += "'To Date'";
+                            break;
+                    }
+                },
+                cleanDate: function(date) {
+                    if (date) {
+                        var format = date.format(this.getDateFormat());
+                        return moment(format, this.getDateFormat())
+                    }
+                    return null;
+                },
+                compareTime: function(t1, op, t2) {
+                    if (op == 'G') {
+                        return t1.isAfter(t2);
+                    }else if (op == 'GE') {
+                        return t1.isSameOrAfter(t2);
+                    }else if (op == 'L') {
+                        return t1.isBefore(t2);
+                    }else if (op == 'LE') {
+                        return t1.isSameOrBefore(t2);
+                    }
+                },
+                getTime: function(rule, first, sys, second) {
+                    if (rule == 'DATEA') {
+                        return first;
+                    }else if (rule == 'DATEB') {
+                        return second;
+                    }else if (rule == 'SYS'){
+                        return sys;
+                    }
+                },
+                onChange: function(e) {
+                    this.base();
+                    this.refreshValidationState();
+                },
+                afterRenderControl: function(model, callback) {
+
+                    var self = this;
+                    this.base(model, function() {
+                        if ($.fn.datetimepicker) {
+
+                            self.domEl.find("input[data-type='date']").each(function(){
+                                $(this).datetimepicker(self.options.picker);
+                                $(this).data("DateTimePicker");
+
+                                $(this).on("dp.change", function(e) {
+
+                                    // we use a timeout here because we want this to run AFTER control click handlers
+                                    setTimeout(function() {
+                                        self.onChange.call(self, e);
+                                        self.triggerWithPropagation("change", e);
+                                    }, 250);
+
+                                });
+                            });
+                        }
+                        callback();
+                    });
+                },
+                clear: function() {
+                    this.setValue(null, true);
+                    this.updateObservable();
+                    this.triggerUpdate();
+
+                    hideErrors(this);
+                }
+            });
+            Alpaca.registerFieldClass("date", Alpaca.Fields.ExDateField);
+            Alpaca.registerDefaultFormatFieldMapping("date", "date");
+
+            $.alpaca.Fields.ExCheckField = $.alpaca.Fields.CheckBoxField.extend({
+                onChange: function(e) {
+                    this.base();
+                    this.dynamicTrigger();
+                },
+                clear: function() {
+
+                    this.setValue(null);
+                    this.updateObservable();
+                    this.triggerUpdate();
+                    hideErrors(this);
+                },
+                dynamicTrigger: function() {}
+            });
+            Alpaca.registerFieldClass("checkbox", Alpaca.Fields.ExCheckField);
+
+            $.alpaca.Fields.ExSelectField = $.alpaca.Fields.SelectField.extend({
+                postRender: function(callback) {
+
+                    this.setValue(null);
+
+                    if (this.selectOptions.length > 0 && !this.schema.default) {
+                        delete this.selectOptions[0].selected;
+                    }
+
+                    this.updateObservable();
+                    this.triggerUpdate();
+                    this.triggerWithPropagation("change");
+
+                    this.base(function() {
+                        callback();
+                    });
+                },
+                afterSetValue: function() {
+                    var self = this;
+
+                    self.base();
+
+                    if (self.data.length == 0) {
+                        $(self.control).val(null);
+                    }
+                },
+                clear: function() {
+
+                    this.setValue(null);
+                    this.updateObservable();
+                    this.triggerUpdate();
+
+                    hideErrors(this);
+                },
+                onChange: function(e) {
+                    this.base();
+                    this.dynamicTrigger();
+                },
+                dynamicTrigger: function() {}
+            });
+            Alpaca.registerFieldClass("select", Alpaca.Fields.ExSelectField);
+
+            $.alpaca.Fields.ExFileField = $.alpaca.Fields.FileField.extend({
+                setValue: function(value, display) {
+
+                    var self = this;
+
+                    var uploadFileField = $(this.control).find('.uploadFileField');
+                    uploadFileField.val(value);
+                    self.setInfo(display);
+
+                    this.base(value);
+                },
+                clear: function() {
+                    this.setValue(null, null);
+                    this.clearLoading();
+
+                    var uploadFileHiddenField = $(this.control).find('.uploadFileHiddenField');
+                    uploadFileHiddenField.val(null);
+
+                    this.updateObservable();
+                    this.triggerUpdate();
+                    hideErrors(this);
+                },
+                handleValidate: function() {
+
+                    var baseStatus = this.base();
+
+                    var valInfo = this.validation;
+
+                    var status =  this._validateMultipleFiles();
+                    valInfo["multipleFiles"] = {
+                        "message": status ? "" : Alpaca.substituteTokens(this.getMessage("multipleFiles"), []),
+                        "status": status
+                    };
+
+                    status =  this.
+68bf
+_validateBigFiles();
+                    valInfo["invalidBigFiles"] = {
+                        "message": status ? "" : Alpaca.substituteTokens(this.getMessage("invalidBigFiles"), [convertToMB(this.options.maxFileSize)]),
+                        "status": status
+                    };
+
+                    status =  this._validateInvalidFiles();
+                    valInfo["invalidFileTypes"] = {
+                        "message": status ? "" : Alpaca.substituteTokens(this.getMessage("invalidFileTypes"), [this.options.accept]),
+                        "status": status
+                    };
+
+                    status = !this.isUploading();
+                    valInfo["uploadIncomplete"] = {
+                        "message": status ? "" : Alpaca.substituteTokens(this.getMessage("uploadIncomplete"), []),
+                        "status": status
+                    };
+
+                    return baseStatus &&
+                        valInfo["multipleFiles"]["status"] &&
+                        valInfo["invalidBigFiles"]["status"] &&
+                        valInfo["invalidFileTypes"]["status"] &&
+                        valInfo["uploadIncomplete"]["status"];
+                },
+                _validateMultipleFiles: function() {
+
+                    var uploadFileHiddenField = $(this.control).find('.uploadFileHiddenField');
+                    var files = uploadFileHiddenField.prop('files');
+                    if (files && files.length > 1) {
+                        return false;
+                    }
+
+                    return true;
+                },
+                _validateBigFiles: function() {
+
+                    var uploadFileHiddenField = $(this.control).find('.uploadFileHiddenField');
+                    var files = uploadFileHiddenField.prop('files');
+
+                    if(files && files.length > 0 && files[0].size > this.options.maxFileSize) {
+                        return false;
+                    }
+
+                    return true;
+                },
+                _validateInvalidFiles: function() {
+
+                    var uploadFileHiddenField = $(this.control).find('.uploadFileHiddenField');
+                    var files = uploadFileHiddenField.prop('files');
+                    var accept = uploadFileHiddenField.prop('accept');
+                    if(accept && files && files.length>0 && !accept.includes(files[0].name.split(/(?:\.([^.]+))?$/)[1])) {
+                        return false;
+                    }
+
+                    return true;
+                },
+                postRender: function(callback) {
+
+                    var self = this;
+
+                    var uploadDropZone = $(self.control).find('.uploadDropZone');
+                    var uploadFileHiddenField = $(self.control).find('.uploadFileHiddenField');
+
+                    if (uploadDropZone && uploadFileHiddenField) {
+                        uploadDropZone.on('drop', function(e) {
+                            if (self.onCurrentUpload()) return false;
+
+                            e.preventDefault();
+                            uploadDropZone.addClass('uploadDropZoneDrop');
+
+                            if (uploadFileHiddenField) {
+                                uploadFileHiddenField.prop('files', e.originalEvent.dataTransfer.files);
+                                self._uploadFile();
+                            }
+                        });
+
+                        uploadDropZone.on('dragover', function(e) {
+                            if (self.onCurrentUpload()) return false;
+
+                            e.preventDefault();
+                            uploadDropZone.addClass('uploadDropZoneDrop');
+                            return false;
+                        });
+
+                        uploadDropZone.on('dragleave', function(e) {
+                            if (self.onCurrentUpload()) return false;
+
+                            e.preventDefault();
+                            uploadDropZone.removeClass('uploadDropZoneDrop');
+                            return false;
+                        });
+
+                        var dropZoneAnchor = (uploadDropZone).find('a').first();
+                        if (dropZoneAnchor) {
+                            if (uploadFileHiddenField) {
+                                dropZoneAnchor.on('click', function(e) {
+                                    uploadFileHiddenField.click()
+                                });
+                            }
+                        }
+
+                        if (uploadFileHiddenField) {
+                            uploadFileHiddenField.on('change', function(e) {
+                                self._uploadFile();
+                            })
+                        }
+                    }
+
+                    var uploadDropInfo = $(self.control).find('.uploadDropInfo');
+                    if (uploadDropInfo) {
+                        uploadDropInfo.find('.close').on('click', function(e) {
+                            self.clear();
+                        });
+                    }
+
+                    this.base(function() {
+
+                        self.getParent().domEl.on("reset", function(e) {
+                            self.clear();
+                        });
+
+                        callback();
+                    });
+                },
+                clearLoading: function() {
+
+                    if (this.isUploading()) {
+                        this.__uploader.abort();
+                    }
+
+                    var progressElem = $(this.control).find('.progress-bar').first();
+                    progressElem.removeClass("progress-bar-danger");
+                    progressElem.css('width', '0%');
+
+                    var uploadDropZone = $(this.control).find('.uploadDropZone').first();
+                    uploadDropZone.removeClass('uploadDropZoneDrop');
+                },
+                initLoading: function() {
+
+                    this.setValue('-');
+                    this.setInfo('Uploading Files...');
+
+                    this.clearLoading();
+                },
+                updateLoading: function(width) {
+
+                    var progressElem = $(this.control).find('.progress-bar').first();
+                    progressElem.css('width', width + '%');
+                },
+                errorLoading: function() {
+
+                    var progressElem = $(this.control).find('.progress-bar').first();
+                    progressElem.addClass("progress-bar-danger");
+
+                    this.setInfo(null);
+                },
+                setInfo: function(display) {
+
+                    var uploadDropZone = $(this.control).find('.uploadDropZone').first();
+                    var uploadDropInfo = $(this.control).find('.uploadDropInfo').first()
+                    if (display) {
+                        uploadDropZone.css('display', 'none');
+                        uploadDropInfo.css('display', 'block')
+                        uploadDropInfo.find('.uploadDropInfoMsg').first().text(wrapText(display, 50));
+                    }else {
+                        uploadDropZone.css('display', 'block');
+                        uploadDropInfo.css('display', 'none');
+                    }
+                },
+                __uploader: null,
+                isUploading: function() {
+                    if (this.__uploader && (this.__uploader.readyState != 4 && this.__uploader.readyState != 0)) {
+                        return true;
+                    }
+
+                    return false;
+                },
+                onCurrentUpload: function() {
+                    if (this.isUploading() || this.data) {
+                        return true;
+                    }
+
+                    return false;
+                },
+                _uploadFile: function() {
+
+                    var self = this;
+
+                    var uploadFileHiddenField = $(self.control).find('.uploadFileHiddenField').first();
+                    self.initLoading();
+
+                    self.refreshValidationState(true, function(){
+                        if (!self.isValid(true)) {
+                            return;
+                        }
+
+                        var file = uploadFileHiddenField.prop('files')[0];
+
+                        let formData = new FormData();
+                        formData.append("file", file);
+                        formData.append("formId", formId);
+
+                        self.__uploader = $.ajax({
+                            url: '/services/storage/upload',
+                            method: 'POST',
+                            type: 'POST',
+                            data: formData,
+                            contentType: false,
+                            processData: false,
+                            xhr: function() {
+                                var xhr = new window.XMLHttpRequest();
+                                xhr.upload.addEventListener("progress", function(evt) {
+                                    if (evt.lengthComputable) {
+                                        var percentComplete = evt.loaded / evt.total;
+                                        console.log(percentComplete);
+                                        self.updateLoading(Math.round(percentComplete * 100));
+                                        var submitButton = $(".alpaca-form-button.alpaca-form-button-submit.btn.btn-default");
+                                        if(percentComplete < 1){
+                                            submitButton.attr('disabled', true);
+                                        }else{
+                                            submitButton.removeAttr('disabled');
+                                        }
+                                    }
+                                }, false);
+                                return xhr;
+                            },
+                            error: function(request) {
+                                console.log(JSON.stringify(request));
+                                self.errorLoading();
+                            },
+                            success: function(data) {
+                                self.setValue(data.id, file.name);
+                            }
+                        });
+                    });
+                }
+            });
+            Alpaca.registerFieldClass("file", Alpaca.Fields.ExFileField);
+
+        })(jQuery);
+
+        // precompiles handlebars templates
+        Handlebars.getTemplate = function(name) {
+            console.log("templates function working");
+            if (Handlebars.templates === undefined || Handlebars.templates[name] === undefined) {
+                console.log("template undefined");
+                $.ajax({
+                    url : appendBuildVersionQueryParam('/v1.1/alpaca/assets/' + name + '.html'),
+                    success : function(data) {
+                        console.log("success compiling template");
+                        if (Handlebars.templates === undefined) {
+                            Handlebars.templates = {};
+                        }
+                        Handlebars.templates[name] = Handlebars.compile(data);
+                    },
+                    async : false
+                });
+            }
+            return Handlebars.templates[name];
+        };
+
+        var MultiValue = {
+            addField: function(elem, type) {
+                var pane = elem.containerItemEl.find('.multi-value-pane');
+                var currCount = pane.find('.multi-value-field').length;
+                var addField = elem.containerItemEl.find('.multi-value-add');
+
+                elem.multiValueIndex = currCount + 2;
+
+                var template = Handlebars.getTemplate(type);
+
+                pane.append(template(elem));
+
+                var fieldKey = $.escapeSelector(elem.id + "#" + elem.multiValueIndex + "-pane");
+                var multiValuePane = elem.domEl.find("#" + fieldKey);
+                var trashBtn = multiValuePane.find('.multi-value-delete');
+
+                //Special handling for multivalue firstname/lastname
+                if(window.matchMedia('(max-width: 767px)').matches &&
+                    type === 'name' &&
+                    elem.schema.nameType === 'FIRSTLAST'){
+                    var desktopPane = pane;
+                    var multiValueFields = elem.options.fields;
+
+                    for(var x = 0; x < multiValueFields.length; x++){
+                        elem.nameIndex = multiValueFields[x].id + '#' + elem.multiValueIndex;
+                        pane = elem.containerItemEl.find('#multi-value-pane-mobile-' + multiValueFields[x].id);
+                        var addedElem = $('input[name="' + elem.nameIndex + '"]');
+                        template = Handlebars.getTemplate("FNLN-mobile");
+
+                        pane.append(template(elem));
+                        var searchString = ".multi-value-field-mobile-" + multiValueFields[x].id + $.escapeSelector('#' + elem.multiValueIndex);
+                        var field = $(searchString);
+                        field.append(addedElem);
+                    }
+
+                    field.append(trashBtn);
+                    desktopPane.hide();
+                    multiValuePane = elem.domEl.find("#" + fieldKey);
+                }
+
+                var fields = pane.find("input[type='" + elem.inputType + "']");
+
+                fields.each(function(){
+                    $(this).change(function() {
+                        elem.refreshValidationState(true);
+                    });
+                    var field = $(this);
+                    $('button.alpaca-form-button.alpaca-form-button-reset.btn.btn-default').on('click', function() {
+                        field.val('');
+                        multiValuePane.remove();
+                        addField.show();
+                    });
+                });
+
+                trashBtn.on('click', function() {
+                    var nIndex = multiValuePane.attr('data-index');
+                    multiValuePane.remove();
+                    addField.show();
+                    while(true) {
+                        var nKey = $.escapeSelector(elem.id + "#" + (++nIndex) + "-pane");
+                        var nPane = elem.domEl.find("#" + nKey);
+                        if (nPane.length) {
+
+                            nPane.each(function(){
+                                var paneId = this.id.replace(new RegExp("#" + nIndex + "-pane$"), "#" + (nIndex-1) + "-pane");
+                                console.log("Renaming Pane(" + this.id + " -> " + paneId);
+                                $(this).attr('id', paneId);
+                                $(this).attr('data-index', "" + (nIndex-1));
+
+                                var fields = $(this).find("[id$=\\#" + nIndex + "]");
+                                fields.each(function(){
+                                    var nId = this.id.replace(new RegExp("#" + nIndex + "$"), "#" + (nIndex-1));
+                                    var nName = this.name.replace(new RegExp("#" + nIndex + "$"), "#" + (nIndex-1));
+                                    console.log("Renaming Field(" + this.id + " -> " + nId);
+                                    $(this).attr('id', nId);
+                                    $(this).attr('name', nName);
+                                });
+                            })
+                        }else {
+                            break;
+                        }
+                    }
+                    elem.refreshValidationState(true);
+                    var submitButton = $(".alpaca-form-button.alpaca-form-button-submit.btn.btn-default");
+                    if($("#form1").alpaca('get').form.isFormValid()){
+                        submitButton.removeAttr('disabled');
+                    }else{
+                        submitButton.attr('disabled', true);
+                    }
+                });
+                currCount = pane.find('.multi-value-field').length;
+                var maxCount = elem.schema.multiValue ? elem.schema.multiValue.count : 0;
+                if (currCount >= maxCount) {
+                    addField.hide();
+                    return;
+                }
+            },
+
+            render: function(elem) {
+
+                var adder = $(elem.control).find('.multi-value-add');
+                adder.on("click", function(){
+                    elem.addField();
+                });
+            }
+        };
+
+        function init() {
+            var jsonData = {"view":{"parent":"bootstrap-create","layout":{"template":"\/v1.1\/alpaca\/templates\/logo-default.html","bindings":{"00000000-0000-0000-0000-000000001001":"column-1","4340177f-12dd-4c36-a1c8-648dfc167a39":"column-1","15046366-8c6a-4bb6-a42d-1e7699cb6d11":"column-1","438ab6f6-e08a-4f8d-b08e-0664f732bded":"column-1","bdaa68d0-daed-4704-bd60-fbc839b63a2b":"column-1","eb1d29db-5a7c-4cf2-bd4b-1c3cdc485c13":"column-1","d2d0cd35-edbb-4f86-8a33-b362ec68c06b":"column-1","89bc1366-df8d-4541-a165-25b3cebed099":"column-1","89529285-c148-41ad-aac4-330c1badf285":"column-1","9f7bd1a4-6eaf-4c14-93a4-29b5c3b88bdf":"column-1","9d6fa145-7264-456f-83a8-2c415a2547cd":"column-1","00000000-0000-0000-0000-000000001002":"column-1","f1e87618-dbae-4dc6-bd07-2ddc5b49bf4a":"column-1","00000000-0000-0000-0000-000000001003":"column-1","b167ce03-0ac2-4219-a67f-6e82a1fc7647":"column-1","00000000-0000-0000-0000-000000001004":"column-1","00000000-0000-0000-0000-000000001005":"column-1","f79eb8f3-b74c-44d3-ae3f-67652509b04e":"column-1","4529eb32-1709-4c0f-8605-54336a76d0f1":"column-1","c21d70bc-0a25-4679-98ee-2cc1209f6bc4":"column-1","3273f6da-381b-413f-be6c-2e1823e56783":"column-1","00000000-0000-0000-0000-000000001007":"column-1","prior.residence.state.multiyear":"column-1","city.of.residence":"column-1","street.name":"column-1","00000000-0000-0000-0000-000000001006":"column-1","882450a5-33b7-40ee-a0e6-bfeab617cdf7":"column-1","14ed7a05-13f7-4396-883c-25bcd00693d7":"column-1","00ad067d-5707-4cd9-8988-cb396060c0b6":"column-1"}},"fields":{"\/00000000-0000-0000-0000-000000001003":{"templates":{"control-email":"\/v1.1\/alpaca\/templates\/control-email.html"}},"\/00000000-0000-0000-0000-000000001004":{"templates":{"control-select":"\/v1.1\/alpaca\/templates\/select-tree.html"}},"\/00000000-0000-0000-0000-000000001005":{"templates":{"control-select":"\/v1.1\/alpaca\/templates\/select-rtree.html"}}},"messages":{"invalidEmail":"Invalid Email address e.g. info@example.com"}},"schema":{"type":"object","title":"Forbes Media LLC","properties":{"882450a5-33b7-40ee-a0e6-bfeab617cdf7":{"type":"string","required":false},"00000000-0000-0000-0000-000000001001":{"title":"I am a(n)","type":"string","enum":["00000000-0000-0000-0000-000000003103","1e5d876f-d8c1-48be-905d-9e2745db9b94","5e933269-d7db-4004-a0f1-8be1a3c6a0bb"],"selectType":"DATASUBJECT","permanent":true,"required":true},"00000000-0000-0000-0000-000000001002":{"title":"Name","type":"string","required":true,"maxLength":100,"permanent":true,"nameType":"FULLNAME","multiValue":{"enabled":false,"count":2}},"00000000-0000-0000-0000-000000001003":{"title":"Email","type":"string","format":"email","required":true,"maxLength":100,"permanent":true,"multiValue":{"enabled":false,"count":2}},"00000000-0000-0000-0000-000000001004":{"title":"Resident of","type":"string","enum":["NA_US","NA_US_AK","NA_US_AL","NA_US_AR","NA_US_AZ","NA_US_CA","NA_US_CO","NA_US_CT","NA_US_DC","NA_US_DE","NA_US_FL","NA_US_GA","NA_US_HI","NA_US_IA","NA_US_ID","NA_US_IL","NA_US_IN","NA_US_KS","NA_US_KY","NA_US_LA","NA_US_MA","NA_US_MD","NA_US_ME","NA_US_MI","NA_US_MN","NA_US_MO","NA_US_MS","NA_US_MT","NA_US_NC","NA_US_ND","NA_US_NE","NA_US_NH","NA_US_NJ","NA_US_NM","NA_US_NV","NA_US_NY","NA_US_OH","NA_US_OK","NA_US_OR","NA_US_PA","NA_US_PR","NA_US_RI","NA_US_SC","NA_US_SD","NA_US_TN","NA_US_TX","NA_US_UT","NA_US_VA","NA_US_VT","NA_US_WA","NA_US_WI","NA_US_WV","NA_US_WY"],"selectType":"COUNTRY","required":true,"permanent":true},"00000000-0000-0000-0000-000000001005":{"title":"Type of Request","type":"string","enum":["072d7685-a3f8-4c35-98b9-268a37aac7a9"],"selectType":"REQUEST","required":true,"permanent":true},"14ed7a05-13f7-4396-883c-25bcd00693d7":{"type":"string","required":false},"00000000-0000-0000-0000-000000001006":{"title":"Comment (max 550 characters)","type":"string","maxLength":550,"permanent":false,"required":false},"00ad067d-5707-4cd9-8988-cb396060c0b6":{"type":"string","required":false},"00000000-0000-0000-0000-000000001007":{"type":"boolean","required":true,"permanent":false}}},"options":{"header":{"logo":{"uri":"https:\/\/i.forbesimg.com\/assets\/icons\/new\/forbes-logo.png"},"message":"CCPA \"Do Not Sell My Personal Information\" Request"},"form":{"attributes":{"action":"\/services\/validation?v=1.1","method":"post"},"buttons":{"reset":{"title":"Reset"},"submit":{"title":"Submit"}}},"fields":{"882450a5-33b7-40ee-a0e6-bfeab617cdf7":{"rightLabel":"<p style='box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;'><em style=\"box-sizing: border-box;\">This form is intended for use by California residents who wish to opt out of the \"sale\" of their personal information pursuant to the California Consumer Privacy Act (CCPA). \u0026nbsp;<\/em><\/p><ul><li style='box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; color: rgb(51, 51, 51); font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;'><em>If you are a California resident and would like to make a different request under the CCPA, <em><span style=\"background-color: rgb(255, 255, 255);\">click\u0026nbsp;<\/span><\/em><em><span style=\"box-sizing: border-box; background-color: rgb(255, 255, 255);\"><a href=\"https:\/\/submit-irm.trustarc.com\/services\/validation\/845c1774-9e10-4f50-ba1d-eeffa1a769c6\">here<\/a>.<\/span><\/em><br><\/em><\/li><li style='box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; color: rgb(51, 51, 51); font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;'><em>If you are an individual in the European Economic Area (EEA) and would like to make a request pursuant to the General Data Protection Regulation (GDPR), <em>click\u0026nbsp;<\/em><a href=\"https:\/\/submit-irm.trustarc.com\/services\/validation\/f3efdcfe-1c07-49b6-96ad-10a792d52082\"><em><span style=\"box-sizing: border-box; background-color: rgb(255, 255, 255);\">here<\/span><\/em><\/a><em>.<\/em><\/em><\/li><li style='box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; color: rgb(51, 51, 51); font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;'><em>If you are a Nevada consumer and would like to make a request pursuant to Nevada Senate Bill 220, <em>clic<span style=\"background-color: rgb(255, 255, 255);\">k\u0026nbsp;<\/span><\/em><em><span style=\"box-sizing: border-box; background-color: rgb(255, 255, 255);\"><a href=\"https:\/\/submit-irm.trustarc.com\/services\/validation\/3b4a34c3-f529-46b1-bafc-954b79909d32\">here<\/a>.<\/span><\/em><\/em><\/li><\/ul><p><em><em style=\"box-sizing: border-box;\">If none of the above describes you, p<\/em><em>lease refer to our <a href=\"https:\/\/www.forbes.com\/privacy\/english\/\" style=\"box-sizing: border-box; background-color: transparent; color: rgb(51, 122, 183); text-decoration: none;\">Privacy Statement<\/a> for more information or contact us at privacy@forbes.com. \u0026nbsp;<\/em><br><\/em><\/p>","type":"static"},"00000000-0000-0000-0000-000000001001":{"removeDefaultNone":false,"sort":false,"type":"select","optionLabels":["Consumer","Website Visitor","Subscriber"],"noneLabel":"--Select an option now--"},"00000000-0000-0000-0000-000000001002":{"type":"name"},"00000000-0000-0000-0000-000000001004":{"removeDefaultNone":false,"sort":false,"type":"select","idToLabelReplacer":"%%%%","optionLabels":["United States","Alaska","Alabama","Arkansas","Arizona","California","Colorado","Connecticut","District of Columbia","Delaware","Florida","Georgia","Hawaii","Iowa","Idaho","Illinois","Indiana","Kansas","Kentucky","Louisiana","Massachusetts","Maryland","Maine","Michigan","Minnesota","Missouri","Mississippi","Montana","North Carolina","North Dakota","Nebraska","New Hampshire","New Jersey","New Mexico","Nevada","New York","Ohio","Oklahoma","Oregon","Pennsylvania","Puerto Rico","Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah","Virginia","Vermont","Washington","Wisconsin","West Virginia","Wyoming"],"noneLabel":"--Select an option now--"},"00000000-0000-0000-0000-000000001005":{"noneLabel":"--Select an option now--","removeDefaultNone":false,"sort":false,"type":"select","optionLabels":["Do Not Sell My Personal Information"],"confirmLabels":["072d7685-a3f8-4c35-98b9-268a37aac7a9"],"confirmMessages":{"072d7685-a3f8-4c35-98b9-268a37aac7a9":{"requestTypeLabel":"Do Not Sell My Personal Information","message":"072d7685-a3f8-4c35-98b9-268a37aac7a9"}}},"14ed7a05-13f7-4396-883c-25bcd00693d7":{"rightLabel":"<p>NOTE: if you are a California resident and would like to opt out of personalized advertising or manage cookies on Forbes.com, please click the \u201CCookies on Forbes\u201D tab on our site. \u0026nbsp;<\/p>","type":"static"},
+7d2c
+"00000000-0000-0000-0000-000000001006":{"type":"textarea"},"00ad067d-5707-4cd9-8988-cb396060c0b6":{"rightLabel":"<p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">We value your privacy and are committed to protecting your personal information. \u0026nbsp;Visit our <a href=\"https:\/\/www.forbes.com\/privacy\/english\/#692365753061\">Privacy Statement<\/a> t<\/span><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">o learn more.<\/span><\/p>","type":"static"},"00000000-0000-0000-0000-000000001007":{"rightLabel":"<p>By submitting this request, I am confirming the following:<\/p><p>(1) <strong>Accuracy<\/strong>: the information I have provided is true and accurate; (2) <strong>TrustArc role<\/strong>: that I understand the service is provided by TrustArc on behalf of Forbes Media LLC (\"Forbes\") and that once TrustArc provides my request to Forbes, TrustArc will not retain a record of my request; (3) <strong>Privacy<\/strong>: that I understand the information will be handled by TrustArc in accordance with its <a href=\"https:\/\/www.trustarc.com\/privacy-policy\/\" target=\"_blank\">Privacy Policy<\/a> and by Forbes in accordance with its <a href=\"https:\/\/www.forbes.com\/privacy\/english\/#692365753061\">Privacy Statement<\/a> (4) <strong>Contact<\/strong>: that Forbes has the right to contact me to verify my identity and to process this request.<\/p>"}}}};
+
+            var hiddenFields = [
+                "accountId",
+                "locale",
+                "authType",
+                "authResponse",
+                "formId",
+                "requestId",
+                "suppValidationId",
+                "sourceWebsite"
+            ];
+            hiddenFields.forEach(function(hiddenField) {
+
+                jsonData.schema.properties[hiddenField] = {
+                    type : "string",
+                };
+                jsonData.options.fields[hiddenField] = {
+                    type : "hidden"
+                };
+            });
+            jsonData.schema.properties.accountId.default = "f3c1ec09-1d62-4313-862d-24c5ae4672d7";
+            jsonData.schema.properties.locale.default = locale;
+            jsonData.schema.properties.formId.default = formId;
+            jsonData.schema.properties.requestId.default = requestId;
+            jsonData.schema.properties.suppValidationId.default = suppValidationId;
+            jsonData.schema.properties.authResponse.default = 'no-token';
+            jsonData.schema.properties.authType.default = authType;
+            jsonData.schema.properties.sourceWebsite.default = sourceWebsite;
+            jsonData.options.form.buttons.submit.click = initSubmit;
+
+            if( jsonData.view.layout && jsonData.view.layout.bindings ) {
+                jsonData.view.layout.bindings.accountId = 'column-1';
+                jsonData.view.layout.bindings.locale = 'column-1';
+                jsonData.view.layout.bindings.formId = 'column-1';
+                jsonData.view.layout.bindings.requestId = 'column-1';
+                jsonData.view.layout.bindings.suppValidationId = 'column-1';
+                jsonData.view.layout.bindings.authResponse = 'column-1';
+                jsonData.view.layout.bindings.authType = 'column-1';
+                jsonData.view.layout.bindings.sourceWebsite = 'column-1';
+            }
+
+            jsonData.postRender = postRenderer;
+
+            if(jsonData.view.layout && jsonData.view.layout.template){
+                jsonData.view.layout.template = appendBuildVersionQueryParam(jsonData.view.layout.template);
+            }
+
+            if(jsonData.view.fields){
+                for (var fieldKey in jsonData.view.fields){
+                    var field = jsonData.view.fields[fieldKey];
+
+                    if(field && field.templates){
+                        for (var templateKey in field.templates){
+                            var template = field.templates[templateKey];
+                            field.templates[templateKey] = appendBuildVersionQueryParam(template);
+                        }
+                    }
+                }
+            }
+
+            jsonData.view.locale = locale;
+            jsonData.view.messages[locale] = {
+                "invalidEmail": jsonData.view.messages.invalidEmail
+            }
+
+            // Buttons doesn't work
+            if (noSubmit) {
+                for (var button in jsonData.options.form.buttons) {
+
+                    jsonData.options.form.buttons[button].click = function() {
+                        window.alert("Test Mode");
+                        return;
+                    }
+                }
+            }
+
+            // Date Locales
+            for (var keyId in jsonData.schema.properties) {
+                var schemaProps = jsonData.schema.properties[keyId];
+                var optionProps = jsonData.options.fields[keyId];
+                if (schemaProps.format === 'date') {
+                    if (!("picker" in optionProps)) {
+                        optionProps.picker = {};
+                    }
+                    optionProps.picker.locale = locale;
+                }
+            }
+
+            if(!jsonData.options.header.showCompanyName){
+                jsonData.schema.title = null;
+            }
+
+            //Disable autofocus on the first input field
+            jsonData.options.focus = "";
+
+            $("#form1").alpaca(jsonData);
+        }
+
+        function submitMethod(alpaca) {
+
+            if (authType == 'GOOGLE_V3') {
+                grecaptcha.ready(function () {
+                    grecaptcha.execute("6LdSn6gUAAAAAKZ5SiEQ8PdCUOgV9sf1ei4utXrB", {action: 'homepage'}).then(function (token) {
+                        console.log("Google Token: " + token);
+                        var formData = alpaca.getValue();
+                        formData.authResponse = token;
+                        alpaca.setValue(formData);
+
+                        //postmessage submit
+                        parentPostMessage({
+                            source: "trustarc_irm",
+                            message: "submit",
+                            data: ""
+                        });
+
+                        alpaca.form.find("textarea.g-recaptcha-response").remove();
+                        alpaca.submit();
+                    });
+                });
+            }else if (authType == 'TRUSTARC') {
+
+                var formData = alpaca.getValue();
+                formData.authResponse = trustarc.__token;
+
+                Object.keys(trustarc.__data).forEach(function(key) {
+                    let value = trustarc.__data[key];
+
+                    if (key && value) {
+                        if (!(key in formData) && alpaca.isValid(true)) {
+                            var input = $('<input name="' + key + '" style="display: none;">')
+                            input.val(value);
+                            alpaca.getFormEl().append(input);
+                        }
+                        formData[key] = value;
+                    }
+                });
+                alpaca.setValue(formData);
+
+                //postmessage submit
+                parentPostMessage({
+                    source: "trustarc_irm",
+                    message: "submit",
+                    data: ""
+                });
+
+                alpaca.submit();
+            }
+        }
+
+        function parentPostMessage(data) {
+            window.parent.postMessage(JSON.stringify(data), '*');
+        }
+
+        function initModal(alpaca){
+
+            $("#modal-btn-confirm").on("click", function(){
+                submitMethod(alpaca);
+                $("#mi-modal").modal('hide');
+            });
+
+            $("#modal-btn-cancel").on("click", function(){
+                $("#mi-modal").modal('hide');
+            });
+
+            $("#mi-modal").modal('show');
+
+            //TODO: Find better way for late binding
+            var confirmLabel = nullSafeGet(['00000000-0000-0000-0000-000000001005'], alpaca.getValue());
+            var confirmMessage =  nullSafeGet(['options', 'fields', '00000000-0000-0000-0000-000000001005', 'confirmMessages', confirmLabel, 'message'], alpaca.topControl);
+            var requestTypeLabel =  nullSafeGet(['options', 'fields', '00000000-0000-0000-0000-000000001005', 'confirmMessages', confirmLabel, 'requestTypeLabel'], alpaca.topControl);
+            confirmMessage = confirmMessage.replace('\[\[\$\{requestType\}\]\]', requestTypeLabel);
+            $("#confirmMessage").html(confirmMessage);
+
+        };
+
+        function initSubmit(event, alpacaForm) {
+            var alpaca = !alpacaForm ? this : alpacaForm;
+
+            // Disable all upload File Hidden Field, so it wont be sent on submit
+            document.querySelectorAll(".uploadFileHiddenField").forEach(function(item) {
+                item.disabled = true;
+            });
+
+            if (hasConfirm(alpaca)) {
+                initModal(alpaca);
+            }else {
+                submitMethod(alpaca);
+            }
+        }
+
+        function hasConfirm(alpaca) {
+            var conLabels = nullSafeGet(['options', 'fields', '00000000-0000-0000-0000-000000001005', 'confirmLabels'], alpaca.topControl);
+            var reqValue = nullSafeGet(['00000000-0000-0000-0000-000000001005'], alpaca.getValue());
+
+            if (conLabels && conLabels.includes(reqValue)) {
+                var reqIds = nullSafeGet(['schema', 'properties', '00000000-0000-0000-0000-000000001005', 'enum'], alpaca.topControl);
+                var reqVals = nullSafeGet(['options', 'fields', '00000000-0000-0000-0000-000000001005', 'optionLabels'], alpaca.topControl);
+                if (reqIds && reqVals && reqIds.length == reqVals.length) {
+                    var reqIndex = reqIds.indexOf(reqValue);
+                    if (reqIndex != -1) {
+                        $('#requestTypeName').html(reqVals[reqIndex]);
+                        return true;
+                    }
+                }
+            }
+
+            return false;
+        }
+
+        function postRenderer(control) {
+            $('.alpaca-required-indicator').html(('<sup class="alpaca-icon-required glyphicon glyphicon-asterisk intake-color-red"></sup>'));
+
+            //WCAG 2 Compliance
+            var count=1;
+            $('#form1 a').each(function(){
+                var newId = 'tr-a-link-' + count++;
+                var label = $("<label>").attr('id', newId);
+                label.attr('hidden', true);
+                label.html(newId);
+                $(this).append(label);
+                $(this).attr('aria-labelledby', 'form1 ' + newId);
+            });
+
+            if (authType == 'TRUSTARC') {
+                control.domEl.find('.alpaca-form-button').each(function() {
+                    $(this).attr('style','display: none');
+                });
+            }
+
+            var rootKeys = processDynamics(control);
+            initFields(control, rootKeys);
+
+            // Reconfigure reset BUG in library
+            control.form.domEl.find('button[data-key="reset"]').click(function(e){
+                e.preventDefault();
+                control.children.forEach(function(childElem){
+                    childElem.clear();
+                    hideErrors(childElem);
+                });
+
+                initFields(control, rootKeys);
+            });
+
+            onRecaptchaLoadCallback();
+        }
+
+        function processDynamics(control, rootKeys) {
+            var dynamics = control.options.dynamics || {};
+            var triggCnt = 0;
+            var rootKeys = Object.keys(dynamics);
+            Object.keys(dynamics).forEach(function (dynKey) {
+
+                var triggerID = "" + triggCnt;
+                var dynElem = dynamics[dynKey];
+                var dynCtrl = control.childrenByPropertyId[dynKey];
+                var triggers = dynElem.triggers || [];
+                dynElem.triggerCalls = [];
+
+                triggers.forEach(function (trigger) {
+
+                    trigger.actionCalls = [];
+                    trigger.show = function (isShown, currActionMap) {
+                        trigger.actionCalls.forEach(function(triggerCall){
+
+                            if (currActionMap) {
+                                if (!currActionMap[triggerCall.id]) {
+                                    currActionMap[triggerCall.id] = isShown;
+                                }else {
+                                    // An isShown(true) action is already in effect
+                                    return;
+                                }
+                            }
+                            triggerCall.show(isShown);
+
+                            var target = control.childrenByPropertyId[triggerCall.id];
+                            if (target !== undefined && target.dynamicTrigger !== undefined) {
+                                target.dynamicTrigger();
+                            }
+                        });
+                    };
+
+                    var actions = trigger.actions || {};
+                    if (trigger.type == 'SHOW_FIELDS') {
+                        Object.keys(actions).forEach(function (actionKey) {
+                            var elemCtrl = control.childrenByPropertyId[actionKey];
+                            trigger.actionCalls.push({
+                                id: actionKey,
+                                show: function(isShown) {
+
+                                    // null means processing is not needed, so hide it
+                                    if (isShown == null) {
+                                        elemCtrl.hide();
+                                        elemCtrl.disable();
+                                        return;
+                                    }
+
+                                    // process
+                                    if (isShown) {
+                                        elemCtrl.show();
+                                        elemCtrl.enable();
+                                    }else {
+                                        elemCtrl.hide();
+                                        elemCtrl.disable();
+
+                                        var field = control.childrenById[elemCtrl.id];
+                                        field.setValue('');
+                                    }
+                                }
+                            });
+                        });
+                    }else if (trigger.type = 'SHOW_OPTIONS') {
+                        Object.keys(actions).forEach(function (actionKey) {
+                            var action = actions[actionKey];
+                            var acValues = action.values || [];
+                            var elemCtrl = control.childrenByPropertyId[actionKey];
+                            if (!elemCtrl.showOptionArray) {
+                                elemCtrl.showOptionArray = {};
+                            }
+
+                            elemCtrl.containerItemEl.find('option').each(function(){
+                                var elVal = $(this).attr('value');
+                                if (!elemCtrl.showOptionArray[elVal]) {
+                                    elemCtrl.showOptionArray[elVal] = {};
+                                }
+                                var hasClass = !$(this).hasClass('locationGroup');
+                                elemCtrl.showOptionArray[elVal][triggerID] = hasClass;
+                            });
+
+                            trigger.actionCalls.push({
+                                id: actionKey,
+                                show: function(isShown) {
+
+                                    // null means processing is not needed
+                                    if (isShown == null) {
+                                        return;
+                                    }
+
+                                    //process
+                                    elemCtrl.containerItemEl.find('option').each(function(){
+                                        var elVal = $(this).attr('value');
+                                        if (elVal) {
+                                            if (isShown) {
+                                                elemCtrl.showOptionArray[elVal][triggerID] = acValues.includes(elVal);
+                                            }else {
+                                                elemCtrl.showOptionArray[elVal][triggerID] = !$(this).hasClass('locationGroup');
+                                            }
+                                        }
+                                    });
+
+                                    Object.keys(elemCtrl.showOptionArray).forEach(function(elVal) {
+                                        var retShown = true;
+                                        Object.keys(elemCtrl.showOptionArray[elVal]).forEach(function(triggerID) {
+                                            if (retShown && !elemCtrl.showOptionArray[elVal][triggerID]) {
+                                                retShown = false;
+                                            }
+                                        });
+
+                                        elemCtrl.containerItemEl.find('option[value="' + elVal +'"]').each(function(){
+                                            if (retShown) {
+                                                if(!$(this).hasClass('locationGroup')){
+                                                    $(this).removeAttr('disabled');
+                                                }
+                                                $(this).removeClass('hiddenByRule');
+                                            }else {
+                                                if((!acValues.includes(elVal))){
+                                                    $(this).addClass('hiddenByRule');
+                                                }else if($(this).hasClass('locationGroup')){
+                                                    $(this).attr('disabled', 'true');
+                                                }
+                                                if (elemCtrl.getValue() === this.value) {
+                                                    elemCtrl.clear();
+                                                }
+                                            }
+                                        });
+                                    });
+
+                                    /**************************************************************
+                                     * This may be removed since the issue it's fixing, IRM2-4797,
+                                     * isn't a valid scenario anymore based on IRM2-5321
+                                     * select-tree.html should also be reverted
+                                     * also revert changes for IRM2-5219 if needed
+                                     * ************************************************************/
+                                    Object.keys(elemCtrl.showOptionArray).forEach(function(elVal) {
+                                        var stateGroup = elVal + '_';
+                                        var stateCount = elemCtrl.containerItemEl.find('option[value^="' + stateGroup +'"]').length;
+                                        var hiddenStatesCount = elemCtrl.containerItemEl.find('option[value^="' + stateGroup +'"].hiddenByRule').length;
+                                        var currEl = elemCtrl.containerItemEl.find('option[value="' + elVal +'"]');
+
+
+                                        if(currEl.hasClass('locationGroup') &&
+                                            stateCount === 0 ||
+                                            stateCount !== hiddenStatesCount){
+                                            currEl.removeClass('hiddenByRule');
+                                        }
+                                    });
+                                }
+                            });
+                        });
+                    }
+
+                    Object.keys(actions).forEach(function (actionKey) {
+                        var target = dynamics[actionKey];
+                        if (target !== undefined) {
+                            const index = rootKeys.indexOf(actionKey);
+                            if (index > -1) {
+                                rootKeys.splice(index, 1);
+                            }
+                        }
+                    });
+
+                    dynElem.triggerCalls.push({
+                        show: function(isShown, currActionMap) {
+                            trigger.show(isShown, currActionMap);
+                        },
+                        match: function(fieldElem) {
+
+                            var isShown = false;
+                            var value = fieldElem.getValue();
+                            if (!fieldElem.isVisible() && fieldElem.forceTrigger === false) {
+                                // If field is not visible
+                                isShown = null;
+                            }else if (typeof value === "array") {
+                                for (let sel in this.data) {
+                                    if (isShown = matchesCondition(fieldElem.data[sel].value, trigger.condition)) {
+                                        break;
+                                    }
+                                }
+                            }else if (typeof value === "boolean") {
+                                isShown = matchesCondition("" + value, trigger.condition);
+                            }else {
+                                isShown = matchesCondition(value, trigger.condition);
+                            }
+                            return isShown;
+                        }
+                    });
+                    // Increase trigger counter
+                    triggCnt++;
+                });
+
+                // Set the trigger event function
+                dynCtrl.dynamicTrigger = function() {
+
+                    var self = this;
+                    var currActionMap = {};
+                    dynElem.triggerCalls.forEach(function(triggerCall){
+                        var isShown = triggerCall.match(self);
+                        triggerCall.show(isShown, currActionMap);
+                    });
+                }
+            });
+
+            return rootKeys;
+        }
+
+        function initFields(control, rootKeys) {
+
+            //initial call (parent fields only)
+            for (let i=0; i < rootKeys.length; i++) {
+                let rootKey = rootKeys[i];
+                var dynElem = control.childrenByPropertyId[rootKey];
+                dynElem.dynamicTrigger();
+            }
+        }
+
+        function matchesCondition(key, condition) {
+            if (condition.type == 'OR') {
+                return condition.values.includes(key);
+            }
+
+            return false;
+        }
+
+        document.addEventListener("DOMContentLoaded", function(event) {
+            if(!isCookieAllowed()) {
+                var href = window.location.href;
+                var headerMessage = "Cookie is blocked";
+                var iframeMessage = "We see that third-party cookies are blocked. You must enable third-party cookies in your browser and refresh the page, or click <a href=https:\/\/submit-irm.trustarc.com\/services\/validation\/805d1596-d973-4d98-ad80-099661a0900c target=_blank>here<\/a> to fill out and submit the form data."
+                    "You must enable third-party cookies in your browser and refresh the page, or click <a href='" + href+ "' target='_blank'>here</a> " +
+                    "to fill out and submit the form data.";
+                var blockedMessage = "We see that cookies are blocked. You must enable cookies in your browser and refresh the page to submit the form data."
+                    "You must enable cookies in your browser and refresh the page to submit the form data.";
+
+                $(".error-title").append(headerMessage);
+                if(inIframe()) {
+                    $(".error-description").append(iframeMessage);
+                } else {
+                    $(".error-description").append(blockedMessage);
+                }
+                $("body").css('width','100%');
+                $("body").css('height','100%');
+                $("body").css('margin','auto');
+                $("html").css('width','100%');
+                $("html").css('height','100%');
+                $("html").css('margin','auto');
+                $(".container").css('display','none');
+                $(".modal").css('display','none');
+                $(".cookie-error").css('display','');
+                onRecaptchaLoadCallback();
+                return;
+            }
+            Handlebars.registerHelper('ifOptStart', function (index, array, options) {
+
+                var child = quiteGetAt(array, index+1);
+                var parent = quiteGetAt(array, index);
+                if (child && parent && child.value.length > parent.value.length) {
+                    return options.fn(this);
+                }
+                return options.inverse(this);
+            });
+
+            Handlebars.registerHelper('ifOptEnd', function(index, array, options) {
+
+                var child = quiteGetAt(array, index+1);
+                var parent = quiteGetAt(array, index);
+                if ((child == null && parent && parent.value.length >= 5) ||
+                    (child && parent && child.value.length < parent.value.length)) {
+                    return options.fn(this);
+                }
+                return options.inverse(this);
+            });
+
+            Handlebars.registerHelper('ifSubOption', function(index, array, options) {
+                var child = quiteGetAt(array, index);
+                for(var x = 0 ; x < array.length ; x++){
+                    if(child.value.startsWith(array[x].value) && child.value !== array[x].value){
+                        return options.fn(this);
+                     }
+                }
+                return options.inverse(this);
+            });
+
+            Handlebars.registerHelper('ifROptStart', function(index, array, options) {
+
+                var child = quiteGetAt(array, index+1);
+                var parent = quiteGetAt(array, index);
+                if (child && parent && child.value.length > parent.value.length) {
+                    return options.fn(this);
+                }
+                return options.inverse(this);
+            });
+
+            Handlebars.registerHelper('ifROptEnd', function(index, array, options) {
+
+                var child = quiteGetAt(array, index+1);
+                var parent = quiteGetAt(array, index);
+                if ((child == null && parent && parent.value.length >= 36) ||
+                    (child && parent && child.value.length < parent.value.length)) {
+                    return options.fn(this);
+                }
+                return options.inverse(this);
+            });
+
+            Handlebars.registerHelper('ifEquals', function(val1, val2, options) {
+
+                return (val1 === val2) ? options.fn(this): options.inverse(this);
+            });
+
+            Handlebars.registerHelper('convertToMB', function(item) {
+
+                return convertToMB(item);
+            });
+
+            init();
+
+        });
+
+        function quiteGetAt(array, index) {
+            if (index < 0 || array.length <= index) return null;
+            return array[index];
+        }
+
+        function wrapText(str, length) {
+
+            if (length <= 6 ) return str;
+
+            if (str.length > length) {
+                var dot = str.lastIndexOf(".");
+                dot = (dot == -1) ? length-3 : dot;
+                var extStr = str.substr(dot)
+                return str.substr(0, length-3-extStr.length) + "..." + extStr;
+            }
+
+            return str;
+        }
+
+        function convertToMB(byteSize) {
+            return byteSize / Math.pow(1024,2)
+        }
+
+        function appendBuildVersionQueryParam(str){
+            if(!str || typeof str !== "string"){
+                return str;
+            }
+
+            if(str.length > 0 && '?' !== str[str.length - 1]){
+                str = str + '?';
+            }
+
+            return str + "v=2.25.66";
+        }
+
+        function validateOptionalMultiValuesBaseCheck(elem){
+            return validateOptionalBaseCheck(elem, getMultiValueInputFields(elem));
+        }
+
+        function getMultiValueInputFields(elem) {
+            return elem.domEl
+                .find('.multi-value-pane')
+                .find("input[type='" + elem.inputType + "']");
+        }
+
+        function validateOptionalBaseCheck(self, fields){
+
+            var hasValueFunc = function() {
+                return $(this).val();
+            };
+
+            if (self.isRequired() && getFieldsFilterLength(fields, hasValueFunc) != fields.length) {
+                return false;
+            }
+
+            var matchesWhiteSpaceFunc = function() {
+                return Alpaca.testRegex(Alpaca.regexps.whitespace, $(this).val());
+            };
+
+            if (self.options.disallowOnlyEmptySpaces && getFieldsFilterLength(fields, matchesWhiteSpaceFunc) > 0) {
+                return false;
+            }
+
+            return true;
+        }
+
+        function getFieldsFilterLength(fields, func) {
+            return (fields.filter(func).get()).length;
+        }
+
+        function isCookieAllowed() {
+            let hostProto  = "https";
+
+            let cookieName = 'irmTestCookie';
+            let cookieValue = 'trustarcTestCookie=' + cookieName;
+
+            if(hostProto !== 'http'){
+                cookieValue += '; samesite=None; secure';
+            }
+
+            document.cookie = cookieValue;
+
+            return document.cookie.indexOf(cookieName) !== -1;
+        }
+
+        function inIframe () {
+            try {
+                return window.self !== window.top;
+            } catch (e) {
+                return true;
+            }
+        }
+
+        function hideErrors(element) {
+            var self = element.getFieldEl();
+
+            self.removeClass('has-error');
+            self.children(".alpaca-message").remove();
+        }
+    </script>
+</head>
+<body>
+    <section class="ta-wrapper cookie-error" style="display:none;">
+        <div class="ta-content">
+            <div class="ta-body">
+                <div class="title error-title" >
+                </div>
+                <div class="description error-description" >
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container">
+        <div class="col-md-12 col-md-offset-1">
+            <div id="form1" class="col-md-8 col-md-offset-1"></div>
+        </div>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" id="mi-modal">
+        <div class="modal-dialog modal-m">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h1 class="modal-title text-center" id="myModalLabel">Request Confirmation</h1>
+                </div>
+                <div class="modal-body confirmation-body" id="confirmMessage"></div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default pull-left" id="modal-btn-cancel">Cancel</button>
+                    <button type="button" class="btn btn-primary pull-right" id="modal-btn-confirm">Confirm</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+0
+

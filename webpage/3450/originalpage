@@ -1,0 +1,1561 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<script>
+	  dataLayer = [];
+	</script>
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P7XMSF4');</script>
+<!-- End Google Tag Manager -->
+
+	<link rel="apple-touch-icon" sizes="180x180" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/favicon-16x16.png">
+	<link rel="shortcut icon" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/favicon.ico" />
+	<link rel="manifest" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/manifest.json">
+	<link rel="mask-icon" href="https://pulse2.com/wp-content/themes/pulse2/images/icons/safari-pinned-tab.svg" color="#244149">
+	<meta name="msapplication-TileColor" content="#244149">
+	<meta name="msapplication-config" content="https://pulse2.com/wp-content/themes/pulse2/images/icons/browserconfig.xml" /> 
+	
+	<title>Enterprise | Pulse 2.0</title>
+
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://pulse2.com/enterprise/" />
+	<link rel="next" href="https://pulse2.com/enterprise/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Enterprise | Pulse 2.0" />
+	<meta property="og:url" content="https://pulse2.com/enterprise/" />
+	<meta property="og:site_name" content="Pulse 2.0" />
+	<meta property="og:image" content="https://cdn.pulse2.com/cdn/2019/06/pulse2-logo.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@pulse2news" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://pulse2.com/#organization","name":"Pulse 2.0","url":"https://pulse2.com/","sameAs":["https://www.facebook.com/pulse2news/","https://www.linkedin.com/company/pulse2news/","https://twitter.com/pulse2news"],"logo":{"@type":"ImageObject","@id":"https://pulse2.com/#logo","inLanguage":"en-US","url":"https://cdn.pulse2.com/cdn/2018/06/19164358/logo.png","width":409,"height":70,"caption":"Pulse 2.0"},"image":{"@id":"https://pulse2.com/#logo"}},{"@type":"WebSite","@id":"https://pulse2.com/#website","url":"https://pulse2.com/","name":"Pulse 2.0","description":"Technology &amp; Business News","publisher":{"@id":"https://pulse2.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://pulse2.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://pulse2.com/enterprise/#webpage","url":"https://pulse2.com/enterprise/","name":"Enterprise | Pulse 2.0","isPartOf":{"@id":"https://pulse2.com/#website"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://pulse2.com/enterprise/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Pulse 2.0 &raquo; Enterprise Category Feed" href="https://pulse2.com/enterprise/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://pulse2.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='aawp-styles-css'  href='https://pulse2.com/wp-content/plugins/aawp/public/assets/css/styles.min.css?ver=3.14.3' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://pulse2.com/wp-json/" /><link rel="alternate" type="application/json" href="https://pulse2.com/wp-json/wp/v2/categories/15" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pulse2.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pulse2.com/wp-includes/wlwmanifest.xml" /> 
+<style type="text/css">.aawp .aawp-tb__row--highlight{background-color:#256aaf;}.aawp .aawp-tb__row--highlight{color:#fff;}.aawp .aawp-tb__row--highlight a{color:#fff;}</style><style type='text/css'>img#wpstats{display:none}</style><!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://cdn.pulse2.com/cdn/2018/11/cropped-p2icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cdn.pulse2.com/cdn/2018/11/cropped-p2icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cdn.pulse2.com/cdn/2018/11/cropped-p2icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cdn.pulse2.com/cdn/2018/11/cropped-p2icon-270x270.png" />
+
+	<link href="https://pulse2.com/wp-content/themes/pulse2/css/bootstrap.min.css?v=3.4.1" rel="stylesheet">
+	<link href="https://pulse2.com/wp-content/themes/pulse2/style.css?v=9.6" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700" rel="stylesheet">
+	<script src="https://pulse2.com/wp-content/themes/pulse2/js/jquery.js"></script>	
+	<script src="https://pulse2.com/wp-content/themes/pulse2/js/plugins/waypoints/noframework.waypoints.min.js"></script>
+	
+	<link href="https://pulse2.com/wp-content/themes/pulse2/icon-fonts/pulse2.css" rel="stylesheet">
+		
+	
+	<script>var publirShowSticky="no";</script>
+	<script src='//a.publir.com/platform/388.js' async='async'></script>
+	<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	</script>		
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7XMSF4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="page-header">
+		<nav class="navbar" id="slide-nav">
+			<div class="container">
+				<div class="navbar-header">
+					<div class="header-top">
+
+						<div class="row">
+							<div class="col-xs-2">
+							</div>
+							<div class="col-xs-8 text-center">
+								<div class="logo">
+									<a title="Pulse 2.0" href="https://pulse2.com"><img src="https://pulse2.com/wp-content/themes/pulse2/images/logo.png" alt="Pulse 2.0">
+									</a>
+								</div>
+							</div>
+							<div class="col-xs-2">
+								<a href="#" class="mobile-search p2-search hidden-lg hidden-md hidden-sm"><i class="icon-search"></i></i></a>
+							</div>
+
+						</div>
+					</div>
+					<button type="button" class="navbar-toggle"><i class="icon icon-menu"></i><i class="icon icon-cancel-circled icon-cancel"></i></button>
+				</div>
+				<div id="slidemenu" data-hover="dropdown" data-animations="fadeIn">
+					<ul id="nav navbar-nav" class="nav navbar-nav"><li id="menu-item-127544" class="p2-home-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-127544"><a href="https://pulse2.com/"><i class="icon icon-home"></i></a></li>
+<li id="menu-item-116245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-116245"><a href="https://pulse2.com/innovation/">Innovation</a></li>
+<li id="menu-item-129319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-129319"><a href="https://pulse2.com/venture-capital/">Funding</a></li>
+<li id="menu-item-116246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-116246"><a href="https://pulse2.com/startups/">Startups</a></li>
+<li id="menu-item-115520" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-115520"><a href="https://pulse2.com/enterprise/" aria-current="page">Enterprise</a></li>
+<li id="menu-item-145397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145397"><a href="https://pulse2.com/advertise-with-us/">Partner With Us</a></li>
+<li id="menu-item-127545" class="p2-search menu-item menu-item-type-custom menu-item-object-custom menu-item-127545"><a title="Search" href="https://pulse2.com#"><i class="icon icon-search"></i></a></li>
+</ul>				</div>
+			</div>
+		</nav>		
+	</header>
+
+<div id="pulse2-search-box" class="search-overlay" style="display: none;">
+  <span class="closebtn" onclick="closeSearch()" title="Close">×</span>
+  <div class="search-overlay-content">
+  <span class="search-title">Search Pulse 2.0</span>
+    <form action="https://pulse2.com/">
+      <input id="search-input" type="text" placeholder="" name="s" required pattern=".*\S+.*" title="This field is required">
+      <button type="submit"><i class="icon-search"></i></button>
+    </form>
+  </div>
+</div>	
+<div class='container'>
+	<div class='row'>
+<div id='p2_Leaderboard' class='ad-code p2_Leaderboard mt-20'>
+<div id='div-gpt-ad-1589216617914-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589216617914-0'); });
+</script>
+</div>
+		</div>
+	</div>
+</div>
+<div class="container">
+
+	<div class="main-section-header">
+			<h1>Enterprise</h1>
+		</div>
+	</div>
+
+		<!-- Content  -->
+	<div id="page-content">
+
+			<div class="container mt-30">
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165398">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/intc-stock-price-nasdaq-intel-increases-over-3-pre-market-why-it-happened/" title="INTC Stock Price Increases Over 3% Pre-Market: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2020/10/Intel-Headquarters-feat-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/intc-stock-price-nasdaq-intel-increases-over-3-pre-market-why-it-happened/" title="INTC Stock Price Increases Over 3% Pre-Market: Why It Happened"><h3> INTC Stock Price Increases Over 3% Pre-Market: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 24, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Intel Corporation (NASDAQ: INTC) has increased by over 3% pre-market. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165317">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/lumu-raises-7-5-million/" title="Continuous Compromise Assessment Cybersecurity Company Lumu Raises $7.5 Million">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Lumu-300x200.png">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/lumu-raises-7-5-million/" title="Continuous Compromise Assessment Cybersecurity Company Lumu Raises $7.5 Million"><h3> Continuous Compromise Assessment Cybersecurity Company Lumu Raises $7.5 Million</h3></a>
+
+					<span class="the-date">By Noah Long ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Lumu — the creators of the Continuous Compromise Assessment cybersecurity model — announced recently that it has closed its Series A round of funding for the amount of $7.5 million. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165318">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/corvus-insurance-100-million-series-c-funding-and-750-million-valuation/" title="Corvus Insurance: $100 Million Series C Funding And $750 Million Valuation">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Corvus-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/corvus-insurance-100-million-series-c-funding-and-750-million-valuation/" title="Corvus Insurance: $100 Million Series C Funding And $750 Million Valuation"><h3> Corvus Insurance: $100 Million Series C Funding And $750 Million Valuation</h3></a>
+
+					<span class="the-date">By Dan Anderson ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Corvus Insurance — the leading provider of smart commercial insurance products powered by AI-driven risk data —announced it has secured $100 million in Series C funding at a $750 million valuation. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165316">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/diagnostic-testing-leader-ixlayer-raises-75-million/" title="Diagnostic Testing Leader ixlayer Raises $75 Million">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/ixlayer-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/diagnostic-testing-leader-ixlayer-raises-75-million/" title="Diagnostic Testing Leader ixlayer Raises $75 Million"><h3> Diagnostic Testing Leader ixlayer Raises $75 Million</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">ixlayer — a leader in technology-based solutions for diagnostic testing — announced recently that it raised $75 million in an oversubscribed Series A funding round. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+				<div id='P2_Window' class='ad-code-clear'>
+<div id='div-gpt-ad-1589216343095-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589216343095-0'); });
+</script>
+</div>
+</div>				
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165312">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/cyber-insurance-provider-cowbell-cyber-20-million/" title="Cyber Insurance Provider Cowbell Cyber Secures $20 Million">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Cowbell-Cyber-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/cyber-insurance-provider-cowbell-cyber-20-million/" title="Cyber Insurance Provider Cowbell Cyber Secures $20 Million"><h3> Cyber Insurance Provider Cowbell Cyber Secures $20 Million</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Cowbell Cyber announced it closed a $20 million Series A funding round to scale its offering for continuous underwriting and closed-loop risk management. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165308">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/hi-marley-raises-25-million-in-series-b/" title="Insurance Communication Platform Hi Marley Raises $25 Million In Series B">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Hi-Marley-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/hi-marley-raises-25-million-in-series-b/" title="Insurance Communication Platform Hi Marley Raises $25 Million In Series B"><h3> Insurance Communication Platform Hi Marley Raises $25 Million In Series B</h3></a>
+
+					<span class="the-date">By Dan Anderson ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Hi Marley announced recently that it closed a $25 million Series B funding round. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165303">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/blockfi-350-million-series-d-funding-and-3-billion-valuation/" title="BlockFi: $350 Million Series D Funding And $3 Billion Valuation">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/BlockFi-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/blockfi-350-million-series-d-funding-and-3-billion-valuation/" title="BlockFi: $350 Million Series D Funding And $3 Billion Valuation"><h3> BlockFi: $350 Million Series D Funding And $3 Billion Valuation</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">BlockFi announced recently that it completed a $300 million Series D round of funding at a $3 billion valuation. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165300">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/business-upskilling-company-section4-raises-30-million/" title="Business Upskilling Company Section4 Raises $30 Million">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Section4-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/business-upskilling-company-section4-raises-30-million/" title="Business Upskilling Company Section4 Raises $30 Million"><h3> Business Upskilling Company Section4 Raises $30 Million</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Section4 — the leading platform in business upskilling — announced a $30 million Series A led by General Catalyst with participation from Learn Capital and GSV Ventures. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+				<div id='P2_Window' class='ad-code-clear'>
+<div id='div-gpt-ad-1589216543897-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589216543897-0'); });
+</script>
+</div>
+</div>				
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165297">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/snyk-300-million-funding-and-4-7-billion-valuation/" title="Snyk: $300 Million Funding And $4.7 Billion Valuation">
+			<img src="https://cdn.pulse2.com/cdn/2020/09/Snyk-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/snyk-300-million-funding-and-4-7-billion-valuation/" title="Snyk: $300 Million Funding And $4.7 Billion Valuation"><h3> Snyk: $300 Million Funding And $4.7 Billion Valuation</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Snyk — the leader in cloud-native application security — recently announced that the company has closed a Series E financing round totaling $300 million. This funding round was at a $4.7 billion valuation.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165289">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/pathlock-closes-20-million-in-funding/" title="Unified Access Orchestration Company Pathlock Closes $20 Million In Funding">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Pathlock-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/pathlock-closes-20-million-in-funding/" title="Unified Access Orchestration Company Pathlock Closes $20 Million In Funding"><h3> Unified Access Orchestration Company Pathlock Closes $20 Million In Funding</h3></a>
+
+					<span class="the-date">By Noah Long ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Pathlock (formerly Greenlight Technologies) - the leading provider of unified access orchestration - recently announced the closing of a strategic growth investment of $20 million by Vertica Capital Partners. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165282">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/aqua-security-135-million-in-series-e-funding-and-1-billion-valuation/" title="Aqua Security: $135 Million In Series E Funding And $1 Billion Valuation">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Aqua-Security-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/aqua-security-135-million-in-series-e-funding-and-1-billion-valuation/" title="Aqua Security: $135 Million In Series E Funding And $1 Billion Valuation"><h3> Aqua Security: $135 Million In Series E Funding And $1 Billion Valuation</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Aqua Security — a cloud-native security leader — announced it has completed a $135 million Series E round of funding led by ION Crossover Partners. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165277">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/real-time-video-and-audio-developer-daily-raises-15-million/" title="Real-Time Video And Audio Developer Daily Raises $15 Million">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Daily-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/real-time-video-and-audio-developer-daily-raises-15-million/" title="Real-Time Video And Audio Developer Daily Raises $15 Million"><h3> Real-Time Video And Audio Developer Daily Raises $15 Million</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Daily — a leading real-time video and audio developer platform — announced that it has raised its $15M Series A led by Lachy Groom. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+				<div id='P2_Window' class='ad-code-clear'>
+<div id='div-gpt-ad-1589216385855-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589216385855-0'); });
+</script>
+</div>
+</div>				
+								
+								
+				
+												<div class="row mb-30" id="post-165274">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/securonix-raises-24-million-from-capital-one-ventures/" title="Securonix Raises $24 Million From Capital One Ventures">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Securonix-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/securonix-raises-24-million-from-capital-one-ventures/" title="Securonix Raises $24 Million From Capital One Ventures"><h3> Securonix Raises $24 Million From Capital One Ventures</h3></a>
+
+					<span class="the-date">By Noah Long ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Securonix — a leader in Next-Gen SIEM — announced it has raised $24 million in funding from Capital One Ventures as part of a strategic partnership. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165269">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/saas-buying-platform-vendr-secures-60-million/" title="SaaS Buying Platform Vendr Secures $60 Million">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Vendr-300x200.png">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/saas-buying-platform-vendr-secures-60-million/" title="SaaS Buying Platform Vendr Secures $60 Million"><h3> SaaS Buying Platform Vendr Secures $60 Million</h3></a>
+
+					<span class="the-date">By Annie Baker ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">SaaS buying platform Vendr recently announced it raised a $60 million Series A round of funding led by Tiger Global Management. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165226">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/banc-of-california-banc-buying-pacific-mercantile-bancorp-pmbc-in-235-million-deal/" title="Banc of California (BANC) Buying Pacific Mercantile Bancorp (PMBC) In $235 Million Deal">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Banc-of-California-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/banc-of-california-banc-buying-pacific-mercantile-bancorp-pmbc-in-235-million-deal/" title="Banc of California (BANC) Buying Pacific Mercantile Bancorp (PMBC) In $235 Million Deal"><h3> Banc of California (BANC) Buying Pacific Mercantile Bancorp (PMBC) In $235 Million Deal</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 23, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">Banc of California announced it is buying Pacific Mercantile Bancorp in a deal valued at $235 million. These are the details.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165089">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/dyai-stock-price-increases-over-30-pre-market-why-it-happened/" title="DYAI Stock Price Increases Over 30% Pre-Market: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Dyadic-International-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/dyai-stock-price-increases-over-30-pre-market-why-it-happened/" title="DYAI Stock Price Increases Over 30% Pre-Market: Why It Happened"><h3> DYAI Stock Price Increases Over 30% Pre-Market: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 22, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Dyadic International, Inc. (NASDAQ: DYAI) increased by over 30% pre-market. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+				<div id='P2_Window' class='ad-code-clear'>
+<div id='div-gpt-ad-1589216507875-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589216507875-0'); });
+</script>
+</div>
+</div>				
+								
+				
+												<div class="row mb-30" id="post-165025">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/glmd-stock-price-nasdaq-galmed-pharmaceuticals-increased-14-62-why-it-happened/" title="GLMD Stock Price Increased 14.62%: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Galmed-Pharmaceuticals-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/glmd-stock-price-nasdaq-galmed-pharmaceuticals-increased-14-62-why-it-happened/" title="GLMD Stock Price Increased 14.62%: Why It Happened"><h3> GLMD Stock Price Increased 14.62%: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 22, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Galmed Pharmaceuticals Ltd (NASDAQ: GLMD) has increased by 14.62% on March 19. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-165017">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/kopn-stock-price-nasdaq-kopin-corporation-increased-15-56-why-it-happened/" title="KOPN Stock Price Increased 15.56%: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Kopin-Corporation-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/kopn-stock-price-nasdaq-kopin-corporation-increased-15-56-why-it-happened/" title="KOPN Stock Price Increased 15.56%: Why It Happened"><h3> KOPN Stock Price Increased 15.56%: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 21, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Kopin Corporation (NASDAQ: KOPN) has increased by 15.56%. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164986">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/vuzi-stock-price-nasdaq-vuzix-increased-20-85-why-it-happened/" title="VUZI Stock Price Increased 20.85%: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Vuzix-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/vuzi-stock-price-nasdaq-vuzix-increased-20-85-why-it-happened/" title="VUZI Stock Price Increased 20.85%: Why It Happened"><h3> VUZI Stock Price Increased 20.85%: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 21, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Vuzix Corp (NASDAQ: VUZI) increased by 20.85% on March 19. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164982">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/fora-stock-price-nasdaq-forian-increased-23-why-it-happened/" title="FORA Stock Price Increased 23%: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Forian-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/fora-stock-price-nasdaq-forian-increased-23-why-it-happened/" title="FORA Stock Price Increased 23%: Why It Happened"><h3> FORA Stock Price Increased 23%: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 21, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Forian Inc (NASDAQ: FORA) increased by 23%. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+				<div id='P2_Window' class='ad-code-clear'>
+<div id='div-gpt-ad-1589216525686-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589216525686-0'); });
+</script>
+</div>
+</div>				
+				
+												<div class="row mb-30" id="post-164975">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/aame-stock-price-nasdaq-atlantic-american-corporation-increased-25-55-why-it-happened/" title="AAME Stock Price Increased 25.55%: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Atlantic-American-Corporation-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/aame-stock-price-nasdaq-atlantic-american-corporation-increased-25-55-why-it-happened/" title="AAME Stock Price Increased 25.55%: Why It Happened"><h3> AAME Stock Price Increased 25.55%: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 21, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Atlantic American Corporation (NASDAQ: AAME) increased by 25.55% on March 19. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164946">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/spcb-stock-price-nasdaq-supercom-increased-54-48-why-it-happened/" title="SPCB Stock Price Increased 54.48%: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/02/Supercom-1-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/spcb-stock-price-nasdaq-supercom-increased-54-48-why-it-happened/" title="SPCB Stock Price Increased 54.48%: Why It Happened"><h3> SPCB Stock Price Increased 54.48%: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 21, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of SuperCom Ltd. (NASDAQ: SPCB) increased by 54.48% on March 19. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164928">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/60-stock-price-gainers-and-losers-march-19-2021/" title="60 Stock Price Gainers And Losers (March 19, 2021)">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Pulse2-featured-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/60-stock-price-gainers-and-losers-march-19-2021/" title="60 Stock Price Gainers And Losers (March 19, 2021)"><h3> 60 Stock Price Gainers And Losers (March 19, 2021)</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 21, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">These are 10 of the biggest stock price movers after hours for March 19, 2021.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164902">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/8-stock-price-movers-pre-market-march-19-2021/" title="8 Stock Price Movers Pre Market (March 19, 2021)">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Pulse2-featured-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/8-stock-price-movers-pre-market-march-19-2021/" title="8 Stock Price Movers Pre Market (March 19, 2021)"><h3> 8 Stock Price Movers Pre Market (March 19, 2021)</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 19, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">These are 8 of the biggest stock price movers pre-market for March 19, 2021.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				<div id='P2_Window' class='ad-code-clear'>
+<div id='div-gpt-ad-1589216454485-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1589216454485-0'); });
+</script>
+</div>
+</div>
+												<div class="row mb-30" id="post-164913">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/wkey-stock-price-nasdaq-wisekey-fell-over-8-pre-market-why-it-happened/" title="WKEY Stock Price Fell Over 8% Pre-Market: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/WISeKey-International-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/wkey-stock-price-nasdaq-wisekey-fell-over-8-pre-market-why-it-happened/" title="WKEY Stock Price Fell Over 8% Pre-Market: Why It Happened"><h3> WKEY Stock Price Fell Over 8% Pre-Market: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 19, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of WISeKey International Holdings (NASDAQ: WKEY) fell by over 8%. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164877">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/wkey-stock-price-nasdaq-wisekey-international-increased-64-37-why-it-happened/" title="WKEY Stock Price Increased 64.37%: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/WISeKey-International-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/wkey-stock-price-nasdaq-wisekey-international-increased-64-37-why-it-happened/" title="WKEY Stock Price Increased 64.37%: Why It Happened"><h3> WKEY Stock Price Increased 64.37%: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 19, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of WISeKey International Holdings (NASDAQ: WKEY) increased by 64.37% yesterday. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164871">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/upst-stock-price-nasdaq-upstart-holdings-increased-89-32-why-it-happened/" title="UPST Stock Price Increased 89.32%: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Upstart-300x200.jpeg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/upst-stock-price-nasdaq-upstart-holdings-increased-89-32-why-it-happened/" title="UPST Stock Price Increased 89.32%: Why It Happened"><h3> UPST Stock Price Increased 89.32%: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 19, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Upstart Holdings Inc (NASDAQ: UPST) increased by 89.32% yesterday. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164865">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/10-stock-price-movers-after-hours-march-18-2021/" title="10 Stock Price Movers After Hours (March 18, 2021)">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Pulse2-featured-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/10-stock-price-movers-after-hours-march-18-2021/" title="10 Stock Price Movers After Hours (March 18, 2021)"><h3> 10 Stock Price Movers After Hours (March 18, 2021)</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 18, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">These are 10 of the biggest stock price movers after hours for March 18, 2021.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164857">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/34-stock-price-movers-march-18-2021/" title="34 Stock Price Movers (March 18, 2021)">
+			<img src="https://cdn.pulse2.com/cdn/2021/03/Pulse2-featured-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/34-stock-price-movers-march-18-2021/" title="34 Stock Price Movers (March 18, 2021)"><h3> 34 Stock Price Movers (March 18, 2021)</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 18, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">These are 34 of the biggest stock price movers for March 18, 2021.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+								
+								
+								
+								
+								
+				
+												<div class="row mb-30" id="post-164832">
+									<div class="category-item">
+
+
+
+
+
+
+<div class="col-xs-4 col-sm-3">
+		<div class="category-image">
+			<a href="https://pulse2.com/aapl-stock-price-nasdaq-apple-fell-over-2-5-intraday-why-it-happened/" title="AAPL Stock Price Fell Over 2.5% Intraday: Why It Happened">
+			<img src="https://cdn.pulse2.com/cdn/2020/11/Apple-feat-300x200.jpg">
+			</a>
+	</div>
+</div>
+
+
+				<div class="col-xs-8 col-sm-9">
+
+				<a class="category-title-archive" href="https://pulse2.com/aapl-stock-price-nasdaq-apple-fell-over-2-5-intraday-why-it-happened/" title="AAPL Stock Price Fell Over 2.5% Intraday: Why It Happened"><h3> AAPL Stock Price Fell Over 2.5% Intraday: Why It Happened</h3></a>
+
+					<span class="the-date">By Amit Chowdhry ● <span>March 18, 2021</span></span>
+					
+					
+					<div class="category-text hidden-xs content">The stock price of Apple Inc (NASDAQ: AAPL) fell by over 2.5% during intraday trading. This is why it happened.</div>
+
+
+					</div>
+
+
+
+
+				</div>
+				</div>
+
+				
+			</div>
+
+	</div>
+
+
+	<div class="footer-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+						<div class="pagination-prev-next-container"><a href="https://pulse2.com/enterprise/page/2/" class="pagination-prev-next">Next ></a></div>				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- // Content  -->
+	<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-5">
+        <div class="headline"><a title="Pulse 2.0" href="https://pulse2.com">
+<img src="https://pulse2.com/wp-content/themes/pulse2/images/footer-logo.png"/></a>        </div>
+        <div class="footer-content mb-20-mobile"> 
+        Pulse 2.0 is a leading national technology and business news publication located in Ann Arbor, Michigan.
+        </div>
+      </div>
+      <div class="col-sm-2">
+        <div class="headline">
+          <h3>FOLLOW US</h3>
+        </div>
+        <div class="footer-content"> 
+<div class="social-links">
+	<ul>
+		<li>
+				
+			<a title="Pulse 2.0 LinkedIn" target="_blank" class="icon icon-linkedin-circled" href="https://www.linkedin.com/company/pulse2news"></a>
+			<a title="Pulse 2.0 Twitter" target="_blank" class="icon icon-twitter-circled" href="https://twitter.com/pulse2news"></a>
+			<a title="Pulse 2.0 Facebook" target="_blank" class="icon icon-facebook-circled" href="https://www.facebook.com/pulse2news"></a>
+		</li>
+	</ul> 
+</div>
+
+          </div>
+      </div>
+      <div class="col-sm-5">
+        <div class="headline col-md-text-left">
+          <h3>POPULAR CHANNELS</h3>
+        </div>
+        <div class="footer-content areas col-md-text-left">
+
+<ul id="menu-footer" class="menu-footer"><li id="menu-item-136134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136134"><a href="https://pulse2.com/learn-2-0/">Learn 2.0</a></li>
+<li id="menu-item-135937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135937"><a href="https://pulse2.com/reviews-site-map/">Reviews</a></li>
+<li id="menu-item-133153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133153"><a href="https://pulse2.com/midwest-tech/">Midwest Tech</a></li>
+<li id="menu-item-131911" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-131911"><a href="https://pulse2.com/women-in-tech/">Women In Tech</a></li>
+<li id="menu-item-145765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145765"><a href="https://pulse2.com/leadership/">Leadership</a></li>
+<li id="menu-item-145764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145764"><a href="https://pulse2.com/mergers-acquisitions/">M&#038;A Deals</a></li>
+<li id="menu-item-143550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143550"><a title="Device Specs" href="https://pulse2.com/specs/">Device Specs</a></li>
+</ul>        </div>
+      </div>
+    </div>
+  </div>
+  <div class="legal">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-4"> <span> © 2020 Pulse 2.0 LLC. All rights reserved.</span> </div>
+        <div class="col-sm-8 col-md-text-left legal-menu"> 
+        <ul id="navbar-footer" class="navbar-footer"><li id="menu-item-115606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115606"><a href="https://pulse2.com/about-us/">About Us</a></li>
+<li id="menu-item-120249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120249"><a href="https://pulse2.com/advertise-with-us/">Partner With Us</a></li>
+<li id="menu-item-115605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115605"><a href="https://pulse2.com/contact/">Contact Us</a></li>
+<li id="menu-item-113954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113954"><a href="https://pulse2.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-117957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117957"><a href="https://pulse2.com/privacy-policy/">Privacy Policy</a></li>
+</ul>        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+	<script src="https://pulse2.com/wp-content/themes/pulse2/js/custom.js?v=2.5"></script>
+	<script src="https://pulse2.com/wp-content/themes/pulse2/js/plugins/jquery-scrolltofixed-min.js"></script>
+	
+	<script type='text/javascript' src='https://pulse2.com/wp-includes/js/wp-embed.min.js?ver=5.6.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202112.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.2.1',blog:'5979423',post:'0',tz:'-4',srv:'pulse2.com'} ]);
+	_stq.push([ 'clickTrackerInit', '5979423', '0' ]);
+</script>
+ 
+	
+	<script src="https://a.publir.com/platform/ads.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	if(document.getElementById('adblock1122112')){
+	} else { 
+	var p_currentPage = window.location.href;
+	var p_siteId = "388";
+	var p_json_final = { p_currentPage, p_siteId};
+	var url = 'https://l026e7vji8.execute-api.us-east-1.amazonaws.com/default/pAnalytics';
+	fetch(url, {method: 'POST', mode: 'no-cors',body: JSON.stringify(p_json_final),credentials: 'include',headers: {'Content-Type': 'text/plain',}});
+	document.write('<scri'+'pt src="https://fkrkkmxsqeb5bj9r.s3.amazonaws.com/388.js" type="text/javascript"></scri'+'pt>');
+	}
+	</script>
+	
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 3.6.1 on 2021-03-24 08:51:30 -->

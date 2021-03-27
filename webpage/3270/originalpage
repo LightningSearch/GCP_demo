@@ -1,0 +1,124 @@
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title i18n="Forbes CMS Name|Will appear in browser titlebar">Bertie</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="304Fix" content="safari-fix">
+  <link rel="icon" type="image/x-icon" href="bertiecon.ico">
+  <!-- Google Analytics -->
+  <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', 'UA-5883199-35', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <script async="" src="https://www.google-analytics.com/analytics.js?ngsw-bypass=true"></script>
+  <script src="https://fonts.googleapis.com/css?family=Comfortaa"></script>
+  <script src="https://i.forbesimg.com/assets/fonts/work-sans/work_sans_400_latin.woff2"></script>
+  <!-- End Google Analytics -->
+  <!-- Full Story -->
+  <script>
+    window['_fs_debug'] = false;
+    window['_fs_host'] = 'fullstory.com';
+    window['_fs_org'] = 'J5E3X';
+    window['_fs_namespace'] = 'FS';
+    (function(m,n,e,t,l,o,g,y) {
+      if (e in m) {
+        if (m.console && m.console.log) {
+          m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');
+        }
+        return;
+      }
+      g = m[e] = function(a,b,s) {
+        g.q ? g.q.push([a,b,s]) : g._api(a,b,s);
+      };
+      g.q = [];
+      o = n.createElement(t);
+      o.async = 1;
+      o.src = 'https://' + _fs_host + '/s/fs.js?ngsw-bypass=true';
+      y = n.getElementsByTagName(t)[0];
+      y.parentNode.insertBefore(o,y);
+      g.identify = function(i,v,s) {
+        g(l, { uid:i }, s);
+        if (v) g(l,v,s)
+      };
+      g.setUserVars = function(v,s) {
+        g(l,v,s)
+      };
+      g.event = function(i,v,s){
+        g('event', {n:i,p:v}, s)
+      };
+      g.shutdown = function() { g("rec",!1) };
+      g.restart = function() { g("rec",!0) };
+      g.consent = function(a) {
+        g("consent", !arguments.length || a)
+      };
+      g.identifyAccount = function(i,v) {
+        o = 'account';
+        v = v || {};
+        v.acctId = i;
+        g(o,v)
+      };
+      g.clearUserCookie = function(){};
+    })(window, document, window['_fs_namespace'],'script','user');
+  </script>
+  <!-- End Full Story -->
+  <style>
+    body {
+      background-color: #279CFF;
+    }
+    .loading-screen {
+      animation-direction: alternate !important;
+      animation: icon-rotate 3s infinite ease-in-out;
+      filter: drop-shadow(1px 1px 18px rgba(255, 255, 255,1));
+      left: calc(50% - 1em);
+      position: fixed;
+      top: 40%;
+      transform-origin: 30px 50px;
+    }
+    @keyframes icon-rotate {
+      0% { transform: rotate(-15deg); }
+      100% { transform: rotate(15deg); }
+    }
+    .loading-spinner {
+      animation: icon-scale 4s infinite ease-in-out;
+      display: inline-block;
+      font-size: 2em;
+      height: 2em;
+      line-height: 2em;
+      position: relative;
+      text-align: center;
+      width: 2em;
+    }
+    @keyframes icon-scale {
+      0% { transform: scale(1); }
+      25% { transform: scale(1.25); }
+      50% { transform: scale(1); }
+      75% { transform: scale(1.25); }
+      100% { transform: scale(1); }
+    }
+    </style>
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+<link rel="stylesheet" href="styles.fa0fa01bfd7d444a649f.css"></head>
+<body>
+  <app-bertie>
+    <app-root class="loading-screen">
+      <div class="loading-spinner">
+        <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 24 14">
+          <defs>
+            <path id="hat-a" d="M18.3899994,4.92343449 C17.0425583,4.21083969 15,3.49958512 11.5,3.49958512 C8,3.49958512 6.0981464,4.12886249 4.61000013,4.9583854 L4.5250001,6.51479125 C6.49246788,6.13236087 9.09997442,5.74931841 11.5,5.74931841 C14.1828687,5.74931841 16.3738339,6.04440408 18.4750004,6.51479125 L18.3899994,4.92343449 Z"/>
+          </defs>
+          <g fill="none" fill-rule="evenodd" transform="translate(.352 .002)">
+            <path fill="#1A1A1A" d="M3.60688048,7.9022265 L3.80060724,2.3335014 C5.50497836,0.86667745 7.69699727,0.000664690873 11.5,3.61084394e-07 C15.3030027,-0.000663968704 17.5419707,0.915378866 19.1467967,2.56240564 L19.381613,7.89920314 C17.1660138,7.31775651 14.3982691,6.99917023 11.5,6.99917023 C8.59671148,6.99917023 5.82439973,7.31886097 3.60688048,7.9022265 Z M11.5,13.9983405 C8.27535386,13.9983405 5.25878021,13.5939591 3.04675282,12.892885 C1.99565048,12.5597515 1.16674735,12.1708889 0.621048586,11.7619837 C0.17882081,11.4306118 0,11.153648 0,10.9986961 C0,10.8437441 0.17882081,10.5667804 0.621048586,10.2354084 C1.16674735,9.82650324 1.99565048,9.43764071 3.04675282,9.10450712 C5.25878021,8.40343303 8.27535386,7.99905169 11.5,7.99905169 C14.7246461,7.99905169 17.7412198,8.40343303 19.9532472,9.10450712 C21.0043495,9.43764071 21.8332526,9.82650324 22.3789514,10.2354084 C22.8211792,10.5667804 23,10.8437441 23,10.9986961 C23,11.153648 22.8211792,11.4306118 22.3789514,11.7619837 C21.8332526,12.1708889 21.0043495,12.5597515 19.9532472,12.892885 C17.7412198,13.5939591 14.7246461,13.9983405 11.5,13.9983405 Z M4,11.2486664 C6.74409808,12.0780248 9.24409808,12.4946421 11.5,12.4985183 C13.7559019,12.5023945 16.2559019,12.0857772 19,11.2486664 C16.8707488,10.4182745 14.3707488,10.0016572 11.5,9.99881462 C8.62925124,9.99597206 6.12925124,10.4125893 4,11.2486664 Z"/>
+            <use fill="#FFFFFF" href="#hat-a"/>
+          </g>
+        </svg>
+      </div>
+    </app-root>
+  </app-bertie>
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+<script src="runtime-es2015.3e9c22613c187c6dbaea.js" type="module"></script><script src="runtime-es5.3e9c22613c187c6dbaea.js" nomodule defer></script><script src="polyfills-es5.8a8df1e766b75a73eefc.js" nomodule defer></script><script src="polyfills-es2015.87f05c6b5e4208ad6771.js" type="module"></script><script src="scripts.cdef1374d99645fc16d9.js" defer></script><script src="vendor-es2015.a0bce39c1b39df1673c3.js" type="module"></script><script src="vendor-es5.a0bce39c1b39df1673c3.js" nomodule defer></script><script src="main-es2015.8260628b217ffe757054.js" type="module"></script><script src="main-es5.8260628b217ffe757054.js" nomodule defer></script></body>
+</html>

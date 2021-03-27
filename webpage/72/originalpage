@@ -1,0 +1,1017 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Maxi - Clinc.com</title><style id="rocket-critical-css">@font-face{font-family:'ElegantIcons';src:url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.eot);src:url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.eot?#iefix) format('embedded-opentype'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.woff) format('woff'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.ttf) format('truetype'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.svg#ElegantIcons) format('svg');font-weight:normal;font-style:normal}.icon_search{font-family:'ElegantIcons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased}.icon_search:before{content:"\55"}:root{--swiper-theme-color:#007aff}:root{--swiper-navigation-size:44px}a,body,div,form,h1,h5,html,label,li,p,span,strong,ul{vertical-align:baseline;margin:0;padding:0;background:0 0;border:0;outline:0}*{-webkit-box-sizing:border-box;box-sizing:border-box}header,main,nav,section{display:block}ul{list-style-position:inside;margin-bottom:1.5em;padding:0}ul:not(.wp-block){margin:0 0 1.5em}a img{border:none}img{height:auto;max-width:100%}img{vertical-align:middle;border-style:none}label{display:block;margin-bottom:.5em}strong{font-weight:bolder}.screen-reader-text{position:absolute!important;width:1px;height:0;line-height:1;clip:rect(1px,1px,1px,1px);word-wrap:normal!important;overflow:hidden}.clear:after,.clear:before,.widget:after,.widget:before{content:'';display:table;table-layout:fixed}.clear:after,.widget:after{clear:both}body{font-family:Poppins,sans-serif;font-size:16px;line-height:1.6875em;font-weight:400;color:#333;background-color:#fff;overflow-x:hidden;-webkit-font-smoothing:antialiased}h1{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:60px;line-height:1.26em;letter-spacing:-.04em;margin:25px 0;-ms-word-wrap:break-word;word-wrap:break-word}@media only screen and (max-width:480px){h1{font-size:48px}}h5{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;margin:25px 0;-ms-word-wrap:break-word;word-wrap:break-word}a{color:#1f1f1f;text-decoration:none}p{margin:10px 0;line-height:1.6875em}button[type=submit]{position:relative;display:inline-block;vertical-align:middle;width:auto;margin:0;font-family:Poppins,sans-serif;font-size:13px;line-height:2em;font-weight:700;text-decoration:none;letter-spacing:-.01em;border-radius:0;outline:0;-webkit-box-sizing:border-box;box-sizing:border-box;padding:15px 40px;color:#fff;background-color:#1f1f1f;border:1px solid #1f1f1f}.qodef-content-grid{width:1100px;margin:0 auto}.qodef-grid{position:relative;display:inline-block;width:100%;vertical-align:top}.qodef-grid>.qodef-grid-inner{margin:0 -15px}.qodef-grid>.qodef-grid-inner>.qodef-grid-item{padding:0 15px}.qodef-grid .qodef-grid-item{position:relative;display:inline-block;width:100%;vertical-align:top;min-height:1px;float:left}@media only screen and (min-width:1025px){.qodef-grid.qodef-layout--template>.qodef-grid-inner>.qodef-grid-item.qodef-col--12{width:100%}}#qodef-page-wrapper{position:relative;overflow:hidden}#qodef-page-outer{position:relative}#qodef-page-inner{position:relative;padding:100px 0 90px}#qodef-page-header{position:relative;display:inline-block;width:100%;vertical-align:top;height:110px;background-color:#fff;z-index:200}#qodef-page-header .qodef-header-logo-link{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-ms-flex-negative:0;flex-shrink:0;height:110px;max-height:100%;max-width:100%}#qodef-page-header .qodef-header-logo-link img{display:block;margin:auto 0;width:auto;max-height:100%}#qodef-page-header-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 45px}#qodef-page-mobile-header{position:relative;display:none;height:70px;z-index:100}#qodef-page-mobile-header .qodef-mobile-header-logo-link{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:70px;max-height:100%;max-width:100%}#qodef-page-mobile-header .qodef-mobile-header-logo-link img{display:block;margin:auto;width:auto;max-height:100%;max-width:100%}#qodef-page-mobile-header-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 38px}@media only screen and (max-width:768px){#qodef-page-mobile-header-inner{padding:0}}#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;width:100%;margin:0 auto}@media only screen and (max-width:768px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:600px}}@media only screen and (max-width:680px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:420px}}@media only screen and (max-width:480px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:300px}}.qodef-mobile-header-opener{font-size:20px;margin-left:20px}.qodef-mobile-header-opener .qodef-m-lines{position:relative;display:block;width:45px;height:45px;background-color:#000;border-radius:50%}.qodef-mobile-header-opener .qodef-m-lines:before{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:4px;top:3px;z-index:-1;opacity:0}.qodef-mobile-header-opener .qodef-m-lines:after{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:8px;top:7px;z-index:-1;opacity:0}.qodef-mobile-header-opener .qodef-m-line{position:absolute;left:10px;height:2px;width:56%;background-color:#fff}.qodef-mobile-header-opener .qodef-m-line.qodef--1{top:18px}.qodef-mobile-header-opener .qodef-m-line.qodef--2{top:26px}.qodef-mobile-header-navigation{position:absolute;top:100%;left:0;display:none;width:100%;max-height:calc(100vh - 70px);background-color:#fff;border-bottom:1px solid #e1e1e1;padding:0;margin:0;overflow-y:scroll;z-index:10}.qodef-mobile-header-navigation ul{margin:0;padding:0;list-style:none}.qodef-mobile-header-navigation ul li{position:relative;margin:0;padding:0}.qodef-mobile-header-navigation ul li ul{display:none;padding:3px 0;margin-left:0}.qodef-mobile-header-navigation ul li.menu-item-has-children>a:after{content:'>';position:absolute;top:0;right:0;line-height:inherit;-webkit-transform-origin:50% 50%;-ms-transform-origin:50% 50%;transform-origin:50% 50%}.qodef-mobile-header-navigation>ul{margin:0 auto;padding:34px 0}.qodef-mobile-header-navigation>ul>li>a{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;font-weight:600;font-size:15px}.qodef-mobile-header-navigation>ul>li>a>span{position:relative}.qodef-mobile-header-navigation>ul>li>a>span:before{content:'';position:absolute;display:inline-block;background-color:currentColor;width:100%;height:2px;left:0;bottom:0;z-index:100;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}.qodef-mobile-header-navigation>ul>li.current-menu-ancestor>a>span:before{-webkit-transform:scaleX(1);-ms-transform:scaleX(1);transform:scaleX(1)}.qodef-mobile-header-navigation .qodef-drop-down-second-inner ul li>a{font-family:Poppins,sans-serif;font-size:15px;line-height:1.6875em;font-weight:400;color:#333}.qodef-mobile-header-navigation .qodef-drop-down-second-inner ul li.current-menu-item>a{opacity:.6}.qodef-header-navigation{height:100%}.qodef-header-navigation ul{margin:0;padding:0;list-style:none}.qodef-header-navigation ul li{position:relative;margin:0;padding:0}.qodef-header-navigation ul li.qodef-menu-item--narrow ul{position:absolute;top:100%;left:0;width:260px;margin:0;padding:28px 0;background-color:#1f1f1f;opacity:0;visibility:hidden;text-align:left}.qodef-header-navigation ul li.qodef-menu-item--narrow ul li{padding:1px 39px}.qodef-header-navigation>ul{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:100%}.qodef-header-navigation>ul>li{height:100%;margin:0 18px}.qodef-header-navigation>ul>li:first-child{margin-left:0}.qodef-header-navigation>ul>li:last-child{margin-right:0}.qodef-header-navigation>ul>li>a{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;font-weight:600;font-size:15px;height:100%}.qodef-header-navigation>ul>li>a>span{position:relative}.qodef-header-navigation>ul>li>a>span:before{content:'';position:absolute;display:inline-block;background-color:currentColor;width:100%;height:2px;left:0;bottom:0;z-index:100;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}.qodef-header-navigation>ul>li.current-menu-ancestor>a>span:before{-webkit-transform:scaleX(1);-ms-transform:scaleX(1);transform:scaleX(1)}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul li>a{font-family:Poppins,sans-serif;font-size:16px;line-height:1.6875em;font-weight:400;color:#fff;font-size:15px}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;margin:0 0 4px 0;overflow:hidden;padding-right:25px;justify-content:flex-start}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a span{position:relative;padding:0}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a span:before{content:'';position:absolute;bottom:0;left:0;height:2px;width:100%;background:#e82a2a;z-index:-1;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li.current-menu-item>a{opacity:.75}.qodef-page-title{position:relative;display:inline-block;width:100%;vertical-align:top;height:100px;background-color:#fce5c5}.qodef-page-title .qodef-m-inner{position:relative;display:inline-block;width:100%;vertical-align:top;height:100%}.qodef-page-title .qodef-m-content{height:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.qodef-page-title .qodef-m-title{margin:0 0 6px 0}.widget{margin:0 0 50px}.widget:last-child{margin-bottom:0!important}.widget .qodef-widget-title{margin:0 0 13px}.widget a{color:#333}.widget.widget_lekker_core_side_area_opener{margin:0!important}.widget.widget_search .qodef-search-form-inner{position:relative;display:inline-block;width:100%;vertical-align:top}.widget.widget_search button,.widget.widget_search input{height:60px;padding:18px 0;font-family:inherit;font-weight:inherit;line-height:24px;border-radius:0;outline:0;-webkit-appearance:none}.widget.widget_search input{position:relative;display:inline-block;width:100%;vertical-align:top;padding-left:27px;padding-right:60px;font-size:16px;color:#333;background-color:#f7f7f7;border:1px solid transparent}.widget.widget_search input::-webkit-input-placeholder{color:inherit;opacity:1}.widget.widget_search input::-moz-placeholder{color:inherit;opacity:1}.widget.widget_search input:-ms-input-placeholder{color:inherit;opacity:1}.widget.widget_search input::-ms-input-placeholder{color:inherit;opacity:1}.widget.widget_search button{position:absolute;top:0;right:0;width:77px;font-size:13px;text-align:center;color:#1f1f1f;background-color:transparent;border:0}.widget.widget_search button span{display:block;line-height:inherit}.widget.widget_search button span:before{display:block;line-height:inherit}#qodef-side-area .widget{margin:0 0 20px;color:#fff}#qodef-side-area .widget:last-child{margin-bottom:0!important}#qodef-side-area .widget .qodef-widget-title{margin:0 0 13px;color:#fff}#qodef-side-area .widget.widget_search .qodef-search-form-inner{position:relative;display:inline-block;width:100%;vertical-align:top}#qodef-side-area .widget.widget_search button,#qodef-side-area .widget.widget_search input{height:60px;padding:18px 0;font-family:inherit;font-weight:inherit;line-height:24px;border-radius:0;outline:0;-webkit-appearance:none}#qodef-side-area .widget.widget_search input{position:relative;display:inline-block;width:100%;vertical-align:top;padding-left:27px;padding-right:60px;font-size:16px;color:#333;background-color:#f7f7f7;border:1px solid transparent}#qodef-side-area .widget.widget_search input::-webkit-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input::-moz-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input:-ms-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input::-ms-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search button{position:absolute;top:0;right:0;width:77px;font-size:13px;text-align:center;color:#1f1f1f;background-color:transparent;border:0}#qodef-side-area .widget.widget_search button span{display:block;line-height:inherit}#qodef-side-area .widget.widget_search button span:before{display:block;line-height:inherit}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input[type=search]::-ms-clear{display:none}@media only screen and (max-width:1200px){.qodef-content-grid{width:960px}}@media only screen and (max-width:1024px){.qodef-content-grid{width:768px}}@media only screen and (max-width:768px){.qodef-content-grid{width:600px}}@media only screen and (max-width:680px){.qodef-content-grid{width:420px}}@media only screen and (max-width:480px){.qodef-content-grid{width:300px}}@media only screen and (max-width:1024px){#qodef-page-header{display:none}}@media only screen and (max-width:1024px){#qodef-page-mobile-header{display:block}}#qodef-back-to-top{position:fixed;width:58px;right:50px;bottom:8%;margin:0;z-index:10000;opacity:0;visibility:hidden;-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}#qodef-back-to-top .qodef-btn-background{position:absolute;left:-26px;top:0;background-color:transparent;width:158px;height:58px;z-index:-10}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines{width:58px;height:58px;position:absolute;left:139px}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:after,#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:before{content:'';width:2px;height:24px;background-color:#1f1f1f;position:absolute;right:100%;top:5px;-webkit-transform-origin:top;-ms-transform-origin:top;transform-origin:top;display:inline-block!important}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:after{top:29px;-webkit-transform-origin:bottom;-ms-transform-origin:bottom;transform-origin:bottom}#qodef-back-to-top .qodef-back-to-top-text{position:relative;display:block;width:158px;height:58px;font-family:Poppins,sans-serif;color:#1f1f1f;letter-spacing:-.02em;line-height:58px;font-size:13px;text-align:center;font-weight:700;overflow:hidden}#qodef-back-to-top span span{display:block;line-height:inherit}#qodef-page-header .qodef-widget-holder{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:100%;margin-left:24px}#qodef-page-header .qodef-widget-holder .widget{margin:0 12px}#qodef-page-header .qodef-widget-holder .widget:first-child{margin-left:0;margin-right:5px}#qodef-page-header .qodef-widget-holder .widget:last-child{margin-right:0}#qodef-page-header .qodef-header-logo-link img.qodef--main{opacity:1}#qodef-page-header .qodef-header-logo-link img.qodef--dark,#qodef-page-header .qodef-header-logo-link img.qodef--light{opacity:0}#qodef-page-header .qodef-header-logo-link img:not(.qodef--main):not(.qodef--sticky){position:absolute;top:50%;left:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.qodef-header-standard--right #qodef-page-header-inner .qodef-header-navigation{margin-left:auto}.qodef-header-sticky{position:fixed;top:0;left:0;height:110px;width:100%;background-color:#fff;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);z-index:100}.qodef-header-sticky-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 45px}.qodef-header-standard--right .qodef-header-sticky-inner .qodef-header-logo-link{margin-right:auto}#qodef-page-mobile-header{background-color:#fff}#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--main{opacity:1}#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--dark,#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--light{opacity:0}#qodef-page-mobile-header .qodef-mobile-header-logo-link img:not(.qodef--main){position:absolute;top:50%;left:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.qodef-mobile-header--standard #qodef-page-mobile-header #qodef-page-mobile-header-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.qodef-mobile-header--standard #qodef-page-mobile-header #qodef-page-mobile-header-inner .qodef-mobile-header-logo-link{margin-right:auto}.qodef-header-navigation ul li .qodef-drop-down-second{position:absolute;top:100%;left:-33px;display:block;width:260px;opacity:0;visibility:hidden;overflow:hidden;z-index:10;background-color:#1f1f1f}.qodef-header-navigation ul li.qodef-menu-item--narrow .qodef-drop-down-second-inner{position:relative;display:inline-block;width:100%;vertical-align:top}.qodef-header-navigation ul li.qodef-menu-item--narrow .qodef-drop-down-second-inner>ul{opacity:1;visibility:visible}.qodef-opener-icon{position:relative;display:inline-block;vertical-align:middle;line-height:1}.qodef-opener-icon .qodef-m-icon{position:relative;visibility:visible}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines{position:relative;display:block;width:45px;height:45px;background-color:#000;border-radius:50%;-webkit-backface-visibility:hidden;backface-visibility:hidden}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines:before{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:4px;top:3px;z-index:-1;-webkit-transform:scale(.5);-ms-transform:scale(.5);transform:scale(.5)}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines:after{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:8px;top:7px;z-index:-1;-webkit-transform:scale(.5);-ms-transform:scale(.5);transform:scale(.5)}.qodef-opener-icon.qodef-source--predefined .qodef-m-line{position:absolute;left:10px;height:2px;width:56%;background-color:#fff}.qodef-opener-icon.qodef-source--predefined .qodef-m-line.qodef--1{top:18px}.qodef-opener-icon.qodef-source--predefined .qodef-m-line.qodef--2{top:26px}.qodef-separator{position:relative;height:auto;font-size:0;line-height:1}.qodef-separator .qodef-m-line{position:relative;display:inline-block;width:100%;vertical-align:top;margin:10px 0;border-bottom:1px solid #e1e1e1}#qodef-side-area .widget.widget_lekker_core_separator{margin-bottom:0}#qodef-side-area{position:fixed;top:0;right:-490px;width:490px;height:100%;min-height:100%;padding:64px 101px 35px 66px;text-align:left;background-color:#1f1f1f;overflow:hidden;visibility:hidden;z-index:9999}#qodef-side-area-close{position:absolute;top:31px;right:46px;display:block;z-index:1000;color:#fff}#qodef-side-area-close.qodef-source--predefined .qodef-m-line{background-color:#1f1f1f}#qodef-side-area-close.qodef-source--predefined .qodef-m-line.qodef--1{top:21px;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}#qodef-side-area-close.qodef-source--predefined .qodef-m-line.qodef--2{top:21px;-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg)}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines{background-color:#fff}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines:after,#qodef-side-area-close.qodef-source--predefined .qodef-m-lines:before{display:none}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines .qodef-m-line{height:2px;width:56%}.qodef-page-title{background-position:center 0;background-repeat:no-repeat;background-size:cover}.qodef-page-title.qodef-alignment--center{text-align:center}.qodef-page-title.qodef-title--standard .qodef-m-subtitle{margin:14px 0 0}@media screen and (min-width:769px){.qodef-page-title.qodef-title--standard .qodef-m-subtitle{padding:0 27%}}@media only screen and (max-width:1024px){body:not(.qodef-content-behind-header) #qodef-page-outer{margin-top:0!important}}@media only screen and (max-width:1024px){body:not(.qodef-content-behind-header) .qodef-page-title .qodef-m-content{padding-top:0!important}}button::-moz-focus-inner{padding:0;border:0}.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated{padding:10px}@media (max-width:767px){.elementor-column{width:100%}}.screen-reader-text{position:absolute;top:-10000em;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}.elementor{-webkit-hyphens:manual;-ms-hyphens:manual;hyphens:manual}.elementor *,.elementor :after,.elementor :before{-webkit-box-sizing:border-box;box-sizing:border-box}.elementor img{height:auto;max-width:100%;border:none;-webkit-border-radius:0;border-radius:0;-webkit-box-shadow:none;box-shadow:none}:root{--page-title-display:block}h1.entry-title{display:var(--page-title-display)}.elementor-section{position:relative}.elementor-section .elementor-container{display:-webkit-box;display:-ms-flexbox;display:flex;margin-right:auto;margin-left:auto;position:relative}@media (max-width:1024px){.elementor-section .elementor-container{-ms-flex-wrap:wrap;flex-wrap:wrap}}.elementor-section.elementor-section-items-middle>.elementor-container{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-row{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex}@media (max-width:1024px){.elementor-row{-ms-flex-wrap:wrap;flex-wrap:wrap}}.elementor-widget-wrap{position:relative;width:100%;-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-line-pack:start;align-content:flex-start}.elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-wrap>.elementor-element{width:100%}.elementor-widget{position:relative}.elementor-column{min-height:1px}.elementor-column,.elementor-column-wrap{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-column-wrap{width:100%}@media (min-width:768px){.elementor-column.elementor-col-100{width:100%}}@media (max-width:767px){.elementor-column{width:100%}}.elementor-widget-image{text-align:center}.elementor-widget-image .elementor-image img{vertical-align:middle;display:inline-block}.elementor-kit-32{--e-global-color-primary:#000000;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#FF00E5;--e-global-color-4786da9:#FFFFFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Maven Pro";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500}.elementor-kit-32 h1{font-family:"Maven Pro",Sans-serif}h1.entry-title{display:var(--page-title-display)}.elementor-5439 .elementor-element.elementor-element-e35b4ef>.elementor-container{min-height:200px}.elementor-5439 .elementor-element.elementor-element-e35b4ef>.elementor-container:after{content:"";min-height:inherit}.elementor-5439 .elementor-element.elementor-element-e35b4ef{padding:0px 0px 0px 0px}.elementor-5439 .elementor-element.elementor-element-95cc71a:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap{background-color:#2356A0;background-image:url("http://clinc.com/wp-content/uploads/2020/11/isbank-maxi.jpg");background-position:center center;background-repeat:no-repeat}.elementor-5439 .elementor-element.elementor-element-95cc71a>.elementor-element-populated{padding:0px 0px 0px 0px}</style><link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%7CMaven%20Pro%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMaven%20Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin-ext%2Clatin&#038;display=swap" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" /><link rel="preload" href="https://clinc.com/wp-content/cache/min/1/f6bb51b7c9cc43ca09367b640247dca6.css" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" media="all" data-minify="1" />
+	<meta name="description" content="Clinc conversational AI partners with Isbank to create Maxi, a virtual assist for finance, available via mobile app to 6 million users in Turkey. The commercials promoting the assistant have recurved over 18 million views on YouTube." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://clinc.com/maxi/" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Clinc AI">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="1 minute">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://clinc.com/#organization","name":"Clinc","url":"https://clinc.com/","sameAs":["https://www.facebook.com/clincAI","https://www.instagram.com/clinc.ai/","https://www.linkedin.com/company/clinc-inc./","https://twitter.com/ClincAI"],"logo":{"@type":"ImageObject","@id":"https://clinc.com/#logo","inLanguage":"en-US","url":"https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg","caption":"Clinc"},"image":{"@id":"https://clinc.com/#logo"}},{"@type":"WebSite","@id":"https://clinc.com/#website","url":"https://clinc.com/","name":"Clinc.com","description":"Clinc Conversational AI","publisher":{"@id":"https://clinc.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://clinc.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://clinc.com/maxi/#primaryimage","inLanguage":"en-US","url":"https://clinc.com/wp-content/uploads/2020/11/isbank-maxi.jpg","width":1024,"height":535,"caption":"isbank-maxi"},{"@type":"WebPage","@id":"https://clinc.com/maxi/#webpage","url":"https://clinc.com/maxi/","name":"Maxi - Clinc.com","isPartOf":{"@id":"https://clinc.com/#website"},"primaryImageOfPage":{"@id":"https://clinc.com/maxi/#primaryimage"},"datePublished":"2020-11-01T21:28:16+00:00","dateModified":"2020-11-13T19:02:58+00:00","description":"Clinc conversational AI partners with Isbank to create Maxi, a virtual assist for finance, available via mobile app to 6 million users in Turkey. The commercials promoting the assistant have recurved over 18 million views on YouTube.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://clinc.com/maxi/"]}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Clinc.com &raquo; Feed" href="https://clinc.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Clinc.com &raquo; Comments Feed" href="https://clinc.com/comments/feed/" />
+		
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	
+
+
+
+
+
+
+<link rel='preload'   href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.6.2' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" type='text/css' media='all' />
+
+
+
+
+
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+
+
+
+
+
+
+
+
+
+
+<style id='lekker-style-inline-css' type='text/css'>
+#qodef-page-outer { margin-top: -110px;}#qodef-page-inner { padding: 0px 0px 0px 0px;}#qodef-top-area { background-color: rgba(247,247,247,0);}#qodef-side-area { background-color: #1f1f1f;}.qodef-page-title { height: 250px;background-color: #f7f7f7;background-image: url(https://clinc.com/wp-content/uploads/2020/10/L2-bg.svg);}.qodef-page-title .qodef-m-content { padding-top: 110px;}@media only screen and (max-width: 1024px) { .qodef-page-title { height: 200px;}}h1 { font-weight: 500;}a:hover, p a:hover { color: #8224e3;}.qodef-header--standard #qodef-page-header { background-color: rgba(247,247,247,0);}.qodef-page-title.qodef-title--standard .qodef-m-subtitle { color: #0a0a0a;margin-top: 2px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' src='https://clinc.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+
+
+<link rel="https://api.w.org/" href="https://clinc.com/wp-json/" /><link rel="alternate" type="application/json" href="https://clinc.com/wp-json/wp/v2/pages/5439" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://clinc.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://clinc.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://clinc.com/?p=5439' />
+<link rel="alternate" type="application/json+oembed" href="https://clinc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fclinc.com%2Fmaxi%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://clinc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fclinc.com%2Fmaxi%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v7.47.0-->
+			
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					}
+					Object.defineProperty(window.hbspt.forms, 'create', {
+						configurable: true,
+						get: function() {
+							return hbspt._wpCreateForm;
+						},
+						set: function(value) {
+							hbspt._wpCreateForm = value;
+							while (hbspt._wpFormsQueue.length) {
+								var formDef = hbspt._wpFormsQueue.shift();
+								if (!document.currentScript) {
+									var formScriptId = 'hbspt-forms-loader-script';
+									hubspot.utils.currentScript = document.getElementsById(formScriptId);
+								}
+								hbspt._wpCreateForm.call(hbspt.forms, formDef);
+							}
+						},
+					})
+				})();
+			</script>
+				
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<meta name="generator" content="Powered by Slider Revolution 6.2.22 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57GP8T2');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NL5M9C2');</script>
+<!-- End Google Tag Manager -->
+<!-- ay gsc -->
+<meta name="google-site-verification" content="xaMz-1XKQTqnresOhb4sfOuEzeWk8G4lrbx805VygHE">
+
+<!-- mb gsc -->
+<meta name="google-site-verification" content="xsf4J2XL-2DBg4L14IENWsi4l_PX1hpr6UZvWtzJWdA">
+
+<link rel="icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			.wp-block-quote:before, blockquote:before {
+  content: '“';
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  height: .3em;
+  font-size: 150px;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: -.03em;
+  color: #333;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: -1;
+}
+
+/* Remove meta data */
+
+
+.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }		</style>
+		<script>
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
+</script></head>
+<body class="page-template page-template-page-full-width page-template-page-full-width-php page page-id-5439 qode-framework-1.1.3 qodef-back-to-top--enabled  qodef-content-grid-1300 qodef-header--standard qodef-header-appearance--sticky qodef-mobile-header--standard qodef-drop-down-second--full-width qodef-drop-down-second--animate-height lekker-core-1.0.1 lekker-1.1 qodef-header-standard--right qodef-search--covers-header elementor-default elementor-kit-32 elementor-page elementor-page-5439" itemscope itemtype="https://schema.org/WebPage">
+
+		<div id="qodef-page-wrapper" class="">
+		<header id="qodef-page-header">
+		<div id="qodef-page-header-inner" >
+		<a itemprop="url" class="qodef-header-logo-link qodef-height--set" href="https://clinc.com/" style="height:44px" rel="home">
+	<img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main" alt="logo main" loading="lazy" /></noscript></noscript>	<img   alt="logo dark" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--dark lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--dark" alt="logo dark" loading="lazy" /></noscript>	<img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light" alt="logo light" loading="lazy" /></noscript></noscript></a>	<nav class="qodef-header-navigation" role="navigation" aria-label="Top Menu">
+		<ul id="menu-clinc-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4967"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5334"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5092 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5142"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5090"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5147"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5234 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5225"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5014"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5233"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-5228 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5266"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5290"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5439 current_page_item menu-item-5449"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi Case Study</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5086"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	<div class="qodef-widget-holder">
+		<div id="lekker_core_side_area_opener-2" class="widget widget_lekker_core_side_area_opener qodef-header-widget-area-one" data-area="header-widget-one"><a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--predefined qodef-side-area-opener" style="color: #1f1f1f;;margin: 0 0 0 13px" >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a></div>	</div>
+	</div>
+	<div class="qodef-header-sticky ">
+    <div class="qodef-header-sticky-inner ">
+		<a itemprop="url" class="qodef-header-logo-link qodef-height--set" href="https://clinc.com/" style="height:44px" rel="home">
+	<img   alt="logo sticky" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--sticky lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--sticky" alt="logo sticky" loading="lazy" /></noscript></a>	<nav class="qodef-header-navigation" role="navigation" aria-label="Top Menu">
+		<ul id="menu-clinc-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4967"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5334"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5092 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5142"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5090"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5147"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5234 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5225"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5014"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5233"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-5228 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5266"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5290"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5439 current_page_item menu-item-5449"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi Case Study</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5086"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	    <div class="qodef-widget-holder">
+		    <div id="lekker_core_side_area_opener-4" class="widget widget_lekker_core_side_area_opener qodef-sticky-right"><a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--predefined qodef-side-area-opener" style="margin: 0 0 0 13px" >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a></div>	    </div>
+	        </div>
+</div></header><header id="qodef-page-mobile-header">
+		<div id="qodef-page-mobile-header-inner">
+		<div class="qodef-page-mobile-header-logo-opener">
+    <a itemprop="url" class="qodef-mobile-header-logo-link" href="https://clinc.com/" style="height:26px" rel="home">
+	<img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main" alt="logo main" loading="lazy" /></noscript></noscript>	<img   alt="logo dark" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--dark lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--dark" alt="logo dark" loading="lazy" /></noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light" alt="logo light" loading="lazy" /></noscript></noscript></a><a class="qodef-mobile-header-opener" href="#">
+	<span class="qodef-m-lines">
+		<span class="qodef-m-line qodef--1"></span>
+		<span class="qodef-m-line qodef--2"></span>
+	</span>
+</a></div>
+	<nav class="qodef-mobile-header-navigation" role="navigation" aria-label="Mobile Menu">
+		<ul id="menu-mobile-menu-1" class="qodef-content-grid"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5497"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5486"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5496 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5494"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5495"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5493"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5491"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5498 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5490"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5489"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5500"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-5501 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5488"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5487"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5439 current_page_item menu-item-5485"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5502"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	</div>
+	</header>		<div id="qodef-page-outer">
+			<div class="qodef-page-title qodef-m qodef-title--standard qodef-alignment--center qodef-vertical-alignment--header-bottom qodef--has-image">
+		<div class="qodef-m-inner">
+		<div class="qodef-m-content qodef-content-grid ">
+    <h1 class="qodef-m-title entry-title">
+        Maxi    </h1>
+    	<p class="qodef-m-subtitle">CASE STUDY</p>
+</div>	</div>
+	</div>			<div id="qodef-page-inner" class="qodef-content-full-width"><main id="qodef-page-content" class="qodef-grid qodef-layout--template ">
+	<div class="qodef-grid-inner clear">
+		<div class="qodef-grid-item qodef-page-content-section qodef-col--12">
+			<div data-elementor-type="wp-page" data-elementor-id="5439" class="elementor elementor-5439" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-e35b4ef elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle qodef-elementor-content-no" data-id="e35b4ef" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-95cc71a" data-id="95cc71a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-24493eb elementor-widget elementor-widget-image" data-id="24493eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="535"   alt="isbank-maxi" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2020/11/isbank-maxi.jpg 1024w, https://clinc.com/wp-content/uploads/2020/11/isbank-maxi-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2020/11/isbank-maxi-768x401.jpg 768w"  data-src="https://clinc.com/wp-content/uploads/2020/11/isbank-maxi.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="535" src="https://clinc.com/wp-content/uploads/2020/11/isbank-maxi.jpg" class="attachment-large size-large" alt="isbank-maxi" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2020/11/isbank-maxi.jpg 1024w, https://clinc.com/wp-content/uploads/2020/11/isbank-maxi-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2020/11/isbank-maxi-768x401.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3db8765 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="3db8765" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2254b7f" data-id="2254b7f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7e0939c elementor-widget elementor-widget-text-editor" data-id="7e0939c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 style="text-align: center;"><span style="color: #ffffff;">İşbank used Clinc’s AI Platform to build and deploy</span><br /><span style="color: #ffffff;">their mobile banking virtual assistant, Maxi, in Turkish,</span><br /><span style="color: #ffffff;">to 8.2 million customers.</span></h4></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-165fd31d qodef-elementor-content-grid elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="165fd31d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-85ec9ba" data-id="85ec9ba" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-81d7066 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="81d7066" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-b642e59" data-id="b642e59" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8a5a660 elementor-widget elementor-widget-lekker_core_icon" data-id="8a5a660" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-basic-elaboration-smartphone-heart qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7e2e6b9 elementor-widget elementor-widget-lekker_core_section_title" data-id="7e2e6b9" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					8.2 M			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Available to 8.2 million
+mobile app users</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-3e17cd0" data-id="3e17cd0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-aea5d24 elementor-widget elementor-widget-lekker_core_icon" data-id="aea5d24" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-arrows-slide-up1 qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e9dd54f elementor-widget elementor-widget-lekker_core_section_title" data-id="e9dd54f" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					+5 %			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Monthly user growth</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-0194b49" data-id="0194b49" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-66f9ea7 elementor-widget elementor-widget-lekker_core_icon" data-id="66f9ea7" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-basic-message qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d5de736 elementor-widget elementor-widget-lekker_core_section_title" data-id="d5de736" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					2.5M			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Active users</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c0b41c3" data-id="c0b41c3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e272678 elementor-widget elementor-widget-lekker_core_icon" data-id="e272678" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-basic-mouse qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7a8d12b elementor-widget elementor-widget-lekker_core_section_title" data-id="7a8d12b" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					9.8			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Interactions per user</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-00f6d92" data-id="00f6d92" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ae86c3a elementor-widget elementor-widget-lekker_core_icon" data-id="ae86c3a" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-ecommerce-dollar qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-154cd17 elementor-widget elementor-widget-lekker_core_section_title" data-id="154cd17" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					$44M			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Value of transactions</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-4dbd2b3 elementor-widget elementor-widget-lekker_core_video_button" data-id="4dbd2b3" data-element_type="widget" data-widget_type="lekker_core_video_button.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-video-button ">
+		</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-18d2580 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="18d2580" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ea535ae" data-id="ea535ae" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4558696 elementor-widget elementor-widget-text-editor" data-id="4558696" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 style="text-align: center;">Building Maxi</h4></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-01abd75 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="01abd75" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-992b787" data-id="992b787" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a0651f3 elementor-widget elementor-widget-text-editor" data-id="a0651f3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4>The Challenge</h4><p>İşbank wanted to create a robust virtual assistant in Turkish, with the ability to support multi-turn use cases like bill payment and money transfer. İşbank struggled to find a vendor that could accommodate the Turkish language and also provide a platform that gave them the freedom to build complex use cases with contextual awareness.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-aefe6f2 elementor-widget elementor-widget-text-editor" data-id="aefe6f2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a50355c" data-id="a50355c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-53a31eb elementor-widget elementor-widget-image" data-id="53a31eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="403" height="182"   alt="maxi" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2020/11/Maxi-wht.png 403w, https://clinc.com/wp-content/uploads/2020/11/Maxi-wht-300x135.png 300w"  data-src="https://clinc.com/wp-content/uploads/2020/11/Maxi-wht.png" data-sizes="(max-width: 403px) 100vw, 403px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="403" height="182" src="https://clinc.com/wp-content/uploads/2020/11/Maxi-wht.png" class="attachment-large size-large" alt="maxi" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2020/11/Maxi-wht.png 403w, https://clinc.com/wp-content/uploads/2020/11/Maxi-wht-300x135.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8ecf314 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="8ecf314" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7d858fd" data-id="7d858fd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a478b4a elementor-widget elementor-widget-text-editor" data-id="a478b4a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4>The Solution</h4><p>İşbank leveraged the Clinc AI Platform to conduct a rapid cycle of designing, building, and deploying conversational AI. Using Clinc’s technology, Maxi was trained to understand and respond both in written and spoken format in Turkish. Powered by advanced natural language processing, machine learning, and deep neural networks, Clinc’s AI is able to comprehend, recall, and respond to unstructured, everyday human speech.</p><p>After only 6 months of building and 2 months of roll-out, the Turkish virtual assistant was deployed to all 8.2 million İşbank mobile app users. The assistant, Maxi, supports basic transactions like bill payment and money transfer, as well as complex personal financial management (PFM) queries like spending advice and more with enriched visuals.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8fc453a elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="8fc453a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9e9b646" data-id="9e9b646" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c92919b elementor-widget elementor-widget-text-editor" data-id="c92919b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h5 style="text-align: center;">Download the Case Studies</h5></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-acfc399 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="acfc399" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-9edd117" data-id="9edd117" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-f68febd" data-id="f68febd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3dd97cd elementor-widget elementor-widget-lekker_core_button" data-id="3dd97cd" data-element_type="widget" data-widget_type="lekker_core_button.default">
+				<div class="elementor-widget-container">
+			<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link" href="https://go.clinc.com/hubfs/Being%20Responsive%20for%20COVID.pdf" target="_self"  >
+	<span class="qodef-m-text">Being Responsive for COVID19</span>
+</a>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-8129e21" data-id="8129e21" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b5277a1 elementor-widget elementor-widget-lekker_core_button" data-id="b5277a1" data-element_type="widget" data-widget_type="lekker_core_button.default">
+				<div class="elementor-widget-container">
+			<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link" href="https://go.clinc.com/hubfs/General%20Isbank%20Case%20Study.pdf" target="_self"  >
+	<span class="qodef-m-text">Building Maxi</span>
+</a>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-3006401" data-id="3006401" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c6a8e8f elementor-widget elementor-widget-lekker_core_button" data-id="c6a8e8f" data-element_type="widget" data-widget_type="lekker_core_button.default">
+				<div class="elementor-widget-container">
+			<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link" href="https://go.clinc.com/hubfs/Branding%20Your%20Bot.pdf" target="_self"  >
+	<span class="qodef-m-text">Branding Your Bot</span>
+</a>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-20225a9" data-id="20225a9" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f630f11 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="f630f11" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2f829e8" data-id="2f829e8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7302275 elementor-widget elementor-widget-text-editor" data-id="7302275" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">The Result</p><h3 class="title" style="text-align: center;">Unprecedented Customer Adoption</h3></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e9bfdfa elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="e9bfdfa" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0ebb8e3" data-id="0ebb8e3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b2a6061 elementor-widget elementor-widget-image" data-id="b2a6061" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="663" height="382"   alt="graph-growth" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2020/11/graph-growth.png 663w, https://clinc.com/wp-content/uploads/2020/11/graph-growth-300x173.png 300w"  data-src="https://clinc.com/wp-content/uploads/2020/11/graph-growth.png" data-sizes="(max-width: 663px) 100vw, 663px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="663" height="382" src="https://clinc.com/wp-content/uploads/2020/11/graph-growth.png" class="attachment-large size-large" alt="graph-growth" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2020/11/graph-growth.png 663w, https://clinc.com/wp-content/uploads/2020/11/graph-growth-300x173.png 300w" sizes="(max-width: 663px) 100vw, 663px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b1719aa" data-id="b1719aa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2e0a406 elementor-widget elementor-widget-image" data-id="2e0a406" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="665" height="382"   alt="graph-queries" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2020/11/graph-queries.png 665w, https://clinc.com/wp-content/uploads/2020/11/graph-queries-300x172.png 300w"  data-src="https://clinc.com/wp-content/uploads/2020/11/graph-queries.png" data-sizes="(max-width: 665px) 100vw, 665px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="665" height="382" src="https://clinc.com/wp-content/uploads/2020/11/graph-queries.png" class="attachment-large size-large" alt="graph-queries" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2020/11/graph-queries.png 665w, https://clinc.com/wp-content/uploads/2020/11/graph-queries-300x172.png 300w" sizes="(max-width: 665px) 100vw, 665px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7ea6a29 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="7ea6a29" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b73b3a3" data-id="b73b3a3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9ecd06a elementor-widget elementor-widget-text-editor" data-id="9ecd06a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h5 style="text-align: center;"><span style="color: #ffffff;">Maxi for COVID</span></h5><h4 style="text-align: center;"><span style="color: #ffffff;">Being Responsive in a Time of Crisis
+</span></h4></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3c4a530 elementor-widget elementor-widget-text-editor" data-id="3c4a530" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h5 style="text-align: center;"><span style="color: #ffffff;">As coronavirus became a life-threatening pandemic in Turkey, İşbank was able to use Clinc’s advanced technology to release 4 new COVID-related intents in only one week. Thanks to these new capabilities, in just one month, Maxi answered over 1 million questions about the coronavirus pandemic.</span></h5></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8a12221 elementor-widget elementor-widget-text-editor" data-id="8a12221" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a17b794 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="a17b794" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe  allowfullscreen title="youtube Video Player"  data-src="https://www.youtube.com/embed/1QluE8XuWn4?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0" class="elementor-video-iframe lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ff8bd5d elementor-widget elementor-widget-text-editor" data-id="ff8bd5d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2231d3f qodef-elementor-content-grid elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2231d3f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-61e84ad" data-id="61e84ad" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-a21e97c elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="a21e97c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-f957f07" data-id="f957f07" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1c3a9c8 elementor-widget elementor-widget-lekker_core_icon" data-id="1c3a9c8" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-basic-magnifier qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4681054 elementor-widget elementor-widget-lekker_core_section_title" data-id="4681054" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					1 M			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Queries in 1 month</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-334478d" data-id="334478d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a2d2c1a elementor-widget elementor-widget-lekker_core_icon" data-id="a2d2c1a" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-basic-calendar qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c68704a elementor-widget elementor-widget-lekker_core_section_title" data-id="c68704a" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					1 Week			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Deployed in less than 1 week</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-3beb62b" data-id="3beb62b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fd4c3e0 elementor-widget elementor-widget-lekker_core_icon" data-id="fd4c3e0" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-basic-webpage-multiple qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-378a3fe elementor-widget elementor-widget-lekker_core_section_title" data-id="378a3fe" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					22%			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Ratio of COVID-19 queries
+to regular Maxi queries</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-a7f7e6d" data-id="a7f7e6d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b851e45 elementor-widget elementor-widget-lekker_core_icon" data-id="b851e45" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-arrows-slide-up1 qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-90ec1b1 elementor-widget elementor-widget-lekker_core_section_title" data-id="90ec1b1" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					77%			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">Increase in usage</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-086a064" data-id="086a064" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3caf2d4 elementor-widget elementor-widget-lekker_core_icon" data-id="3caf2d4" data-element_type="widget" data-widget_type="lekker_core_icon.default">
+				<div class="elementor-widget-container">
+			<span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--large qodef-layout--circle" data-hover-background-color="#FFFFFF" style="background-color: #FFFFFF">
+	        <span class="qodef-icon-linea-icons icon-basic-gear qodef-icon qodef-e" style="color: #000000" ></span>    </span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4a571cf elementor-widget elementor-widget-lekker_core_section_title" data-id="4a571cf" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef-section-title--animated">
+		<h4 class="qodef-m-title" style="color: #FFFFFF">
+					4			</h4>
+		<p class="qodef-m-text" style="color: #FFFFFF">COVID-19
+competencies</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-4f80ce7 elementor-widget elementor-widget-lekker_core_video_button" data-id="4f80ce7" data-element_type="widget" data-widget_type="lekker_core_video_button.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-video-button ">
+		</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2a1908b9 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default" data-id="2a1908b9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6dcba40e" data-id="6dcba40e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-10178238 elementor-widget elementor-widget-text-editor" data-id="10178238" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h3 style="text-align: center;"><span style="color: #ffffff;">Ready to Start Exploring the Most Robust AI Tech on the Planet?</span></h3></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6a2cd448 elementor-widget elementor-widget-lekker_core_button" data-id="6a2cd448" data-element_type="widget" data-widget_type="lekker_core_button.default">
+				<div class="elementor-widget-container">
+			<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link" href="/contact-us" target="_self"  style="font-size: 16px;font-weight: 500">
+	<span class="qodef-m-text">Get Started</span>
+</a>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		</div>	</div>
+</main>
+			</div><!-- close #qodef-page-inner div from header.php -->
+		</div><!-- close #qodef-page-outer div from header.php -->
+		<footer id="qodef-page-footer" >
+		<div id="qodef-page-footer-top-area">
+		<div id="qodef-page-footer-top-area-inner" class="qodef-content-grid">
+			<div class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--3 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1">
+				<div class="qodef-grid-inner clear">
+											<div class="qodef-grid-item">
+							<div id="nav_menu-2" class="widget widget_nav_menu" data-area="footer_top_area_column_1"><div class="menu-footer-menu-left-container"><ul id="menu-footer-menu-left" class="menu"><li id="menu-item-5520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5520"><a href="https://clinc.com/">Home</a></li>
+<li id="menu-item-5465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5465"><a href="https://clinc.com/why-clinc/">Why Clinc?</a></li>
+<li id="menu-item-5466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5466"><a href="https://clinc.com/about-us/">About Us</a></li>
+</ul></div></div>						</div>
+											<div class="qodef-grid-item">
+							<div id="media_image-2" class="widget widget_media_image" data-area="footer_top_area_column_2"><img   alt="" loading="lazy" style="max-width: 100%; height: auto;" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white-1.svg" class="image wp-image-4986  attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white-1.svg" class="image wp-image-4986  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></noscript></div><div id="lekker_core_separator-2" class="widget widget_lekker_core_separator" data-area="footer_top_area_column_2"><div class="qodef-shortcode qodef-m  qodef-separator clear ">
+	<div class="qodef-m-line" style="border-color: #ffffff;width: 50px;border-bottom-width: 2px;margin-top: 47px;margin-bottom: 40px"></div>
+</div></div><div id="text-2" class="widget widget_text" data-area="footer_top_area_column_2">			<div class="textwidget"><p>Follow us on social networks:</p>
+</div>
+		</div><div id="lekker_core_social_icons_group-8" class="widget widget_lekker_core_social_icons_group" data-area="footer_top_area_column_2">            <div class="qodef-social-icons-group">
+				<span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://www.facebook.com/clincAI" target="_blank">
+            <span class="qodef-icon-elegant-icons social_facebook qodef-icon qodef-e" style="" ></span>            </a>
+	</span><span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://www.instagram.com/clinc.ai/?hl=en" target="_blank">
+            <span class="qodef-icon-elegant-icons social_instagram qodef-icon qodef-e" style="" ></span>            </a>
+	</span><span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://twitter.com/clincAI" target="_blank">
+            <span class="qodef-icon-elegant-icons social_twitter qodef-icon qodef-e" style="" ></span>            </a>
+	</span>            </div>
+		</div>						</div>
+											<div class="qodef-grid-item">
+							<div id="nav_menu-3" class="widget widget_nav_menu" data-area="footer_top_area_column_3"><div class="menu-footer-menu-right-container"><ul id="menu-footer-menu-right" class="menu"><li id="menu-item-5467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5467"><a href="https://clinc.com/blog/">Blog</a></li>
+<li id="menu-item-5468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5468"><a href="https://clinc.com/careers/">Careers</a></li>
+<li id="menu-item-5469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5469"><a href="https://clinc.com/contact-us/">Contact Us</a></li>
+</ul></div></div>						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</footer><a id="qodef-back-to-top" href="#">
+    <span class="qodef-btn-background">
+		<span class="qodef-m-nav-lines"></span>
+		<span class="qodef-back-to-top-text">
+			Back To Top		</span>
+    </span>
+</a>	<div id="qodef-side-area" >
+		<a href="javascript:void(0)" id="qodef-side-area-close" class="qodef-opener-icon qodef-m qodef-source--predefined"  >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a>		<div id="qodef-side-area-inner">
+			<div id="search-4" class="widget widget_search" data-area="side-area"><form role="search" method="get" class="qodef-search-form" action="https://clinc.com/">
+	<label for="qodef-search-form-605b487bbea6f" class="screen-reader-text">Search for:</label>
+	<div class="qodef-search-form-inner clear">
+		<input type="search" id="qodef-search-form-605b487bbea6f" class="qodef-search-form-field" value="" name="s" placeholder="Search..." />
+		<button type="submit" class="qodef-search-form-button"><span class="qodef-icon-elegant-icons icon_search" ></span></button>
+	</div>
+</form></div><div id="lekker_core_separator-15" class="widget widget_lekker_core_separator" data-area="side-area"><div class="qodef-shortcode qodef-m  qodef-separator clear ">
+	<div class="qodef-m-line" style="border-bottom-width: 0px;margin-bottom: -2px"></div>
+</div></div><div id="text-4" class="widget widget_text" data-area="side-area"><h5 class="qodef-widget-title">Where to find us</h5>			<div class="textwidget"><p><span style="line-height: 34px;"><br />
+Headquarters<br />
+<strong>ANN ARBOR</strong><br />
+200 S. First Street<br />
+Ann Arbor, Michigan<br />
+</span><span style="line-height: 34px;">48104<br />
+</span></p>
+</div>
+		</div>		</div>
+	</div>
+	</div><!-- close #qodef-page-wrapper div from header.php -->
+	<!-- Instagram Feed JS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-delay-js-js-after'>
+(function() {
+"use strict";var e=function(){function n(e,t){for(var r=0;r<t.length;r++){var n=t[r];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(e,n.key,n)}}return function(e,t,r){return t&&n(e.prototype,t),r&&n(e,r),e}}();function n(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function r(e,t){n(this,r),this.attrName="data-rocketlazyloadscript",this.browser=t,this.options=this.browser.options,this.triggerEvents=e,this.userEventListener=this.triggerListener.bind(this)}return e(r,[{key:"init",value:function(){this._addEventListener(this)}},{key:"reset",value:function(){this._removeEventListener(this)}},{key:"_addEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.addEventListener(e,t.userEventListener,t.options)})}},{key:"_removeEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.removeEventListener(e,t.userEventListener,t.options)})}},{key:"_loadScriptSrc",value:function(){var r=this,e=document.querySelectorAll("script["+this.attrName+"]");0!==e.length&&Array.prototype.slice.call(e).forEach(function(e){var t=e.getAttribute(r.attrName);e.setAttribute("src",t),e.removeAttribute(r.attrName)}),this.reset()}},{key:"triggerListener",value:function(){this._loadScriptSrc(),this._removeEventListener(this)}}],[{key:"run",value:function(){RocketBrowserCompatibilityChecker&&new r(["keydown","mouseover","touchmove","touchstart"],new RocketBrowserCompatibilityChecker({passive:!0})).init()}}]),r}();t.run();
+}());
+</script>
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.11","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/clinc.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":5439,"title":"Maxi%20-%20Clinc.com","excerpt":"","featuredImage":false}};
+</script>
+
+
+
+
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/clinc.com\/wp-admin\/admin-ajax.php","nonce":"2ac1744e25","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/clinc.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+
+ 
+<script>"use strict";var wprRemoveCPCSS=function wprRemoveCPCSS(){var elem;document.querySelector('link[data-rocket-async="style"][rel="preload"]')?setTimeout(wprRemoveCPCSS,200):(elem=document.getElementById("rocket-critical-css"))&&"remove"in elem&&elem.remove()};window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><script src="https://clinc.com/wp-content/cache/min/1/f05928e3690ad5974a4a154fa06c48ed.js" data-minify="1" defer></script><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%7CMaven%20Pro%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMaven%20Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin-ext%2Clatin&#038;display=swap" /><link rel="stylesheet" href="https://clinc.com/wp-content/cache/min/1/f6bb51b7c9cc43ca09367b640247dca6.css" media="all" data-minify="1" /><link rel='stylesheet' id='material-icons-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.6.2' type='text/css' media='all' /></noscript></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

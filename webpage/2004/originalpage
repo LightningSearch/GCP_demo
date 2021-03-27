@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antoine Tardif - Forbes Councils</title>
+  <link rel="icon" type="image/png" href="https://storage.googleapis.com/cco-web-assets/app-icons/forbes/icon.png">  <meta name="description" content="Antoine Tardif, Founder at Unite.AI. Member of Forbes Councils" />
+  <meta property="og:title" content="Antoine Tardif - Forbes Councils" />
+  <meta property="og:description" content="Antoine Tardif, Founder at Unite.AI. Member of Forbes Councils" />
+  <meta property="og:image" content="https://s3.amazonaws.com/cco-avatars/b880a303-230b-415a-a451-5662b407a452.png" />
+  <meta property="og:type" content="profile" />
+  <meta property="profile:first_name" content="Antoine" />
+  <meta property="profile:last_name" content="Tardif" />
+  <meta property="og:site_name" content="Forbes Councils" />
+  <meta property="og:url" content="https://profiles.forbes.com/members/business/profile/Antoine-Tardif-Founder-Unite-AI/a378ec8f-9ffd-45da-a73f-6ed9e7fd3df1" />
+  <meta name="twitter:title" content="Antoine Tardif - Forbes Councils" />
+  <meta name="twitter:description" content="Antoine Tardif, Founder at Unite.AI. Member of Forbes Councils" />
+  <meta name="twitter:image" content="https://s3.amazonaws.com/cco-avatars/b880a303-230b-415a-a451-5662b407a452.png" />
+  <meta name="twitter:image:alt" content="Antoine Tardif" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="https://twitter.com/futuristdotai" />
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+      var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })
+      (window, document, 'script', 'dataLayer', 'GTM-TS2WKQD');</script>
+  <!-- End Google Tag Manager -->
+  <link rel="canonical" href="https://profiles.forbes.com/members/business/profile/Antoine-Tardif-Founder-Unite-AI/a378ec8f-9ffd-45da-a73f-6ed9e7fd3df1">
+  <link rel="stylesheet" href="/cco-platform-app/styles/profile.css">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500&display=swap" rel="stylesheet">
+  <script>
+    function evalSeeMores () {
+      var elements = document.querySelectorAll('p.exec-profile__description, div.exec-profile__footer-text');
+      for (el of elements) {
+        el.classList[el.scrollHeight > el.clientHeight ? 'add' : 'remove']('truncated');
+      }
+      window.onresize = function () {
+        for (el of elements) {
+          el.classList[el.scrollHeight > el.clientHeight ? 'add' : 'remove']('truncated');
+        }
+      }
+    }
+    window.onload = evalSeeMores;
+  </script>
+    <script src="/cco-platform-app/external.js"></script>
+    <script type="text/javascript">
+      window.analytics.load("UJ7DckosTle3SCBVpr7BXcTHsYNDwlRT");
+      window.analytics.page();
+    </script>
+</head>
+
+<body>
+  <div class="exec-profile__header-container"></div>
+  <div class="exec-profile__container">
+    <img class="exec-profile__site-logo" src=https://s3.amazonaws.com/cco-organizations/forbes/forbes/logo.png alt=Forbes Councils />
+    <div class="exec-profile__content-container">
+  <div class="exec-profile__content-header-container">
+    <div class="exec-profile__avatar-container">
+      <img class="exec-profile__avatar" src="https://d2wpuh174c3iwv.cloudfront.net/resize?url&#x3D;https%3A%2F%2Fs3.amazonaws.com%2Fcco-avatars%2Fb880a303-230b-415a-a451-5662b407a452.png&amp;width&#x3D;340&amp;height&#x3D;340" alt="Antoine Tardif" />
+      <p class="exec-profile__member-since">Member Since 2020</p>
+    </div>
+    <div class="exec-profile__content-header">
+      <h1 class="exec-profile__name">Antoine Tardif</h1>
+        <div class="exec-profile__job-title">Founder</div>
+      <p class="exec-profile__company-name">Unite.AI</p>
+      <p class="exec-profile__location">Cayman Islands</p>
+      <div class="exec-profile__social-container">
+        <a aria-label="twitter" class="twitter exec-profile__social-icon" href="https://twitter.com/futuristdotai"></a>
+        <a aria-label="linkedIn" class="linkedin exec-profile__social-icon" href="https://www.linkedin.com/in/antoine-tardif"></a>
+        <a aria-label="website" class="globe exec-profile__social-icon" href="https://www.futurist.ai"></a>
+      </div>
+    </div>
+  </div>
+  <div class="exec-profile__social-container--mobile">
+    <a aria-label="twitter" class="twitter exec-profile__social-icon" href="https://twitter.com/futuristdotai"></a>
+    <a aria-label="linkedIn" class="linkedin exec-profile__social-icon" href="https://www.linkedin.com/in/antoine-tardif"></a>
+    <a aria-label="website" class="globe exec-profile__social-icon" href="https://www.futurist.ai"></a>
+  </div>
+  <div class="exec-profile__description-container">
+    <input type="checkbox" id="toggle" class="visually-hidden"></input>
+    <p class="exec-profile__description">Antoine Tardif is a Futurist who is passionate about the future of AI and robotics. He is the CEO of BlockVentures and has invested in over 50 AI & blockchain projects. He is also a founding partner of unite.AI which is a news website specializing in artificial intelligence.</p>
+    <label for="toggle" class="exec-profile__see-more">See more ></label>
+  </div>
+  <hr class="exec-profile__divider" />
+  <div style="position: relative">
+    <h2 class="exec-profile__section-header">RECENT CONTENT</h2>
+    <h4 class="exec-profile__articles-date">November 11th, 2020</h4>
+    <h3>
+      <a href=http://www.forbes.com/sites/forbesbusinesscouncil/2020/11/11/five-emerging-disruptive-technologies-for-entrepreneurs-to-observe/ style="color: #24242" class="exec-profile__articles-header">
+        Five Emerging Disruptive Technologies For Entrepreneurs To Observe
+      </a>
+    </h3>
+    <p class="exec-profile__articles-excerpt">These technologies have the potential to completely disrupt the aerospace, health and manufacturing sectors.</p>
+    <h4 class="exec-profile__articles-date">October 7th, 2020</h4>
+    <h3>
+      <a href=https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/07/14-crucial-business-tasks-to-never-outsource/#429bb9f37c83 style="color: #24242" class="exec-profile__articles-header">
+        14 Crucial Business Tasks You Should Never Outsource
+      </a>
+    </h3>
+    <p class="exec-profile__articles-excerpt"><p>Where you&rsquo;re looking to fill a skills gap or your company is growing rapidly, you may be considering outsourcing certain aspects of the business. Contracting outside the company can free up valuable time and resources, which can improve your bottom line in the long run. However, not everything can or should be done by someone else, so you&rsquo;ll have to carefully consider which tasks you pass off to others.</p></p>
+    <h4 class="exec-profile__articles-date">September 15th, 2020</h4>
+    <h3>
+      <a href=https://www.forbes.com/sites/forbesbusinesscouncil/2020/09/15/got-a-bad-review-16-smart-ways-to-handle-it/#1bd560543e05 style="color: #24242" class="exec-profile__articles-header">
+        Got A Bad Review? 16 Smart Ways To Handle It
+      </a>
+    </h3>
+    <p class="exec-profile__articles-excerpt"><p>As dreadful as the thought may seem, no company is immune from their fair share of bad publicity. While negative attention from customers or the media is unavoidable, it can be contained and reversed if you handle the situation properly. Conversely, taking the wrong approach to a less-than-favorable review or press mention can irreparably damage your company&rsquo;s reputation.</p></p>
+    <h4 class="exec-profile__articles-date">September 9th, 2020</h4>
+    <h3>
+      <a href=http://www.forbes.com/sites/forbesbusinesscouncil/2020/09/09/five-machine-learning-algorithms-entrepreneurs-should-understand/ style="color: #24242" class="exec-profile__articles-header">
+        Five Machine Learning Algorithms Entrepreneurs Should Understand
+      </a>
+    </h3>
+    <p class="exec-profile__articles-excerpt">While some of these may be familiar, others are less commonly known.</p>
+    <input type="checkbox" id="toggle-articles" class="visually-hidden articles"></input>
+    <div class="exec-profile__more-articles-container">
+    </div>
+    <hr class="exec-profile__divider" />
+    <h2 class="exec-profile__section-header">COMPANY INFO</h2>
+    <h3 class="exec-profile__company-name-section">Unite.AI</h3>
+    <div class="exec-profile__social-container--company">
+      <a aria-label="twitter" class="twitter exec-profile__social-icon" href="https://twitter.com/UniteAI"></a>
+      <a aria-label="linkedIn" class="linkedin exec-profile__social-icon"
+        href="https://www.linkedin.com/company/UniteAI"></a>
+      <a aria-label="website" class="globe exec-profile__social-icon" href="https://www.unite.ai"></a>
+      <a aria-label="facebook" class="facebook exec-profile__social-icon"
+        href="https://www.facebook.com/uniteai"></a>
+    </div>
+    <div class="exec-profile__description-container company">
+      <input type="checkbox" id="toggle-company" class="visually-hidden company"></input>
+      <p class="exec-profile__description company">Features the top news and interviews in AI & robotics. Also find events, and educational content. We bring together entrepreneurs, thought leaders, researchers, and AI developers.</p>
+      <label for="toggle-company" class="exec-profile__see-more company">See more ></label>
+    </div>
+    <hr class="exec-profile__divider" />
+    <h2 class="exec-profile__section-header">AREA OF FOCUS</h2>
+    <ul class="exec-profile__list">
+      <li>Artificial Intelligence</li>
+      <li>Blockchain</li>
+      <li>Augmented Reality</li>
+    </ul>
+    <hr class="exec-profile__divider" />
+    <h2 class="exec-profile__section-header">INDUSTRY</h2>
+    <p class="exec-profile__list">Investment Banking/Venture</p>
+    <hr class="exec-profile__divider" />
+  </div>
+</div>
+  </div>
+  <div class="exec-profile__footer-container">
+    <div class="exec-profile__footer-text-container">
+      <input type="checkbox" id="toggle-footer" class="visually-hidden footer"></input>
+      <div class="exec-profile__footer-text">© 2021 Forbes Councils, LLC. All rights reserved. | <a href="http://councils.forbes.com/terms/">Terms and Conditions</a> and <a href="http://councils.forbes.com/terms/">Privacy Policy</a> | Forbes® and the other denoted terms and the related trade dress are a non-exclusive list of the trademarks of Forbes Councils, LLC. in the U.S. and/or other countries. Forbes Councils LLC trademarks and trade dress may not be used in connection with any product or service that is not Forbes Councils, LLC, in any manner that is likely to cause confusion among customers, or any manner that disparages Forbes Councils, LLC. This site contains the trademarks, service marks, and logos of third parties and such trademarks and service marks are the property of their respective owners and not owned by Forbes Councils, LLC. Such third party trademark owners may or may not be affiliated with, connected to, or sponsored by Forbes Councils, LLC. These third party marks include but are not limited to Forbes®, which is a registered trademark of and the property of Forbes Media, LLC.</div>
+      <label for="toggle-footer" class="exec-profile__see-more-footer">Read More</label>
+    </div>
+  </div>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TS2WKQD" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+</body>
+
+</html>

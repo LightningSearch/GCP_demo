@@ -1,0 +1,2995 @@
+
+00006000
+<!doctype html>
+<!--[if IE 8]><html class="lt-ie10 lt-ie9" lang="en"><![endif]-->
+<!--[if IE 9]><html class="lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html><!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="&quot;Artificial Intelligence&quot;, &quot;Machine Learning&quot;, Healthcare, &quot;Quadruple Aim&quot;, &quot;Data Analytics&quot;, &quot;AI Methodology&quot;, &quot;AI Bias&quot;, &quot;Heathcare Technology&quot;, &quot;Responsible Use&quot;">
+    <meta name="description" content="Leaders from all sectors of health care are increasingly integrating artificial intelligence (AI) into their organizations to achieve strategic goals, and confidence in the technology&#039;s promise is growing. A 2020 Optum survey on AI in health care found th...">
+    <meta name="robots" content="index, follow">
+    <meta name="brighttalk-page-name" content="webcast">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>In pursuit of parity: A guide to the responsible use of AI in health care</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<!--[if lt IE 9]>
+<script src="/resources/vendor/html5shiv/js/html5shiv.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea"></script>
+<![endif]-->
+
+                        <link type='text/css' rel='stylesheet' href="/compiled/css/responsive-base.css?v=605fb9d40d5fb0b5fede139922787723bd1b43ea">
+                <link type='text/css' rel='stylesheet' href="/bundles/brighttalkportal/css/wp-header.css?v=605fb9d40d5fb0b5fede139922787723bd1b43ea">
+        <link type='text/css' rel='stylesheet' href="/bundles/brighttalkplayer/css/player.css?v=605fb9d40d5fb0b5fede139922787723bd1b43ea">
+        <!--[if lt IE 9]>
+            <link type='text/css' rel='stylesheet' href="/bundles/brighttalkportal/css/wp-header-ie8.css?v=605fb9d40d5fb0b5fede139922787723bd1b43ea">
+        <![endif]-->
+        <link type='text/css' rel='stylesheet' href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
+    
+    <link type='text/css' rel='stylesheet' href="/compiled/css/player-bundle/layout.css?v=605fb9d40d5fb0b5fede139922787723bd1b43ea">
+
+    <!--[if lte IE 9]>
+<link rel="shortcut icon" href="/resources/images/favicons/favicon.ico">
+<![endif]-->
+
+<link rel="icon" href="/resources/images/favicons/favicon.ico">
+<link rel="icon" type="image/png" href="/resources/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/resources/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/resources/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/resources/images/favicons/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/resources/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/resources/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/resources/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/resources/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/resources/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/resources/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/resources/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/resources/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/resources/images/favicons/apple-touch-icon-180x180.png">
+
+<link rel="manifest" href="/resources/images/favicons/manifest.json">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-config" content="/resources/images/favicons/browserconfig.xml"/>
+
+        
+    <link rel="canonical" href="https://www.brighttalk.com/webcast/12339/471416/in-pursuit-of-parity-a-guide-to-the-responsible-use-of-ai-in-health-care">
+            <link rel="image_src" type="image/png" href="https://www.brighttalk.com/communication/471416/preview_1614042196.png">
+    
+            <!--[if lte IE 9]>
+        	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>
+        <![endif]-->
+        <!--[if !IE]><!-->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <!--<![endif]-->
+        <!--[if lt IE 9]>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+        	<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script src="/bundles/brighttalkportal/js/wp-header.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea"></script>
+                            
+        
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:site" content="@BrightTALK">
+    <meta property="twitter:title" content="In pursuit of parity: A guide to the responsible use of AI in health care">
+    <meta property="twitter:description" content="Leaders from all sectors of health care are increasingly integrating artificial intelligence (AI) into their organizations to achieve strategic goals, and confidence in the technology&#039;s promise is gro...">
+            <meta property="twitter:image:src" content="https://www.brighttalk.com/communication/471416/preview_1614042196.png">
+        <meta property="og:image" content="https://www.brighttalk.com/communication/471416/preview_1614042196.png">
+    
+    <meta name="brighttalk-community" content="None">
+    <meta name="brighttalk-community-parent" content="None">
+    <meta name="brighttalk-channel-id" content="12339">
+
+                          <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="JVT9R-JD38W-BPCAY-8MYGM-PYXBG",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"JVT9R-JD38W-BPCAY-8MYGM-PYXBG",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="iqsdpeixfubziyc3jnua-f-9f0a95a88-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"87120","ak.ai":parseInt("390532",10),"ak.ol":"0","ak.cr":26,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"2d2b73e3","ak.r":36275,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"68.36.55.0","ak.cport":49435,"ak.gh":"23.56.169.94","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1616595816","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==cERyYhwCQm/cBWLkvob1DekVNcX0UaB+3ZDR3maicqrLcEQEgUrkBLvXjl7epGzRJOU4yEghhKgbRglUWo1lmFpgspVo+9qcQ9OLpqMez7KPu2JAdGCvMn/CEscuCDhTvud/LahGaBpxC86F3ktnqJO1UGlVofLU0zVkO30vgEkug6+DNNSyCqcADmmv5jkapHsmS2OPnIn6qjBkrHsQ4QIWGfTDCC2dU/O1xwpSXaAEcXTj9LWS++UfvUubY1wJ47wvFJVquqt6aFPw5/HS8DFdb7XOjmKZwsphhFjj235hqmpkn7iLWHkfr2Jx4e/+Zco+BkT6oBhardpwPwwfPcOrZ8T+RndxdIxMpRyYtWBoZIds1Sxawh56kQi15RiPP++mvzyzpdsGKB76s4jXN5o87JL/8JRs0U5SLE0f5F8=","ak.pv":"79","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body ng-app="BTApp" ng-controller="Main" ng-init="init()" ng-class="{'user-logged-in': session.isUserLoggedIn()}" data-ga-event-tracker>
+
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WL9H26"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+  dataLayer = [{
+    'brighttalk-page-name': 'webcast',
+    'brighttalk-portal-is-logged-in': false
+  }];
+</script>
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+                '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WL9H26');</script>
+<!-- End Google Tag Manager -->
+
+    <div data-snap-drawer="left" class="burger-menu-snap-drawer">
+        <form id="burgerMenuSearchForm" class="burger-menu-search-form" action="/search" method="get">
+    <div class="input-group input-group-search">
+        <input type="text" name="q" class="search-form-term input-group-input" id="burgerMenuSearchField" placeholder="Find free videos and webinars">
+        <button type="submit" class="burger-menu-search-form-submit input-group-icon">
+            <i class="fa fa-search"></i>
+        </button>
+    </div>
+</form>
+
+<ul class="burger-menu">
+    <li><a href="/webcasts" class="burger-menu-link all-brighttalk-webcasts-link">All BrightTALK</a></li>
+    <li><a href="/business-management" class="burger-menu-link business-management-parent-community-link">Business Management</a></li>
+    <li><a href="/finance" class="burger-menu-link finance-parent-community-link">Finance</a></li>
+    <li><a href="/human-resources" class="burger-menu-link human-resources-parent-community-link">Human Resources</a></li>
+    <li><a href="/information-technology" class="burger-menu-link it-parent-community-link">Information Technology</a></li>
+    <li><a href="/legal" class="burger-menu-link legal-parent-community-link">Legal</a></li>
+    <li><a href="/marketing" class="burger-menu-link marketing-parent-community-link">Marketing</a></li>
+    <li><a href="/research-development" class="burger-menu-link research-development-parent-community-link">Research &amp; Development</a></li>
+    <li><a href="/sales" class="burger-menu-link sales-parent-community-link">Sales</a></li>
+</ul>
+    </div>
+
+    <div data-snap-drawer="right" class="mobile-profile-menu-snap-drawer">
+        <div class="mobile-profile-menu" data-snap-close-on-user-image-upload>
+    <span class="profile-menu-user-name">Hi  [[ session.user.profile.firstName ]]</span>
+<ul class="profile-menu-options">
+    <li class="profile-menu-option profile-menu-manage-option" ng-show="session.isUserLoggedIn() && session.user.isManager">
+        <a class="profile-menu-option-link profile-menu-manager-option-link" href="/admin/channel?utm_campaign=profile-dropdown-menu&amp;utm_content=Manage&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+            <span class="profile-menu-option-link-text">Manage</span>
+        </a>
+    </li>
+    <li class="profile-menu-option" ng-show="session.isUserLoggedIn() && session.user.isChannelOwner">
+        <a class="profile-menu-option-link channels-i-own-link" href="/mybrighttalk/own-channels?utm_campaign=profile-dropdown-menu&amp;utm_content=channels%20I%20own&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+            <span class="profile-menu-option-link-text">Channels I own</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link my-feed-link" href="/mybrighttalk/knowledge-feed?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+            <span class="profile-menu-option-link-text">My feed</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link watch-later-link" href="/mybrighttalk/watch-later">
+            <span class="profile-menu-option-link-text">Watch later</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link my-viewing-history-link" href="/mybrighttalk/viewing-history?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20viewing%20history&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+            <span class="profile-menu-option-link-text">My viewing history</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link my-channels-link" href="/mybrighttalk/channels?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20channels&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+            <span class="profile-menu-option-link-text">My channels</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <form novalidate method="post" enctype="multipart/form-data" class="profile-card-image-form">
+            <div class="profile-menu-option-link profile-menu-add-profile-photo">
+                <input type="file" name="mobile_profile_menu_profile_photo" class="profile-menu-add-profile-photo-button"
+                    ng-class="{'profile-card-add-photo-button': !session.user.profile.photo, 'profile-card-change-photo-button': session.user.profile.photo}"
+                    ng-file-select="onFileSelect($files)"
+                    data-profile-photo-upload
+                    data-ga-action="profile dropdown photo uploaded"
+                    data-api-key="493291559361555"
+                    data-upload-preset="core_profile_photo_upload"
+                    data-cloud-name="brighttalkprod"
+                    data-sign-url="/mybrighttalk/profile/photo/sign"
+                    data-save-url="/mybrighttalk/profile/photo"
+                    accept="image/*"
+                    ga-click-tracker ga-click-tracker-action="profile dropdown upload photo" ga-click-tracker-category="Social"
+                    data-snap-close>
+                <span class="profile-menu-option-link-text" ng-if="!session.user.profile.photo">Add profile photo</span>
+                <span class="profile-menu-option-link-text" ng-if="session.user.profile.photo">Change profile photo</span>
+            </div>
+        </form>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link profile-menu-edit-profile-link" href="/mybrighttalk/profile/edit?utm_campaign=profile-dropdown-menu&amp;utm_content=Edit%20profile&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+            <span class="profile-menu-option-link-text">Edit profile</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link profile-menu-logout-link" href="/logout">
+            <span class="profile-menu-option-link-text">Log out</span>
+        </a>
+    </li>
+</ul>
+</div>
+    </div>
+
+    <div id="jsPageScrollTop" data-snap-content data-scroll-to-top-when='["player:user-authorised-for-webcast", "watch-later:clicked-to-add"]'>
+        <div class="page-wrapper">
+            <div class="clearfix">
+                                    <header class="masthead masthead-inline" role="banner">
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width" id="bt-s">
+          <a href="/" class="x-brand img" title="Free online events showcase the latest ideas and insights from world-class experts, innovators and visionaries">
+            <!--[if gte IE 9]><!-->
+              <img src="/bundles/brighttalkportal/images/BrightTALK-logo.svg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea" class="style-svg" />
+            <![endif]-->
+            <!--[if lte IE 8]>
+              <img src="/bundles/brighttalkportal/images/BrightTALK-logo.png?v=605fb9d40d5fb0b5fede139922787723bd1b43ea">
+            <![endif]-->
+          </a>
+          <a href="#" id="x-btn-navbar-collapsed" class="x-btn-navbar collapsed icon" data-toggle="collapse" data-target=".x-nav-wrap.mobile">
+            <i class="x-icon-bars" data-x-icon="&#xf0c9;"></i>
+            <span class="visually-hidden">Navigation</span>
+          </a>
+          <a href="#" id="bt-search-btn" class="bt-search-btn">
+            <i class="x-icon-search" data-x-icon="" aria-hidden="true"></i>
+          </a>
+          <div id="bt-search-overlay" class="bt-search-overlay">
+            <div id="x-sum-search" class="x-search-form">
+              <form method="get" id="searchform" class="form-search" action="/search/">
+                <label for="s" class="visually-hidden">Search</label>
+                <input type="text" id="s" class="search-query" name="q" placeholder="Search">
+                <button type="submit" class="x-header-search-button">
+                  <i class="x-icon-search" data-x-icon="" aria-hidden="true"></i>
+                </button>
+              </form>
+            </div>
+            <a href="#" id="bt-search-close" class="bt-search-close">
+              <i class="x-icon-close" aria-hidden="true"></i>
+            </a>
+          </div>
+          <div class="x-wrap-topnav">
+            <nav class="x-nav-wrap desktop" role="navigation">
+              <ul id="menu-header" class="x-nav">
+                <li class="menu-item">
+                    <a href="/summits/">
+                        <span>Summits</span>
+                    </a>
+                </li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                  <a href="?#">
+                    <span>Communities</span>
+                  </a>
+                  <ul class="sub-menu">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/all-talks/">
+                        <span>All BrightTALK</span>
+                      </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/communities/business-management/">
+                        <span>Business Management</span>
+                      </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/communities/finance/">
+                        <span>Finance</span>
+                      </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/communities/human-resources/">
+                        <span>Human Resources</span>
+                      </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/communities/information-technology/">
+                        <span>Information Technology</span>
+                      </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/communities/legal/">
+                        <span>Legal</span>
+                      </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/communities/marketing/">
+                        <span>Marketing</span>
+                      </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/communities/research-and-development/">
+                        <span>Research and Development</span>
+                      </a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                      <a href="/communities/sales/">
+                        <span>Sales</span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="menu-item btl-out" style="display: none;">
+                  <a href="/login?redirect=/webcast/12339/471416%3Futm_source%3Dvb%26" style="outline: none;">
+                    <span>Log in</span>
+                  </a>
+                </li>
+                <li class="menu-item btl-out btl-join" style="display: none;">
+                  <a href="/join?redirect=/webcast/12339/471416%3Futm_source%3Dvb%26" style="outline: none;">
+                    <span>Join now</span>
+                  </a>
+                </li>
+                <li class="menu-item menu-item-has-children btl-in" style="display: none;">
+                  <a href="#" style="outline: none;">
+                    <span>My account</span>
+                  </a>
+                  <ul class="sub-menu">
+                    <li class="menu-item btl-manage" style="display: none;">
+                      <a href="/admin/channel">
+                        <span>Manage</span>
+                      </a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="/mybrighttalk/own-channels">
+                        <span>Channels I own</span>
+                      </a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="/mybrighttalk/knowledge-feed?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+                        <span>My feed</span>
+                      </a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="/mybrighttalk/watch-later">
+                        <span>Watch later</span>
+                      </a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="/mybrighttalk/viewing-history?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20viewing%20history&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+                        <span>My viewing history</span>
+                      </a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="/mybrighttalk/channels?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20channels&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+                        <span>My channels</span>
+                      </a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="/mybrighttalk/profile/edit?utm_campaign=profile-dropdown-menu&amp;utm_content=Edit%20profile&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+                        <span>Edit profile</span>
+                      </a>
+                    </li>
+                    <li class="menu-item">
+                      <a href="/logout">
+                        <span>Log out</span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+            <div class="x-brand-search">
+              <div id="x-sum-search" class="x-search-form">
+                <form method="get" id="searchform" class="form-search" action="/search/">
+                  <label for="s" class="visually-hidden">Search</label>
+            
+00006000
+      <input type="text" id="s" class="search-query" name="q" placeholder="Search">
+                  <button type="submit" class="x-header-search-button">
+                    <i class="x-icon-search" data-x-icon="" aria-hidden="true"></i>
+                  </button>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div class="x-nav-wrap mobile collapse x-topnav" id="myTopnav">
+            <ul id="menu-header-1" class="x-nav">
+              <li class="menu-item">
+                <a href="/summits/">
+                  <span>Summits</span>
+                </a>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+                <a href="#" id="bt-communities-toggle">
+                  <span>Communities</span>
+                  <div class="x-sub-toggle" data-toggle="collapse" data-target=".sub-menu.sm-0">
+                    <span style="width: 0.625em;">
+					                        <svg class="svg-inline--fa fa-angle-down fa-w-10" aria-hidden="true" data-prefix="fas" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"></path></svg>
+					</span>
+                  </div>
+                </a>
+                <ul class="sub-menu sm-0 collapse x-subnav" id="bt-communities">
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/all-talks/">
+                      <span>All BrightTALK</span>
+                    </a>
+                  </li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/communities/business-management/">
+                      <span>Business Management</span>
+                    </a>
+                  </li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/communities/finance/">
+                      <span>Finance</span>
+                    </a>
+                  </li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/communities/human-resources/">
+                      <span>Human Resources</span>
+                    </a>
+                  </li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/communities/information-technology/">
+                      <span>Information Technology</span>
+                    </a>
+                  </li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/communities/legal/">
+                      <span>Legal</span>
+                    </a>
+                  </li>
+
+
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/communities/marketing/">
+                      <span>Marketing</span>
+                    </a>
+                  </li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/communities/research-and-development/">
+                      <span>Research &amp; Development</span>
+                    </a>
+                  </li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-community">
+                    <a href="/communities/sales/">
+                      <span>Sales</span>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="menu-item btl-out">
+                <a href="/login?redirect=/webcast/12339/471416%3Futm_source%3Dvb%26" style="outline: none;">
+                  <span>Log in</span>
+                </a>
+              </li>
+              <li class="menu-item btl-out btl-join">
+                <a href="/join?redirect=/webcast/12339/471416%3Futm_source%3Dvb%26" style="outline: none;">
+                  <span>Join now</span>
+                </a>
+              </li>
+              <li class="menu-item menu-item-has-children btl-in">
+                <a href="#" id="bt-my-account-toggle">
+                  <span>My account</span>
+                  <div class="x-sub-toggle" data-toggle="collapse" data-target=".sub-menu.sm-1">
+                    <span style="width: 0.625em;">
+					                        <svg class="svg-inline--fa fa-angle-down fa-w-10" aria-hidden="true" data-prefix="fas" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"></path></svg>
+					</span>
+                  </div>
+                </a>
+                <ul class="sub-menu sm-1 collapse x-mynav" id="my-account">
+                  <li class="menu-item btl-manage" style="display: none;">
+                    <a href="/admin/channel">
+                      <span>Manage</span>
+                    </a>
+                  </li>
+                  <li class="menu-item">
+                    <a href="/mybrighttalk/own-channels">
+                      <span>Channels I own</span>
+                    </a>
+                  </li>
+                  <li class="menu-item">
+                    <a href="/mybrighttalk/knowledge-feed?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+                      <span>My feed</span>
+                    </a>
+                  </li>
+                  <li class="menu-item">
+                    <a href="/mybrighttalk/watch-later">
+                      <span>Watch later</span>
+                    </a>
+                  </li>
+                  <li class="menu-item">
+                    <a href="/mybrighttalk/viewing-history?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20viewing%20history&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+                      <span>My viewing history</span>
+                    </a>
+                  </li>
+                  <li class="menu-item">
+                    <a href="/mybrighttalk/channels?utm_campaign=profile-dropdown-menu&amp;utm_content=My%20channels&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+                      <span>My channels</span>
+                    </a>
+                  </li>
+                  <li class="menu-item">
+                    <a href="/mybrighttalk/profile/edit?utm_campaign=profile-dropdown-menu&amp;utm_content=Edit%20profile&amp;utm_source=brighttalk-portal&amp;utm_medium=web">
+                      <span>Edit profile</span>
+                    </a>
+                  </li>
+                  <li class="menu-item">
+                    <a href="/logout">
+                      <span>Log out</span>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+                            </div>
+
+            
+            <div class="container">
+                                    <div class="site-content">
+                                <!--[if lte IE 10]>
+        <div class="alert alert-warning">You are using an outdated browser which is no longer supported. Please upgrade your browser or use a BrightTALK embed for a better experience.</div>
+    <![endif]-->
+    <div class="player" id="playerData" data-webcast data-webcast-id="471416" data-webcast-channel-id="12339"
+         data-webcast-status="upcoming"
+         data-master-channel-id="12339"
+         data-community-feed-url="/feeds/comm-feed?utmMedium=web&amp;utmSource=brighttalk-portal&amp;utmCampaign=community-feed&amp;trackLinkClick=1" data-channel-feed-uri="/channelfeed/12339">
+
+        <div class="row">
+
+            <!-- player column -->
+            <div class="col-xs-12 col-md-7 main">    <div class="player-wrapper">
+
+        <iframe class="embedded-player" data-embedded-player data-player-height-aware ng-if="isReadyToPlay()" src="about:blank" ng-cloak data-player-url="/service/player/en-US/theme/brighttalk/channel/12339/webcast/471416/portalplayer?showChannelList=false" allowfullscreen="true"></iframe>
+
+        <div ng-hide="isReadyToPlay()">
+                                <div class="social-links-wrapper hidden-xs hidden-sm">
+        <span class="text">Share this content</span>
+        <ul class="social-links" id="socialLinks" data-social-network-urls='{
+            "linkedin": "http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.brighttalk.com%2Fwebcast%2F12339%2F471416%3Futm_campaign%3DLinkedIn%26utm_source%3Dbrighttalk-sharing%26utm_medium%3Dweb",
+            "twitter": "http://twitter.com/share?url=http%3A%2F%2Fwww.brighttalk.com%2Fwebcast%2F12339%2F471416%3Futm_campaign%3DTwitter%26utm_source%3Dbrighttalk-sharing%26utm_medium%3Dweb&amp;text=In%20pursuit%20of%20parity%3A%20A%20guide%20to%20the%20responsible%20use%20of%20AI%20in%20health%20care%20-%20&amp;via=BrightTALK",
+            "facebook": "http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.brighttalk.com%2Fwebcast%2F12339%2F471416%3Futm_campaign%3DFacebook%26utm_source%3Dbrighttalk-sharing%26utm_medium%3Dweb",
+            "googleplus": "https://plus.google.com/share?url=http%3A%2F%2Fwww.brighttalk.com%2Fwebcast%2F12339%2F471416%3Futm_campaign%3DGoogle%26utm_source%3Dbrighttalk-sharing%26utm_medium%3Dweb"
+        }'>
+                    <li class="social-link-wrapper">
+                <a title="Share on LinkedIn" href="#" class="social-link linkedin-share-link jsSocialNetworkLink" data-social-network="linkedin" ga-click-tracker ga-click-tracker-action="Sharing" ga-click-tracker-category="Player&#x20;page" ga-click-tracker-label="LinkedIn">Share on LinkedIn</a>
+            </li>
+            <li class="social-link-wrapper">
+                <a title="Share on Twitter" href="#" class="social-link twitter-share-link jsSocialNetworkLink" data-social-network="twitter" ga-click-tracker ga-click-tracker-action="Sharing" ga-click-tracker-category="Player&#x20;page" ga-click-tracker-label="Twitter">Share on Twitter</a>
+            </li>
+            <li class="social-link-wrapper">
+                <a title="Share on Facebook" href="#" class="social-link facebook-share-link jsSocialNetworkLink" data-social-network="facebook" ga-click-tracker ga-click-tracker-action="Sharing" ga-click-tracker-category="Player&#x20;page" ga-click-tracker-label="Facebook">Share on Facebook</a>
+            </li>
+                            <li class="social-link-wrapper">
+                <a title="Embed" id="embedLink" class="social-link embed-link" href="#" ga-click-tracker ga-click-tracker-action="Sharing" ga-click-tracker-category="Player&#x20;page" ga-click-tracker-label="Embed">Embed</a>
+            </li>
+                </ul>
+    </div>
+
+            
+            <h1 class="webcast-title">In pursuit of parity: A guide to the responsible use of AI in health care</h1>
+                        <div ng-cloak class="webcast-description-wrapper" ng-class="{'webcast-description-collapsed': !webcast.description.expanded && '1'}">
+                <div>
+                    <span class="webcast-description">Leaders from all sectors of health care are increasingly integrating artificial intelligence (AI) into their organizations to achieve strategic goals, and confidence in the technology&#039;s promise is growing. A 2020 Optum survey on AI in health care found that 59% of respondents expect a full return on their AI investments in under three years, nearly double the 31% who answered similarly in 2018. <br />
+<br />
+Health care’s Quadruple Aim is to simultaneously improve health outcomes,  enhance and simplify the experiences of both patients and providers, and reduce overall costs — and AI is seen as an integral tool to help achieve it. The risk is that predictive models may unintentionally perpetuate harmful racial and gender biases that directly impact a patient&#039;s health or access to care. In order to overcome these challenges, health care organizations need to acknowledge their existence—and take proactive steps to promote equity by examining both the data these models interpret and how the models are being applied.<br />
+<br />
+In this VB Live event, you&#039;ll learn more about how AI can help health care experts do their jobs more efficiently and effectively, and how stakeholders throughout health care can use AI responsibly, ethically, and equitably. Plus, you&#039;ll get an in-depth perspective on the strengths and limitations of data, AI methodology, the application of AI results, and more.<br />
+<br />
+- What it means to use advanced analytics &quot;responsibly&quot;<br />
+- Why responsible use is so important in health care as compared to other fields<br />
+- The steps that researchers and organizations are taking today to ensure AI is used responsibly<br />
+- What the AI-enabled health system of the future looks like and its advantages for consumers, organizations, and clinicians<br />
+<br />
+Speakers:<br />
+<br />
+- Brian Christian, Author, The Alignment Problem, Algorithms to Live By and The Most Human Human<br />
+- Sanji Fernando, SVP of Artificial Intelligence &amp; Analytics Platforms, Optum<br />
+- Kyle Wiggers, AI Staff Writer, VentureBeat (moderator)</span>
+                </div>
+            </div>
+
+                            <div class="webcast-description-toggle-button-wrapper">
+                    <button ng-if="!webcast.description.expanded"  class="webcast-description-toggle-button" ng-click="toggleDescription()">...more</button>
+                    <button ng-if="webcast.description.expanded" class="webcast-description-toggle-button" ng-click="toggleDescription()">...less</button>
+                </div>
+            
+            
+            
+
+
+<div class="jsWebcastStartDateDurationInfo webcast-start-date-duration-info upcoming">
+                    
+            <div class="upcoming-date">
+            <span>Live online</span>
+            <span class="BTDate webcast-date" data-timestamp="1617210000" data-format="M j">Mar 31</span>
+            <span class="BTDate webcast-time" data-timestamp="1617210000" data-format="g:i a">5:00 pm</span>
+            <span class="timezone-clock jsTimezoneClock usersTimezone">UTC</span>
+        </div>
+        <div class="webcast-duration-wrapper">
+            <span>or after on demand</span>
+            <span class="webcast-duration">60 mins</span>
+        </div>
+    </div>
+        </div>
+        <div class="player-prereg-wrapper">
+
+            <div class="prereg-information" ng-show="webcast.status == 'upcoming' && webcast.userIsAuthorised" ng-cloak>
+                <span class="prereg-confirmation">Your place is confirmed, <br class="visible-xs"> we'll send you email reminders</span>
+
+                
+
+
+
+<div class="dropdown full-width-xs add-to-calendar-widget">
+    <button class="btn btn-secondary btn-lg dropdown-button" data-toggle="dropdown" ga-click-tracker ga-click-tracker-action="Add to calendar dropdown" ga-click-tracker-category="Player page" >Add to calendar <i class="fa fa-caret-down"></i></button>
+    <ul class="dropdown-menu">
+        <li>
+            <a class="add-to-calendar-widget-outlook-link" href="https://www.brighttalk.com/service/channel/channel/12339/communication/471416/calendar/ics" ga-click-tracker ga-click-tracker-action="Outlook calendar" ga-click-tracker-category="Player page"  target="_blank"><i class="fa fa-windows"></i> Outlook</a>
+        </li>
+        <li>
+            <a class="add-to-calendar-widget-ical-link" href="https://www.brighttalk.com/service/channel/channel/12339/communication/471416/calendar/ics" ga-click-tracker ga-click-tracker-action="Outlook calendar" ga-click-tracker-category="Player page"  target="_blank"><i class="fa fa-apple"></i> iCal</a>
+        </li>
+        <li>
+            <a class="add-to-calendar-widget-google-calendar-link" href="https://www.google.com/calendar/render?action=TEMPLATE&amp;pli=1&amp;sf=true&amp;output=xml&amp;text=In%20pursuit%20of%20parity%3A%20A%20guide%20to%20the%20responsible%20use%20of%20AI%20in%20health%20care&amp;details=Click%20here%20to%20attend%3A%20http%3A%2F%2Fwww.brighttalk.com%2Fwebcast%2F12339%2F471416%3Futm_campaign%3Dgoogle-calendar%26utm_source%3Dbrighttalk-portal%26utm_medium%3Dcalendar%0A%0ALeaders%20from%20all%20sectors%20of%20health%20care%20are%20increasingly%20integrating%20artificial%20intelligence%20%28AI%29%20into%20their%20organizations%20to%20achieve%20strategic%20goals%2C%20and%20confidence%20in%20the%20technology%27s%20promise%20is%20growing.%20A%202020%20Optum%20survey%20on%20AI%20in%20health%20care%20found%20that%2059%25%20of%20respondents%20expect%20a%20full%20return%20on%20their%20AI%20investments%20in%20under%20three%20years%2C%20nearly%20double%20the%2031%25%20who%20answered%20similarly%20in%202018.%20%0A%0AHealth%20care%E2%80%99s%20Quadruple%20Aim%20is%20to%20simultaneously%20improve%20health%20outcomes%2C%20%20enhance%20and%20simplify%20the%20experiences%20of%20both%20patients%20and%20providers%2C%20and%20reduce%20overall%20costs%20%E2%80%94%20and%20AI%20is%20seen%20as%20an%20integral%20tool%20to%20help%20achieve%20it.%20The%20risk%20is%20that%20predictive%20models%20may%20unintentionally%20perpetuate%20harmful%20racial%20and%20gender%20biases%20that%20directly%20impact%20a%20patient%27s%20health%20or%20access%20to%20care.%20In%20order%20to%20overcome%20these%20challenges%2C%20health%20care%20organizations%20need%20to%20acknowledge%20their%20existence%E2%80%94and%20take%20proactive%20steps%20to%20promote%20equity%20by%20examining%20both%20the%20data%20these%20models%20interpret%20and%20how%20the%20models%20are%20being%20applied.%0A%0AIn%20this%20VB%20Live%20event%2C%20you%27ll%20learn%20more%20about%20how%20AI%20can%20help%20health%20care%20experts%20do%20their%20jobs%20more%20efficiently%20and%20effectively%2C%20and%20how%20stakeholders%20throughout%20health%20care%20can%20use%20AI%20responsibly%2C%20ethically%2C%20and%20equitably.%20Plus%2C%20you%27ll%20get%20an%20in-depth%20perspective%20on%20the%20strengths%20and%20limitations%20of%20data%2C%20AI%20methodology%2C%20the%20application%20of%20AI%20results%2C%20and%20more.%0A%0A-%20What%20it%20means%20to%20use%20advanced%20analytics%20%22responsibly%22%0A-%20Why%20responsible%20use%20is%20so%20important%20in%20health%20care%20as%20compared%20to%20other%20fields%0A-%20The%20steps%20that%20researchers%20and%20organizations%20are%20taking%20today%20to%20ensure%20AI%20is%20used%20responsibly%0A-%20What%20the%20AI-enabled%20health%20system%20of%20the%20future%20looks%20like%20and%20its%20advantages%20for%20consumers%2C%20organizations%2C%20and%20clinicians%0A%0ASpeakers%3A%0A%0A-%20Brian%20Christian%2C%20Author%2C%20The%20Alignment%20Problem%2C%20Algorithms%20to%20Live%20By%20and%20The%20Most%20Human%20Human%0A-%20Sanji%20Fernando%2C%20SVP%20of%20Artificial%20Intelligence%20%26%20Analytics%20Platforms%2C%20Optum%0A-%20Kyle%20Wiggers%2C%20AI%20Staff%20Writer%2C%20VentureBeat%20%28moderator%29&amp;location=BrightTALK&amp;dates=20210331T170000Z%2F20210331T180000Z" ga-click-tracker ga-click-tracker-action="Google calendar" ga-click-tracker-category="Player page"  target="_blank"><i class="fa fa-google"></i> Google</a>
+        </li>
+    </ul>
+</div>
+            </div>
+            
+            
+                                        
+            <div class="webcast-register-button-wrapper">
+                <a href="#register" target="_self" class="webcast-register-button btn btn-primary btn-lg visible-xs-block visible-sm-inline-block" ng-if="!events.exists('embeddedAuthenticationLoading') && !webcast.userIsAuthorised" ng-cloak>Register for free</a>
+            </div>
+
+            <div ng-hide="isReadyToPlay()">
+                <div class="webcast-presenter-information-wrapper">
+                    <span>Presented by</span><br>
+                    <span class="webcast-presenter-information">VentureBeat x Optum</span>
+                </div>
+            </div>
+
+            
+<button class="btn btn-toggle watch-later-button visible-xs-block visible-sm-inline-block" ng-if="session.isUserLoggedIn() &amp;&amp; webcast.status != &#039;upcoming&#039; &amp;&amp; webcast.userIsAuthorised" ng-class="{'btn-toggle-on': watchLater.exists(webcast)}" data-watch-later-button data-watch-later-button-url="/mybrighttalk/watch-later/add" ng-cloak><b class="fa fa-clock-o"></b> Watch later</button>
+
+<b ng-if="session.isUserLoggedIn() &amp;&amp; webcast.status != &#039;upcoming&#039; &amp;&amp; webcast.userIsAuthorised" data-ga-load-tracker
+   data-ga-load-tracker-category="Player page" data-ga-load-tracker-label="Watch later display"
+   data-ga-load-tracker-action="Watch later"></b>
+                                        <div class="webcast-preview-image-wrapper" ng-show="!events.exists('embeddedAuthenticationLoading') && !webcast.userIsAuthorised" ng-cloak>
+                    <span class="webcast-preview-image-title">Presentation preview:</span>
+                    <img data-webcast-preview-image class="webcast-preview-image" src="https://www.brighttalk.com/communication/471416/preview_1614042196.png"
+                         alt="In pursuit of parity: A guide to the responsible use of AI in health care">
+                </div>
+                    </div>
+    </div>
+        <div class="related-topics">
+        <span>Related topics:</span>
+        <ul>
+                        <li>
+                <a class="keyword" href="/topic/artificial-intelligence/">Artificial Intelligence</a>
+            </li>
+                        <li>
+                <a class="keyword" href="/topic/machine-learning/">Machine Learning</a>
+            </li>
+                        <li>
+                <a class="keyword" href="/topic/healthcare/">Healthcare</a>
+            </li>
+                        <li>
+                <a class="keyword" href="/topic/quadruple-aim/">Quadruple Aim</a>
+            </li>
+                        <li>
+                <a class="keyword" href="/topic/data-analytics/">Data Analytics</a>
+            </li>
+                        <li>
+                <a class="keyword" href="/topic/ai-methodology/">AI Methodology</a>
+            </li>
+                        <li>
+                <a class="keyword" href="/topic/ai-bias/">AI Bias</a>
+            </li>
+                        <li>
+                <a class="keyword" href="/topic/heathcare-technology/">Heathcare Technology</a>
+            </li>
+                        <li>
+                <a class="keyword" href="/topic/responsible-use/">Responsible Use</a>
+            </li>
+                        <li>
+                <a href="/topics/most-popular/">more&hellip;</a>
+            </li>
+        </ul>
+    </div>
+        <div class="attendees profile-cards-wrapper" ng-controller="ProfileCards"
+         ng-show="initialized && session.initialized" ng-cloak>
+
+        
+            <b ng-if="initialized && session.initialized" data-ga-load-tracker
+               data-ga-load-tracker-category="Social" data-ga-load-tracker-label=""
+               data-ga-load-tracker-action="Social experience displayed"></b>
+
+            <div class="attendees-header row">
+                <h2 class="col-xs-10 col-sm-6 attendees-title">Network with like-minded attendees</h2>
+
+                <button ga-click-tracker ga-click-tracker-action="Show more attendees"
+                        ga-click-tracker-category="Social" class="col-xs-2 col-sm-6 show-more-attendees-button"
+                        ng-click="showMoreAttendees()" ng-hide="showMoreAttendeesLoading || optedOut">
+                    <span class="show-more-attendees-text hidden-xs">More attendees</span>
+                    <b class="show-more-attendees-icon fa fa-refresh"></b>
+                </button>
+                <div class="col-xs-2 col-sm-6 show-more-attendees-loading-icon-wrapper"
+                     ng-show="showMoreAttendeesLoading">
+                    <b class="fa fa-spinner fa-spin show-more-attendees-loading-icon"></b>
+                </div>
+            </div>
+
+                             
+00004000
+       
+            <div id="optedInView" ng-init="init({
+                getCardsUrl: '/webcast/12339/471416/attendees',
+                optOutUrl: '/webcast/12339/471416/opt-out',
+                optInUrl: '/webcast/12339/471416/opt-in'
+            })" ng-hide="optedOut">
+
+                <ul class="profile-cards row">
+                    <li class="col-xs-12 col-sm-6 profile-card-wrapper animate" data-profile-card
+                        data-remove-photo-url="/mybrighttalk/profile/photo">
+                        <div class="profile-card" data-hash="[[ session.user.hash ]]">
+                            <div class="profile-card-image-wrapper" ng-if="!events.exists('photoUploading')"
+                                 ng-class="{'profile-card-add-photo': !session.user.profile.photo, 'profile-card-change-photo': session.user.profile.photo}">
+
+                                <img class="profile-card-image" ng-src="[[ session.user.profile.photo ]]"
+                                     ng-if="session.user.profile.photo"
+                                     alt="[[ session.user.profile.displayName ]]"
+                                     src="data:image/gif;base64,R0lGODlhAQABAIAAAP7//wAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==">
+
+                                <div ng-if="session.user.profile.photo">
+                                    <div data-profile-photo-options>
+    <button ng-click="showPhotoOptions()" ng-class="{'profile-card-image-options-button-hidden': showProfilePhotoOptions}" class="profile-card-image-options-button"><b class="fa fa-camera"></b></button>
+    <div ng-class="{'profile-card-image-options-hidden': !showProfilePhotoOptions}" class="profile-card-image-options profile-card-image-options-hidden">
+        <button data-ga-click-tracker data-ga-click-tracker-action="Remove photo" data-ga-click-tracker-category="Social" ng-click="removePhotoClick()" class="profile-card-image-options-remove-button profile-card-image-options-option-button btn btn-danger btn-block">Remove</button>
+        <button ng-click="hidePhotoOptions()" class="profile-card-image-options-cancel-button profile-card-image-options-option-button btn btn-tertiary btn-block">Cancel</button>
+    </div>
+</div>
+                                </div>
+
+                                <div ng-if="!session.user.profile.photo">
+                                    <form novalidate method="post" enctype="multipart/form-data" class="profile-card-image-form">
+
+    <div class="profile-card-add-photo-button-wrapper">
+        <input type="file" name="profile_photo_upload" ng-file-select="onFileSelect($files)" data-profile-photo-upload data-ga-action="Photo uploaded" data-api-key="493291559361555"
+               data-upload-preset="core_profile_photo_upload" data-cloud-name="brighttalkprod" data-sign-url="/mybrighttalk/profile/photo/sign"
+               data-save-url="/mybrighttalk/profile/photo"
+               ng-class="{'profile-card-add-photo-button': !session.user.profile.photo, 'profile-card-change-photo-button': session.user.profile.photo}"
+               class="profile-card-upload-photo-button"
+               ga-click-tracker ga-click-tracker-action="Upload photo" ga-click-tracker-category="Social"
+               accept="image/*">
+        <b class="fa fa-camera"></b>Add a photo
+    </div>
+</form>
+                                </div>
+                            </div>
+
+                            <div ng-if="events.exists('photoUploading')" class="profile-card-photo-upload-icon-wrapper">
+                                <div class="profile-card-photo-upload-icon photo-upload-icon"><b class="fa fa-spinner fa-spin"></b></div>
+                            </div>
+
+                            <ul class="profile-card-details">
+                                <li class="profile-card-detail profile-card-name" title="[[ session.user.profile.displayName ]]">[[ session.user.profile.displayName ]]</li>
+                                <li class="profile-card-detail profile-card-job-title" title="[[ session.user.profile.jobTitle ]]">[[ session.user.profile.jobTitle ]]</li>
+                                <li class="profile-card-detail profile-card-company-name" title="[[ session.user.profile.companyName ]]">[[ session.user.profile.companyName ]]</li>
+                                <li class="profile-card-detail profile-card-country" title="[[ userProfileTemplateHelper.getLocation(session.user.profile) ]]" ng-if="session.isUserLoggedIn()">[[ userProfileTemplateHelper.getLocation(session.user.profile) ]]</li>
+                            </ul>
+                        </div>
+                    </li>
+
+                    <li class="col-xs-12 col-sm-6 profile-card-wrapper animate" ng-repeat="card in cards"
+                        ng-init="whereFrom = card.stateRegion ? card.stateRegion + ', ' + card.country : card.country; ">
+                        <div class="profile-card" data-hash="[[ card.hash ]]">
+                            <div class="profile-card-image-wrapper">
+                                <img class="profile-card-image" ng-src="[[ card.photo ]]"
+                                     ng-if="card.photo" alt="[[ card.displayName ]]"
+                                     src="data:image/gif;base64,R0lGODlhAQABAIAAAP7//wAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==">
+                            </div>
+
+                            <ul class="profile-card-details">
+                                <li class="profile-card-detail profile-card-name" title="[[ card.displayName ]]">[[ card.displayName ]]</li>
+                                <li class="profile-card-detail profile-card-job-title" title="[[ card.jobTitle ]]">[[ card.jobTitle ]]</li>
+                                <li class="profile-card-detail profile-card-company-name" title="[[ card.companyName ]]">[[ card.companyName ]]</li>
+                                <li class="profile-card-detail profile-card-country" title="[[ userProfileTemplateHelper.getLocation(card) ]]">[[ userProfileTemplateHelper.getLocation(card) ]]</li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+
+                <div class="opt-out-controls">
+                    <button ga-click-tracker ga-click-tracker-action="Opt out"
+                            ga-click-tracker-category="Social" class="opt-out-button" ng-click="optOut()"
+                            ng-hide="optOutLoading">Hide me from other attendees
+                    </button>
+                    <b class="fa fa-spinner fa-spin opt-out-loading-icon" ng-show="optOutLoading"></b>
+                </div>
+
+            </div>
+
+            <div class="opted-out-view" ng-show="optedOut">
+                <button ga-click-tracker ga-click-tracker-action="Opt in"
+                        ga-click-tracker-category="Social" class="opt-in-button btn btn-primary btn-lg"
+                        ng-click="optIn()" ng-hide="optInLoading">Show me
+                </button>
+                <b class="fa fa-spinner fa-spin opt-in-loading-icon" ng-show="optInLoading"></b>
+            </div>
+
+            </div>
+                <div class="channel-details">
+            
+                <ul id="channelTabs" class="block-tabs channel-tabs">
+
+                    <li class="tab block-tab block-tab-active" id="channelFeedTab">
+                        <span class="block-tab-link">Channel</span>
+                    </li>
+
+                    <li class="tab block-tab" id="channelProfileTab">
+                        <span class="block-tab-link">Channel profile</span>
+                    </li>
+
+                </ul>
+
+                <div class="channel-title-wrapper">
+                    <h2 class="channel-title"><a class="channel-link" ga-click-tracker ga-click-tracker-action="Channel link" ga-click-tracker-category="Player page" ga-click-tracker-label="" href="/channel/12339/venturebeat">VentureBeat</a></h2>
+                </div>
+
+                <div class="pagination-options jsPaginationOptions">
+                    <button type="button" class="pagination-option pagination-option-prev jsPaginationOptionPrev">Up</button>
+                    <button type="button" class="pagination-option pagination-option-next jsPaginationOptionNext">Down</button>
+                </div>
+
+                <div class="channelFeed" id="channelFeed" data-no-webinars-message="There are currently no more webinars or videos in this channel.">
+                                            <ul data-prev="0" data-next="2">
+                                                            
+<li class="communicationWrapper" id="feedCommunication472795">
+    <div class="communication upcoming">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/472795?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/472795/thumbnail_1614817924.png" alt="" />
+                                    </div>
+                <span class="title">The promise of open clouds: Faster innovation, faster delivery</span>
+
+                    
+
+    <span class="startDate upcomingDate" title="Start date">
+        <span class="BTDate date" data-timestamp="1619542800" data-format="M j Y">Apr 27 2021</span>
+        <span class="BTDate time" data-timestamp="1619542800" data-format="g:i a">5:00 pm</span>
+        <span class="jsTimezoneClock timezone-clock usersTimezone">UTC</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3600">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Supermicro and Intel®</div>
+                <div class="description">As cloud computing continues to accelerate worldwide, organizations are now deciding which model best serves their needs. Yes, the major public clouds can offer almost unlimited scalability, but users are limited to the hardware and software choices the cloud provider has made.<br />
+<br />
+This is where open clouds come in. Consisting of &quot;open&quot; components, these are tailored to an enterprise&#039;s specific needs in compute, storage, networking, and the software stack. A wide range of &quot;instances&quot; can be installed in an open data center, whether made available to internal or external customers, tailored to the needs of the enterprise.<br />
+<br />
+As a result, open clouds can reduce latencies to client device – improving customer and device (IoT) interactions. The latest innovations from the edge to the data center can be quickly brought on-line, and tuned to the exact requirements needed to maintain SLAs. But in making the best decision, you need to ensure three main components for success: the right hardware (the primary instruction set and binary compatibility); the best software stack; and the appropriate network choice.<br />
+<br />
+Join this VB Live event to learn more about the benefits of open clouds – and what’s needed to produce the best outcome.<br />
+<br />
+Attendees will learn:<br />
+<br />
+• Why an eco-system based on open standards can reduce costs and increase innovation<br />
+• How to evaluate workloads<br />
+• How a cloud based on open standards can easily be constructed<br />
+• How open standards apply to hardware and software choices<br />
+<br />
+Speakers:<br />
+- Michael McNerney, Vice President Marketing and Network Security, Supermicro<br />
+- More to come!</div>
+                <div class="options">
+                    
+
+<a href="/webcast/12339/472795?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="upcoming"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Save your seat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication476281">
+    <div class="communication upcoming">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/476281?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/476281/thumbnail_1616534605.png" alt="" />
+                                    </div>
+                <span class="title">Open banking is big. Here’s why open finance is bigger.</span>
+
+                    
+
+    <span class="startDate upcomingDate" title="Start date">
+        <span class="BTDate date" data-timestamp="1619110800" data-format="M j Y">Apr 22 2021</span>
+        <span class="BTDate time" data-timestamp="1619110800" data-format="g:i a">5:00 pm</span>
+        <span class="jsTimezoneClock timezone-clock usersTimezone">UTC</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3600">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Envestnet | Yodlee</div>
+                <div class="description">Open banking initiatives across the globe are enabling consumers to share their account and transaction data with third parties, increasing opportunities to deliver innovative new fintech products and facilitating collaboration between financial institutions and fintechs. But this is only the beginning. The open banking movement promises to be part of a much larger open finance trend, and in this webinar you’ll learn why and what open finance means for you and your business.<br />
+<br />
+Join us to see how open finance and access to alternative data can revolutionize customer experiences related to insurance, utilities, and telecommunications, and other industries and sectors. Learn what type of data could potentially be included in open finance and how this data can be safely used to spur innovation, improve efficiencies, increase demand, support consumer decision-making, and improve customer relationships.<br />
+<br />
+Attendees will learn: <br />
+<br />
+• How open finance is evolving around the world and in the U.S.<br />
+• How access to alternative data can transform the customer experience<br />
+• Why industries like insurance, utilities, and lending benefit from open finance<br />
+• How open finance could encompass mortgage info, pensions, investments, and insurance policies<br />
+• How to position yourself on the leading edge of open finance<br />
+<br />
+Speakers:<br />
+- Dawn Sirras, SVP FinTech Partnerships, Constellation Digital Partners<br />
+- David Nohe, CEO, FinGoal<br />
+- Brian Costello, VP, Data Strategy and Strategic Initiatives, Envestnet | Yodlee<br />
+- Jenn Underwood, Moderator</div>
+                <div class="options">
+                    
+
+<a href="/webcast/12339/476281?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="upcoming"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Save your seat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication477571">
+    <div class="communication upcoming">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/477571?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide
+00006000
+ thumbnail" src="https://www.brighttalk.com/communication/477571/thumbnail_1616453470.png" alt="" />
+                                    </div>
+                <span class="title">Monetizing the esports boom: How to launch an esports platform</span>
+
+                    
+
+    <span class="startDate upcomingDate" title="Start date">
+        <span class="BTDate date" data-timestamp="1619024400" data-format="M j Y">Apr 21 2021</span>
+        <span class="BTDate time" data-timestamp="1619024400" data-format="g:i a">5:00 pm</span>
+        <span class="jsTimezoneClock timezone-clock usersTimezone">UTC</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3600">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Xsolla</div>
+                <div class="description">Right now, esports has a 495 million-strong and growing global audience. And it&#039;s surprisingly easy for developers and publishers to add tournaments, event streaming, and VIP content to their own platform to engage those millions of fans and players around the world. <br />
+<br />
+The opportunity is real: Tournaments, ranked play, and matchups encourage continuous and repeat game play as players compete to earn status, rewards, and prizes, both virtual and real. Plus, creating a global community with competitive game play through an esports platform enables your gamers to connect and play together, creating the kind of community that keeps players loyal.<br />
+<br />
+In this VB Live event, you&#039;ll learn some best practices into creating your own online esports and skill-based gaming platform and to safely and securely accelerate game commerce globally. Plus you&#039;ll hear about the tools you need to streamline and securely manage your fan and player engagement process, how to monetize your fanbase, and more.<br />
+<br />
+Attendees will learn about:<br />
+- Creating a fanbase for your game and brand<br />
+- Rewarding gamers who are loyal players<br />
+- Monetizing the fan experience<br />
+- Managing payment processing simply and safely<br />
+<br />
+Speakers:<br />
+- Berkley Egenes, Vice President of Marketing focused on Game Commerce, Xsolla<br />
+- Steve Peterson, CEO, StoryPHORCE Entertainment (moderator)<br />
+- More to come!</div>
+                <div class="options">
+                    
+
+<a href="/webcast/12339/477571?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="upcoming"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Save your seat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication474809">
+    <div class="communication upcoming">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/474809?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/474809/thumbnail_1615246449.png" alt="" />
+                                    </div>
+                <span class="title">The employee experience: Create a culture that drives company growth</span>
+
+                    
+
+    <span class="startDate upcomingDate" title="Start date">
+        <span class="BTDate date" data-timestamp="1618506000" data-format="M j Y">Apr 15 2021</span>
+        <span class="BTDate time" data-timestamp="1618506000" data-format="g:i a">5:00 pm</span>
+        <span class="jsTimezoneClock timezone-clock usersTimezone">UTC</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3600">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x TriNet</div>
+                <div class="description">Your employees are your most valuable resource and companies are now realizing it&#039;s as important to invest as much thought and strategy into their employee experience as their customer experience. In this three-part webinar series –The Employee Experience from Recruitment to Retention – we’ll explore different aspects of the important employee experience. <br />
+<br />
+In this first webinar, HR experts will first share insights into why company culture is the key to business growth. The series continues with webinars on how to improve access to employee benefits without breaking the bank; and how companies can attract and retain the best talent in a post-pandemic market. <br />
+<br />
+In periods of disruption and rapid change, company culture can differentiate the best from the rest. Creating an employee-first environment, rooted in a solid foundation of shared core values and beliefs, inspires employee engagement and long-term loyalty – which can drive customer satisfaction and fuel company growth. <br />
+<br />
+How do you create a company culture that empowers your employees to keep growing and gives you a competitive edge? In this webinar, you&#039;ll learn about the elements of a successful company culture, how to build a positive employee environment, and what steps to take that can shape and strengthen your culture to align with your organization’s values and goals.<br />
+<br />
+Takeaways:<br />
+<br />
+- The importance of culture as a driving force for competitive advantage.<br />
+- Actionable tips for creating a more inclusive and connected culture that can help you attract and retain employees.<br />
+- Strategies that you can use for reinforcing and sustaining culture that helps create ownership and shared accountability.<br />
+<br />
+Speakers:<br />
+<br />
+- Kristine Gunn, Executive Director, Talent and Organizational Management, TriNet<br />
+- Stewart Rogers, Moderator, VentureBeat<br />
+- More to come!</div>
+                <div class="options">
+                    
+
+<a href="/webcast/12339/474809?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="upcoming"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Save your seat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication466882">
+    <div class="communication upcoming">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/466882?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/466882/thumbnail_1615942612.png" alt="" />
+                                    </div>
+                <span class="title">How to adapt creatives for every platform -- for maximum performance</span>
+
+                    
+
+    <span class="startDate upcomingDate" title="Start date">
+        <span class="BTDate date" data-timestamp="1617296400" data-format="M j Y">Apr 1 2021</span>
+        <span class="BTDate time" data-timestamp="1617296400" data-format="g:i a">5:00 pm</span>
+        <span class="jsTimezoneClock timezone-clock usersTimezone">UTC</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3600">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x yellowHEAD</div>
+                <div class="description">When it comes to digital marketing, there&#039;s no such thing as a one-size-fits-all creative for all platforms. To really perform, you need to make sure you&#039;re adapting it to fit the unique audience demand and behavior for every channel and platform. But that can only happen when you have data. <br />
+<br />
+Data helps you understand demographics, user behavior, the organic content, and more on each of the platforms you use, so you can optimize your creatives for every channel, align your strategy with user demographics, and get results.<br />
+<br />
+In this VB Live event, you&#039;ll learn why data is the secret to a powerful digital marketing strategy. We&#039;ll examine best practices for creative in every channel -- from Facebook to Google to TikTok to Snapchat (&amp; more) -- and how to optimize for best results. You&#039;ll find out how to make native ads that work with the organic content on each platform, implement influencer content into your creative assets and more. Plus, we&#039;ll dive into real examples of high-performing creatives across platforms. <br />
+<br />
+You&#039;ll learn:<br />
+<br />
+- How to optimize your digital marketing strategy through creative optimization<br />
+- How to leverage user data to create content that really performs<br />
+- How to develop a successful creative strategy for all your social channels<br />
+- Best practices for creative on every platform<br />
+- How to incorporate influencer content into your assets<br />
+- And more!<br />
+<br />
+Speakers:<br />
+- Courtney Lawrie, Global Head of Brand and Integrated Growth Marketing, Wayfair<br />
+- Melissa Culbertson, Associate Manager of Brand Engagement, Social Strategy, Burt&#039;s Bees<br />
+- Kinney Edwards, Global Head of Creative Lab, TikTok<br />
+- Noa Miller, Marketing Creative Strategist, yellowHEAD<br />
+- Nicole M. Alexander, Professor of Marketing and Technology, New York University (NYU); Former SVP, Chief Innovation Expert, Ipsos (moderator)</div>
+                <div class="options">
+                    
+
+<a href="/webcast/12339/466882?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="upcoming"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Save your seat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication471416">
+    <div class="communication upcoming">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/471416?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/471416/thumbnail_1614042197.png" alt="" />
+                                    </div>
+                <span class="title">In pursuit of parity: A guide to the responsible use of AI in health care</span>
+
+                    
+
+    <span class="startDate upcomingDate" title="Start date">
+        <span class="BTDate date" data-timestamp="1617210000" data-format="M j Y">Mar 31 2021</span>
+        <span class="BTDate time" data-timestamp="1617210000" data-format="g:i a">5:00 pm</span>
+        <span class="jsTimezoneClock timezone-clock usersTimezone">UTC</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3600">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Optum</div>
+                <div class="description">Leaders from all sectors of health care are increasingly integrating artificial intelligence (AI) into their organizations to achieve strategic goals, and confidence in the technology&#039;s promise is growing. A 2020 Optum survey on AI in health care found that 59% of respondents expect a full return on their AI investments in under three years, nearly double the 31% who answered similarly in 2018. <br />
+<br />
+Health care’s Quadruple Aim is to simultaneously improve health outcomes,  enhance and simplify the experiences of both patients and providers, and reduce overall costs — and AI is seen as an integral tool to help achieve it. The risk is that predictive models may unintentionally perpetuate harmful racial and gender biases that directly impact a patient&#039;s health or access to care. In order to overcome these challenges, health care organizations need to acknowledge their existence—and take proactive steps to promote equity by examining both the data these models interpret and how the models are being applied.<br />
+<br />
+In this VB Live event, you&#039;ll learn more about how AI can help health care experts do their jobs more efficiently and effectively, and how stakeholders throughout health care can use AI responsibly, ethically, and equitably. Plus, you&#039;ll get an in-depth perspective on the strengths and limitations of data, AI methodology, the application of AI results, and more.<br />
+<br />
+- What it means to use advanced analytics &quot;responsibly&quot;<br />
+- Why responsible use is so important in health care as compared to other fields<br />
+- The steps that researchers and organizations are taking today to ensure AI is used responsibly<br />
+- What the AI-enabled health system of the future looks like and its advantages for consumers, organizations, and clinicians<br />
+<br />
+Speakers:<br />
+<br />
+- Brian Christian, Author, The Alignment Problem, Algorithms to Live By and The Most Human Human<br />
+- Sanji Fernando, SVP of Artificial Intelligence &amp; Analytics Platforms, Optum<br />
+- Kyle Wiggers, AI Staff Writer, VentureBeat (moderator)</div>
+                <div class="options">
+                    
+
+<a href="/webcast/12339/471416?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="upcoming"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Save your seat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication469481">
+    <div class="communication upcoming">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/469481?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/469481/thumbnail_1616520229.png" alt="" />
+                                    </div>
+                <span class="title">The power of data to seize gaming’s red-hot market opportunities</span>
+
+                    
+
+    <span class="startDate upcomingDate" title="Start date">
+        <span class="BTDate date" data-timestamp="1617123600" data-format="M j Y">Mar 30 2021</span>
+        <span class="BTDate time" data-timestamp="1617123600" data-format="g:i a">5:00 pm</span>
+        <span class="jsTimezoneClock timezone-clock usersTimezone">UTC</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3600">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Snowflake</div>
+                <div class="description">The pandemic drove gaming revenue up by 9.3% in 2020, and advertising is a significant source of that income. But it&#039;s not easy money. It&#039;s a tough market, where new games are proliferating, advertising is shouting for gamers&#039; attention, and attention spans are short. At the same time, consumers are more concerned than ever about how companies are using and sharing their data, propelling data privacy and security to the forefront of the industry’s priorities.<br />
+<br />
+Join this VB Live event to learn how data changes the game for ads, marketing, user acquisition and monetization. Securely leveraging data can help developers cash in on the industry&#039;s growth opportunities, attract consumers, create optimized, personalized gaming experiences, protect your users’ privacy, and more.<br />
+<br />
+Participants will learn how to:<br />
+<br />
+●	Better use data to improve the effectiveness of ads and marketing<br />
+●	Make data-driven decisions around optimization and personalization<br />
+●	Overcome challenges with legacy data stacks <br />
+●	Break down data silos for a single-source, holistic view of audiences <br />
+●	Ensure data privacy and security<br />
+<br />
+Speakers:<br />
+- Daniel Lopez, Director, Mobile Growth, Electronic Arts (EA)<br />
+- Brian Sapp, SVP, User Acquisition Marketing &amp; Ads, Jam City<br />
+- Daniel Myers, Senior Developer Relations Manager, Snowflake <br />
+- Dean Takahashi, Lead Writer, GamesBeat (moderator)</div>
+                <div class="options">
+                    
+
+<a href="/webcast/12339/469481?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="upcoming"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Save your seat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper closestToNow" id="feedCommunication465880">
+    <div class="communication upcoming">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/465880?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/465880/thumbnail_1613768746.png" alt="" />
+                                    </div>
+                <span class="title">The power of audio: Building customer connections and boosting loyalty</span>
+
+                    
+
+    <span class="startDate upcomingDate" title="Start date">
+        <span class="BTDate date" data-timestamp="1616605200" data-format="M j Y">Mar 24 2021</span>
+        <span class="BTDate time" data-timestamp="1616605200" data-format="g:i a">5:00 pm</span>
+        <span class="jsTimezoneClock timezone-clock usersTimezone">UTC</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3600">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Dolby Labs</div>
+                <div class="description">Audio is booming. Consumers are spending 30% more time listening to spoken word audio, including podcasts and news. And 43% listen daily, with 48% listening an average of two hours a day. A big percentage of those are podcasts, which will reach 112 million listeners in 2021.<br />
+ <br />
+That&#039;s why audio is an incredibly powerful way to reach customers, and brands that do it right can increase personalization, consumer convenience, and customer loyalty. Learn how to add audio to your marketing mix in this VB Live event.<br />
+ <br />
+Attendees will learn:<br />
+- How brands can include both branded audio and media, and user-generated media in their go-to-market strategy<br />
+- The benefits of branded audio media<br />
+- How offering services, or partnering with audio forward companies, to generate or support quality audio can provide a competitive advantage and differentiation<br />
+<br />
+Speakers:<br />
+- Rebecca Michals, Director, Seller Community and Engagement, eBay<br />
+- Will Mayo, Founder + Chief Strategy Officer, SpokenLayer<br />
+- Sabba Keynejad, CEO, VEED.IO<br />
+- Sripal Mehta, Senior Director, API Platform, Dolby Labs<br />
+- Stewart Rogers, Moderator, VentureBeat</div>
+                <div class="options">
+                    
+
+<a href="/webcast/12339/465880?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="upcoming"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Save your seat</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication463514">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/463514?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/463514/thumbnail_1612977144.png" alt="" />
+                                    </div>
+                <span class="title">How the U.S. open banking system is driving huge innovation</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1612980000" data-format="M j Y">Feb 10 2021</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3718">62 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Envestnet | Yodlee</div>
+                <div class="description">As open banking initiatives gain traction in the U.S., fintechs and innovative financial firms are in an ideal position to deliver personalized products, apps and services based on consumer-permissioned data. The ability to leverage timely rich consumer data and insights positions open banking as the launchpad for open finance experiences that can assist consumers to make positive impacts in every aspect of their financial lives.<br />
+<br />
+Join our webinar to discuss open banking and open finance with industry thought leaders from FinGoal, Tiller Money, and Envestnet | Yodlee. Learn how the new open banking movement is fueling digital experiences that result in better financial outcomes for consumers. We’ll also walk through what you need to do to prepare for open banking and connect with the open APIs that make this revolution possible.<br />
+<br />
+Register for our webinar to discuss: <br />
+<br />
+- What’s happening with open banking in the U.S.<br />
+- How open banking ecosystems work<br />
+- Ways open APIs drive financial wellness<br />
+- How to leverage deep consumer insights<br />
+- How to prepare for open banking <br />
+<br />
+Speakers:<br />
+<br />
+- Peter Polson, Founder, Tiller Money<br />
+- David Nohe, CEO, FinGoal<br />
+- Brian Costello, VP, Data Strategy and Strategic Initiatives, Envestnet | Yodlee<br />
+- Evan Schuman, Moderator</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/463514?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+         
+00006000
+   </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication461605">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/461605?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/461605/thumbnail_1611853722.png" alt="" />
+                                    </div>
+                <span class="title">The 2021 digital toolkit: How small businesses are taking charge</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1611856800" data-format="M j Y">Jan 28 2021</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3585">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x DocuSign</div>
+                <div class="description">When it comes to running a business, time is one of your most precious resources. Many small businesses are performing digital health checks and taking a fresh look at how they will provide a better digital experience for their customers in the new year. Finding ways to become more efficient can greatly improve the customer experience and your bottom line. One of the easiest ways to improve operational efficiency is by building your digital toolbelt. From accepting digital payments to automating your entire agreement process, digital tools streamline your efforts, saving you time and money. <br />
+<br />
+Here are three benefits digital tools bring to your business: <br />
+<br />
+- Accelerate Quote-to-Cash - getting paid quicker, digital tools help you hold onto your own money as long as you can.<br />
+<br />
+- Enhance Customer Experience - simplifying the agreement process makes business convenient for you and your customers<br />
+<br />
+- Increase Security - digital tools offer you and your customers peace of mind and gain a competitive advantage<br />
+<br />
+Speakers:<br />
+<br />
+- Anthony Heckman, Head of Business Development, unitQ<br />
+- Laurie McCabe, Cofounder &amp; Partner, SMB Group Inc.<br />
+- Dave Simon, VP of SMB Commercial Sales, DocuSign<br />
+- Stewart Rogers, Moderator, VentureBeat</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/461605?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication462469">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/462469?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/462469/thumbnail_1611767035.png" alt="" />
+                                    </div>
+                <span class="title">Expand your mobile game success with a multi-platform strategy in 2021</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1611770400" data-format="M j Y">Jan 27 2021</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3506">59 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Xsolla</div>
+                <div class="description">To meet the increasing player demand, developers and publishers are going to be firing out new mobile game titles at breakneck speed in 2021. To successfully launch your own game in an increasingly crowded market and capture user attention right from the start, you need to think beyond the app store.<br />
+<br />
+Going beyond the traditional avenues can help you create a community with your players, improve the discoverability of your mobile game, and scale your mobile business. <br />
+<br />
+To learn how to develop a multi-platform launch strategy, how to both capture and keep user attention, and how to keep your game growing, don&#039;t miss this VB Live event!<br />
+<br />
+You&#039;ll learn about:<br />
+- Acquiring new users with a multi-platform experience<br />
+- Creative ways to build a community beyond the app store<br />
+- How to target the right markets, platforms, and regions for your game<br />
+<br />
+Speakers: <br />
+- Michail Katkoff, CEO &amp; Co-Founder, Savage Game Studios <br />
+- Chris Hewish, President, Xsolla <br />
+- Miikka Luotio, Interim Director of Business Development, Europe, Xsolla<br />
+- Steve Peterson, CEO, StoryPHORCE Entertainment (moderator)</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/462469?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication449673">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/449673?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/449673/thumbnail_1608052395.png" alt="" />
+                                    </div>
+                <span class="title">The cutting-edge computer architecture that&#039;s changing the AI game</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1608055200" data-format="M j Y">Dec 15 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3678">62 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x SambaNova</div>
+                <div class="description">To stay on top of cutting-edge AI innovation, it&#039;s time to upgrade your technology stack. Major<br />
+advances in computer architecture are ushering in next-generation AI capabilities. Three<br />
+notable trends are emerging: technology has advanced beyond the limitations of multi-core<br />
+processing; inference and training are converging in deep learning applications; and new<br />
+hardware and software capabilities can powerfully accelerate machine learning applications.<br />
+<br />
+In this VB Live event you&#039;ll learn how cutting-edge computer architecture can unlock new<br />
+capabilities for natural language processing, visual AI, recommendation models, and scientific<br />
+computing, from common use cases to real-world case studies and more.<br />
+<br />
+Registration is free.<br />
+<br />
+You&#039;ll learn:<br />
+- Why multicore architecture is on its last legs -- and how new, advanced computer<br />
+architectures are changing the game<br />
+- How to implement state-of-the-art converged training and inference solutions<br />
+- New ways to accelerate data analytics and scientific computing applications in the same<br />
+accelerator<br />
+<br />
+Speakers:<br />
+- Alan Lee, Corporate Vice President and Head of Research and Advanced Development, AMD<br />
+- Kunle Olukotun, Co-founder and Chief Technologist, SambaNova Systems<br />
+- Naveen Rao, Investor, Adviser &amp; AI Expert (moderator)</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/449673?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication450923">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/450923?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/450923/thumbnail_1607619596.png" alt="" />
+                                    </div>
+                <span class="title">Customer engagement for a new digital-first world (VB Live)</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1607623200" data-format="M j Y">Dec 10 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3657">61 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x LogMeIn</div>
+                <div class="description">In a pandemic-struck world, organizations need to do more with less to support the legions of new customers who are going digital for the first time, and the customers who are expecting more than ever.<br />
+<br />
+Digital maturity is essential, and getting started with artificial intelligence is critical to accelerating your customer service offerings. It helps optimize costs, boosts customer satisfaction significantly, and improves self service, which needs to be a top priority for organizations, and more. <br />
+<br />
+To learn about emerging data and customer service trends, don&#039;t miss this VB Live event!<br />
+<br />
+Register for free!<br />
+<br />
+You&#039;ll learn:<br />
+- Why foundational self-service improvement is a top priority<br />
+- How to make digital more effective for employees and customers <br />
+- Why AI is a catalyst for digital maturity<br />
+<br />
+Speakers:<br />
+- Srini Janarthanam, Conversational AI - Technology Designer, NatWest (National Westminster Bank)<br />
+- Chad Oda, Head of Consulting | Partner, Chat Mode<br />
+- Stewart Rogers, Moderator, VentureBeat</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/450923?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication443335">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/443335?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/443335/thumbnail_1607439865.png" alt="" />
+                                    </div>
+                <span class="title">Evolve: Ensuring Diversity, Equity, and Inclusion in AI (VB Live)</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1607443200" data-format="M j Y">Dec 8 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="4578">77 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat</div>
+                <div class="description">Evolve is a 90-minute event focused on best practices on how to ensure racial fairness and equity while building products, teams, and companies with AI, ML, and large data.<br />
+<br />
+Evolve bridges two of the most significant trends in the corporate world in 2020.<br />
+<br />
+First, the events of the past few months have reawakened the world to continued racial injustice. The corporate sector, in particular the technology industry, has historically been perceived as slow in efforts to promote equality and affirmative action in the workforce. But recent events have spurred them into action, and there are signs that real change could come about. <br />
+<br />
+At the same time, machine learning (ML) and artificial intelligence (AI) are arguably the most powerful enterprise technologies today, and hundreds of large companies are pushing AI/ML product development to get an edge on their competitors. But they are doing so at a time when many, if not most, of the decision-makers do not reflect the diversity of the general population. And many companies have been careless in making sure their data used in AI decision-making is not reflecting prejudice and bias that can perpetuate inequality for years to come.<br />
+<br />
+PANEL DISCUSSION 1: THE WHY, HOW &amp; WHAT OF DE&amp;I IN AI<br />
+- Moderated by Seth Colaner, Editorial Director, VentureBeat<br />
+<br />
+PANEL DISCUSSION 2: FROM &#039;SAY&#039; TO &#039;DO&#039;: UNPACKING REAL-WORLD CASE STUDIES &amp; HOW TO OVERCOME REAL-WORLD ISSUES OF ACHIEVING DE&amp;I IN AI<br />
+- Moderated by Hari Sivaraman, Head of AI Content Strategy, VentureBeat<br />
+<br />
+Speakers:<br />
+- Tiffany Deng, Program Management Lead - ML Fairness and Responsible AI, Google<br />
+- Rashida Hodge, VP, North America Go-to-Market | Global Markets, IBM<br />
+- Huma Abidi, Senior Director of AI Software Products, Intel</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/443335?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication452994">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/452994?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/452994/thumbnail_1607015048.png" alt="" />
+                                    </div>
+                <span class="title">Beyond Centers of Excellence: Operating models for the data-driven organization</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1607018400" data-format="M j Y">Dec 3 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3596">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Dataiku</div>
+                <div class="description">When it comes to AI initiatives, everyone talks about building a so-called Center of Excellence. But what does that mean? Ultimately, the reality of operating models is much more complex. The most pressing consideration is choosing the operating model that works best for your use cases and business objectives. <br />
+<br />
+But how should data leaders and executives decide which of the three primary models, Decentralized, Hub and Spoke, or Centralized, works for your situation? <br />
+<br />
+Join this VB Live event for a deep dive into the details of each of the three models, the pros and cons of each, plus real-world examples of organizations that use each model — and why. Plus, you&#039;ll uncover a framework of questions for understanding which model — or models — are best suited for your organization to get the most out of AI, so you&#039;ll leave with a firm grasp on best practices and your next steps.<br />
+<br />
+Register for free!<br />
+<br />
+You&#039;ll hear:<br />
+- A detailed look at each of the three primary operating models for AI initiatives<br />
+- The pros and cons of each operating model for a variety of business uses<br />
+- Case studies from companies that have implemented each type of model<br />
+- And more<br />
+<br />
+Speakers:<br />
+- Beaumont Vance, Head of AI, Advanced Analytics and Emerging Technology DevOps, TD Ameritrade<br />
+- Jennifer Roubaud-Smith, VP, Global Head of Strategic Advisory, Dataiku<br />
+- Kyle Wiggers, AI Staff Writer, VentureBeat (moderator)</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/452994?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication450554">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/450554?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/450554/thumbnail_1606931306.png" alt="" />
+                                    </div>
+                <span class="title">How data is revolutionizing game creatives for UA</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1606932000" data-format="M j Y">Dec 2 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3564">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x YellowHEAD</div>
+                <div class="description">Creative is the key to user acquisition and is going through an evolution. Gone are the days of<br />
+guesswork and hunches for creative production — data is now leading the charge, and<br />
+industry/category best practices have evolved. With data, you can optimize creatives for<br />
+different social media platforms, find the right creative for each audience in each geo on each<br />
+platform, drill down to the elements that resonate with your audiences, and more.<br />
+<br />
+In this VB Live event, GamesBeat, yellowHEAD, Zynga, and Snapchat will discuss how to<br />
+optimize creative for user acquisition; how to create your own set of best practices for every<br />
+target audience and geo; how to gain a competitive edge through new, groundbreaking creative<br />
+processes and technologies; and more.<br />
+<br />
+Registration is free!<br />
+<br />
+You&#039;ll learn about:<br />
+- How data-based creatives boost user acquisition<br />
+- Developing your own set of best practices<br />
+- Optimizing creatives for every social media platform<br />
+- How to gain a competitive edge in your UA efforts with smart creative ideation <br />
+- And more!<br />
+<br />
+Speakers:<br />
+- Maria Waters, Head of Conversion Optimization, Zynga<br />
+- Oliver Wapshott, Creative Strategist, Snap<br />
+- Noa Miller, Marketing Creative Strategist, yellowHEAD<br />
+- Dean Takahashi, Lead Writer, GamesBeat (moderator)</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/450554?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication447053">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/447053?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/447053/thumbnail_1605813764.png" alt="" />
+                                    </div>
+                <span class="title">Why Genre Matters for Mobile Game Monetization</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1605816000" data-format="M j Y">Nov 19 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3553">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Facebook</div>
+                <div class="description">Learn top rewarded video integrations by game type!<br />
+<br />
+Research has shown that the ad-supported model of in-game advertising is a major win for<br />
+publishers. By the end of 2019, in-game ads accounted for 17% of total worldwide smartphone<br />
+gaming revenue ($82.6B) – and that number is expected to triple by 2024.<br />
+<br />
+But no matter your game genre, if your goal is to maximize the revenue impact of ad<br />
+monetization, it’s important to hone in on the right formats and strategies, and stay on top of the<br />
+latest best practices and research on what works best for you
+00006000
+r genre.<br />
+<br />
+In this VB Live event, experts will share stats and user sentiment from research and analyst<br />
+reports covering everything from the best ad formats for every game type — from casual and<br />
+hypercasual, to strategy, action, and RPG, social casino games and more.<br />
+<br />
+You’ll get an in-depth look at the best rewarded video entry points for your game type, including<br />
+what works best for each genre, common placements, design innovations and value exchange.<br />
+And you’ll learn about how to test ads in your game, no matter what genre it is.<br />
+<br />
+In this webinar you’ll learn:<br />
+- Insights into in-app ad success by genre<br />
+- The best rewarded video entry points for each game genre<br />
+- How to leverage common A/B testing methods<br />
+- How to make sure ad integrations complement in-app purchases<br />
+- How leading publishers test and prove the revenue potential of ads<br />
+<br />
+Speakers:<br />
+- Kiel LeBaron, Senior Director, Ad Monetization, Jam City <br />
+- Hahn Kim, Strategic Partner Manager, Facebook Audience Network<br />
+- Emma Bullen, Product Marketing Manager, Hyper Hippo Entertainment (moderator)</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/447053?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication446099">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/446099?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/446099/thumbnail_1605805661.png" alt="" />
+                                    </div>
+                <span class="title">From the ground up: Building your ideal game studio infrastructure</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1605808800" data-format="M j Y">Nov 19 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3557">60 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Akamai</div>
+                <div class="description">So you’re starting your own game studio. This is an incredible opportunity! You and your team get to start fresh, with no technical debt, and build the infrastructure of your dreams. <br />
+<br />
+But what does that look like? Where have other new studios found success and failure? And how can you best build a platform on which to launch your new game? Join our panel of technical and operational experts for help on how to start strong, and prepare to scale. Plus hear from developers at other independent studios about how they started small and achieved big success.<br />
+ <br />
+You will learn about:<br />
+- Tips for starting your own game studio<br />
+- The landmines you should watch out for<br />
+- The best way to approach technical decisions as you grow<br />
+<br />
+Speakers:<br />
+- Glen Schofield, Chief Executive Officer, Striking Distance Studios<br />
+- Emily Greer, Co-founder &amp; CEO, Double Loop Games<br />
+- James Dobrowski, Managing Director, Sharkmob London<br />
+- Jonathan Singer, Senior Manager – Global Games Industry, Akamai<br />
+- Dean Takahashi, Lead Writer, GamesBeat (moderator)</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/446099?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication446625">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/446625?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/446625/thumbnail_1605640843.png" alt="" />
+                                    </div>
+                <span class="title">COVID and mental health: What employers and HR need to know</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1605636000" data-format="M j Y">Nov 17 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3624">61 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x TriNet</div>
+                <div class="description">As the COVID pandemic continues to evolve, employees are struggling under the weight of the unknown. From the stress of working from home or returning to an office environment when regulations are in flux, to the intense pressure on employees with school-age children who are trying to juggle work and impromptu teaching, workers are wrestling with hard choices and difficult issues. The scale of employee mental health support that HR and business leaders must provide is unprecedented. <br />
+<br />
+In this webinar presented by TriNet and FEI, the Workforce Resilience Experts, you&#039;ll learn about the impact that COVID is having on employees&#039; mental health and productivity — and, in turn, how employees’ mental health impacts the health of a company. You’ll learn about the internal strategies organizations need now to support employees, from adapting communication policies, to creating buddy systems for co-workers, flexible work schedules, and more. <br />
+<br />
+Registration is free!<br />
+<br />
+You&#039;ll learn:<br />
+<br />
+- What employers need to know about COVID’s impact on the mental health of their employees<br />
+- How the mental strain of COVID may negatively impact the health of a company and employee productivity<br />
+- Best steps and practices companies are taking to help their employees get through this difficult time<br />
+<br />
+Speakers:<br />
+<br />
+- Christy Yaccarino, Executive Director, Benefit Strategy and Wellness, TriNet<br />
+- Michael McCafferty, Consultant, FEI Behavioral Health <br />
+- Stewart Rogers, Moderator, VentureBeat</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/446625?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                            
+<li class="communicationWrapper" id="feedCommunication439261">
+    <div class="communication recorded">
+        <div>
+            <a class="detailsWrapper" href="/webcast/12339/439261?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" ga-click-tracker ga-click-tracker-action="Content" ga-click-tracker-category="Player page" ga-click-tracker-label="Channel feed">
+                <div class="thumbnail-wrapper">
+                                            <img class="slide thumbnail" src="https://www.brighttalk.com/communication/439261/thumbnail_1603382888.png" alt="" />
+                                    </div>
+                <span class="title">What it takes to launch a mobile game internationally</span>
+
+                    
+
+    <span class="recordedLabel">Recorded: </span>
+    <span class="startDate recordedDate" title="Recorded">
+        <span class="date BTDate" data-timestamp="1603386000" data-format="M j Y">Oct 22 2020</span>
+    </span>
+
+
+        <span class="duration" title="Duration" data-seconds="3629">61 mins</span>
+            </a>
+
+            <div class="moreDetailsWrapper">
+                <div class="presenters">VentureBeat x Facebook</div>
+                <div class="description">Mobile gaming is a global billion dollar industry. Its meteoric rise is fueled by growing ad revenues, an increase in gamer participation from a diverse demographic, and investment from non-gaming giants from entertainment and other industries. At the same time, the advent of technologies like 5G and increased cloud capabilities are expanding mobile game appeal and accessibility.<br />
+ <br />
+The next step? Launching abroad. Publishers are capitalizing on these trends by expanding their reach into new, lucrative markets. But finding success means overcoming some at-home market hurdles like foreign government regulations, the risk of market saturation and competition, and the spectre of slow sales. Such hurdles can make the leap to cross-border success intimidating — but there&#039;s never been a better time to go global.<br />
+ <br />
+For insights into what it takes for American publishers to build an international audience and vice-versa, the strategies that developers need to put into place, and how to mitigate risk, join experts from Facebook Audience Network in this VB Live event.<br />
+ <br />
+From a NA/LATAM lens, this session will cover:<br />
+<br />
+- What is influencing publisher motivations to expand internationally?<br />
+- What should publishers ask themselves when looking to expand?<br />
+- What are the key insights and trends publishers can leverage when planning to expand?<br />
+<br />
+Speakers:<br />
+<br />
+- Marcio Freire, Head of LATAM &amp; Americas Scaled, Facebook Audience Network<br />
+- Martin Bradley, Research Director, 2CV<br />
+- Jennifer Poulson, Head of Publishing &amp; Product, SEA, Riot Games (moderator)</div>
+                <div class="options">
+                    
+    
+<a href="/webcast/12339/439261?utm_campaign=channel-feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web" class="bt-webcast-button btn btn-primary"
+    data-status="recorded"
+            ga-click-tracker
+        ga-click-tracker-action="Content"
+        ga-click-tracker-category="Player page"
+        ga-click-tracker-label="Channel feed"
+    >Watch now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</li>
+                                                    </ul>
+                                    </div>
+                    </div>
+
+                    <div id="channelProfile" class="channel-profile">
+                <div class="channelTagline">News. Events. Insight.</div>
+                <div class="channelDescription" id="channelDescription">Founded in 2006, VentureBeat is the leading source for news and perspective on technology innovation. Our news, analysis, and events provide deep context to help executives, entrepreneurs, and tech enthusiasts make smart decisions. We aim to inform and inspire. Led by founder and CEO Matt Marshall and a team of experienced journalists, VentureBeat covers a range of technology trends — from artificial intelligence to virtual reality, small business to enterprise, health tech, cloud, games, and more.</div>
+                <span class="expandable unselectable" id="expandChannelDescription" data-collapsed-text="More" data-expanded-text="Less">More</span>
+                <div class="channelProfileMenuWrapper">
+                    <ul class="channelProfileMenu">
+                        <li class="menuItemWrapper">
+                            <span class="menuItem">Upcoming webinars (8)</span>
+                        </li>
+                        <li class="menuItemWrapper">
+                            <span class="menuItem">Recorded webinars (262)</span>
+                        </li>
+                        <li class="menuItemWrapper">
+                            <span class="menuItem">Subscribers (63,600)</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        
+                    <div class="tabsFooter">
+                <div class="rssFeedWrapper">
+                    <a class="rssFeedLink" href="/channel/12339/feed/rss">Channel RSS feed</a>
+                </div>
+                <div class="pagination-options jsPaginationOptions">
+                    <button type="button" class="pagination-option pagination-option-prev jsPaginationOptionPrev">Up</button>
+                    <button type="button" class="pagination-option pagination-option-next jsPaginationOptionNext">Down</button>
+                </div>
+            </div>
+        
+    
+
+            <script type="application/ld+json" class="schemaOrgDefinition">
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "mainEntityOfPage": "https://www.brighttalk.com/webcast/12339/471416/in-pursuit-of-parity-a-guide-to-the-responsible-use-of-ai-in-health-care",
+          "url": "https://www.brighttalk.com/webcast/12339/471416/in-pursuit-of-parity-a-guide-to-the-responsible-use-of-ai-in-health-care",
+          "name": "In pursuit of parity: A guide to the responsible use of AI in health care",
+          "description": "Leaders from all sectors of health care are increasingly integrating artificial intelligence (AI) into their organizations to achieve strategic goals, and confidence in the technology&#039;s promise is growing. A 2020 Optum survey on AI in health care found that 59% of respondents expect a full return on their AI investments in under three years, nearly double the 31% who answered similarly in 2018.   Health care’s Quadruple Aim is to simultaneously improve health outcomes,  enhance and simplify the experiences of both patients and providers, and reduce overall costs — and AI is seen as an integral tool to help achieve it. The risk is that predictive models may unintentionally perpetuate harmful racial and gender biases that directly impact a patient&#039;s health or access to care. In order to overcome these challenges, health care organizations need to acknowledge their existence—and take proactive steps to promote equity by examining both the data these models interpret and how the models are being applied.  In this VB Live event, you&#039;ll learn more about how AI can help health care experts do their jobs more efficiently and effectively, and how stakeholders throughout health care can use AI responsibly, ethically, and equitably. Plus, you&#039;ll get an in-depth perspective on the strengths and limitations of data, AI methodology, the application of AI results, and more.  - What it means to use advanced analytics &quot;responsibly&quot; - Why responsible use is so important in health care as compared to other fields - The steps that researchers and organizations are taking today to ensure AI is used responsibly - What the AI-enabled health system of the future looks like and its advantages for consumers, organizations, and clinicians  Speakers:  - Brian Christian, Author, The Alignment Problem, Algorithms to Live By and The Most Human Human - Sanji Fernando, SVP of Artificial Intelligence &amp; Analytics Platforms, Optum - Kyle Wiggers, AI Staff Writer, VentureBeat (moderator)",
+          "startDate": "2021-03-31T17:00:00+00:00",
+          "location": {
+            "@type": "Place",
+            "name": "BrightTALK",
+            "sameAs": "https://www.brighttalk.com",
+            "address": "https://www.brighttalk.com"
+          },
+          "offers": {
+            "price": "0.00",
+            "priceCurrency": "USD",
+            "url": "https://www.brighttalk.com/webcast/12339/471416/in-pursuit-of-parity-a-guide-to-the-responsible-use-of-ai-in-health-care"
+          }
+        }
+</script>        </div>
+
+            <!-- right feed column -->
+            <div class="col-xs-12 col-md-5 sidebar">
+
+                <ul id="webcast-controls" class="webcast-controls hidden-xs hidden-sm">
+                    <li class="webcast-control">
+</li>
+                    <li class="webcast-control" ng-if="session.isUserLoggedIn() && webcast.status != 'upcoming' && webcast.userIsAuthorised" ng-cloak>
+                        
+<button class="btn btn-toggle watch-later-button " ng-if="session.isUserLoggedIn() &amp;&amp; webcast.status != &#039;upcoming&#039; &amp;&amp; webcast.userIsAuthorised" ng-class="{'btn-toggle-on': watchLater.exists(webcast)}" data-watch-later-button data-watch-later-button-url="/mybrighttalk/watch-later/add" ng-cloak><b class="fa fa-clock-o"></b> Watch later</button>
+
+
+                        <div class="joyride watch-later-joyride"
+                            ng-controller="Joyride"
+                            ng-init="joyrideDismissUrl = '/mybrighttalk/joyride/dismiss'"
+                            ng-if="session.isUserLoggedIn() && !(session.user.dismissed_joyride === true) && webcast.userIsAuthorised && ['recorded', 'processing'].indexOf(webcast.status) > -1"
+                            data-ga-load-tracker data-ga-load-tracker-category="Joyride notifications"
+                            data-ga-load-tracker-action="Watch later joyride"
+                            data-ga-load-tracker-label="Watch later joyride displayed"
+                            ng-cloak>
+                            <div class="joyride-content">
+                                <div class="row">
+                                    <div class="joyride-close-button-wrapper col-xs-12">
+                                        <button class="joyride-close-button btn btn-link"
+                                            ga-click-tracker ga-click-tracker-category="Joyride notifications"
+                                            ga-click-tracker-action="Watch later joyride"
+                                            ga-click-tracker-label="Click to close"
+                                            ng-click="dismiss()"><b class="joyride-close-button-icon"></b></button>
+                                    </div>
+                                </div>
+                                <div class="joyride-info">
+                                    <div class="row">
+                                        <div class="joyride-title col-xs-12">Watch later</div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="joyride-description col-xs-12">You can now save presentations to a watch later list and revisit them at your convenience. Click on your profile menu to find your watch later list.</div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="joyride-controls col-xs-12">
+                                            <button class="joyride-got-it-button btn btn-task"
+                                                ng-click="dismiss()"
+                                                ga-click-tracker ga-click-tracker-category="Joyride notifications"
+                                                ga-click-tracker-action="Watch later joyride"
+                                                ga-click-tracker-label="Got it">Got it</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                                                                    <li class="webcast-control"><a href="/mybrighttalk/channel/12339/webcast/471416/manage" id="manageWebcastLink" class="btn btn-secondary manage-webcast-link"><b class="fa fa-pencil"></b> Manage</a></li>
+                </ul>
+
+                <div id="jsBannerSlot" class="banner-slot hidden-xs hidden-sm"></div>
+
+                <div id="register" class="embedded-authentication" ng-if="!webcast.userIsAuthorised">
+                    <h3 class="formInput embedded-authentication-heading" ng-cloak ng-if="session.isUserLoggedOut()">Register for Free</h3>
+                    <p class="embedded-authentication-login-message" ng-cloak ng-if="session.isUserLoggedOut()">
+                        Already have a BrightTALK account?
+                        <a href="/login?redirect=/webcast/12339/471416%3Futm_source%3Dvb%26" class="embedded-authentication-login-link">Log in</a>
+                    </p>
+
+                    <div class="embedded-authentication-loading-icon" ng-if="events.exists('embeddedAuthenticationLoading')" ng-cloak><b class="fa fa-spinner fa-spin"></b></div>
+                    <iframe id="embeddedAuthenticationForm" class="embedded-authentication-form" data-player-height-aware data-embedded-authentication-form ng-class="{'embedded-authentication-form-loading': events.exists('embeddedAuthenticationLoading')}" src="about:blank" ng-cloak data-player-url="/service/player/en-US/theme/brighttalk/channel/12339/webcast/471416/portalauthenticator?showChannelList=false"></iframe>
+                </div>
+
+                                    <div class="hidden-xs hidden-sm" ng-if="webcast.userIsAuthorised" ng-cloak>
+                        <div data-ga-load-tracker data-ga-load-tracker-category="Player page" data-ga-load-tracker-action="Smart feed display">
+                            <div class="smart-feed jsSmartFeed" smart-feed feed-src="/mybrighttalk/feed/similar-to/12339/471416/player" entity-name="Smart feed" ng-cloak >
+            <div class="smart-feed-header" ng-if="promotedWebcasts.length > 0 || recommendedWebcasts.length > 0">
+            Recommended for you:
+        </div>
+        <div class="smart-feed-loading-icon" ng-show="events.exists('smartFeedLoading')" ng-cloak>
+        <b class="fa fa-spinner fa-spin"></b>
+    </div>
+
+    <ul class="webcast-feed">
+        <li ng-repeat="webcast in promotedWebcasts" class="webcast-wrapper">
+            
+<div ng-if="session.isUserLoggedIn() || !preauthtoken" class="webcast promoted-webcast jsPromotedWebcast jsWebcast" data-smart-feed-webcast data-webcast-id="[[ webcast.id ]]" data-channel-id="[[ webcast.channelId ]]">
+    <a ng-href="[[ webcast.url ]]?utm_medium=web&utm_source=brighttalk-promoted&utm_campaign=player-page-feed" class="webcast-details webcast-link jsWebcastLink">
+        <div class="webcast-thumbnail-wrapper">
+          <img class="webcast-thumbnail" alt="[[ webcast.title ]]" src="/resources/images/diamond-100x75.jpg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea" ng-src="[[ webcast.thumbnail ? webcast.thumbnail : '/resources/images/diamond-100x75.jpg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea' ]]">
+        </div>
+        <span class="webcast-title">[[ webcast.title ]]</span>
+        <span class="webcast-presenters">[[ webcast.presenters ]]</span>
+        <span class="webcast-live-label" ng-if="webcast.status === 'live'" ng-cloak>Live</span>
+        <span class="webcast-start-date" title="Start date">[[ webcast.start * 1000 | amDateFormat: 'MMM D YYYY h:mm a' ]]</span>
+        <span class="webcast-duration" title="Duration">[[ (webcast.duration / 60) | number:0 ]] mins</span>
+    </a>
+</div>
+
+<div ng-if="!session.isUserLoggedIn() && preauthtoken" class="webcast promoted-webcast jsPromotedWebcast jsWebcast" data-smart-feed-webcast data-webcast-id="[[ webcast.id ]]" data-channel-id="[[ webcast.channelId ]]">
+    <a ng-href="[[ webcast.url ]]?player-preauth=[[ 
+0000404F
+preauthtoken ]]&utm_medium=web&utm_source=brighttalk-promoted&utm_campaign=player-page-feed" class="webcast-details webcast-link jsWebcastLink">
+        <div class="webcast-thumbnail-wrapper">
+            <img class="webcast-thumbnail" alt="[[ webcast.title ]]" src="/resources/images/diamond-100x75.jpg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea" ng-src="[[ webcast.thumbnail ? webcast.thumbnail : '/resources/images/diamond-100x75.jpg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea' ]]">
+        </div>
+        <span class="webcast-title">[[ webcast.title ]]</span>
+        <span class="webcast-presenters">[[ webcast.presenters ]]</span>
+        <span class="webcast-live-label" ng-if="webcast.status === 'live'" ng-cloak>Live</span>
+        <span class="webcast-start-date" title="Start date">[[ webcast.start * 1000 | amDateFormat: 'MMM D YYYY h:mm a' ]]</span>
+        <span class="webcast-duration" title="Duration">[[ (webcast.duration / 60) | number:0 ]] mins</span>
+    </a>
+</div>
+
+        </li>
+
+        <li ng-repeat="webcast in recommendedWebcasts" class="webcast-wrapper">
+            
+<div ng-if="session.isUserLoggedIn() || !preauthtoken" class="webcast recommended-webcast jsWebcast" data-smart-feed-webcast data-webcast-id="[[ webcast.id ]]" data-channel-id="[[ webcast.channelId ]]">
+    <a ng-href="[[ webcast.url ]]?utm_medium=web&utm_source=brighttalk-portal&utm_campaign=player-page-feed" class="webcast-details webcast-link jsWebcastLink">
+        <div class="webcast-thumbnail-wrapper">
+          <img class="webcast-thumbnail" alt="[[ webcast.title ]]" src="/resources/images/diamond-100x75.jpg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea" ng-src="[[ webcast.thumbnail ? webcast.thumbnail : '/resources/images/diamond-100x75.jpg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea' ]]">
+        </div>
+        <span class="webcast-title">[[ webcast.title ]]</span>
+        <span class="webcast-presenters">[[ webcast.presenters ]]</span>
+        <span class="webcast-live-label" ng-if="webcast.status === 'live'" ng-cloak>Live</span>
+        <span class="webcast-start-date" title="Start date">[[ webcast.start * 1000 | amDateFormat: 'MMM D YYYY h:mm a' ]]</span>
+        <span class="webcast-duration" title="Duration">[[ (webcast.duration / 60) | number:0 ]] mins</span>
+    </a>
+</div>
+
+<div ng-if="!session.isUserLoggedIn() && preauthtoken" class="webcast recommended-webcast jsWebcast" data-smart-feed-webcast data-webcast-id="[[ webcast.id ]]" data-channel-id="[[ webcast.channelId ]]">
+    <a ng-href="[[ webcast.url ]]?player-preauth=[[ preauthtoken ]]&utm_medium=web&utm_source=brighttalk-portal&utm_campaign=player-page-feed" class="webcast-details webcast-link jsWebcastLink">
+        <div class="webcast-thumbnail-wrapper">
+            <img class="webcast-thumbnail" alt="[[ webcast.title ]]" src="/resources/images/diamond-100x75.jpg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea" ng-src="[[ webcast.thumbnail ? webcast.thumbnail : '/resources/images/diamond-100x75.jpg?v=605fb9d40d5fb0b5fede139922787723bd1b43ea' ]]">
+        </div>
+        <span class="webcast-title">[[ webcast.title ]]</span>
+        <span class="webcast-presenters">[[ webcast.presenters ]]</span>
+        <span class="webcast-live-label" ng-if="webcast.status === 'live'" ng-cloak>Live</span>
+        <span class="webcast-start-date" title="Start date">[[ webcast.start * 1000 | amDateFormat: 'MMM D YYYY h:mm a' ]]</span>
+        <span class="webcast-duration" title="Duration">[[ (webcast.duration / 60) | number:0 ]] mins</span>
+    </a>
+</div>
+
+        </li>
+    </ul>
+</div>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+                    </div>
+                            </div>
+        </div>
+
+            <style type="text/css">
+html .bt-wrap-footer {
+  font-size: 14px;
+}
+
+body .bt-wrap-footer,
+.bt-wrap-footer input,
+.bt-wrap-footer button,
+.bt-wrap-footer select,
+.bt-wrap-footer textarea {
+  font-family: "Open Sans", sans-serif;
+}
+
+body .bt-wrap-footer {
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bt-wrap-footer a:hover,
+.bt-wrap-footer a:active {
+  outline: 0 !important;
+}
+
+.bt-wrap-footer a:hover {
+  text-decoration: underline;
+}
+
+.bt-wrap-footer .x-social-global a:hover {
+  color: #6c0;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-nav li a:hover {
+  color: #6c0;
+}
+
+.bt-wrap-footer {
+  background-color: #4d4d4d;
+}
+
+.bt-wrap-footer a,
+.bt-wrap-footer h1 a:hover,
+.bt-wrap-footer h2 a:hover,
+.bt-wrap-footer h3 a:hover,
+.bt-wrap-footer h4 a:hover,
+.bt-wrap-footer h5 a:hover,
+.bt-wrap-footer h6 a:hover,
+.bt-wrap-footer .x-breadcrumb-wrap a:hover,
+.bt-wrap-footer .widget ul li a:hover,
+.bt-wrap-footer .widget ol li a:hover,
+.bt-wrap-footer .widget.widget_text ul li a,
+.bt-wrap-footer .widget.widget_text ol li a,
+.bt-wrap-footer .widget_nav_menu .current-menu-item > a,
+.bt-wrap-footer .x-accordion-heading .x-accordion-toggle:hover,
+.bt-wrap-footer .x-comment-author a:hover,
+.bt-wrap-footer .x-comment-time:hover,
+.bt-wrap-footer .x-recent-posts a:hover .h-recent-posts {
+  color: rgb(102, 204, 0);
+}
+
+.bt-wrap-footer a {
+  text-decoration: none;
+}
+
+.bt-wrap-footer a#nav-back-top .wrap-nav-footer-back-top {
+  display: inline-block;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  padding: 15px 0;
+  color: #fff;
+}
+
+.bt-wrap-footer .x-colophon.top.bt-xtop-footer {
+  padding-bottom: 4%;
+}
+
+.bt-wrap-footer .x-colophon.top {
+  padding: 40px 0;
+}
+
+.bt-wrap-footer .x-colophon {
+  background-color: transparent;
+  border-top: 0;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+.bt-wrap-footer .x-colophon {
+  position: relative;
+}
+
+.bt-wrap-footer article,
+.bt-wrap-footer aside,
+.bt-wrap-footer details,
+.bt-wrap-footer figcaption,
+.bt-wrap-footer figure,
+.bt-wrap-footer footer,
+.bt-wrap-footer header,
+.bt-wrap-footer hgroup,
+.bt-wrap-footer main,
+.bt-wrap-footer menu,
+.bt-wrap-footer nav,
+.bt-wrap-footer section,
+.bt-wrap-footer summary {
+  display: block;
+}
+
+.bt-wrap-footer .bt-xfooter-content {
+  width: 85%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.bt-wrap-footer .x-container.max {
+  max-width: 1200px;
+}
+
+.bt-wrap-footer .x-container.width {
+  width: 85%;
+}
+
+.bt-wrap-footer .x-container {
+  margin: 0 auto;
+}
+
+.bt-wrap-footer .x-container:before,
+.bt-wrap-footer .x-container:after {
+  content: " ";
+  display: table;
+}
+
+.bt-wrap-footer .bt-xtop-footer .x-column.x-md {
+  width: 26.666%;
+  float: left;
+  margin-right: 0;
+}
+
+.bt-wrap-footer .bt-xtop-footer .x-column.x-md.last {
+  width: 20%;
+}
+
+.bt-wrap-footer .x-column {
+  position: relative;
+  z-index: 1;
+}
+
+.bt-wrap-footer .x-colophon.top.bt-xtop-footer .x-column .widget:first-child {
+  margin-top: 0;
+}
+
+.bt-wrap-footer .widget {
+  /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.95);*/
+}
+
+.bt-wrap-footer .bt-xtop-footer .widget h4.h-widget {
+  color: #fff;
+  font-size: 14px !important;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.bt-wrap-footer .h-widget {
+  margin: 0 0 0.5em;
+  line-height: 1;
+}
+
+.bt-wrap-footer h4,
+.bt-wrap-footer .h4 {
+  letter-spacing: -0.008em;
+}
+
+.bt-wrap-footer h1,
+.bt-wrap-footer h2,
+.bt-wrap-footer h3,
+.bt-wrap-footer h4,
+.bt-wrap-footer h5,
+.bt-wrap-footer h6,
+.bt-wrap-footer .h1,
+.bt-wrap-footer .h2,
+.bt-wrap-footer .h3,
+.bt-wrap-footer .h4,
+.bt-wrap-footer .h5,
+.bt-wrap-footer .h6 {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+}
+
+.bt-wrap-footer h1,
+.bt-wrap-footer h2,
+.bt-wrap-footer h3,
+.bt-wrap-footer h4,
+.bt-wrap-footer h5,
+.bt-wrap-footer h6,
+.bt-wrap-footer .h1,
+.bt-wrap-footer .h2,
+.bt-wrap-footer .h3,
+.bt-wrap-footer .h4,
+.bt-wrap-footer .h5,
+.bt-wrap-footer .h6 {
+  text-rendering: optimizelegibility;
+}
+
+.bt-wrap-footer .bt-xtop-footer .widget ul.menu {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  border: 0;
+}
+
+.bt-wrap-footer .widget p:last-child,
+.bt-wrap-footer .widget ul:last-child,
+.bt-wrap-footer .widget ol:last-child {
+  margin-bottom: 0;
+}
+
+.bt-wrap-footer .widget ul,
+.bt-wrap-footer .widget ol {
+  overflow: hidden;
+  margin-left: 0;
+  list-style: none;
+  border-radius: 6px;
+  background-color: transparent;
+}
+
+.bt-wrap-footer ul,
+.bt-wrap-footer ol {
+  padding: 0;
+  margin: 0 0 1.313em 1.655em;
+}
+
+.bt-wrap-footer .bt-xtop-footer .widget ul.menu li {
+  padding: 4px 0;
+}
+
+.bt-wrap-footer .widget_nav_menu ul li,
+.bt-wrap-footer .widget_meta ul li,
+.bt-wrap-footer .widget_pages ul li {
+  border: 0;
+  box-shadow: none;
+}
+
+.bt-wrap-footer .widget ul li,
+.bt-wrap-footer .widget ol li {
+  /* border-bottom: 1px solid rgba(0,0,0,0.1); */
+  line-height: 1.5;
+  -webkit-transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+}
+
+.bt-wrap-footer .widget ul li,
+.bt-wrap-footer .widget ol li {
+  /* border-bottom: 1px solid rgba(0,0,0,0.1); */
+}
+
+.bt-wrap-footer .bt-xtop-footer .widget ul.menu li a {
+  color: #66cc00;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  border: 0;
+  padding: 5px 5px 5px 0;
+}
+
+.bt-wrap-footer .widget_nav_menu ul li a,
+.bt-wrap-footer .widget_meta ul li a,
+.bt-wrap-footer .widget_pages ul li a {
+  display: block;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.bt-wrap-footer .widget_nav_menu ul li a,
+.bt-wrap-footer .widget_meta ul li a,
+.bt-wrap-footer .widget_pages ul li a {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.bt-wrap-footer a {
+  text-decoration: none;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer {
+  color: #404040;
+  font-size: 11px;
+  padding-bottom: 25px;
+}
+
+.bt-wrap-footer .x-colophon+.x-colophon {
+  border-top: 0;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+.bt-wrap-footer .x-colophon.bottom {
+  padding: 10px 0;
+  text-align: center;
+}
+
+.bt-wrap-footer .x-colophon {
+  background-color: transparent;
+}
+
+.bt-wrap-footer .x-colophon {
+  position: relative;
+}
+
+.bt-wrap-footer article,
+.bt-wrap-footer aside,
+.bt-wrap-footer details,
+.bt-wrap-footer figcaption,
+.bt-wrap-footer figure,
+.bt-wrap-footer footer,
+.bt-wrap-footer header,
+.bt-wrap-footer hgroup,
+.bt-wrap-footer main,
+.bt-wrap-footer menu,
+.bt-wrap-footer nav,
+.bt-wrap-footer section,
+.bt-wrap-footer summary {
+  display: block;
+}
+
+.bt-wrap-footer .x-container.max {
+  max-width: 1200px;
+}
+
+.bt-wrap-footer .x-container.width {
+  width: 85%;
+}
+
+.bt-wrap-footer .x-container {
+  margin: 0 auto;
+}
+
+.bt-wrap-footer .x-container:before,
+.bt-wrap-footer .x-container:after {
+  content: " ";
+  display: table;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-social-global {
+  margin-bottom: 30px;
+  float: right;
+}
+
+.bt-wrap-footer .x-colophon.bottom .x-social-global {
+  margin: 10px 0;
+}
+
+.bt-wrap-footer .x-social-global {
+  font-weight: 400;
+  line-height: 1;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-social-global a {
+  margin: 0;
+  padding: 0 10px;
+}
+
+.bt-wrap-footer .x-colophon.bottom .x-social-global a {
+  font-size: 21px;
+}
+
+.bt-wrap-footer .x-social-global a {
+  display: inline-block;
+  text-align: center;
+}
+
+.bt-wrap-footer .x-social-global a {
+  color: #999;
+}
+
+.bt-wrap-footer a {
+  text-decoration: none;
+}
+
+.bt-wrap-footer .x-social-global a i {
+  display: block;
+}
+
+.bt-wrap-footer .x-social-global a i {
+  font-size: 40px;
+}
+
+.bt-wrap-footer [data-x-icon],
+.bt-wrap-footer [class*="x-icon-"] {
+  font-family: "FontAwesome";
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bt-wrap-footer [data-x-icon]:before,
+.bt-wrap-footer [class*="x-icon-"]:before {
+  content: attr(data-x-icon);
+  line-height: 1;
+}
+
+.bt-wrap-footer .x-colophon.bottom .x-nav {
+  margin: 10px 0;
+  line-height: 1.3;
+}
+
+.bt-wrap-footer .x-nav {
+  list-style: none;
+}
+
+.bt-wrap-footer ul,
+.bt-wrap-footer ol {
+  padding: 0;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-nav li {
+  margin: 0;
+}
+
+.bt-wrap-footer .x-colophon.bottom .x-nav li {
+  display: inline-block;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-nav li a {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 11px;
+  line-height: 190%;
+  color: #404040;
+  padding: 0;
+}
+
+.bt-wrap-footer .x-colophon.bottom .x-nav li a {
+  display: block;
+  font-weight: 400;
+}
+
+.bt-wrap-footer a {
+  text-decoration: none;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-nav li a:after {
+  content: '|';
+  padding: 0 0.5em;
+  cursor: default;
+  position: relative;
+  left: 1px;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-colophon-content {
+  margin-top: 20px;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-colophon-content {
+  letter-spacing: 0;
+  color: #999;
+  font-size: 14px;
+  line-height: 40px;
+  float: left;
+}
+
+.bt-wrap-footer .x-colophon.bottom .x-colophon-content {
+  margin: 30px 0 10px;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+.bt-wrap-footer p {
+  margin: 0 0 1.313em;
+}
+
+.bt-wrap-footer .x-container:after {
+  clear: both;
+}
+
+.bt-wrap-footer .x-container:before,
+.bt-wrap-footer .x-container:after {
+  content: " ";
+  display: table;
+}
+
+.bt-wrap-footer .site:after,
+.bt-wrap-footer .x-site:after {
+  clear: both;
+}
+
+.bt-wrap-footer .site:before,
+.bt-wrap-footer .site:after,
+.bt-wrap-footer .x-site:before,
+.bt-wrap-footer .x-site:after {
+  content: " ";
+  display: table;
+}
+
+.bt-wrap-footer .x-colophon.bottom.bt-xbottom-footer .x-nav li:last-child a::after {
+  content: "";
+}
+
+.bt-wrap-footer #menu-footer-menu-bottom a {
+  color: rgb(102,204,0);
+}
+
+.brighttalk-footer-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  display: block;
+  padding: 0 0 20px;
+}
+
+.brighttalk-footer-links li {
+  display: inline-block;
+  color: #ddd;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0 15px 0 0;
+  line-height: 40px;
+}
+
+.brighttalk-footer-links li a {
+  color: #ddd;
+}
+
+@media (max-width: 767px) {
+  .bt-wrap-footer .bt-xtop-footer .x-column.x-md,
+  .bt-wrap-footer .bt-xtop-footer .x-column.x-md.last {
+    width: 100%;
+    float: none;
+  }
+  .bt-wrap-footer .x-colophon.top.bt-xtop-footer .x-column .widget:first-child {
+    margin-top: 3em;
+  }
+}
+</style>
+<div class="bt-wrap-footer">
+  <div class="wrap-nav-footer-back-top"><span class="nav-footer-back-top">&nbsp;</span></div>
+
+
+  <footer class="x-colophon top bt-xtop-footer" role="contentinfo">
+    <div class="bt-xfooter-content">
+      <div class="x-container max width">
+
+        <div class="x-column x-md x-1-4">
+          <div id="nav_menu-10" class="widget widget_nav_menu">
+            <h4 class="h-widget">Products</h4>
+            <div class="menu-footer-widget-menu-1-container">
+              <ul id="menu-footer-widget-menu-1" class="menu">
+                <li id="menu-item-9313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9314"><a target="_blank" href="https://business.brighttalk.com">Overview</a></li>
+                <li id="menu-item-9314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9314"><a target="_blank" href="https://business.brighttalk.com/demand-products/">Audience</a></li>
+                <li id="menu-item-9315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9315"><a target="_blank" href="https://business.brighttalk.com/products/channel/">Channel</a></li>
+                <li id="menu-item-9316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9316"><a target="_blank" href="https://business.brighttalk.com/products/studios/">Studios</a></li>
+              </ul>
+
+            </div>
+          </div>
+        </div>
+        <div class="x-column x-md x-1-4">
+          <div id="nav_menu-11" class="widget widget_nav_menu">
+            <h4 class="h-widget">Resources</h4>
+            <div class="menu-footer-widget-menu-2-container">
+              <ul id="menu-footer-widget-menu-2" class="menu">
+                <li id="menu-item-9317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9317"><a target="_blank" href="https://business.brighttalk.com/academy/">Academy</a></li>
+                <li id="menu-item-9319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9317"><a target="_blank" href="https://business.brighttalk.com/academy/success-stories/">Customer stories</a></li>
+                <li id="menu-item-9318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9318"><a target="_blank" href="https://bu
+00000E4F
+siness.brighttalk.com/blog/">Blog</a></li>
+                <li id="menu-item-9385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9385"><a target="_blank" href="https://business.brighttalk.com/marketing-visionaries/">Marketing visionaries</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="x-column x-md x-1-4">
+          <div id="nav_menu-12" class="widget widget_nav_menu">
+            <h4 class="h-widget">Company</h4>
+            <div class="menu-footer-widget-menu-3-container">
+              <ul id="menu-footer-widget-menu-3" class="menu">
+                <li id="menu-item-9320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9320"><a target="_blank" href="https://business.brighttalk.com/company/about/">About</a></li>
+                <li id="menu-item-9333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9333"><a target="_blank" href="https://business.brighttalk.com/culture-careers/">Culture and careers</a></li>
+                <li id="menu-item-9330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9330"><a target="_blank" href="https://business.brighttalk.com/company/leadership/">Leadership</a></li>
+                <li id="menu-item-9331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9331"><a target="_blank" href="https://business.brighttalk.com/company/board/">Board and advisors</a></li>
+                <li id="menu-item-9329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9329"><a target="_blank" href="https://business.brighttalk.com/company/contact/">Contact</a></li>
+                <li id="menu-item-9322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9322"><a target="_blank" href="https://business.brighttalk.com/company/meet-ada/">Meet Ada</a></li>
+                <li id="menu-item-9321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9321"><a target="_blank" href="https://business.brighttalk.com/mission-and-values/">Mission and values</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="x-column x-md x-1-4 last">
+          <div id="nav_menu-14" class="widget widget_nav_menu">
+            <h4 class="h-widget">Support</h4>
+            <div class="menu-footer-widget-menu-4-container">
+              <ul id="menu-footer-widget-menu-4" class="menu">
+                <li id="menu-item-9325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9325"><a target="_blank" href="https://support.brighttalk.com/hc/en-us/categories/200255620-Channel-owners">Channel owners</a></li>
+                <li id="menu-item-9328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9328"><a target="_blank" href="https://developer.brighttalk.com/">Developers</a></li>
+                <li id="menu-item-9324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9324"><a target="_blank" href="https://support.brighttalk.com/hc/en-us/categories/200255610-Presenters">Presenters</a></li>
+                <li id="menu-item-9323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9323"><a target="_blank" href="https://support.brighttalk.com/hc/en-us/categories/200255600-Viewers">Viewers</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+<footer class="x-colophon bottom bt-xbottom-footer" role="contentinfo">
+  <div class="x-container max width">
+    <div class="x-social-global"><a href="
+00003B37
+https://twitter.com/brighttalk" class="twitter" title="Twitter" target="_blank"><i class="x-icon-twitter-square" data-x-icon="&#xf081;" aria-hidden="true"></i></a><a href="https://www.linkedin.com/company/brighttalk/" class="linkedin" title="LinkedIn"
+      target="_blank"><i class="x-icon-linkedin-square" data-x-icon="&#xf08c;" aria-hidden="true"></i></a><a href="https://www.facebook.com/BrightTALK" class="facebook" title="Facebook" target="_blank"><i class="x-icon-facebook-square" data-x-icon="&#xf082;" aria-hidden="true"></i></a></div>
+    <div class="x-colophon-content">
+      <ul class="brighttalk-footer-links">
+        <li>© 2020 BrightTALK</li>
+        <li><a href="https://business.brighttalk.com/company/user-agreement/">User agreement</a></li>
+        <li><a href="https://business.brighttalk.com/company/privacy-policy/">Privacy policy</a></li>
+        <li><a href="https://support.brighttalk.com/hc/en-us/articles/114094189954-Accessing-and-Using-the-BrightTALK-Presenter-Screen">Presenter access</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+</div>
+
+
+                    <div id="embedDialog" class="embedDialog">
+    <div class="top"></div>
+    <div class="body">
+        <h3 class="title">Embed in website or blog</h3>
+        <div class="embedCodeWrapper">
+            <label for="embedCode" class="embedLabel">Copy and paste this embed code to your website or blog:</label>
+            <input class="embedCode" id="embedCode" value="&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.brighttalk.com/clients/js/embed/embed.js&quot;&gt;&lt;/script&gt;&lt;object class=&quot;BrightTALKEmbed&quot; width=&quot;705&quot; height=&quot;660&quot;&gt;&lt;param name=&quot;player&quot; value=&quot;channel_player&quot;/&gt;&lt;param name=&quot;domain&quot; value=&quot;http://www.brighttalk.com&quot;/&gt;&lt;param name=&quot;channelid&quot; value=&quot;12339&quot;/&gt;&lt;param name=&quot;communicationid&quot; value=&quot;471416&quot;/&gt;&lt;param name=&quot;autoStart&quot; value=&quot;false&quot;/&gt;&lt;param name=&quot;theme&quot; value=&quot;&quot;/&gt;&lt;/object&gt;"  data-embed-code="&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.brighttalk.com/clients/js/embed/embed.js&quot;&gt;&lt;/script&gt;&lt;object class=&quot;BrightTALKEmbed&quot; width=&quot;705&quot; height=&quot;660&quot;&gt;&lt;param name=&quot;player&quot; value=&quot;channel_player&quot;/&gt;&lt;param name=&quot;domain&quot; value=&quot;http://www.brighttalk.com&quot;/&gt;&lt;param name=&quot;channelid&quot; value=&quot;12339&quot;/&gt;&lt;param name=&quot;communicationid&quot; value=&quot;471416&quot;/&gt;&lt;param name=&quot;autoStart&quot; value=&quot;false&quot;/&gt;&lt;param name=&quot;theme&quot; value=&quot;&quot;/&gt;&lt;/object&gt;" />
+        </div>
+        <div id="embedCodeOptions" class="embedCodeOptions">
+            <button id="embedCodeCloseButton" class="BTButton button2">
+                <span class="text">Close</span>
+            </button>
+        </div>
+    </div>
+    <div class="bottom"></div>
+</div>
+
+                <div id="emailDialog" class="emailDialog" data-email-send-url="https://www.brighttalk.com/service/channel/xml/friendemail" data-communication-id="471416" data-channel-id="12339">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="controls">
+            <div class="left">
+                <label class="emailFieldLabel" for="emailInput">Your colleagues' emails:</label>
+                <textarea id="emailInput" class="emailInput"></textarea>
+
+                <div class="buttonWrapper">
+                    <button id="addEmailButton" class="addEmailButton BTButton button2">
+                        <span>Add</span>
+                    </button>
+                </div>
+
+                <div class="badEmailErrorWrapper"></div>
+
+                <div class="successfulEmails">Successfully added emails: <span id="addedEmailsCount">0</span></div>
+
+                <div class="addedEmailListWrapper">
+                    <ul id="addedEmailList" class="addedEmailList">
+                        <li class="placeholder"></li>
+                    </ul>
+                </div>
+                <div class="removeAllEmailsWrapper">
+                    <span id="removeAllEmails" class="removeAllEmails">Remove all</span>
+                </div>
+            </div>
+
+            <div class="right">
+                <label class="emailFieldLabel" for="emailMessage">Your message:</label>
+                <textarea id="emailMessage" class="emailInput" data-default-text="Hi,
+
+I thought this webinar was interesting and I wanted to share it with you.">Hi,
+
+I thought this webinar was interesting and I wanted to share it with you.</textarea>
+
+                <div class="emailDetails">
+                    <ul>
+                        <li>Title: In pursuit of parity: A guide to the responsible use of AI in health care</li>
+                        <li>Live at: <span class="BTDate emailLiveDate" data-timestamp="1617210000" data-format="M j Y g:i a">Mar 31 2021 5:00 pm</span></li>
+                        <li>Presented by: VentureBeat x Optum</li>
+                        <li class="emailUsernameWrapper">From: <span class="emailUsername"></span></li>
+                    </ul>
+                </div>
+
+                <div class="emailSendError"></div>
+
+                <div class="buttonWrapper">
+                    <button id="sendEmailButton" class="BTButton button2" disabled="disabled" ga-click-tracker ga-click-tracker-action="Sharing" ga-click-tracker-category="Player page" ga-click-tracker-label="Email send">
+                        <span class="text">Send</span>
+                    </button>
+                    <button id="cancelEmailButton" class="cancelEmailButton BTButton button2">
+                        <span class="text">Cancel</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="emailSuccessMessage">
+            <div class="messageWrapper">
+                <span class="message">Your email has been sent.</span>
+            </div>
+            <div class="options">
+                <button class="inviteMore BTButton button5">
+                    <span>Invite more colleagues</span>
+                </button> or <span class="closeEmailDialog">close</span>
+            </div>
+        </div>
+    </div>
+    <div class="bottom"></div>
+</div>        </div>
+
+        <!--[if lt IE 9]>
+    <script src="/resources/vendor/style-guide/scripts/respond.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        FileAPI = {
+            jsUrl: '/resources/vendor/FileAPI/js/FileAPI.min.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea',
+            flashUrl: '/resources/vendor/FileAPI/swf/FileAPI.flash.swf?v=605fb9d40d5fb0b5fede139922787723bd1b43ea'
+        }
+    </script>
+
+    
+    <script type="text/javascript">
+    (function () {
+
+        'use strict';
+
+        window._gaq = window._gaq || [];
+        window._gaq.push(['sfportal._setAccount', 'UA-187516-1']);
+    }());
+</script>
+    <script type="text/javascript" src="/bundles/brighttalkportal/js/Config/global_config.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea"></script>
+    <!--<script type="text/javascript" src=""></script> -->
+    <script type="text/javascript" src="/compiled/js/responsive-player-base.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea"></script>
+    
+                
+
+    
+    <script type="text/javascript" src="/clients/js/embed/embed.js"></script>
+<script type="text/javascript" src="/clients/js/plugins/countdown.js"></script>
+    <script type="text/javascript" src="/bundles/brighttalkportal/js/player.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea"></script>
+    <script type="text/javascript" src="/compiled/js/player-bundle/layout.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea"></script>
+
+    <script type="text/javascript">
+        
+        Bt.data.communicationId = 471416;
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="/resources/vendor/event-listener-polyfill/event-listener-polyfill.min.js?v=605fb9d40d5fb0b5fede139922787723bd1b43ea"></script>
+    <![endif]-->
+
+    <div ng-controller="Onboarding" ng-if="webcast.status === 'upcoming' && webcast.userIsAuthorised && session.registeredInPage" class="onboarding-panel-wrapper modal-open" ng-cloak>
+    <div class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+
+            <div ga-load-tracker ga-load-tracker-category="Onboarding flow" ga-load-tracker-action="Add to calendar" data-ga-load-tracker-label="Panel displayed" class="onboarding-panel calendar-panel">
+                <div class="modal-header">
+                    <h4 class="modal-title">
+                        <span class="main-message">You are confirmed to attend for free on BrightTALK!</span><br>
+                        Save to your calendar to make sure you don't miss the live event</h4>
+                </div>
+                <div class="modal-body">
+                    
+
+
+
+<div class="dropdown full-width-xs add-to-calendar-widget">
+    <button class="btn btn-primary btn-lg dropdown-button" data-toggle="dropdown" ga-click-tracker ga-click-tracker-action="Add to calendar" ga-click-tracker-category="Onboarding flow" ga-click-tracker-label="Click calendar dropdown">Add to calendar <i class="fa fa-caret-down"></i></button>
+    <ul class="dropdown-menu">
+        <li>
+            <a class="add-to-calendar-widget-outlook-link" href="https://www.brighttalk.com/service/channel/channel/12339/communication/471416/calendar/ics" ga-click-tracker ga-click-tracker-action="Add to calendar" ga-click-tracker-category="Onboarding flow" ga-click-tracker-label="Outlook calendar" target="_blank"><i class="fa fa-windows"></i> Outlook</a>
+        </li>
+        <li>
+            <a class="add-to-calendar-widget-ical-link" href="https://www.brighttalk.com/service/channel/channel/12339/communication/471416/calendar/ics" ga-click-tracker ga-click-tracker-action="Add to calendar" ga-click-tracker-category="Onboarding flow" ga-click-tracker-label="iCalendar" target="_blank"><i class="fa fa-apple"></i> iCal</a>
+        </li>
+        <li>
+            <a class="add-to-calendar-widget-google-calendar-link" href="https://www.google.com/calendar/render?action=TEMPLATE&amp;pli=1&amp;sf=true&amp;output=xml&amp;text=In%20pursuit%20of%20parity%3A%20A%20guide%20to%20the%20responsible%20use%20of%20AI%20in%20health%20care&amp;details=Click%20here%20to%20attend%3A%20http%3A%2F%2Fwww.brighttalk.com%2Fwebcast%2F12339%2F471416%3Futm_campaign%3Dgoogle-calendar%26utm_source%3Dbrighttalk-portal%26utm_medium%3Dcalendar%0A%0ALeaders%20from%20all%20sectors%20of%20health%20care%20are%20increasingly%20integrating%20artificial%20intelligence%20%28AI%29%20into%20their%20organizations%20to%20achieve%20strategic%20goals%2C%20and%20confidence%20in%20the%20technology%27s%20promise%20is%20growing.%20A%202020%20Optum%20survey%20on%20AI%20in%20health%20care%20found%20that%2059%25%20of%20respondents%20expect%20a%20full%20return%20on%20their%20AI%20investments%20in%20under%20three%20years%2C%20nearly%20double%20the%2031%25%20who%20answered%20similarly%20in%202018.%20%0A%0AHealth%20care%E2%80%99s%20Quadruple%20Aim%20is%20to%20simultaneously%20improve%20health%20outcomes%2C%20%20enhance%20and%20simplify%20the%20experiences%20of%20both%20patients%20and%20providers%2C%20and%20reduce%20overall%20costs%20%E2%80%94%20and%20AI%20is%20seen%20as%20an%20integral%20tool%20to%20help%20achieve%20it.%20The%20risk%20is%20that%20predictive%20models%20may%20unintentionally%20perpetuate%20harmful%20racial%20and%20gender%20biases%20that%20directly%20impact%20a%20patient%27s%20health%20or%20access%20to%20care.%20In%20order%20to%20overcome%20these%20challenges%2C%20health%20care%20organizations%20need%20to%20acknowledge%20their%20existence%E2%80%94and%20take%20proactive%20steps%20to%20promote%20equity%20by%20examining%20both%20the%20data%20these%20models%20interpret%20and%20how%20the%20models%20are%20being%20applied.%0A%0AIn%20this%20VB%20Live%20event%2C%20you%27ll%20learn%20more%20about%20how%20AI%20can%20help%20health%20care%20experts%20do%20their%20jobs%20more%20efficiently%20and%20effectively%2C%20and%20how%20stakeholders%20throughout%20health%20care%20can%20use%20AI%20responsibly%2C%20ethically%2C%20and%20equitably.%20Plus%2C%20you%27ll%20get%20an%20in-depth%20perspective%20on%20the%20strengths%20and%20limitations%20of%20data%2C%20AI%20methodology%2C%20the%20application%20of%20AI%20results%2C%20and%20more.%0A%0A-%20What%20it%20means%20to%20use%20advanced%20analytics%20%22responsibly%22%0A-%20Why%20responsible%20use%20is%20so%20important%20in%20health%20care%20as%20compared%20to%20other%20fields%0A-%20The%20steps%20that%20researchers%20and%20organizations%20are%20taking%20today%20to%20ensure%20AI%20is%20used%20responsibly%0A-%20What%20the%20AI-enabled%20health%20system%20of%20the%20future%20looks%20like%20and%20its%20advantages%20for%20consumers%2C%20organizations%2C%20and%20clinicians%0A%0ASpeakers%3A%0A%0A-%20Brian%20Christian%2C%20Author%2C%20The%20Alignment%20Problem%2C%20Algorithms%20to%20Live%20By%20and%20The%20Most%20Human%20Human%0A-%20Sanji%20Fernando%2C%20SVP%20of%20Artificial%20Intelligence%20%26%20Analytics%20Platforms%2C%20Optum%0A-%20Kyle%20Wiggers%2C%20AI%20Staff%20Writer%2C%20VentureBeat%20%28moderator%29&amp;location=BrightTALK&amp;dates=20210331T170000Z%2F20210331T180000Z" ga-click-tracker ga-click-tracker-action="Add to calendar" ga-click-tracker-category="Onboarding flow" ga-click-tracker-label="Google calendar" target="_blank"><i class="fa fa-google"></i> Google</a>
+        </li>
+    </ul>
+</div>
+                    <div class="webcast">
+    <div class="webcast-details">
+        <div class="webcast-thumbnail-wrapper">
+          <img class="webcast-thumbnail" alt="In pursuit of parity: A guide to the responsible use of AI in health care" src="https://www.brighttalk.com/communication/471416/thumbnail_1614042197.png">
+        </div>
+        <span class="webcast-title">In pursuit of parity: A guide to the responsible use of AI in health care</span>
+        <span class="webcast-presenters">VentureBeat x Optum</span>
+                <span class="webcast-start-date" title="Start date" ng-init="webcastStartDate = 1617210000">[[ webcastStartDate * 1000 | amDateFormat: 'MMM D YYYY h:mm a' ]]</span>
+        <span class="webcast-duration" title="Duration">60 mins</span>
+    </div>
+</div>
+                </div>
+                <div class="modal-footer">
+                    <a href="/mybrighttalk/welcome/12339/471416" class="btn btn-link skip-button">Skip</a>
+                    <a href="/mybrighttalk/welcome/12339/471416" class="btn btn-primary next-button" ga-click-tracker ga-click-tracker-action="Add to calendar" ga-click-tracker-category="Onboarding flow" ga-click-tracker-label="Click Next">Next <span class="fa fa-chevron-right"></span></a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+    <div class="modal-backdrop in"></div></div>
+</body>
+</html>
+
+00000000
+

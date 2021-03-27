@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html>
+<title>
+What is Overfitting? | Unite.AI 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+<!--mvp-fly-logo-- > <!--mvp-fly-top-in-- > <!--mvp-fly-but-wrap-- > <!--mvp-fly-top-out-- > <!--mvp-fly-menu-top-- > News Artificial General Intelligence Artificial Neural Networks Autonomous Vehicles Brain Machine Interface Data Science COVID-19 Cybersecurity Deep Learning Deepfakes Education Environment Ethics Facial Recognition Healthcare Investments Manufacturing Natural Language Processing Quantum Computing Regulation Reinforcement Learning Robotics Speech Recognition Startups Surveillance Virtual Assistants AI 101 Autoencoder Backpropagation Bayes Theorem Big Data Computer Vision Confusion Matrix Convolutional Neural Networks Cybersecurity Decision Tree Data Science Deepfakes Deep Learning Deep Reinforcement Learning Dimensionality Reduction Edge AI &#038; Edge Computing Ensemble Learning Federated Learning Few-Shot Learning Generative Adversarial Network Generative vs Discriminative Models Gradient Boosting Gradient Descent Image Classification K-Means Clustering K-Nearest Neighbors Linear Regression Long Short-Term Memory (LSTM) Machine Learning Meta-Learning Nanobots Natural Language Processing Natural Language Understanding Neural Networks Overfitting Quantum Computers Recurrent Neural Networks Reinforcement Learning Robotic Process Automation (RPA) Structured vs Unstructured Data Supervised vs Unsupervised Support Vector Machines Synthetic Data Text Classification Transfer Learning Transformer Neural Networks Turing Test Certifications Blockchain Cloud Cybersecurity Data Science Machine Learning Natural Language Processing Python Robotic Process Automation TensorFlow Courses Conferences AI Conferences Cybersecurity Conferences Robotics Conferences Interviews Thought Leaders Newsletters Organizations Meet the Team Our Charter Contact Us <!--mvp-fly-menu-wrap-- > Connect with us <!--mvp-fly-soc-wrap-- > <!--mvp-fly-wrap-- > <!--mvp-search-box-- > <!--mvp-search-but-wrap-- > <!--mvp-search-wrap-- > <!--mvp-fly-but-wrap-- > <!--mvp-nav-small-left-- > Unite.AI <!--mvp-nav-small-logo-- > What is Overfitting? <!--mvp-drop-nav-title-- > News A - C Artificial General Intelligence Artificial Neural Networks Autonomous Vehicles Brain Machine Interface COVID-19 Cybersecurity D - F Data Science Deepfakes Deep Learning Education Ethics Environment Facial Recognition G - Q Healthcare Investments Manufacturing Natural Language Processing Quantum Computing R - Z Regulation Reinforcement Learning Robotics Speech Recognition Startups Surveillance Virtual Assistants AI 101 A - D Autoencoder Backpropagation Bayes Theorem Big Data Computer Vision Confusion Matrix Convolutional Neural Networks Cybersecurity Data Science Decision Tree Deepfakes Deep Learning Deep Reinforcement Learning D - K Dimensionality Reduction Edge AI Ensemble Learning Federated Learning Few-Shot Learning Generative Adversarial Network (GAN) Generative vs. Discriminative Models Gradient Boosting Gradient Descent Image Classification K-Means Clustering K-Nearest Neighbors L - Q Linear Regression Long Short-Term Memory Machine Learning Meta-Learning Nanobots Natural Language Processing Natural Language Understanding Neural Networks Overfitting Quantum Computers Recurrent Neural Networks R - Z Reinforcement Learning Robotic Process Automation (RPA) Structured vs Unstructured Data Supervised vs Unsupervised Learning Support Vector Machines Synthetic Data Text Classification Transfer Learning Transformer Neural Networks Turing Test Certifications Blockchain Cloud Cybersecurity Data Science Machine Learning Natural Language Processing Python Robotic Process Automation TensorFlow Conferences Artificial Intelligence Cybersecurity Robotics Interviews Thought Leaders Meet the Team Contact <!--mvp-nav-menu-- > <!--mvp-nav-small-mid-right-- > <!--mvp-nav-small-mid-- > <!--mvp-nav-small-left-in-- > <!--mvp-nav-small-left-out-- > <!--mvp-nav-small-cont-- > <!--mvp-nav-small-right-in-- > <!--mvp-nav-small-right-- > <!--mvp-nav-small-right-out-- > <!--mvp-nav-small-wrap-- > <!--mvp-main-box-- > <!--mvp-main-nav-small-cont-- > <!--mvp-main-nav-small-- > <!--mvp-main-nav-wrap-- > <!--mvp-main-head-wrap-- > AI Masterclass: Terminology (A to D) Autoencoder Backpropagation Bayes Theorem Big Data Computer Vision Confusion Matrix Convolutional Neural Networks Cybersecurity Data Science Decision Tree Deepfakes Deep Learning Deep Reinforcement Learning Dimensionality Reduction Terminology (E to K) Edge AI Ensemble Learning Federated Learning Generative Adversarial Network Generative vs. Discriminative Gradient Boosting Gradient Descent Few-Shot Learning Image Classification K-Means Clustering K-Nearest Neighbors Terminology (L to Q) Linear Regression Long-Short Term Memory Machine Learning Meta-Learning Nanobots Natural Language Processing Natural Language Understanding Neural Networks Overfitting Quantum Computers Terminology (R to Z) Reinforcement Learning Robotic Process Automation Structured vs Unstructured Supervised vs Unsupervised Support Vector Machines Synthetic Data Text Classification Transfer Learning Transformer Neural Networks Turing Test AI 101 What is Overfitting? <!--mvp-author-info-thumb-- > Updated 7 months ago &nbsp;on August 23, 2020 <!--mvp-author-info-date-- > By Daniel Nelson <!--mvp-author-info-name-- > <!--mvp-author-info-text-- > <!--mvp-author-info-wrap-- > Table Of Contents <!--mvp-post-img-hide-- > What is Overfitting? When you train a neural network, you have to avoid overfitting. Overfitting is an issue within machine learning and statistics where a model learns the patterns of a training dataset too well, perfectly explaining the training data set but failing to generalize its predictive power to other sets of data. To put that another way, in the case of an overfitting model it will often show extremely high accuracy on the training dataset but low accuracy on data collected and run through the model in the future. That’s a quick definition of overfitting, but let’s go over the concept of overfitting in more detail. Let’s take a look at how overfitting occurs and how it can be avoided. Understanding “Fit” and Overfitting Before we delve too deeply into overfitting, it might be helpful to take a look at the concept of underfitting and “ fit ” generally. When we train a model we are trying to develop a framework that is capable of predicting the nature, or class, of items within a dataset, based on the features that describe those items. A model should be able to explain a pattern within a dataset and predict the classes of future data points based off of this pattern. The better the model explains the relationship between the features of the training set, the more “fit” our model is. Blue line represents predictions by a model that is underfitting, while the green line represents a better fit model. Photo: Pep Roca via Wikimedia Commons, CC BY SA 3.0, (https://commons.wikimedia.org/wiki/File:Reg_ls_curvil%C3%ADnia.svg) A model that poorly explains the relationship between the features of the training data and thus fails to accurately classify future data examples is underfitting the training data. If you were to graph the predicted relationship of an underfitting model against the actual intersection of the features and labels, the predictions would veer off the mark. If we had a graph with the actual values of a training set labeled, a severely underfitting model would drastically miss most of the data points. A model with a better fit might cut a path through the center of the data points, with individual data points being off of the predicted values by only a little. Underfitting can often occur when there is insufficient data to create an accurate model, or when trying to design a linear model with non-linear data. More training data or more features will often help reduce underfitting. So why wouldn’t we just create a model that explains every point in the training data perfectly? Surely perfect accuracy is desirable? Creating a model that has learned the patterns of the training data too well is what causes overfitting. The training data set and other, future datasets you run through the model will not be exactly the same. They will likely be very similar in many respects, but they will also differ in key ways. Therefore, designing a model that explains the training dataset perfectly means you end up with a theory about the relationship between features that doesn’t generalize well to other datasets. Understanding Overfitting Overfitting occurs when a model learns the details within the training dataset too well, causing the model to suffer when predictions are made on outside data. This may occur when the model not only learns the features of the dataset, it also learns random fluctuations or noise within the dataset, placing importance on these random/unimportant occurrences. Overfitting is more likely to occur when nonlinear models are used, as they are more flexible when learning data features. Nonparametric machine learning algorithms often have various parameters and techniques that can be applied to constrain the model’s sensitivity to data and thereby reduce overfitting. As an example, decision tree models are highly sensitive to overfitting, but a technique called pruning can be used to randomly remove some of the detail that the model has learned. If you were to graph out the predictions of the model on X and Y axes, you would have a line of prediction that zigzags back and forth, which reflects the fact that the model has tried too hard to fit all the points in the dataset into its explanation. Controlling Overfitting When we train a model, we ideally want the model to make no errors. When the model’s performance converges towards making correct predictions on all the data points in the training dataset, the fit is becoming better. A model with a good fit is able to explain almost all of the training dataset without overfitting. As a model trains its performance improves over time. The model’s error rate will decrease as training time passes, but it only decreases to a certain point. The point at which the model’s performance on the test set begins to rise again is typically the point at which overfitting is occurring. In order to get the best fit for a model, we want to stop training the model at the point of lowest loss on the training set, before error starts increasing again. The optimal stopping point can be ascertained by graphing the performance of the model throughout the training time and stopping training when loss is lowest. However, one risk with this method of controlling for overfitting is that specifying the endpoint for the training based on test performance means that the test data becomes somewhat included in the training procedure, and it loses its status as purely “untouched” data. There are a couple of different ways that one can combat overfitting. One method of reducing overfitting is to use a resampling tactic, which operates by estimating the accuracy of the model. You can also use a validation dataset in addition to the test set and plot the training accuracy against the validation set instead of the test dataset. This keeps your test dataset unseen. A popular resampling method is K-folds cross-validation . This technique enables you to divide your data into subsets that the model is trained on, and then the performance of the model on the subsets is analyzed to estimate how the model will perform on outside data. Making use of cross-validation is one of the best ways to estimate a model’s accuracy on unseen data, and when combined with a validation dataset overfitting can often be kept to a minimum. <!--mvp-content-main-- > Related Topics: 101 overfitting <!--mvp-post-tags-- > <!--posts-nav-link-- > Up Next What are Support Vector Machines? <!--mvp-prev-next-text-- > <!--mvp-next-cont-in-- > <!--mvp-prev-next-out-- > <!--mvp-prev-next-cont-- > <!--mvp-next-post-wrap-- > Don&#039;t Miss What is Gradient Descent? <!--mvp-prev-next-text-- > <!--mvp-prev-cont-in-- > <!--mvp-prev-cont-out-- > <!--mvp-prev-next-cont-- > <!--mvp-prev-post-wrap-- > <!--mvp-prev-next-wrap-- > <!--mvp-author-box-img-- > Daniel Nelson <!--mvp-author-box-soc-wrap-- > <!--mvp-author-box-head-- > <!--mvp-author-box-in-- > <!--mvp-author-box-out-- > Blogger and programmer with specialties in Machine Learning and Deep Learning topics. Daniel hopes to help others use the power of AI for social good. <!--mvp-author-box-text-- > <!--author__item-- > <!--mvp-author-box-wrap-- > <!--mvp-org-logo-- > <!--mvp-org-wrap-- > <!--mvp-content-bot-- > <!--mvp-content-body-top-- > You may like <!--mvp-related-img-- > What is Few-Shot Learning? <!--mvp-related-text-- > <!--mvp-related-img-- > What Are Transformer Neural Networks? <!--mvp-related-text-- > <!--mvp-related-img-- > What Edge AI &#038; Edge Computing? <!--mvp-related-text-- > <!--mvp-related-img-- > What is Ensemble Learning? <!--mvp-related-text-- > <!--mvp-related-img-- > What is Dimensionality Reduction? <!--mvp-related-text-- > <!--mvp-related-img-- > What is a Generative Adversarial Network (GAN)? <!--mvp-related-text-- > <!--mvp-related-posts-- > <!--mvp-cont-read-wrap-- > <!--mvp-content-body-- > <!--mvp-post-soc-in-- > <!--mvp-post-soc-out-- > <!--mvp-content-wrap-- > <!--mvp-post-content-- > <!--mvp-post-main-in-- > <!--mvp-post-main-out-- > <!--mvp-post-main-- > <!--mvp-main-box-- > <!--mvp-article-cont-- > <!--mvp-article-wrap-- > <!--mvp-main-body-wrap-- > Meet the Team Our Charter Press Tools Contact Us Advertiser Disclosure : Unite.AI is committed to rigorous editorial standards to provide our readers with accurate information and news. We may receive compensation when you click on links to products we reviewed. Copyright © 2021 Unite.AI Editorial Policy Privacy Policy Terms and Conditions <!--mvp-site-main-- > <!--mvp-site-wall-- > <!--mvp-site-- > <!--mvp-fly-top-- > <!--mvp-fly-fade-- > 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="https://www.unite.ai/">https://www.unite.ai/</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/">https://www.unite.ai/</a> ( News )
+</p>
+<p>
+<a href="https://www.unite.ai/agi/">https://www.unite.ai/agi/</a> ( Artificial General Intelligence )
+</p>
+<p>
+<a href="https://www.unite.ai/artificial-neural-networks/">https://www.unite.ai/artificial-neural-networks/</a> ( Artificial Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/autonomous-vehicles/">https://www.unite.ai/autonomous-vehicles/</a> ( Autonomous Vehicles )
+</p>
+<p>
+<a href="https://www.unite.ai/brain-machine-interface/">https://www.unite.ai/brain-machine-interface/</a> ( Brain Machine Interface )
+</p>
+<p>
+<a href="https://www.unite.ai/data-science/">https://www.unite.ai/data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/covid-19/">https://www.unite.ai/covid-19/</a> ( COVID-19 )
+</p>
+<p>
+<a href="https://www.unite.ai/cybersecurity/">https://www.unite.ai/cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/deep-learning/">https://www.unite.ai/deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/deepfakes/">https://www.unite.ai/deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/education/">https://www.unite.ai/education/</a> ( Education )
+</p>
+<p>
+<a href="https://www.unite.ai/environment/">https://www.unite.ai/environment/</a> ( Environment )
+</p>
+<p>
+<a href="https://www.unite.ai/ethics/">https://www.unite.ai/ethics/</a> ( Ethics )
+</p>
+<p>
+<a href="https://www.unite.ai/facing-recognition/">https://www.unite.ai/facing-recognition/</a> ( Facial Recognition )
+</p>
+<p>
+<a href="https://www.unite.ai/healthcare/">https://www.unite.ai/healthcare/</a> ( Healthcare )
+</p>
+<p>
+<a href="https://www.unite.ai/investments/">https://www.unite.ai/investments/</a> ( Investments )
+</p>
+<p>
+<a href="https://www.unite.ai/manufacturing/">https://www.unite.ai/manufacturing/</a> ( Manufacturing )
+</p>
+<p>
+<a href="https://www.unite.ai/natural-language-processing/">https://www.unite.ai/natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/quantum-computing/">https://www.unite.ai/quantum-computing/</a> ( Quantum Computing )
+</p>
+<p>
+<a href="https://www.unite.ai/regulation/">https://www.unite.ai/regulation/</a> ( Regulation )
+</p>
+<p>
+<a href="https://www.unite.ai/reinforcement-learning/">https://www.unite.ai/reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/robotics/">https://www.unite.ai/robotics/</a> ( Robotics )
+</p>
+<p>
+<a href="https://www.unite.ai/speech-recognition/">https://www.unite.ai/speech-recognition/</a> ( Speech Recognition )
+</p>
+<p>
+<a href="https://www.unite.ai/startups/">https://www.unite.ai/startups/</a> ( Startups )
+</p>
+<p>
+<a href="https://www.unite.ai/surveillance/">https://www.unite.ai/surveillance/</a> ( Surveillance )
+</p>
+<p>
+<a href="https://www.unite.ai/virtual-assistants/">https://www.unite.ai/virtual-assistants/</a> ( Virtual Assistants )
+</p>
+<p>
+<a href="https://www.unite.ai/ai-101/">https://www.unite.ai/ai-101/</a> ( AI 101 )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-an-autoencoder/">https://www.unite.ai/what-is-an-autoencoder/</a> ( Autoencoder )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-backpropagation/">https://www.unite.ai/what-is-backpropagation/</a> ( Backpropagation )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-bayes-theorem/">https://www.unite.ai/what-is-bayes-theorem/</a> ( Bayes Theorem )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-big-data/">https://www.unite.ai/what-is-big-data/</a> ( Big Data )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-computer-vision/">https://www.unite.ai/what-is-computer-vision/</a> ( Computer Vision )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-confusion-matrix/">https://www.unite.ai/what-is-a-confusion-matrix/</a> ( Confusion Matrix )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-convolutional-neural-networks/">https://www.unite.ai/what-are-convolutional-neural-networks/</a> ( Convolutional Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-cybersecurity/">https://www.unite.ai/what-is-cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-decision-tree/">https://www.unite.ai/what-is-a-decision-tree/</a> ( Decision Tree )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-data-science/">https://www.unite.ai/what-is-data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-deepfakes/">https://www.unite.ai/what-are-deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-learning/">https://www.unite.ai/what-is-deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-reinforcement-learning/">https://www.unite.ai/what-is-deep-reinforcement-learning/</a> ( Deep Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-dimensionality-reduction/">https://www.unite.ai/what-is-dimensionality-reduction/</a> ( Dimensionality Reduction )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-edge-ai/">https://www.unite.ai/what-is-edge-ai/</a> ( Edge AI &#038; Edge Computing )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-ensemble-learning/">https://www.unite.ai/what-is-ensemble-learning/</a> ( Ensemble Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-federated-learning/">https://www.unite.ai/what-is-federated-learning/</a> ( Federated Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/few-shot-learning/">https://www.unite.ai/few-shot-learning/</a> ( Few-Shot Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-generative-adversarial-network-gan/">https://www.unite.ai/what-is-a-generative-adversarial-network-gan/</a> ( Generative Adversarial Network )
+</p>
+<p>
+<a href="https://www.unite.ai/generative-vs-discriminative-machine-learning-models/">https://www.unite.ai/generative-vs-discriminative-machine-learning-models/</a> ( Generative vs Discriminative Models )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-boosting/">https://www.unite.ai/what-is-gradient-boosting/</a> ( Gradient Boosting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-descent/">https://www.unite.ai/what-is-gradient-descent/</a> ( Gradient Descent )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-image-classification-work/">https://www.unite.ai/how-does-image-classification-work/</a> ( Image Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-means-clustering/">https://www.unite.ai/what-is-k-means-clustering/</a> ( K-Means Clustering )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-nearest-neighbors/">https://www.unite.ai/what-is-k-nearest-neighbors/</a> ( K-Nearest Neighbors )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-linear-regression/">https://www.unite.ai/what-is-linear-regression/</a> ( Linear Regression )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Long Short-Term Memory (LSTM) )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-machine-learning/">https://www.unite.ai/what-is-machine-learning/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-meta-learning/">https://www.unite.ai/what-is-meta-learning/</a> ( Meta-Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/">https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/</a> ( Nanobots )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-processing/">https://www.unite.ai/what-is-natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-understanding/">https://www.unite.ai/what-is-natural-language-understanding/</a> ( Natural Language Understanding )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-neural-networks/">https://www.unite.ai/what-are-neural-networks/</a> ( Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-overfitting/">https://www.unite.ai/what-is-overfitting/</a> ( Overfitting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-quantum-computers/">https://www.unite.ai/what-are-quantum-computers/</a> ( Quantum Computers )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Recurrent Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-reinforcement-learning/">https://www.unite.ai/what-is-reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-robotic-process-automation/">https://www.unite.ai/what-is-robotic-process-automation/</a> ( Robotic Process Automation (RPA) )
+</p>
+<p>
+<a href="https://www.unite.ai/structured-vs-unstructured-data/">https://www.unite.ai/structured-vs-unstructured-data/</a> ( Structured vs Unstructured Data )
+</p>
+<p>
+<a href="https://www.unite.ai/supervised-vs-unsupervised-learning/">https://www.unite.ai/supervised-vs-unsupervised-learning/</a> ( Supervised vs Unsupervised )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-support-vector-machines/">https://www.unite.ai/what-are-support-vector-machines/</a> ( Support Vector Machines )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-synthetic-data/">https://www.unite.ai/what-is-synthetic-data/</a> ( Synthetic Data )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-text-classification-work/">https://www.unite.ai/how-does-text-classification-work/</a> ( Text Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-transfer-learning/">https://www.unite.ai/what-is-transfer-learning/</a> ( Transfer Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-transformer-neural-networks/">https://www.unite.ai/what-are-transformer-neural-networks/</a> ( Transformer Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/">https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/</a> ( Turing Test )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-blockchain-certifications/">https://www.unite.ai/top-5-blockchain-certifications/</a> ( Blockchain )
+</p>
+<p>
+<a href="https://www.unite.ai/7-best-cloud-certifications/">https://www.unite.ai/7-best-cloud-certifications/</a> ( Cloud )
+</p>
+<p>
+<a href="https://www.unite.ai/top-cybersecurity-certifications/">https://www.unite.ai/top-cybersecurity-certifications/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/top-data-science-certifications/">https://www.unite.ai/top-data-science-certifications/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/top-machine-learning-certifications/">https://www.unite.ai/top-machine-learning-certifications/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-nlp-certifications/">https://www.unite.ai/top-5-nlp-certifications/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/top-python-certifications/">https://www.unite.ai/top-python-certifications/</a> ( Python )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-rpa-certifications/">https://www.unite.ai/top-5-rpa-certifications/</a> ( Robotic Process Automation )
+</p>
+<p>
+<a href="https://www.unite.ai/top-tensorflow-certifications/">https://www.unite.ai/top-tensorflow-certifications/</a> ( TensorFlow )
+</p>
+<p>
+<a href="https://www.unite.ai/courses/">https://www.unite.ai/courses/</a> ( Courses )
+</p>
+<p>
+<a href="https://www.unite.ai/conferences/">https://www.unite.ai/conferences/</a> ( Conferences )
+</p>
+<p>
+<a href="https://www.unite.ai/conferences/">https://www.unite.ai/conferences/</a> ( AI Conferences )
+</p>
+<p>
+<a href="https://www.unite.ai/cybersecurity-conferences/">https://www.unite.ai/cybersecurity-conferences/</a> ( Cybersecurity Conferences )
+</p>
+<p>
+<a href="https://www.unite.ai/robotics-conferences/">https://www.unite.ai/robotics-conferences/</a> ( Robotics Conferences )
+</p>
+<p>
+<a href="https://www.unite.ai/interviews/">https://www.unite.ai/interviews/</a> ( Interviews )
+</p>
+<p>
+<a href="https://www.unite.ai/thought-leaders/">https://www.unite.ai/thought-leaders/</a> ( Thought Leaders )
+</p>
+<p>
+<a href="https://www.unite.ai/ai-newsletters/">https://www.unite.ai/ai-newsletters/</a> ( Newsletters )
+</p>
+<p>
+<a href="https://www.unite.ai/organizations/">https://www.unite.ai/organizations/</a> ( Organizations )
+</p>
+<p>
+<a href="https://www.unite.ai/meet-the-team/">https://www.unite.ai/meet-the-team/</a> ( Meet the Team )
+</p>
+<p>
+<a href="https://www.unite.ai/our-charter/">https://www.unite.ai/our-charter/</a> ( Our Charter )
+</p>
+<p>
+<a href="https://www.unite.ai/contact-us/">https://www.unite.ai/contact-us/</a> ( Contact Us )
+</p>
+<p>
+<a href="https://www.facebook.com/uniteai">https://www.facebook.com/uniteai</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/UniteAI">https://twitter.com/UniteAI</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/feed/">https://www.unite.ai/feed/</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/company/unite-ai">https://www.linkedin.com/company/unite-ai</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/">https://www.unite.ai/</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai">https://www.unite.ai</a> ( News )
+</p>
+<p>
+<a href="https://www.unite.ai">https://www.unite.ai</a> ( A - C )
+</p>
+<p>
+<a href="https://www.unite.ai/agi/">https://www.unite.ai/agi/</a> ( Artificial General Intelligence )
+</p>
+<p>
+<a href="https://www.unite.ai/artificial-neural-networks/">https://www.unite.ai/artificial-neural-networks/</a> ( Artificial Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/autonomous-vehicles/">https://www.unite.ai/autonomous-vehicles/</a> ( Autonomous Vehicles )
+</p>
+<p>
+<a href="https://www.unite.ai/brain-machine-interface/">https://www.unite.ai/brain-machine-interface/</a> ( Brain Machine Interface )
+</p>
+<p>
+<a href="https://www.unite.ai/covid-19/">https://www.unite.ai/covid-19/</a> ( COVID-19 )
+</p>
+<p>
+<a href="https://www.unite.ai/cybersecurity/">https://www.unite.ai/cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/data-science/">https://www.unite.ai/data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/deepfakes/">https://www.unite.ai/deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/deep-learning/">https://www.unite.ai/deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/education/">https://www.unite.ai/education/</a> ( Education )
+</p>
+<p>
+<a href="https://www.unite.ai/ethics/">https://www.unite.ai/ethics/</a> ( Ethics )
+</p>
+<p>
+<a href="https://www.unite.ai/environment/">https://www.unite.ai/environment/</a> ( Environment )
+</p>
+<p>
+<a href="https://www.unite.ai/facing-recognition/">https://www.unite.ai/facing-recognition/</a> ( Facial Recognition )
+</p>
+<p>
+<a href="https://www.unite.ai/healthcare/">https://www.unite.ai/healthcare/</a> ( Healthcare )
+</p>
+<p>
+<a href="https://www.unite.ai/investments/">https://www.unite.ai/investments/</a> ( Investments )
+</p>
+<p>
+<a href="https://www.unite.ai/manufacturing/">https://www.unite.ai/manufacturing/</a> ( Manufacturing )
+</p>
+<p>
+<a href="https://www.unite.ai/natural-language-processing/">https://www.unite.ai/natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/quantum-computing/">https://www.unite.ai/quantum-computing/</a> ( Quantum Computing )
+</p>
+<p>
+<a href="https://www.unite.ai/regulation/">https://www.unite.ai/regulation/</a> ( Regulation )
+</p>
+<p>
+<a href="https://www.unite.ai/reinforcement-learning/">https://www.unite.ai/reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/robotics/">https://www.unite.ai/robotics/</a> ( Robotics )
+</p>
+<p>
+<a href="https://www.unite.ai/speech-recognition/">https://www.unite.ai/speech-recognition/</a> ( Speech Recognition )
+</p>
+<p>
+<a href="https://www.unite.ai/startups/">https://www.unite.ai/startups/</a> ( Startups )
+</p>
+<p>
+<a href="https://www.unite.ai/surveillance/">https://www.unite.ai/surveillance/</a> ( Surveillance )
+</p>
+<p>
+<a href="https://www.unite.ai/virtual-assistants/">https://www.unite.ai/virtual-assistants/</a> ( Virtual Assistants )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-an-autoencoder/">https://www.unite.ai/what-is-an-autoencoder/</a> ( Autoencoder )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-backpropagation/">https://www.unite.ai/what-is-backpropagation/</a> ( Backpropagation )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-bayes-theorem/">https://www.unite.ai/what-is-bayes-theorem/</a> ( Bayes Theorem )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-big-data/">https://www.unite.ai/what-is-big-data/</a> ( Big Data )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-computer-vision/">https://www.unite.ai/what-is-computer-vision/</a> ( Computer Vision )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-confusion-matrix/">https://www.unite.ai/what-is-a-confusion-matrix/</a> ( Confusion Matrix )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-convolutional-neural-networks/">https://www.unite.ai/what-are-convolutional-neural-networks/</a> ( Convolutional Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-cybersecurity/">https://www.unite.ai/what-is-cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-data-science/">https://www.unite.ai/what-is-data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-decision-tree/">https://www.unite.ai/what-is-a-decision-tree/</a> ( Decision Tree )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-deepfakes/">https://www.unite.ai/what-are-deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-learning/">https://www.unite.ai/what-is-deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-reinforcement-learning/">https://www.unite.ai/what-is-deep-reinforcement-learning/</a> ( Deep Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-dimensionality-reduction/">https://www.unite.ai/what-is-dimensionality-reduction/</a> ( Dimensionality Reduction )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-edge-ai/">https://www.unite.ai/what-is-edge-ai/</a> ( Edge AI )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-ensemble-learning/">https://www.unite.ai/what-is-ensemble-learning/</a> ( Ensemble Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-federated-learning/">https://www.unite.ai/what-is-federated-learning/</a> ( Federated Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/few-shot-learning/">https://www.unite.ai/few-shot-learning/</a> ( Few-Shot Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-generative-adversarial-network-gan/">https://www.unite.ai/what-is-a-generative-adversarial-network-gan/</a> ( Generative Adversarial Network (GAN) )
+</p>
+<p>
+<a href="https://www.unite.ai/generative-vs-discriminative-machine-learning-models/">https://www.unite.ai/generative-vs-discriminative-machine-learning-models/</a> ( Generative vs. Discriminative Models )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-boosting/">https://www.unite.ai/what-is-gradient-boosting/</a> ( Gradient Boosting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-descent/">https://www.unite.ai/what-is-gradient-descent/</a> ( Gradient Descent )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-image-classification-work/">https://www.unite.ai/how-does-image-classification-work/</a> ( Image Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-means-clustering/">https://www.unite.ai/what-is-k-means-clustering/</a> ( K-Means Clustering )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-nearest-neighbors/">https://www.unite.ai/what-is-k-nearest-neighbors/</a> ( K-Nearest Neighbors )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-linear-regression/">https://www.unite.ai/what-is-linear-regression/</a> ( Linear Regression )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Long Short-Term Memory )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-machine-learning/">https://www.unite.ai/what-is-machine-learning/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-meta-learning/">https://www.unite.ai/what-is-meta-learning/</a> ( Meta-Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/">https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/</a> ( Nanobots )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-processing/">https://www.unite.ai/what-is-natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-understanding/">https://www.unite.ai/what-is-natural-language-understanding/</a> ( Natural Language Understanding )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-neural-networks/">https://www.unite.ai/what-are-neural-networks/</a> ( Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-overfitting/">https://www.unite.ai/what-is-overfitting/</a> ( Overfitting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-quantum-computers/">https://www.unite.ai/what-are-quantum-computers/</a> ( Quantum Computers )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Recurrent Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-reinforcement-learning/">https://www.unite.ai/what-is-reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-robotic-process-automation/">https://www.unite.ai/what-is-robotic-process-automation/</a> ( Robotic Process Automation (RPA) )
+</p>
+<p>
+<a href="https://www.unite.ai/structured-vs-unstructured-data/">https://www.unite.ai/structured-vs-unstructured-data/</a> ( Structured vs Unstructured Data )
+</p>
+<p>
+<a href="https://www.unite.ai/supervised-vs-unsupervised-learning/">https://www.unite.ai/supervised-vs-unsupervised-learning/</a> ( Supervised vs Unsupervised Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-support-vector-machines/">https://www.unite.ai/what-are-support-vector-machines/</a> ( Support Vector Machines )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-synthetic-data/">https://www.unite.ai/what-is-synthetic-data/</a> ( Synthetic Data )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-text-classification-work/">https://www.unite.ai/how-does-text-classification-work/</a> ( Text Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-transfer-learning/">https://www.unite.ai/what-is-transfer-learning/</a> ( Transfer Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-transformer-neural-networks/">https://www.unite.ai/what-are-transformer-neural-networks/</a> ( Transformer Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/">https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/</a> ( Turing Test )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-blockchain-certifications/">https://www.unite.ai/top-5-blockchain-certifications/</a> ( Blockchain )
+</p>
+<p>
+<a href="https://www.unite.ai/7-best-cloud-certifications/">https://www.unite.ai/7-best-cloud-certifications/</a> ( Cloud )
+</p>
+<p>
+<a href="https://www.unite.ai/top-cybersecurity-certifications/">https://www.unite.ai/top-cybersecurity-certifications/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/top-data-science-certifications/">https://www.unite.ai/top-data-science-certifications/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/top-machine-learning-certifications/">https://www.unite.ai/top-machine-learning-certifications/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-nlp-certifications/">https://www.unite.ai/top-5-nlp-certifications/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/top-python-certifications/">https://www.unite.ai/top-python-certifications/</a> ( Python )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-rpa-certifications/">https://www.unite.ai/top-5-rpa-certifications/</a> ( Robotic Process Automation )
+</p>
+<p>
+<a href="https://www.unite.ai/top-tensorflow-certifications/">https://www.unite.ai/top-tensorflow-certifications/</a> ( TensorFlow )
+</p>
+<p>
+<a href="https://www.unite.ai/conferences/">https://www.unite.ai/conferences/</a> ( Artificial Intelligence )
+</p>
+<p>
+<a href="https://www.unite.ai/cybersecurity-conferences/">https://www.unite.ai/cybersecurity-conferences/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/robotics-conferences/">https://www.unite.ai/robotics-conferences/</a> ( Robotics )
+</p>
+<p>
+<a href="https://www.unite.ai/interviews/">https://www.unite.ai/interviews/</a> ( Interviews )
+</p>
+<p>
+<a href="https://www.unite.ai/thought-leaders/">https://www.unite.ai/thought-leaders/</a> ( Thought Leaders )
+</p>
+<p>
+<a href="https://www.unite.ai/meet-the-team/">https://www.unite.ai/meet-the-team/</a> ( Meet the Team )
+</p>
+<p>
+<a href="https://www.unite.ai/contact-us/">https://www.unite.ai/contact-us/</a> ( Contact )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-an-autoencoder/">https://www.unite.ai/what-is-an-autoencoder/</a> ( Autoencoder )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-backpropagation/">https://www.unite.ai/what-is-backpropagation/</a> ( Backpropagation )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-bayes-theorem/">https://www.unite.ai/what-is-bayes-theorem/</a> ( Bayes Theorem )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-big-data/">https://www.unite.ai/what-is-big-data/</a> ( Big Data )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-computer-vision/">https://www.unite.ai/what-is-computer-vision/</a> ( Computer Vision )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-confusion-matrix/">https://www.unite.ai/what-is-a-confusion-matrix/</a> ( Confusion Matrix )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-convolutional-neural-networks/">https://www.unite.ai/what-are-convolutional-neural-networks/</a> ( Convolutional Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-cybersecurity/">https://www.unite.ai/what-is-cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-data-science/">https://www.unite.ai/what-is-data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-decision-tree/">https://www.unite.ai/what-is-a-decision-tree/</a> ( Decision Tree )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-deepfakes/">https://www.unite.ai/what-are-deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-learning/">https://www.unite.ai/what-is-deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-reinforcement-learning/">https://www.unite.ai/what-is-deep-reinforcement-learning/</a> ( Deep Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-dimensionality-reduction/">https://www.unite.ai/what-is-dimensionality-reduction/</a> ( Dimensionality Reduction )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-edge-ai/">https://www.unite.ai/what-is-edge-ai/</a> ( Edge AI )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-ensemble-learning/">https://www.unite.ai/what-is-ensemble-learning/</a> ( Ensemble Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-federated-learning/">https://www.unite.ai/what-is-federated-learning/</a> ( Federated Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-generative-adversarial-network-gan/">https://www.unite.ai/what-is-a-generative-adversarial-network-gan/</a> ( Generative Adversarial Network )
+</p>
+<p>
+<a href="https://www.unite.ai/generative-vs-discriminative-machine-learning-models/">https://www.unite.ai/generative-vs-discriminative-machine-learning-models/</a> ( Generative vs. Discriminative )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-boosting/">https://www.unite.ai/what-is-gradient-boosting/</a> ( Gradient Boosting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-descent/">https://www.unite.ai/what-is-gradient-descent/</a> ( Gradient Descent )
+</p>
+<p>
+<a href="https://www.unite.ai/few-shot-learning/">https://www.unite.ai/few-shot-learning/</a> ( Few-Shot Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-image-classification-work/">https://www.unite.ai/how-does-image-classification-work/</a> ( Image Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-means-clustering/">https://www.unite.ai/what-is-k-means-clustering/</a> ( K-Means Clustering )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-nearest-neighbors/">https://www.unite.ai/what-is-k-nearest-neighbors/</a> ( K-Nearest Neighbors )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-linear-regression/">https://www.unite.ai/what-is-linear-regression/</a> ( Linear Regression )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Long-Short Term Memory )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-machine-learning/">https://www.unite.ai/what-is-machine-learning/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-meta-learning/">https://www.unite.ai/what-is-meta-learning/</a> ( Meta-Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/">https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/</a> ( Nanobots )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-processing/">https://www.unite.ai/what-is-natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-understanding/">https://www.unite.ai/what-is-natural-language-understanding/</a> ( Natural Language Understanding )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-neural-networks/">https://www.unite.ai/what-are-neural-networks/</a> ( Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-overfitting/">https://www.unite.ai/what-is-overfitting/</a> ( Overfitting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-quantum-computers/">https://www.unite.ai/what-are-quantum-computers/</a> ( Quantum Computers )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-reinforcement-learning/">https://www.unite.ai/what-is-reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-robotic-process-automation/">https://www.unite.ai/what-is-robotic-process-automation/</a> ( Robotic Process Automation )
+</p>
+<p>
+<a href="https://www.unite.ai/structured-vs-unstructured-data/">https://www.unite.ai/structured-vs-unstructured-data/</a> ( Structured vs Unstructured )
+</p>
+<p>
+<a href="https://www.unite.ai/supervised-vs-unsupervised-learning/">https://www.unite.ai/supervised-vs-unsupervised-learning/</a> ( Supervised vs Unsupervised )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-support-vector-machines/">https://www.unite.ai/what-are-support-vector-machines/</a> ( Support Vector Machines )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-synthetic-data/">https://www.unite.ai/what-is-synthetic-data/</a> ( Synthetic Data )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-text-classification-work/">https://www.unite.ai/how-does-text-classification-work/</a> ( Text Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-transfer-learning/">https://www.unite.ai/what-is-transfer-learning/</a> ( Transfer Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-transformer-neural-networks/">https://www.unite.ai/what-are-transformer-neural-networks/</a> ( Transformer Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/">https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/</a> ( Turing Test )
+</p>
+<p>
+<a href=" https://www.unite.ai/ai-101/"> https://www.unite.ai/ai-101/</a> ( AI 101 )
+</p>
+<p>
+<a href="https://www.unite.ai/author/danielnelson/">https://www.unite.ai/author/danielnelson/</a> ( Daniel Nelson )
+</p>
+<p>
+<a href="https://www.geeksforgeeks.org/underfitting-and-overfitting-in-machine-learning/">https://www.geeksforgeeks.org/underfitting-and-overfitting-in-machine-learning/</a> ( Overfitting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-machine-learning/">https://www.unite.ai/what-is-machine-learning/</a> ( machine learning )
+</p>
+<p>
+<a href="https://www.datarobot.com/wiki/fitting/">https://www.datarobot.com/wiki/fitting/</a> ( fit )
+</p>
+<p>
+<a href="https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765">https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765</a> ( underfitting )
+</p>
+<p>
+<a href="https://elitedatascience.com/overfitting-in-machine-learning#signal-vs-noise">https://elitedatascience.com/overfitting-in-machine-learning#signal-vs-noise</a> ( noise )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-decision-tree/">https://www.unite.ai/what-is-a-decision-tree/</a> ( decision tree models )
+</p>
+<p>
+<a href="https://www.fast.ai/2017/11/13/validation-sets/">https://www.fast.ai/2017/11/13/validation-sets/</a> ( validation )
+</p>
+<p>
+<a href="https://machinelearningmastery.com/k-fold-cross-validation/">https://machinelearningmastery.com/k-fold-cross-validation/</a> ( K-folds cross-validation )
+</p>
+<p>
+<a href="https://www.unite.ai/tag/101/">https://www.unite.ai/tag/101/</a> ( 101 )
+</p>
+<p>
+<a href="https://www.unite.ai/tag/overfitting/">https://www.unite.ai/tag/overfitting/</a> ( overfitting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-support-vector-machines/">https://www.unite.ai/what-are-support-vector-machines/</a> ( Up Next What are Support Vector Machines? <!--mvp-prev-next-text-- > <!--mvp-next-cont-in-- > <!--mvp-prev-next-out-- > <!--mvp-prev-next-cont-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-descent/">https://www.unite.ai/what-is-gradient-descent/</a> ( Don&#039;t Miss What is Gradient Descent? <!--mvp-prev-next-text-- > <!--mvp-prev-cont-in-- > <!--mvp-prev-cont-out-- > <!--mvp-prev-next-cont-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/author/danielnelson/">https://www.unite.ai/author/danielnelson/</a> ( Daniel Nelson )
+</p>
+<p>
+<a href="https://twitter.com/danupnelson">https://twitter.com/danupnelson</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/in/daniel-nelson-1736b6119/">https://www.linkedin.com/in/daniel-nelson-1736b6119/</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-machine-learning/">https://www.unite.ai/what-is-machine-learning/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-learning/">https://www.unite.ai/what-is-deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/few-shot-learning/">https://www.unite.ai/few-shot-learning/</a> ( <!--mvp-related-img-- > What is Few-Shot Learning? <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-transformer-neural-networks/">https://www.unite.ai/what-are-transformer-neural-networks/</a> ( <!--mvp-related-img-- > What Are Transformer Neural Networks? <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-edge-ai/">https://www.unite.ai/what-is-edge-ai/</a> ( <!--mvp-related-img-- > What Edge AI &#038; Edge Computing? <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-ensemble-learning/">https://www.unite.ai/what-is-ensemble-learning/</a> ( <!--mvp-related-img-- > What is Ensemble Learning? <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-dimensionality-reduction/">https://www.unite.ai/what-is-dimensionality-reduction/</a> ( <!--mvp-related-img-- > What is Dimensionality Reduction? <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-generative-adversarial-network-gan/">https://www.unite.ai/what-is-a-generative-adversarial-network-gan/</a> ( <!--mvp-related-img-- > What is a Generative Adversarial Network (GAN)? <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/meet-the-team/">https://www.unite.ai/meet-the-team/</a> ( Meet the Team )
+</p>
+<p>
+<a href="https://www.unite.ai/our-charter/">https://www.unite.ai/our-charter/</a> ( Our Charter )
+</p>
+<p>
+<a href="https://www.unite.ai/press-tools/">https://www.unite.ai/press-tools/</a> ( Press Tools )
+</p>
+<p>
+<a href="https://www.unite.ai/contact-us/">https://www.unite.ai/contact-us/</a> ( Contact Us )
+</p>
+<p>
+<a href="https://www.facebook.com/uniteai">https://www.facebook.com/uniteai</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/UniteAI">https://twitter.com/UniteAI</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/company/unite-ai">https://www.linkedin.com/company/unite-ai</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/feed/">https://www.unite.ai/feed/</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/editorial-policy/">https://www.unite.ai/editorial-policy/</a> ( Editorial Policy )
+</p>
+<p>
+<a href="https://www.unite.ai/privacy-policy/">https://www.unite.ai/privacy-policy/</a> ( Privacy Policy )
+</p>
+<p>
+<a href="https://www.unite.ai/terms-and-conditions/">https://www.unite.ai/terms-and-conditions/</a> ( Terms and Conditions )
+</p>
+</body>
+</html>

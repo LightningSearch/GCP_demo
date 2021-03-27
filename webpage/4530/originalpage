@@ -1,0 +1,771 @@
+
+8000
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>GamesBeat – VentureBeat</title>
+	
+	<link>https://venturebeat.com</link>
+	<description>Transformative tech coverage that matters</description>
+	<lastBuildDate>Wed, 24 Mar 2021 13:51:34 -0700</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+<site xmlns="com-wordpress:feed-additions:1">126020344</site><copyright>Copyright 2021, VentureBeat</copyright><image>
+		<title>VentureBeat</title>
+		<url>https://venturebeat.com/wp-content/themes/vb-news/brand/img/logos/VB_Extended_Logo_40H.png</url>
+		<link>https://venturebeat.com</link>
+		<width>144</width>
+		<height>23</height>
+		<description>Venturebeat.com</description>
+		</image>
+	
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/gamesbeat" /><feedburner:info uri="gamesbeat" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:browserFriendly></feedburner:browserFriendly><item>
+		<title>Nintendo’s Super Switch makes sense for everyone involved</title>
+		<link>https://venturebeat.com/2021/03/24/nintendos-super-switch-makes-sense-for-everyone-involved/</link>
+		<comments>https://venturebeat.com/2021/03/24/nintendos-super-switch-makes-sense-for-everyone-involved/#respond</comments>
+		<pubDate>Wed, 24 Mar 2021 13:05:35 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Grubb]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[category-/Computers & Electronics/Consumer Electronics/Game Systems & Consoles]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[console gaming]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[Nintendo Switch]]></category>
+		<category><![CDATA[Nintendo Switch Pro]]></category>
+		<category><![CDATA[Super Nintendo Switch]]></category>
+		<category><![CDATA[Switch Pro]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2678160</guid>
+		<description><![CDATA[The Super Nintendo Switch is coming, according to multiple reports. Here is why it makes sense for Nintendo, Nvidia, devs, and fans.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="289" src="https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?fit=578%2C289&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Switch Pro" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=1400&amp;strip=all 1400w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=350&amp;strip=all 350w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/switch-pro.png?w=700&amp;strip=all 700w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>The Super Nintendo Switch is coming, according to multiple reports. Here is why it makes sense for Nintendo, Nvidia, devs, and fans.<a href="https://venturebeat.com/2021/03/24/nintendos-super-switch-makes-sense-for-everyone-involved/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/24/nintendos-super-switch-makes-sense-for-everyone-involved/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2678160</post-id><source url="https://venturebeat.com/2021/03/24/nintendos-super-switch-makes-sense-for-everyone-involved/">Nintendo’s Super Switch makes sense for everyone involved</source>	</item>
+	
+	
+	<item>
+		<title>HiDef rounds up game leaders with $9M to make metaverse game</title>
+		<link>https://venturebeat.com/2021/03/24/hidef-rounds-up-game-leaders-with-9m-to-make-metaverse-game/</link>
+		<comments>https://venturebeat.com/2021/03/24/hidef-rounds-up-game-leaders-with-9m-to-make-metaverse-game/#respond</comments>
+		<pubDate>Wed, 24 Mar 2021 13:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[Anthony Castoro]]></category>
+		<category><![CDATA[category-/Online Communities/Virtual Worlds]]></category>
+		<category><![CDATA[Daybreak]]></category>
+		<category><![CDATA[HiDef]]></category>
+		<category><![CDATA[Jace Hall]]></category>
+		<category><![CDATA[Rick Fox]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677325</guid>
+		<description><![CDATA[Anthony Castoro, Jace Hall, and Rick Fox have raised $7.5 million for the HiDef game studio to make metaverse games.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="327" src="https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?fit=578%2C327&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Clockwise from top right: Jace Hall, chief creative officer; Rick Fox, chief business development officer; Anthony Castoro, CEO; and David Washington, chief impact officer.
+
+Dr. David Washington has a hat on." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/HiDef-Founders_Mar24.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Anthony Castoro, Jace Hall, and Rick Fox have raised $7.5 million for the HiDef game studio to make metaverse games.<a href="https://venturebeat.com/2021/03/24/hidef-rounds-up-game-leaders-with-9m-to-make-metaverse-game/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/24/hidef-rounds-up-game-leaders-with-9m-to-make-metaverse-game/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677325</post-id><source url="https://venturebeat.com/2021/03/24/hidef-rounds-up-game-leaders-with-9m-to-make-metaverse-game/">HiDef rounds up game leaders with $9M to make metaverse game</source>	</item>
+	
+	
+	<item>
+		<title>Rainway begins licensing its streaming tech to other companies</title>
+		<link>https://venturebeat.com/2021/03/24/rainway-enterprise/</link>
+		<comments>https://venturebeat.com/2021/03/24/rainway-enterprise/#respond</comments>
+		<pubDate>Wed, 24 Mar 2021 13:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Grubb]]></dc:creator>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Computers & Electronics]]></category>
+		<category><![CDATA[game streaming]]></category>
+		<category><![CDATA[Rainway]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2678278</guid>
+		<description><![CDATA[Rainway alread empowers gamers to play their games anywhere they can get access to a web browser, and now companies can license that tech.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="267" src="https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?fit=578%2C267&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Rainway in action." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=1757&amp;strip=all 1757w, https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/rainway-snip.png?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Rainway alread empowers gamers to play their games anywhere they can get access to a web browser, and now companies can license that tech.<a href="https://venturebeat.com/2021/03/24/rainway-enterprise/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/24/rainway-enterprise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2678278</post-id><source url="https://venturebeat.com/2021/03/24/rainway-enterprise/">Rainway begins licensing its streaming tech to other companies</source>	</item>
+	
+	
+	<item>
+		<title>Q&amp;A with Gismart: Closing the loop between acquisition and monetization</title>
+		<link>https://venturebeat.com/2021/03/24/qa-with-gismart-closing-the-loop-between-acquisition-and-monetization/</link>
+		<comments>https://venturebeat.com/2021/03/24/qa-with-gismart-closing-the-loop-between-acquisition-and-monetization/#respond</comments>
+		<pubDate>Wed, 24 Mar 2021 12:50:51 +0000</pubDate>
+		<dc:creator><![CDATA[Anastasia Petrova, Facebook Audience Network]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[VB Home Page]]></category>
+		<category><![CDATA[category-/Business & Industrial/Business Operations]]></category>
+		<category><![CDATA[category-/Business & Industrial/Business Services]]></category>
+		<category><![CDATA[Facebook Audience Network]]></category>
+		<category><![CDATA[Facebook gaming]]></category>
+		<category><![CDATA[game marketing]]></category>
+		<category><![CDATA[Gismart]]></category>
+		<category><![CDATA[iOS 14]]></category>
+		<category><![CDATA[mobile game advertising]]></category>
+		<category><![CDATA[mobile game marketing]]></category>
+		<category><![CDATA[mobile game revenue]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2676727</guid>
+		<description><![CDATA[The award-winning publisher talks about challenges from upcoming iOS 14 changes and closing the gap between acquisition and monetization.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="296" src="https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?fit=578%2C296&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=7573&amp;strip=all 7573w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2021/03/Gismart-image_no-cropping.jpg?w=3000&amp;strip=all 3000w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>The award-winning publisher talks about challenges from upcoming iOS 14 changes and closing the gap between acquisition and monetization.<a href="https://venturebeat.com/2021/03/24/qa-with-gismart-closing-the-loop-between-acquisition-and-monetization/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/24/qa-with-gismart-closing-the-loop-between-acquisition-and-monetization/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2676727</post-id><source url="https://venturebeat.com/2021/03/24/qa-with-gismart-closing-the-loop-between-acquisition-and-monetization/">Q&amp;A with Gismart: Closing the loop between acquisition and monetization</source>	</item>
+	
+	
+	<item>
+		<title>Gismart launches Crazy Run as latest of multiple games for Snapchat</title>
+		<link>https://venturebeat.com/2021/03/24/gismart-launches-crazy-run-as-first-of-multiple-games-for-snapchat/</link>
+		<comments>https://venturebeat.com/2021/03/24/gismart-launches-crazy-run-as-first-of-multiple-games-for-snapchat/#respond</comments>
+		<pubDate>Wed, 24 Mar 2021 12:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[bitmoji]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[DeanBeat Mobile and Social]]></category>
+		<category><![CDATA[Gismart]]></category>
+		<category><![CDATA[Lana Meisak]]></category>
+		<category><![CDATA[Pedro Rodrigues]]></category>
+		<category><![CDATA[Snap]]></category>
+		<category><![CDATA[Snap Games]]></category>
+		<category><![CDATA[Snapchat]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2678034</guid>
+		<description><![CDATA[Gismart has signed a multi-game partnership with Snap to make games for Snapchat. And Gismart is kicking it off with the launch of Crazy Run]]></description>
+				<content:encoded><![CDATA[<img width="578" height="289" src="https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?fit=578%2C289&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Gismart&#039;s Crazy Run is debuting on Snap." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=350&amp;strip=all 350w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2021/03/snap-3.jpg?w=700&amp;strip=all 700w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Gismart has signed a multi-game partnership with Snap to make games for Snapchat. And Gismart is kicking it off with the launch of Crazy Run<a href="https://venturebeat.com/2021/03/24/gismart-launches-crazy-run-as-first-of-multiple-games-for-snapchat/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/24/gismart-launches-crazy-run-as-first-of-multiple-games-for-snapchat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2678034</post-id><source url="https://venturebeat.com/2021/03/24/gismart-launches-crazy-run-as-first-of-multiple-games-for-snapchat/">Gismart launches Crazy Run as latest of multiple games for Snapchat</source>	</item>
+	
+	
+	<item>
+		<title>Social gaming platform Rec Room raises $100M at $1.25B valuation</title>
+		<link>https://venturebeat.com/2021/03/23/social-gaming-platform-rec-room-raises-100m-at-1-25b-valuation/</link>
+		<comments>https://venturebeat.com/2021/03/23/social-gaming-platform-rec-room-raises-100m-at-1-25b-valuation/#respond</comments>
+		<pubDate>Wed, 24 Mar 2021 04:56:50 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[AR/VR]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[category-/Online Communities/Virtual Worlds]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Nick Fajt]]></category>
+		<category><![CDATA[Rec Room]]></category>
+		<category><![CDATA[user-generated content]]></category>
+		<category><![CDATA[virtual reality]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677790</guid>
+		<description><![CDATA[Social gaming platform Rec Room has raised $100 million at a $1.25 billion valuation. The funding is a win for user-generated content.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="318" src="https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?fit=578%2C318&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Rec Room has raised $100 million at a $1.25 billion valuation." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/rec.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Social gaming platform Rec Room has raised $100 million at a $1.25 billion valuation. The funding is a win for user-generated content.<a href="https://venturebeat.com/2021/03/23/social-gaming-platform-rec-room-raises-100m-at-1-25b-valuation/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/23/social-gaming-platform-rec-room-raises-100m-at-1-25b-valuation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677790</post-id><source url="https://venturebeat.com/2021/03/23/social-gaming-platform-rec-room-raises-100m-at-1-25b-valuation/">Social gaming platform Rec Room raises $100M at $1.25B valuation</source>	</item>
+	
+	
+	<item>
+		<title>Enjin forms NFT alliance with South Korea’s GameTalkTalk</title>
+		<link>https://venturebeat.com/2021/03/23/enjin-forms-nft-alliance-with-south-koreas-gametalktalk/</link>
+		<comments>https://venturebeat.com/2021/03/23/enjin-forms-nft-alliance-with-south-koreas-gametalktalk/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 23:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[category-/Finance/Investing/Currencies & Foreign Exchange]]></category>
+		<category><![CDATA[category-/Games]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Efinity]]></category>
+		<category><![CDATA[Enjin]]></category>
+		<category><![CDATA[JumpNet]]></category>
+		<category><![CDATA[Ludena Protocol]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[non-fungible tokens]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677765</guid>
+		<description><![CDATA[Enjin has formed an alliance with Ludena Protocol, the publisher of the social gaming platform GameTalkTalk for NFTs in South Korea.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="382" src="https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?fit=578%2C382&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Enjin will bring NFTs to South Korea&#039;s GameTalkTalk." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/enjin-1.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Enjin has formed an alliance with Ludena Protocol, the publisher of the social gaming platform GameTalkTalk for NFTs in South Korea.<a href="https://venturebeat.com/2021/03/23/enjin-forms-nft-alliance-with-south-koreas-gametalktalk/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/23/enjin-forms-nft-alliance-with-south-koreas-gametalktalk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677765</post-id><source url="https://venturebeat.com/2021/03/23/enjin-forms-nft-alliance-with-south-koreas-gametalktalk/">Enjin forms NFT alliance with South Korea’s GameTalkTalk</source>	</item>
+	
+	
+	<item>
+		<title>Minecraft Earth shuts down, but AR gaming should bounce back</title>
+		<link>https://venturebeat.com/2021/03/23/minecraft-earth-shuts-down-but-ar-gaming-should-bounce-back/</link>
+		<comments>https://venturebeat.com/2021/03/23/minecraft-earth-shuts-down-but-ar-gaming-should-bounce-back/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 21:03:33 +0000</pubDate>
+		<dc:creator><![CDATA[Lalit Sharma]]></dc:creator>
+				<category><![CDATA[AR/VR]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[AR gaming]]></category>
+		<category><![CDATA[ARKit]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Minecraft Earth]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677414</guid>
+		<description><![CDATA[Minecraft Earth's shutdown is a blow to AR gaming, but it's poised to bounce back by 2026 if it follows these tips.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Minecraft Earth brings the block-building gameplay into the real world." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?w=1280&amp;strip=all 1280w, https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2019/05/Minecraft-Earth_GenoaInAction.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Minecraft Earth's shutdown is a blow to AR gaming, but it's poised to bounce back by 2026 if it follows these tips.<a href="https://venturebeat.com/2021/03/23/minecraft-earth-shuts-down-but-ar-gaming-should-bounce-back/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/23/minecraft-earth-shuts-down-but-ar-gaming-should-bounce-back/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677414</post-id><source url="https://venturebeat.com/2021/03/23/minecraft-earth-shuts-down-but-ar-gaming-should-bounce-back/">Minecraft Earth shuts down, but AR gaming should bounce back</source>	</item>
+	
+	
+	<item>
+		<title>Unity and Discord will promote Helpshift’s automated support to small game devs</title>
+		<link>https://venturebeat.com/2021/03/23/unity-and-discord-will-promote-helpshifts-automated-support-to-small-game-devs/</link>
+		<comments>https://venturebeat.com/2021/03/23/unity-and-discord-will-promote-helpshifts-automated-support-to-small-game-devs/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 19:05:55 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Dev]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[category-/Computers & Electronics]]></category>
+		<category><![CDATA[DeanBeat Mobile and Social]]></category>
+		<category><![CDATA[Discord]]></category>
+		<category><![CDATA[Helpshift]]></category>
+		<category><![CDATA[Unity]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677648</guid>
+		<description><![CDATA[Helpshift has teamed up with Unity and Discord to provide smaller game developers and publishers with more automated tech support.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="382" src="https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?fit=578%2C382&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Helpshift has teamed up with Unity for support automation." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/Helpshift-FY21_Q1_Announcement_Unity_Press-1440x574-1.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Helpshift has teamed up with Unity and Discord to provide smaller game developers and publishers with more automated tech support.<a href="https://venturebeat.com/2021/03/23/unity-and-discord-will-promote-helpshifts-automated-support-to-small-game-devs/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/23/unity-and-discord-will-promote-helpshifts-automated-support-to-small-game-devs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677648</post-id><source url="https://venturebeat.com/2021/03/23/unity-and-discord-will-promote-helpshifts-automated-support-to-small-game-devs/">Unity and Discord will promote Helpshift’s automated support to small game devs</source>	</item>
+	
+	
+	<item>
+		<title>Warchief unveils Chris Metzen’s fantasy board game world Auroboros</title>
+		<link>https://venturebeat.com/2021/03/23/warchief-unveils-chris-metzens-fantasy-boardgame-world-auroboros/</link>
+		<comments>https://venturebeat.com/2021/03/23/warchief-unveils-chris-metzens-fantasy-boardgame-world-auroboros/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 17:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[VB Home Page]]></category>
+		<category><![CDATA[category-/Games/Roleplaying Games]]></category>
+		<category><![CDATA[Chris Metzen]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Warchief]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677773</guid>
+		<description><![CDATA[Warchief unveils Chris Metzen's fantasy boardgame world Auroboros: Coils of the Serpent. He started the game as a teen.]]></description>
+				<content:encoded><![CDATA[<iframe class='youtube-player' width='560' height='315' src='https://www.youtube.com/embed/bRFlEdw_XIQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe><hr/>Warchief unveils Chris Metzen's fantasy boardgame world Auroboros: Coils of the Serpent. He started the game as a teen.<a href="https://venturebeat.com/2021/03/23/warchief-unveils-chris-metzens-fantasy-boardgame-world-auroboros/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://ventu
+8000
+rebeat.com/2021/03/23/warchief-unveils-chris-metzens-fantasy-boardgame-world-auroboros/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677773</post-id><source url="https://venturebeat.com/2021/03/23/warchief-unveils-chris-metzens-fantasy-boardgame-world-auroboros/">Warchief unveils Chris Metzen’s fantasy board game world Auroboros</source>	</item>
+	
+	
+	<item>
+		<title>Monster Hunter Rise review — Switch rises to the occasion</title>
+		<link>https://venturebeat.com/2021/03/23/monster-hunter-rise-review-switch-rises-to-the-occasion/</link>
+		<comments>https://venturebeat.com/2021/03/23/monster-hunter-rise-review-switch-rises-to-the-occasion/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 15:00:14 +0000</pubDate>
+		<dc:creator><![CDATA[Mike Minotti]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Capcom]]></category>
+		<category><![CDATA[category-/Arts & Entertainment/Online Media]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[console gaming]]></category>
+		<category><![CDATA[Monster Hunter]]></category>
+		<category><![CDATA[Monster Hunter: Rise]]></category>
+		<category><![CDATA[monster hunter: world]]></category>
+		<category><![CDATA[Nintendo Switch]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677626</guid>
+		<description><![CDATA[Much to my surprise, I like Monster Hunter Rise for Switch even more than Monster Hunter World.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Big monsters on a small console." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?w=1280&amp;strip=all 1280w, https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/monsterhunterrise1.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Much to my surprise, I like Monster Hunter Rise for Switch even more than Monster Hunter World.<a href="https://venturebeat.com/2021/03/23/monster-hunter-rise-review-switch-rises-to-the-occasion/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/23/monster-hunter-rise-review-switch-rises-to-the-occasion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677626</post-id><source url="https://venturebeat.com/2021/03/23/monster-hunter-rise-review-switch-rises-to-the-occasion/">Monster Hunter Rise review — Switch rises to the occasion</source>	</item>
+	
+	
+	<item>
+		<title>Spatial launches immersive audio for homes, offices, and theme parks</title>
+		<link>https://venturebeat.com/2021/03/23/spatial-launches-immersive-audio-for-homes-offices-and-theme-parks/</link>
+		<comments>https://venturebeat.com/2021/03/23/spatial-launches-immersive-audio-for-homes-offices-and-theme-parks/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 12:30:14 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Entrepreneur]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[VB Home Page]]></category>
+		<category><![CDATA[Bitkraft Ventures]]></category>
+		<category><![CDATA[category-/Computers & Electronics]]></category>
+		<category><![CDATA[DBL Partners]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[immersive audio]]></category>
+		<category><![CDATA[National Geographic Society]]></category>
+		<category><![CDATA[Spatial]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677772</guid>
+		<description><![CDATA[Spatial is unveiling a new kind of immersive audio experience today that will enable it to create soundscapes for homes and theme parks.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="381" src="https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?fit=578%2C381&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Spatial could give your home the sound of a theme park." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/spatial-5.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Spatial is unveiling a new kind of immersive audio experience today that will enable it to create soundscapes for homes and theme parks.<a href="https://venturebeat.com/2021/03/23/spatial-launches-immersive-audio-for-homes-offices-and-theme-parks/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/23/spatial-launches-immersive-audio-for-homes-offices-and-theme-parks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677772</post-id><source url="https://venturebeat.com/2021/03/23/spatial-launches-immersive-audio-for-homes-offices-and-theme-parks/">Spatial launches immersive audio for homes, offices, and theme parks</source>	</item>
+	
+	
+	<item>
+		<title>Allied Esports teams up with Xsens for mocapped shoutcasters for esports</title>
+		<link>https://venturebeat.com/2021/03/23/allied-esports-teams-up-with-xsens-for-mocapped-shoutcasters-for-esports/</link>
+		<comments>https://venturebeat.com/2021/03/23/allied-esports-teams-up-with-xsens-for-mocapped-shoutcasters-for-esports/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 08:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Esports]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Allied Esports Entertainment]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Xsens]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677774</guid>
+		<description><![CDATA[Xsens will provide motion-capture suits for shoutcasters for esports events at Allied Esports Entertainment's HyperX arena.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="342" src="https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?fit=578%2C342&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Allied Esports Entertainment are creating animated esports shoutcasters." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/allied-2.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Xsens will provide motion-capture suits for shoutcasters for esports events at Allied Esports Entertainment's HyperX arena.<a href="https://venturebeat.com/2021/03/23/allied-esports-teams-up-with-xsens-for-mocapped-shoutcasters-for-esports/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/23/allied-esports-teams-up-with-xsens-for-mocapped-shoutcasters-for-esports/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677774</post-id><source url="https://venturebeat.com/2021/03/23/allied-esports-teams-up-with-xsens-for-mocapped-shoutcasters-for-esports/">Allied Esports teams up with Xsens for mocapped shoutcasters for esports</source>	</item>
+	
+	
+	<item>
+		<title>Roblox’s 8th Bloxy Awards will feature musical performance by Royal Blood</title>
+		<link>https://venturebeat.com/2021/03/23/robloxs-8th-bloxy-awards-will-feature-musical-performance-by-royal-blood/</link>
+		<comments>https://venturebeat.com/2021/03/23/robloxs-8th-bloxy-awards-will-feature-musical-performance-by-royal-blood/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 07:01:35 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[Bloxy Awards]]></category>
+		<category><![CDATA[category-/Arts & Entertainment/Online Media]]></category>
+		<category><![CDATA[category-/Games/Online Games/Massively Multiplayer Games]]></category>
+		<category><![CDATA[category-/Online Communities/Virtual Worlds]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Limbo]]></category>
+		<category><![CDATA[Roblox]]></category>
+		<category><![CDATA[Royal Blood]]></category>
+		<category><![CDATA[warner music group]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677771</guid>
+		<description><![CDATA[Roblox's eight annual Bloxy Awards will take place inside the platform with a musical performance by Royal Blood.]]></description>
+				<content:encoded><![CDATA[<iframe class='youtube-player' width='560' height='315' src='https://www.youtube.com/embed/rcRgGxTPxSc?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;start=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe><hr/>Roblox's eight annual Bloxy Awards will take place inside the platform with a musical performance by Royal Blood.<a href="https://venturebeat.com/2021/03/23/robloxs-8th-bloxy-awards-will-feature-musical-performance-by-royal-blood/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/23/robloxs-8th-bloxy-awards-will-feature-musical-performance-by-royal-blood/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677771</post-id><source url="https://venturebeat.com/2021/03/23/robloxs-8th-bloxy-awards-will-feature-musical-performance-by-royal-blood/">Roblox’s 8th Bloxy Awards will feature musical performance by Royal Blood</source>	</item>
+	
+	
+	<item>
+		<title>Steam Remote Play Together invites launch in time for Balan Wonderworld</title>
+		<link>https://venturebeat.com/2021/03/22/steam-remote-play-together-invites-launch-in-time-for-balan-wonderworld/</link>
+		<comments>https://venturebeat.com/2021/03/22/steam-remote-play-together-invites-launch-in-time-for-balan-wonderworld/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 00:53:35 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Grubb]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[Balan Wonderworld]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[Steam]]></category>
+		<category><![CDATA[Steam Remote Play Together]]></category>
+		<category><![CDATA[Valve Software]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677783</guid>
+		<description><![CDATA[Steam Remote Play Together gets a new feature that enables it to work more like a Zoom meeting for playing local multiplayer games online.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="324" src="https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?fit=578%2C324&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Balan Wonderworld." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=2235&amp;strip=all 2235w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=2048&amp;strip=all 2048w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2020/07/balanwonderworld2.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Steam Remote Play Together gets a new feature that enables it to work more like a Zoom meeting for playing local multiplayer games online.<a href="https://venturebeat.com/2021/03/22/steam-remote-play-together-invites-launch-in-time-for-balan-wonderworld/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/22/steam-remote-play-together-invites-launch-in-time-for-balan-wonderworld/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677783</post-id><source url="https://venturebeat.com/2021/03/22/steam-remote-play-together-invites-launch-in-time-for-balan-wonderworld/">Steam Remote Play Together invites launch in time for Balan Wonderworld</source>	</item>
+	
+	
+	<item>
+		<title>A Pikmin AR mobile game is coming from Nintendo and the Pokémon Go team</title>
+		<link>https://venturebeat.com/2021/03/22/a-pikmin-ar-mobile-game-is-coming-from-nintendo-and-pokemon-go-dev-team/</link>
+		<comments>https://venturebeat.com/2021/03/22/a-pikmin-ar-mobile-game-is-coming-from-nintendo-and-pokemon-go-dev-team/#respond</comments>
+		<pubDate>Tue, 23 Mar 2021 00:11:02 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Grubb]]></dc:creator>
+				<category><![CDATA[AR/VR]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[category-/Computers & Electronics/Consumer Electronics/Game Systems & Consoles]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[category-/Science]]></category>
+		<category><![CDATA[Niantic]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[Pikmin]]></category>
+		<category><![CDATA[Pikmin AR]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677784</guid>
+		<description><![CDATA[Pikmin AR is a new app from Nintendo and Niantic that is the result of a partnership between the two companies.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=1920&amp;strip=all 1920w, https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2016/09/Pikmin.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Pikmin AR is a new app from Nintendo and Niantic that is the result of a partnership between the two companies.<a href="https://venturebeat.com/2021/03/22/a-pikmin-ar-mobile-game-is-coming-from-nintendo-and-pokemon-go-dev-team/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/22/a-pikmin-ar-mobile-game-is-coming-from-nintendo-and-pokemon-go-dev-team/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677784</post-id><source url="https://venturebeat.com/2021/03/22/a-pikmin-ar-mobile-game-is-coming-from-nintendo-and-pokemon-go-dev-team/">A Pikmin AR mobile game is coming from Nintendo and the Pokémon Go team</source>	</item>
+	
+	
+	<item>
+		<title>Microsoft confirms plan to phase out ‘Xbox Live’ branding</title>
+		<link>https://venturebeat.com/2021/03/22/microsoft-confirms-plan-to-phase-out-xbox-live-branding/</link>
+		<comments>https://venturebeat.com/2021/03/22/microsoft-confirms-plan-to-phase-out-xbox-live-branding/#respond</comments>
+		<pubDate>Mon, 22 Mar 2021 22:51:39 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Grubb]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Computers & Electronics/Consumer Electronics/Game Systems & Consoles]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[console gaming]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[PC gaming]]></category>
+		<category><![CDATA[xbox]]></category>
+		<category><![CDATA[Xbox Live]]></category>
+		<category><![CDATA[Xbox Network]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677752</guid>
+		<description><![CDATA[Microsoft is deprecating Xbox Live branding throughout the Xbox interface in favor of "Xbox Network." Microsoft is deemphasizing the product.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="385" src="https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?fit=578%2C385&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Xbox Live? More like Xbox Dead! (It is actually nothing like that.)" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/Xbox-Live.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Microsoft is deprecating Xbox Live branding throughout the Xbox interface in favor of "Xbox Network." Microsoft is deemphasizing the product.<a href="https://venturebeat.com/2021/03/22/microsoft-confirms-plan-to-phase-out-xbox-live-branding/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/22/microsoft-confirms-plan-to-phase-out-xbox-live-branding/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677752</post-id><source url="https://venturebeat.com/2021/03/22/microsoft-confirms-plan-to-phase-out-xbox-live-branding/">Microsoft confirms plan to phase out ‘Xbox Live’ branding</source>	</item>
+	
+	
+	<item>
+		<title>Discord exploring sale that could be worth more than $10 billion</title>
+		<link>https://venturebeat.com/2021/03/22/discord-exploring-sale-that-could-be-worth-more-than-10-billion/</link>
+		<comments>https://venturebeat.com/2021/03/22/discord-exploring-sale-that-could-be-worth-more-than-10-billion/#respond</comments>
+		<pubDate>Mon, 22 Mar 2021 20:40:51 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Games]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Discord]]></category>
+		<category><![CDATA[Eros Resmini]]></category>
+		<category><![CDATA[Jason Citron]]></category>
+		<category><![CDATA[Qatalyst Partners]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2676075</guid>
+		<description><![CDATA[Discord is going through a sales process now that could result in a purchase of the platform for more than $10 billion.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="574" src="https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?fit=578%2C574&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Discord voice and text chat started out as Hammer &amp; Chisel." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=604&amp;strip=all 604w, https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=52&amp;strip=all 52w, https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=160&amp;strip=all 160w, https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2015/09/discord-2.jpg?w=578&amp;strip=all 578w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Discord is going through a sales process now that could result in a purchase of the platform for more than $10 billion.<a href="https://venturebeat.com/2021/03/22/discord-exploring-sale-that-could-be-worth-more-than-10-billion/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/22/discord-exploring-sale-that-could-be-worth-more-than-10-billion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2676075</post-id><source url="https://venturebeat.com/2021/03/22/discord-exploring-sale-that-could-be-worth-more-than-10-billion/">Discord exploring sale that could be worth more than $10 billion</source>	</item>
+	
+	
+	<item>
+		<title>Razer goes green with 10-year sustainability plan</title>
+		<link>https://venturebeat.com/2021/03/22/razer-goes-green-with-10-year-sustainability-plan/</link>
+		<comments>https://venturebeat.com/2021/03/22/razer-goes-green-with-10-year-sustainability-plan/#respond</comments>
+		<pubDate>Mon, 22 Mar 2021 15:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Business & Industrial]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Min-Liang Tan]]></category>
+		<category><![CDATA[PC gaming]]></category>
+		<category><![CDATA[Razer]]></category>
+		<category><![CDATA[Razer Green Community]]></category>
+		<category><![CDATA[sustainability]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677466</guid>
+		<description><![CDATA[Razer is announcing today a 10-year environmental roadmap that will make its business more sustainable for the planet.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="326" src="https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?fit=578%2C326&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Razer is going green." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/razer-green-2.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Razer is announcing today a 10-year environmental roadmap that will make its business more sustainable for the planet.<a href="https://venturebeat.com/2021/03/22/razer-goes-green-with-10-year-sustainability-plan/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/22/razer-goes-green-with-10-year-sustainability-plan/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677466</post-id><source url="https://venturebeat.com/2021/03/22/razer-goes-green-with-10-year-sustainability-plan/">Razer goes green with 10-year sustainability plan</source>	</item>
+	
+	
+	<item>
+		<title>AdHawk Microsystems launches cameraless eye-tracking sensors for AR/VR</title>
+		<link>https://venturebeat.com/2021/03/22/adhawk-microsystems-launches-camera-less-eye-tracking-sensors-for-ar-vr/</link>
+		<comments>https://venturebeat.com/2021/03/22/adhawk-microsystems-launches-camera-less-eye-tracking-sensors-for-ar-vr/#respond</comments>
+		<pubDate>Mon, 22 Mar 2021 13:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[AR/VR]]></category>
+		<category><![CDATA[Consumer]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[AdHawk]]></category>
+		<category><![CDATA[AdHawk Microsystems]]></category>
+		<category><![CDATA[augmented reality]]></category>
+		<category><![CDATA[category-/Computers & Electronics]]></category>
+		<category><![CDATA[category-/Science/Engineering & Technology]]></category>
+		<category><![CDATA[chips]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[eye tracking]]></category>
+		<category><![CDATA[sensors]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677457</guid>
+		<description><![CDATA[AdHawk Microsystems is launching eye-tracking for AR and VR systems using sensors that don't require slow and expensive cameras.]]></description>
+				<content:encoded><![CDATA[<iframe class='youtube-player' width='560' height='315' src='https://www.youtube.com/embed/E_i-wjgFLhc?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe><hr/>AdHawk Microsystems is launching eye-tracking for AR and VR systems using sensors that don't require slow and expensive cameras.<a href="https://venturebeat.com/2021/03/22/adhawk-microsystems-launches-camera-less-eye-tracking-sensors-for-ar-vr/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/22/adhawk-microsystems-launches-camera-less-eye-tracking-sensors-for-ar-vr/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677457</post-id><source url="https://venturebeat.com/2021/03/22/adhawk-microsystems-launches-camera-less-eye-tracking-sensors-for-ar-vr/">AdHawk Microsystems launches cameraless eye-tracking sensors for AR/VR</source>	</item>
+	
+	
+	<item>
+		<title>Mobile monetization firm IronSource will go public through SPAC at $11.1 billion valuation</title>
+		<link>https://venturebeat.com/2021/03/21/mobile-monetization-firm-ironsource-will-go-public-through-spac-at-11-1-billion/</link>
+		<comments>https://venturebeat.com/2021/03/21/mobile-monetization-firm-ironsource-will-go-public-through-spac-at-11-1-billion/#respond</comments>
+		<pubDate>Sun, 21 Mar 2021 23:20:46 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Arnon Harish]]></category>
+		<category><![CDATA[ironSource]]></category>
+		<category><![CDATA[mobile games]]></category>
+		<category><![CDATA[Thoma Bravo Advantage]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677527</guid>
+		<description><![CDATA[Mobile monetization firm IronSource will go public through SPAC at $11.1 billion. The deal is the latest driven by popular mobile games.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="IronSource&#039;s Aura platform helps monetize mobile games and apps." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/ironsource-Aura-Press-OOBE-1.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Mobile monetization firm IronSource will go public through SPAC at $11.1 billion. The deal is the latest driven by popular mobile games.<a href="https://venturebeat.com/2021/03/21/mobile-monetization-firm-ironsource-will-go-public-through-spac-at-11-1-billion/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/21/mobile-monetization-firm-ironsource-will-go-public-through-spac-at-11-1-billion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677527</post-id><source url="https://venturebeat.com/2021/03/21/mobile-monetization-firm-ironsource-will-go-public-through-spac-at-11-1-billion/">Mobi
+6c65
+le monetization firm IronSource will go public through SPAC at $11.1 billion valuation</source>	</item>
+	
+	
+	<item>
+		<title>Game Finance Market shows strength of U.K. game industry</title>
+		<link>https://venturebeat.com/2021/03/21/game-finance-market-shows-strength-of-uk-game-industry/</link>
+		<comments>https://venturebeat.com/2021/03/21/game-finance-market-shows-strength-of-uk-game-industry/#respond</comments>
+		<pubDate>Sun, 21 Mar 2021 15:45:47 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[Entrepreneur]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[category-/Online Communities/Virtual Worlds]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Galaxy Interactive]]></category>
+		<category><![CDATA[Game Finance Market]]></category>
+		<category><![CDATA[Hiro Capital]]></category>
+		<category><![CDATA[Ian Livingstone]]></category>
+		<category><![CDATA[Michael French]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[Richard Kim]]></category>
+		<category><![CDATA[Roblox]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677182</guid>
+		<description><![CDATA[A total of 65 investors with £589 million, or $816 million, to invest in game startups are showing up this week at the Game Finance Market.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="The United Kingdom game market generated $9.3 billion in sales in 2020." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/ukie-4-Ukie_Games_industry_header_2.0.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>A total of 65 investors with £589 million, or $816 million, to invest in game startups are showing up this week at the Game Finance Market.<a href="https://venturebeat.com/2021/03/21/game-finance-market-shows-strength-of-uk-game-industry/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/21/game-finance-market-shows-strength-of-uk-game-industry/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677182</post-id><source url="https://venturebeat.com/2021/03/21/game-finance-market-shows-strength-of-uk-game-industry/">Game Finance Market shows strength of U.K. game industry</source>	</item>
+	
+	
+	<item>
+		<title>The D20 Beat: Smashing Dark Alliance’s Verbeeg Jamboree</title>
+		<link>https://venturebeat.com/2021/03/21/the-d20-beat-smashing-dark-alliances-verbeeg-jamboree/</link>
+		<comments>https://venturebeat.com/2021/03/21/the-d20-beat-smashing-dark-alliances-verbeeg-jamboree/#respond</comments>
+		<pubDate>Sun, 21 Mar 2021 13:16:05 +0000</pubDate>
+		<dc:creator><![CDATA[Jason Wilson]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Games/Roleplaying Games]]></category>
+		<category><![CDATA[Dark Alliance]]></category>
+		<category><![CDATA[Dungeons & Dragons: Dark Alliance]]></category>
+		<category><![CDATA[Jeff Hattem]]></category>
+		<category><![CDATA[The D20 Beat]]></category>
+		<category><![CDATA[Tuque Games]]></category>
+		<category><![CDATA[Wizards of the Coast]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677309</guid>
+		<description><![CDATA[The Verbeeg Jamboree shows how Tuque Games is putting their own stamp on Dungeons &#038; Dragons with Dark Alliance.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="The Verbeeg Jamboree is ready to have you for dinner." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=2000&amp;strip=all 2000w, https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/D20-Beat-Dark-Alliance.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>The Verbeeg Jamboree shows how Tuque Games is putting their own stamp on Dungeons & Dragons with Dark Alliance.<a href="https://venturebeat.com/2021/03/21/the-d20-beat-smashing-dark-alliances-verbeeg-jamboree/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/21/the-d20-beat-smashing-dark-alliances-verbeeg-jamboree/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677309</post-id><source url="https://venturebeat.com/2021/03/21/the-d20-beat-smashing-dark-alliances-verbeeg-jamboree/">The D20 Beat: Smashing Dark Alliance’s Verbeeg Jamboree</source>	</item>
+	
+	
+	<item>
+		<title>How Rooster Teeth expanded beyond Red vs. Blue to the Roost Podcast Network</title>
+		<link>https://venturebeat.com/2021/03/20/how-rooster-teeth-expanded-beyond-red-vs-blue-to-the-roost-podcast-network/</link>
+		<comments>https://venturebeat.com/2021/03/20/how-rooster-teeth-expanded-beyond-red-vs-blue-to-the-roost-podcast-network/#respond</comments>
+		<pubDate>Sat, 20 Mar 2021 15:45:24 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Arts & Entertainment/TV & Video]]></category>
+		<category><![CDATA[console gaming]]></category>
+		<category><![CDATA[DeanBeat Reviews Previews and Interviews]]></category>
+		<category><![CDATA[Luis Medina]]></category>
+		<category><![CDATA[PC gaming]]></category>
+		<category><![CDATA[Rooster Teeth]]></category>
+		<category><![CDATA[The Roost Network]]></category>
+		<category><![CDATA[Trevor Collins]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2674447</guid>
+		<description><![CDATA[Rooster Teeth has expanded beyond Red vs. Blue with the Roost Podcast Network, which explores nerd culture and media.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="356" src="https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?fit=578%2C356&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Rooster Teeth is still running Red vs. Blue episodes." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/rooster.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Rooster Teeth has expanded beyond Red vs. Blue with the Roost Podcast Network, which explores nerd culture and media.<a href="https://venturebeat.com/2021/03/20/how-rooster-teeth-expanded-beyond-red-vs-blue-to-the-roost-podcast-network/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/20/how-rooster-teeth-expanded-beyond-red-vs-blue-to-the-roost-podcast-network/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2674447</post-id><source url="https://venturebeat.com/2021/03/20/how-rooster-teeth-expanded-beyond-red-vs-blue-to-the-roost-podcast-network/">How Rooster Teeth expanded beyond Red vs. Blue to the Roost Podcast Network</source>	</item>
+	
+	
+	<item>
+		<title>Nintendo keeps feasting on TV ad impressions</title>
+		<link>https://venturebeat.com/2021/03/20/nintendo-keeps-feasting-on-tv-ad-impressions/</link>
+		<comments>https://venturebeat.com/2021/03/20/nintendo-keeps-feasting-on-tv-ad-impressions/#respond</comments>
+		<pubDate>Sat, 20 Mar 2021 13:16:26 +0000</pubDate>
+		<dc:creator><![CDATA[Eleanor Semeraro, iSpot.tv]]></dc:creator>
+				<category><![CDATA[Esports]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Arts & Entertainment/Online Media]]></category>
+		<category><![CDATA[category-/Arts & Entertainment/TV & Video/Online Video]]></category>
+		<category><![CDATA[Explorers]]></category>
+		<category><![CDATA[iSpot.tv]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[PlayStation 5]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677152</guid>
+		<description><![CDATA[Nintendo continues its domination of TV ad impressions, accounting for 65% of gaming industry impressions from February 16 through March 15.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="289" src="https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?fit=578%2C289&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="" loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=1800&amp;strip=all 1800w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=350&amp;strip=all 350w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=930&amp;strip=all 930w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/iSpot-February-March-2021.png?w=700&amp;strip=all 700w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Nintendo continues its domination of TV ad impressions, accounting for 65% of gaming industry impressions from February 16 through March 15.<a href="https://venturebeat.com/2021/03/20/nintendo-keeps-feasting-on-tv-ad-impressions/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/20/nintendo-keeps-feasting-on-tv-ad-impressions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677152</post-id><source url="https://venturebeat.com/2021/03/20/nintendo-keeps-feasting-on-tv-ad-impressions/">Nintendo keeps feasting on TV ad impressions</source>	</item>
+	
+	
+	<item>
+		<title>Starfield release timing, when is the Battlefield 2021 announcement, and more | GB Decides 188</title>
+		<link>https://venturebeat.com/2021/03/19/starfield-release-timing-when-is-the-battlefield-2021-announcement-and-more-gb-decides-188/</link>
+		<comments>https://venturebeat.com/2021/03/19/starfield-release-timing-when-is-the-battlefield-2021-announcement-and-more-gb-decides-188/#respond</comments>
+		<pubDate>Fri, 19 Mar 2021 22:26:16 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Grubb]]></dc:creator>
+				<category><![CDATA[AR/VR]]></category>
+		<category><![CDATA[Esports]]></category>
+		<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games/Shooter Games]]></category>
+		<category><![CDATA[console gaming]]></category>
+		<category><![CDATA[GamesBeat Decides]]></category>
+		<category><![CDATA[PC gaming]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677419</guid>
+		<description><![CDATA[<p>On the latest episode of The GamesBeat Decides podcast, the crew looks at Xbox&#8217;s strong week and PlayStation buying the Evo fighting-game tournament. GamesBeat editors Mike Minotti and Jeff Grubb also answer your questions about Starfield and Battlefield 2021. They also rank the Xbox consoles. But all anyone really cares about is the Game Boy&#160;[&#8230;]
+</p>]]></description>
+				<content:encoded><![CDATA[<iframe class='youtube-player' width='560' height='315' src='https://www.youtube.com/embed/GA6HEUDtRUM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe><hr/>Join Transform 2021 for the most important themes in enterprise AI &amp; Data. Learn more. On the latest episode of The GamesBeat Decides podcast, the crew looks at Xbox&#8217;s strong week and PlayStation buying the Evo fighting-game tournament. GamesBeat editors Mike Minotti and Jeff Grubb also answer your questions about Starfield and Battlefiel&hellip;<a href="https://venturebeat.com/2021/03/19/starfield-release-timing-when-is-the-battlefield-2021-announcement-and-more-gb-decides-188/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/19/starfield-release-timing-when-is-the-battlefield-2021-announcement-and-more-gb-decides-188/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677419</post-id><source url="https://venturebeat.com/2021/03/19/starfield-release-timing-when-is-the-battlefield-2021-announcement-and-more-gb-decides-188/">Starfield release timing, when is the Battlefield 2021 announcement, and more | GB Decides 188</source>	</item>
+	
+	
+	<item>
+		<title>The RetroBeat: Dragon Quest VII is too much</title>
+		<link>https://venturebeat.com/2021/03/19/the-retrobeat-dragon-quest-vii-is-too-much/</link>
+		<comments>https://venturebeat.com/2021/03/19/the-retrobeat-dragon-quest-vii-is-too-much/#respond</comments>
+		<pubDate>Fri, 19 Mar 2021 21:33:54 +0000</pubDate>
+		<dc:creator><![CDATA[Mike Minotti]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[category-/Games/Roleplaying Games]]></category>
+		<category><![CDATA[console gaming]]></category>
+		<category><![CDATA[Dragon Quest VII]]></category>
+		<category><![CDATA[retro gaming]]></category>
+		<category><![CDATA[Square Enix]]></category>
+		<category><![CDATA[The RetroBeat]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677301</guid>
+		<description><![CDATA[Dragon Quest VII felt like the longest game I had ever played. It's too big for its own good, even the 3DS version.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="327" src="https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?fit=578%2C327&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Dragon Quest VII." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=1920&amp;strip=all 1920w, https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/dq7.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Dragon Quest VII felt like the longest game I had ever played. It's too big for its own good, even the 3DS version.<a href="https://venturebeat.com/2021/03/19/the-retrobeat-dragon-quest-vii-is-too-much/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/19/the-retrobeat-dragon-quest-vii-is-too-much/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677301</post-id><source url="https://venturebeat.com/2021/03/19/the-retrobeat-dragon-quest-vii-is-too-much/">The RetroBeat: Dragon Quest VII is too much</source>	</item>
+	
+	
+	<item>
+		<title>Shin Megami Tensei III: Nocturne HD Remaster launches May 25 for Switch, PS4, and Steam</title>
+		<link>https://venturebeat.com/2021/03/19/shin-megami-tensei-iii-nocturne-hd-remaster-launches-may-25-for-switch-ps4-and-steam/</link>
+		<comments>https://venturebeat.com/2021/03/19/shin-megami-tensei-iii-nocturne-hd-remaster-launches-may-25-for-switch-ps4-and-steam/#respond</comments>
+		<pubDate>Fri, 19 Mar 2021 21:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Mike Minotti]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[atlus]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[category-/Games/Roleplaying Games]]></category>
+		<category><![CDATA[console gaming]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[PC gaming]]></category>
+		<category><![CDATA[Shin Megami Tensei III: Nocturne Remastered]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677257</guid>
+		<description><![CDATA[Atlus announced today that Shin Megami Tensei III: Nocturne HD Remaster will launch on May 25 (or May 21, if you're willing to spend).]]></description>
+				<content:encoded><![CDATA[<img width="578" height="325" src="https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?fit=578%2C325&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Shin Megami Tensei III: Nocturne Remastered." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=1920&amp;strip=all 1920w, https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=1536&amp;strip=all 1536w, https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/demi-6.png?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Atlus announced today that Shin Megami Tensei III: Nocturne HD Remaster will launch on May 25 (or May 21, if you're willing to spend).<a href="https://venturebeat.com/2021/03/19/shin-megami-tensei-iii-nocturne-hd-remaster-launches-may-25-for-switch-ps4-and-steam/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/19/shin-megami-tensei-iii-nocturne-hd-remaster-launches-may-25-for-switch-ps4-and-steam/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677257</post-id><source url="https://venturebeat.com/2021/03/19/shin-megami-tensei-iii-nocturne-hd-remaster-launches-may-25-for-switch-ps4-and-steam/">Shin Megami Tensei III: Nocturne HD Remaster launches May 25 for Switch, PS4, and Steam</source>	</item>
+	
+	
+	<item>
+		<title>An indie-dev project is trying to resurrect Panzer Dragoon Saga</title>
+		<link>https://venturebeat.com/2021/03/19/an-indie-dev-project-is-trying-to-resurrect-panzer-dragoon-saga/</link>
+		<comments>https://venturebeat.com/2021/03/19/an-indie-dev-project-is-trying-to-resurrect-panzer-dragoon-saga/#respond</comments>
+		<pubDate>Fri, 19 Mar 2021 16:11:41 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Grubb]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[PC Gaming]]></category>
+		<category><![CDATA[Azel R]]></category>
+		<category><![CDATA[Black Fenrir]]></category>
+		<category><![CDATA[category-/Games/Computer & Video Games]]></category>
+		<category><![CDATA[DeanBeat News]]></category>
+		<category><![CDATA[Panzer Dragoon Saga]]></category>
+		<category><![CDATA[Panzer Dragoon World]]></category>
+		<category><![CDATA[Sega]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2676990</guid>
+		<description><![CDATA[Azel R is a new Patreon project that wants to bring back Panzer Dragoon Saga as a new game with modern visuals.]]></description>
+				<content:encoded><![CDATA[<iframe class='youtube-player' width='560' height='315' src='https://www.youtube.com/embed/eYE9_pYVFKM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe><hr/>Azel R is a new Patreon project that wants to bring back Panzer Dragoon Saga as a new game with modern visuals.<a href="https://venturebeat.com/2021/03/19/an-indie-dev-project-is-trying-to-resurrect-panzer-dragoon-saga/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/19/an-indie-dev-project-is-trying-to-resurrect-panzer-dragoon-saga/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2676990</post-id><source url="https://venturebeat.com/2021/03/19/an-indie-dev-project-is-trying-to-resurrect-panzer-dragoon-saga/">An indie-dev project is trying to resurrect Panzer Dragoon Saga</source>	</item>
+	
+	
+	<item>
+		<title>The DeanBeat: #StopAsianHate by making us more visible</title>
+		<link>https://venturebeat.com/2021/03/19/the-deanbeat-stopasianhate-by-making-us-more-visible/</link>
+		<comments>https://venturebeat.com/2021/03/19/the-deanbeat-stopasianhate-by-making-us-more-visible/#respond</comments>
+		<pubDate>Fri, 19 Mar 2021 15:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[Dean Takahashi]]></dc:creator>
+				<category><![CDATA[GamesBeat]]></category>
+		<category><![CDATA[VB Home Page]]></category>
+		<category><![CDATA[Asian Americans]]></category>
+		<category><![CDATA[category-/People & Society]]></category>
+		<category><![CDATA[DeanBeat Flair and Opinion]]></category>
+		<category><![CDATA[dis]]></category>
+		<category><![CDATA[div]]></category>
+		<category><![CDATA[Jeremy Lin]]></category>
+		<category><![CDATA[Olivia Munn]]></category>
+		<category><![CDATA[Prey]]></category>
+		<category><![CDATA[Quiet: The Power of Introverts in a World That Can't Stop Talking]]></category>
+		<category><![CDATA[The DeanBeat]]></category>
+
+		<guid isPermaLink="false">https://venturebeat.com/?p=2677186</guid>
+		<description><![CDATA[Game developers can help #StopAsianHate by making Asian Americans and Pacific Islanders more visible in video games.]]></description>
+				<content:encoded><![CDATA[<img width="578" height="352" src="https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?fit=578%2C352&amp;strip=all" class="attachment-single-feed size-single-feed wp-post-image" alt="Ashlyn So organized a rally to #StopAsianHate." loading="lazy" srcset="https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?w=300&amp;strip=all 300w, https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?w=768&amp;strip=all 768w, https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?w=800&amp;strip=all 800w, https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?w=400&amp;strip=all 400w, https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?w=780&amp;strip=all 780w, https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?w=578&amp;strip=all 578w, https://venturebeat.com/wp-content/uploads/2021/03/stopasianhate.jpg?w=930&amp;strip=all 930w" sizes="(max-width: 578px) 100vw, 578px" /><hr/>Game developers can help #StopAsianHate by making Asian Americans and Pacific Islanders more visible in video games.<a href="https://venturebeat.com/2021/03/19/the-deanbeat-stopasianhate-by-making-us-more-visible/" target="_blank">Read More</a>]]></content:encoded>
+			<wfw:commentRss>https://venturebeat.com/2021/03/19/the-deanbeat-stopasianhate-by-making-us-more-visible/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2677186</post-id><source url="https://venturebeat.com/2021/03/19/the-deanbeat-stopasianhate-by-making-us-more-visible/">The DeanBeat: #StopAsianHate by making us more visible</source>	</item>
+	</channel>
+</rss>
+
+0
+

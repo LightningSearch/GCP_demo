@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+<title>
+TensorRT/demo/BERT at release/5.1 · NVIDIA/TensorRT · GitHub 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Skip to content Sign&nbsp;up Sign&nbsp;up Why GitHub? Features &rarr; Mobile &rarr; Actions &rarr; Codespaces &rarr; Packages &rarr; Security &rarr; Code review &rarr; Project management &rarr; Integrations &rarr; GitHub Sponsors &rarr; Customer stories &rarr; Team Enterprise Explore Explore GitHub &rarr; Learn and contribute Topics &rarr; Collections &rarr; Trending &rarr; Learning Lab &rarr; Open source guides &rarr; Connect with others The ReadME Project &rarr; Events &rarr; Community forum &rarr; GitHub Education &rarr; GitHub Stars program &rarr; Marketplace Pricing Plans &rarr; Compare plans &rarr; Contact Sales &rarr; Education &rarr; --> In this repository All GitHub ↵ Jump to ↵ No suggested jump to results In this repository All GitHub ↵ Jump to ↵ In this organization All GitHub ↵ Jump to ↵ In this repository All GitHub ↵ Jump to ↵ Sign in Sign up Sign up {{ message }} <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"> NVIDIA / TensorRT Notifications Star 3.5k Fork 803 Code Issues 195 Pull requests 22 Actions Projects 0 Security <include-fragment src="/NVIDIA/TensorRT/security/overall-count" accept="text/fragment+html"> Insights More <details-menu role="menu" class="dropdown-menu dropdown-menu-sw "> Code Issues Pull requests Actions Projects Security Insights release/5.1 Switch branches/tags <input-demux data-action="tab-container-change:input-demux#storeInput tab-container-changed:input-demux#updateInput"> <tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;"> Branches Tags <ref-selector type="branch" data-targets="input-demux.sinks" data-action=" input-entered:ref-selector#inputEntered tab-selected:ref-selector#tabSelected focus-list:ref-selector#focusFirstListMember " query-endpoint="/NVIDIA/TensorRT/refs" cache-key="v0:1615404731.549014" current-committish="cmVsZWFzZS81LjE=" default-branch="bWFzdGVy" name-with-owner="TlZJRElBL1RlbnNvclJU" > Nothing to show {{ refName }} default View all branches <ref-selector type="tag" data-action=" input-entered:ref-selector#inputEntered tab-selected:ref-selector#tabSelected focus-list:ref-selector#focusFirstListMember " data-targets="input-demux.sinks" query-endpoint="/NVIDIA/TensorRT/refs" cache-key="v0:1615404731.549014" current-committish="cmVsZWFzZS81LjE=" default-branch="bWFzdGVy" name-with-owner="TlZJRElBL1RlbnNvclJU" > Nothing to show {{ refName }} default View all tags TensorRT / demo / BERT / Go to file TensorRT / demo / BERT / This branch is 17 commits ahead, 142 commits behind master. Pull request Compare Latest commit eweill-nv and rajeevsrao Update Dockerfile to fix container build for blog &hellip; <include-fragment accept="text/fragment+html" src="/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848/rollup?direction=sw" class="d-inline"> ead8e24 <relative-time datetime="2019-08-23T18:43:06Z" class="no-wrap">Aug 23, 2019 Update Dockerfile to fix container build for blog Signed-off-by: Rajeev Rao &lt;rajeevrao@nvidia.com&gt; ead8e24 Git stats History Files <include-fragment src="/NVIDIA/TensorRT/file-list/release/5.1/demo/BERT"> Permalink Failed to load latest commit information. Type Name Latest commit message Commit time . . docker &nbsp; &nbsp; helpers &nbsp; &nbsp; layers &nbsp; &nbsp; plugins &nbsp; &nbsp; python &nbsp; &nbsp; util &nbsp; &nbsp; CMakeLists.txt &nbsp; &nbsp; Dockerfile &nbsp; &nbsp; LICENSE &nbsp; &nbsp; README.md &nbsp; &nbsp; sampleBERT.cpp &nbsp; &nbsp; README.md BERT Example using the TensorRT C++ API This example demonstrates how to write a TensorRT model with custom plugins to implement the BERT encoder with SQuAD output layer. As input, the code expects tokenized sentences, input masks and segment ids, as in the reference Tensorflow implementation . This code was tested on NVIDIA V100 and T4 GPUs, and will only compile to those architectures. Prerequisites To build the TensorRT OSS components, ensure you meet the following package requirements: System Packages CUDA Recommended versions: cuda-10.1 + cuDNN-7.5 GNU Make &gt;= v4.1 CMake &gt;= v3.8 Python Recommended versions: Python2 &gt;= v2.7.15 Python3 &gt;= v3.6.5 PIP &gt;= v19.0 Essential libraries and utilities Git , pkg-config , Wget , Zlib Optional Packages Containerized builds Docker &gt;= 1.12 NVIDIA Docker &gt;= 2.0 TensorRT Release TensorRT v5.1.5 Example Workflow The example provides scripts to convert fine-tuned Tensorflow model checkpoints into a simple binary format that can be read by sample binary. The high-level workflow consists of the following steps: Download a pre-trained BERT SQuAD checkpoint from NGC model registry (See optional section if you would like to train your own model) Convert the fine-tuned checkpoint into our simple format, described in the appendix (the original weights are assumed to be float32 values) Generate a test input/output pair (input sequences are assumed to be int32 values) Build and run the sample 1. Download a pre-trained BERT SQuAD checkpoint from NGC model registry wget -O bert-base-squad1.1.zip https://api.ngc.nvidia.com/v2/models/nvidia/bert_tf_v1_1_base_fp32_128/versions/2/zip unzip bert-base-squad1.1.zip -d squad_output_path Below, we will refer to the location &lt;squad output path&gt;/model.ckpt-&lt;number&gt; as shell variable CHECKPOINT and the path to the folder that contains the bert_config.json as BERT_PATH . (Optional) Downloading the BERT reference code and pre-trained language model, and running SQuAD Fine-tuning Please follow the instructions in the DeepLearningExamples repository for fine-tuning SQuAD, which involves downloading the pre-trained language model as well as the SQuAD training data. Then, in the scripts folder, there is run_squad.sh script, that adds a SQuAD-specific task layer to BERT and performs the fine-tuning. This will create three files prefixed with model.ckpt-&lt;number&gt; that contain the fine-tuned model parameters, in the specified output directory. 2. Convert the fine-tuned checkpoint into a simple format Python scripts in step 2 and 3 require Tensorflow on the system. We tested using tensorflow:19.06-py3 NGC container image. The SQuAD fine-tuned Tensorflow checkpoint can be converted using the following command: python helpers/convert_weights.py -m $CHECKPOINT -o &lt;weight path&gt;/filename This will generate a file &lt;weight path&gt;/&lt;filename&gt;.weights . The path that contains the weights file, will be referred to as WEIGHT_PATH . 3. Generate an input/output pair To run the sample on random inputs and compare the output to the reference Tensorflow implementation, the following command produces test inputs and outputs: python helpers/generate_dbg.py -f $CHECKPOINT -p $BERT_PATH -o $OUTPUT_PATH -s &lt;seq.len.&gt; -b &lt;batch size&gt; Please refer to the help of generate_dbg.py for more options. 4. Build and run the example The C++ example was tested using TensorRT OSS docker container image created by following the instruction in this link This example uses cmake and can be built with the following steps: mkdir build cd build cmake .. make -j This will produce an executable sample_bert in the build folder. The binary sample_bert requires as arguments the paths that contain bert_config.json (from the pre-trained BERT checkpoint), bert.weights and test_inputs.weights_int32 and test_outputs.weights as generated by the steps above. build/sample_bert -d $WEIGHT_PATH -d $OUTPUT_PATH --fp16 --nheads &lt;num_attention_heads&gt; &lt;num_attention_heads&gt; refers to the number of attention heads and can be found in the bert_config.json . Appendix Description of the binary format The example expects weights and inputs in a simple tensor dictionary format. It consists of an integer in the first line N denoting the number of entries in the dictionary. Then there are N lines, each line following the format [tensor name: String] [element type: DataType] [number of dimensions D: int] [dim1, dim2, ..., dimD] [binary tensor data]\n DataType is the nvinfer1 enumeration, that encodes types as numbers. E.g. DataType::kFLOAT = 0 (float32) and DataType::kINT32 = 3 . The binary tensor data is dim1 * dim2 * ... * dimD * sizeof(type) bytes followed by a line break. Methods to read this format can be found in dataUtils.hpp &copy; 2021 GitHub, Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About You can’t perform that action at this time. You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal"> 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="#start-of-content">#start-of-content</a> ( Skip to content )
+</p>
+<p>
+<a href="https://github.com/">https://github.com/</a> ( )
+</p>
+<p>
+<a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo">/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo</a> ( Sign&nbsp;up )
+</p>
+<p>
+<a href="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo">/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo</a> ( Sign&nbsp;up )
+</p>
+<p>
+<a href="/features">/features</a> ( Features &rarr; )
+</p>
+<p>
+<a href="/mobile">/mobile</a> ( Mobile &rarr; )
+</p>
+<p>
+<a href="/features/actions">/features/actions</a> ( Actions &rarr; )
+</p>
+<p>
+<a href="/features/codespaces">/features/codespaces</a> ( Codespaces &rarr; )
+</p>
+<p>
+<a href="/features/packages">/features/packages</a> ( Packages &rarr; )
+</p>
+<p>
+<a href="/features/security">/features/security</a> ( Security &rarr; )
+</p>
+<p>
+<a href="/features/code-review/">/features/code-review/</a> ( Code review &rarr; )
+</p>
+<p>
+<a href="/features/project-management/">/features/project-management/</a> ( Project management &rarr; )
+</p>
+<p>
+<a href="/features/integrations">/features/integrations</a> ( Integrations &rarr; )
+</p>
+<p>
+<a href="/sponsors">/sponsors</a> ( GitHub Sponsors &rarr; )
+</p>
+<p>
+<a href="/customer-stories">/customer-stories</a> ( Customer stories &rarr; )
+</p>
+<p>
+<a href="/team">/team</a> ( Team )
+</p>
+<p>
+<a href="/enterprise">/enterprise</a> ( Enterprise )
+</p>
+<p>
+<a href="/explore">/explore</a> ( Explore GitHub &rarr; )
+</p>
+<p>
+<a href="/topics">/topics</a> ( Topics &rarr; )
+</p>
+<p>
+<a href="/collections">/collections</a> ( Collections &rarr; )
+</p>
+<p>
+<a href="/trending">/trending</a> ( Trending &rarr; )
+</p>
+<p>
+<a href="https://lab.github.com/">https://lab.github.com/</a> ( Learning Lab &rarr; )
+</p>
+<p>
+<a href="https://opensource.guide">https://opensource.guide</a> ( Open source guides &rarr; )
+</p>
+<p>
+<a href="https://github.com/readme">https://github.com/readme</a> ( The ReadME Project &rarr; )
+</p>
+<p>
+<a href="https://github.com/events">https://github.com/events</a> ( Events &rarr; )
+</p>
+<p>
+<a href="https://github.community">https://github.community</a> ( Community forum &rarr; )
+</p>
+<p>
+<a href="https://education.github.com">https://education.github.com</a> ( GitHub Education &rarr; )
+</p>
+<p>
+<a href="https://stars.github.com">https://stars.github.com</a> ( GitHub Stars program &rarr; )
+</p>
+<p>
+<a href="/marketplace">/marketplace</a> ( Marketplace )
+</p>
+<p>
+<a href="/pricing">/pricing</a> ( Plans &rarr; )
+</p>
+<p>
+<a href="/pricing#feature-comparison">/pricing#feature-comparison</a> ( Compare plans &rarr; )
+</p>
+<p>
+<a href="https://enterprise.github.com/contact">https://enterprise.github.com/contact</a> ( Contact Sales &rarr; )
+</p>
+<p>
+<a href="https://education.github.com">https://education.github.com</a> ( Education &rarr; )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FTensorRT%2Ftree%2Frelease%2F5.1%2Fdemo%2FBERT">/login?return_to=%2FNVIDIA%2FTensorRT%2Ftree%2Frelease%2F5.1%2Fdemo%2FBERT</a> ( Sign in )
+</p>
+<p>
+<a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FTensorRT">/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FTensorRT</a> ( Sign up )
+</p>
+<p>
+<a href="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FTensorRT">/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FTensorRT</a> ( Sign up )
+</p>
+<p>
+<a href="/NVIDIA">/NVIDIA</a> ( NVIDIA )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT">/NVIDIA/TensorRT</a> ( TensorRT )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FTensorRT">/login?return_to=%2FNVIDIA%2FTensorRT</a> ( Notifications )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FTensorRT">/login?return_to=%2FNVIDIA%2FTensorRT</a> ( Star )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/stargazers">/NVIDIA/TensorRT/stargazers</a> ( 3.5k )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FTensorRT">/login?return_to=%2FNVIDIA%2FTensorRT</a> ( Fork )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/network/members">/NVIDIA/TensorRT/network/members</a> ( 803 )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1">/NVIDIA/TensorRT/tree/release/5.1</a> ( Code )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/issues">/NVIDIA/TensorRT/issues</a> ( Issues 195 )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/pulls">/NVIDIA/TensorRT/pulls</a> ( Pull requests 22 )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/actions">/NVIDIA/TensorRT/actions</a> ( Actions )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/projects">/NVIDIA/TensorRT/projects</a> ( Projects 0 )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/security">/NVIDIA/TensorRT/security</a> ( Security <include-fragment src="/NVIDIA/TensorRT/security/overall-count" accept="text/fragment+html"> )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/pulse">/NVIDIA/TensorRT/pulse</a> ( Insights )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1">/NVIDIA/TensorRT/tree/release/5.1</a> ( Code )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/issues">/NVIDIA/TensorRT/issues</a> ( Issues )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/pulls">/NVIDIA/TensorRT/pulls</a> ( Pull requests )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/actions">/NVIDIA/TensorRT/actions</a> ( Actions )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/projects">/NVIDIA/TensorRT/projects</a> ( Projects )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/security">/NVIDIA/TensorRT/security</a> ( Security )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/pulse">/NVIDIA/TensorRT/pulse</a> ( Insights )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/TensorRT/tree/{{ urlEncodedRefName }}/demo/BERT">https://github.com/NVIDIA/TensorRT/tree/{{ urlEncodedRefName }}/demo/BERT</a> ( {{ refName }} default )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/branches">/NVIDIA/TensorRT/branches</a> ( View all branches )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/TensorRT/tree/{{ urlEncodedRefName }}/demo/BERT">https://github.com/NVIDIA/TensorRT/tree/{{ urlEncodedRefName }}/demo/BERT</a> ( {{ refName }} default )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tags">/NVIDIA/TensorRT/tags</a> ( View all tags )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1">/NVIDIA/TensorRT/tree/release/5.1</a> ( TensorRT )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo">/NVIDIA/TensorRT/tree/release/5.1/demo</a> ( demo )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/find/release%2F5.1">/NVIDIA/TensorRT/find/release%2F5.1</a> ( Go to file )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1">/NVIDIA/TensorRT/tree/release/5.1</a> ( TensorRT )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo">/NVIDIA/TensorRT/tree/release/5.1/demo</a> ( demo )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/pull/new/release%2F5.1">/NVIDIA/TensorRT/pull/new/release%2F5.1</a> ( Pull request )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/compare/release/5.1">/NVIDIA/TensorRT/compare/release/5.1</a> ( Compare )
+</p>
+<p>
+<a href="/eweill-nv">/eweill-nv</a> ( )
+</p>
+<p>
+<a href="/rajeevsrao">/rajeevsrao</a> ( )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/commits?author=eweill-nv">/NVIDIA/TensorRT/commits?author=eweill-nv</a> ( eweill-nv )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/commits?author=rajeevsrao">/NVIDIA/TensorRT/commits?author=rajeevsrao</a> ( rajeevsrao )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848">/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848</a> ( Update Dockerfile to fix container build for blog )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848">/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848</a> ( ead8e24 )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848">/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848</a> ( <relative-time datetime="2019-08-23T18:43:06Z" class="no-wrap">Aug 23, 2019 )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848">/NVIDIA/TensorRT/commit/ead8e240008e7a9983792a0c0285c6660f59c848</a> ( Update Dockerfile to fix container build for blog )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/commits/release/5.1/demo/BERT">/NVIDIA/TensorRT/commits/release/5.1/demo/BERT</a> ( History )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/e47febadb256d94f65efe0f1eac54c7caedd65d4/demo/BERT">/NVIDIA/TensorRT/tree/e47febadb256d94f65efe0f1eac54c7caedd65d4/demo/BERT</a> ( Permalink )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo">/NVIDIA/TensorRT/tree/release/5.1/demo</a> ( . . )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/docker">/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/docker</a> ( docker )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/helpers">/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/helpers</a> ( helpers )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/layers">/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/layers</a> ( layers )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/plugins">/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/plugins</a> ( plugins )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/python">/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/python</a> ( python )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/util">/NVIDIA/TensorRT/tree/release/5.1/demo/BERT/util</a> ( util )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/CMakeLists.txt">/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/CMakeLists.txt</a> ( CMakeLists.txt )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/Dockerfile">/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/Dockerfile</a> ( Dockerfile )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/LICENSE">/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/LICENSE</a> ( LICENSE )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/README.md">/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/README.md</a> ( README.md )
+</p>
+<p>
+<a href="/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/sampleBERT.cpp">/NVIDIA/TensorRT/blob/release/5.1/demo/BERT/sampleBERT.cpp</a> ( sampleBERT.cpp )
+</p>
+<p>
+<a href="https://opensource.org/licenses/Apache-2.0">https://opensource.org/licenses/Apache-2.0</a> ( )
+</p>
+<p>
+<a href="#bert-example-using-the-tensorrt-c-api">#bert-example-using-the-tensorrt-c-api</a> ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT">https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT</a> ( reference Tensorflow implementation )
+</p>
+<p>
+<a href="#prerequisites">#prerequisites</a> ( )
+</p>
+<p>
+<a href="https://developer.nvidia.com/cuda-toolkit">https://developer.nvidia.com/cuda-toolkit</a> ( CUDA )
+</p>
+<p>
+<a href="https://developer.nvidia.com/cuda-10.1-download-archive-base">https://developer.nvidia.com/cuda-10.1-download-archive-base</a> ( cuda-10.1 )
+</p>
+<p>
+<a href="https://ftp.gnu.org/gnu/make/">https://ftp.gnu.org/gnu/make/</a> ( GNU Make )
+</p>
+<p>
+<a href="https://github.com/Kitware/CMake/releases">https://github.com/Kitware/CMake/releases</a> ( CMake )
+</p>
+<p>
+<a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> ( Python )
+</p>
+<p>
+<a href="https://www.python.org/downloads/release/python-2715/">https://www.python.org/downloads/release/python-2715/</a> ( Python2 )
+</p>
+<p>
+<a href="https://www.python.org/downloads/release/python-365/">https://www.python.org/downloads/release/python-365/</a> ( Python3 )
+</p>
+<p>
+<a href="https://pypi.org/project/pip/#history">https://pypi.org/project/pip/#history</a> ( PIP )
+</p>
+<p>
+<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a> ( Git )
+</p>
+<p>
+<a href="https://www.freedesktop.org/wiki/Software/pkg-config/">https://www.freedesktop.org/wiki/Software/pkg-config/</a> ( pkg-config )
+</p>
+<p>
+<a href="https://www.gnu.org/software/wget/faq.html#download">https://www.gnu.org/software/wget/faq.html#download</a> ( Wget )
+</p>
+<p>
+<a href="https://zlib.net/">https://zlib.net/</a> ( Zlib )
+</p>
+<p>
+<a href="https://docs.docker.com/install/">https://docs.docker.com/install/</a> ( Docker )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/nvidia-docker">https://github.com/NVIDIA/nvidia-docker</a> ( NVIDIA Docker )
+</p>
+<p>
+<a href="https://developer.nvidia.com/nvidia-tensorrt-5x-download">https://developer.nvidia.com/nvidia-tensorrt-5x-download</a> ( TensorRT )
+</p>
+<p>
+<a href="#example-workflow">#example-workflow</a> ( )
+</p>
+<p>
+<a href="#1-download-a-pre-trained-bert-squad-checkpoint-from-ngc-model-registry">#1-download-a-pre-trained-bert-squad-checkpoint-from-ngc-model-registry</a> ( )
+</p>
+<p>
+<a href="#optional-downloading-the-bert-reference-code-and-pre-trained-language-model-and-running-squad-fine-tuning">#optional-downloading-the-bert-reference-code-and-pre-trained-language-model-and-running-squad-fine-tuning</a> ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT">https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow/LanguageModeling/BERT</a> ( DeepLearningExamples repository )
+</p>
+<p>
+<a href="#2-convert-the-fine-tuned-checkpoint-into-a-simple-format">#2-convert-the-fine-tuned-checkpoint-into-a-simple-format</a> ( )
+</p>
+<p>
+<a href="#3-generate-an-inputoutput-pair">#3-generate-an-inputoutput-pair</a> ( )
+</p>
+<p>
+<a href="#4-build-and-run-the-example">#4-build-and-run-the-example</a> ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/TensorRT#setting-up-the-build-environment">https://github.com/NVIDIA/TensorRT#setting-up-the-build-environment</a> ( in this link )
+</p>
+<p>
+<a href="#appendix">#appendix</a> ( )
+</p>
+<p>
+<a href="#description-of-the-binary-format">#description-of-the-binary-format</a> ( )
+</p>
+<p>
+<a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">https://docs.github.com/en/github/site-policy/github-terms-of-service</a> ( Terms )
+</p>
+<p>
+<a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">https://docs.github.com/en/github/site-policy/github-privacy-statement</a> ( Privacy )
+</p>
+<p>
+<a href="https://github.com/security">https://github.com/security</a> ( Security )
+</p>
+<p>
+<a href="https://www.githubstatus.com/">https://www.githubstatus.com/</a> ( Status )
+</p>
+<p>
+<a href="https://docs.github.com">https://docs.github.com</a> ( Docs )
+</p>
+<p>
+<a href="https://github.com">https://github.com</a> ( )
+</p>
+<p>
+<a href="https://support.github.com">https://support.github.com</a> ( Contact GitHub )
+</p>
+<p>
+<a href="https://github.com/pricing">https://github.com/pricing</a> ( Pricing )
+</p>
+<p>
+<a href="https://docs.github.com">https://docs.github.com</a> ( API )
+</p>
+<p>
+<a href="https://services.github.com">https://services.github.com</a> ( Training )
+</p>
+<p>
+<a href="https://github.blog">https://github.blog</a> ( Blog )
+</p>
+<p>
+<a href="https://github.com/about">https://github.com/about</a> ( About )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+</body>
+</html>

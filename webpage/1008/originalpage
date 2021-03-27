@@ -1,0 +1,581 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The Future of AI in Banking (2019) - Clinc.com</title><style id="rocket-critical-css">@font-face{font-family:'ElegantIcons';src:url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.eot);src:url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.eot?#iefix) format('embedded-opentype'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.woff) format('woff'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.ttf) format('truetype'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.svg#ElegantIcons) format('svg');font-weight:normal;font-style:normal}.icon_search,.social_facebook,.social_twitter,.social_linkedin{font-family:'ElegantIcons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased}.icon_search:before{content:"\55"}.social_facebook:before{content:"\e093"}.social_twitter:before{content:"\e094"}.social_linkedin:before{content:"\e09d"}:root{--swiper-theme-color:#007aff}:root{--swiper-navigation-size:44px}a,body,div,form,h1,h5,html,label,li,p,span,strong,ul{vertical-align:baseline;margin:0;padding:0;background:0 0;border:0;outline:0}*{-webkit-box-sizing:border-box;box-sizing:border-box}article,aside,header,main,nav{display:block}ul{list-style-position:inside;margin-bottom:1.5em;padding:0}ul:not(.wp-block){margin:0 0 1.5em}a img{border:none}img{height:auto;max-width:100%}img{vertical-align:middle;border-style:none}label{display:block;margin-bottom:.5em}strong{font-weight:bolder}.screen-reader-text{position:absolute!important;width:1px;height:0;line-height:1;clip:rect(1px,1px,1px,1px);word-wrap:normal!important;overflow:hidden}.clear:after,.clear:before,.widget:after,.widget:before{content:'';display:table;table-layout:fixed}.clear:after,.widget:after{clear:both}body{font-family:Poppins,sans-serif;font-size:16px;line-height:1.6875em;font-weight:400;color:#333;background-color:#fff;overflow-x:hidden;-webkit-font-smoothing:antialiased}h1{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:60px;line-height:1.26em;letter-spacing:-.04em;margin:25px 0;-ms-word-wrap:break-word;word-wrap:break-word}@media only screen and (max-width:480px){h1{font-size:48px}}h5{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;margin:25px 0;-ms-word-wrap:break-word;word-wrap:break-word}a{color:#1f1f1f;text-decoration:none}p{margin:10px 0;line-height:1.6875em}button[type=submit]{position:relative;display:inline-block;vertical-align:middle;width:auto;margin:0;font-family:Poppins,sans-serif;font-size:13px;line-height:2em;font-weight:700;text-decoration:none;letter-spacing:-.01em;border-radius:0;outline:0;-webkit-box-sizing:border-box;box-sizing:border-box;padding:15px 40px;color:#fff;background-color:#1f1f1f;border:1px solid #1f1f1f}.qodef-content-grid{width:1100px;margin:0 auto}.qodef-grid{position:relative;display:inline-block;width:100%;vertical-align:top}.qodef-grid>.qodef-grid-inner{margin:0 -15px}.qodef-grid>.qodef-grid-inner>.qodef-grid-item{padding:0 15px}.qodef-grid .qodef-grid-item{position:relative;display:inline-block;width:100%;vertical-align:top;min-height:1px;float:left}@media only screen and (min-width:1025px){.qodef-grid.qodef-layout--template>.qodef-grid-inner>.qodef-grid-item.qodef-col--8{width:66.66667%}}@media only screen and (min-width:1025px){.qodef-grid.qodef-layout--template>.qodef-grid-inner>.qodef-grid-item.qodef-col--4{width:33.33333%}}.qodef-grid.qodef-gutter--large>.qodef-grid-inner{margin:0 -30px}.qodef-grid.qodef-gutter--large>.qodef-grid-inner>.qodef-grid-item{padding:0 30px;margin:0 0 60px}#qodef-page-wrapper{position:relative;overflow:hidden}#qodef-page-outer{position:relative}#qodef-page-inner{position:relative;padding:100px 0 90px}@media only screen and (max-width:1024px){.qodef-page-sidebar-section{margin-top:80px}}.qodef-blog{position:relative;display:inline-block;width:100%;vertical-align:top}.qodef-blog article{position:relative;display:inline-block;width:100%;vertical-align:top;margin:0 0 90px}.qodef-blog article .qodef-e-inner,.qodef-blog article .qodef-e-media{position:relative;display:inline-block;width:100%;vertical-align:top}.qodef-blog article .qodef-e-media-image{position:relative;display:inline-block;vertical-align:top;max-width:100%}.qodef-blog article .qodef-e-media-image img{display:block;width:100%}.qodef-blog article .qodef-e-media{margin-bottom:48px}.qodef-blog.qodef--single article{margin-bottom:0}@media only screen and (max-width:680px){.qodef-blog.qodef--single article{margin:0 0 31px}}#qodef-page-header{position:relative;display:inline-block;width:100%;vertical-align:top;height:110px;background-color:#fff;z-index:200}#qodef-page-header .qodef-header-logo-link{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-ms-flex-negative:0;flex-shrink:0;height:110px;max-height:100%;max-width:100%}#qodef-page-header .qodef-header-logo-link img{display:block;margin:auto 0;width:auto;max-height:100%}#qodef-page-header-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 45px}#qodef-page-mobile-header{position:relative;display:none;height:70px;z-index:100}#qodef-page-mobile-header .qodef-mobile-header-logo-link{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:70px;max-height:100%;max-width:100%}#qodef-page-mobile-header .qodef-mobile-header-logo-link img{display:block;margin:auto;width:auto;max-height:100%;max-width:100%}#qodef-page-mobile-header-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 38px}@media only screen and (max-width:768px){#qodef-page-mobile-header-inner{padding:0}}#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;width:100%;margin:0 auto}@media only screen and (max-width:768px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:600px}}@media only screen and (max-width:680px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:420px}}@media only screen and (max-width:480px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:300px}}.qodef-mobile-header-opener{font-size:20px;margin-left:20px}.qodef-mobile-header-opener .qodef-m-lines{position:relative;display:block;width:45px;height:45px;background-color:#000;border-radius:50%}.qodef-mobile-header-opener .qodef-m-lines:before{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:4px;top:3px;z-index:-1;opacity:0}.qodef-mobile-header-opener .qodef-m-lines:after{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:8px;top:7px;z-index:-1;opacity:0}.qodef-mobile-header-opener .qodef-m-line{position:absolute;left:10px;height:2px;width:56%;background-color:#fff}.qodef-mobile-header-opener .qodef-m-line.qodef--1{top:18px}.qodef-mobile-header-opener .qodef-m-line.qodef--2{top:26px}.qodef-mobile-header-navigation{position:absolute;top:100%;left:0;display:none;width:100%;max-height:calc(100vh - 70px);background-color:#fff;border-bottom:1px solid #e1e1e1;padding:0;margin:0;overflow-y:scroll;z-index:10}.qodef-mobile-header-navigation ul{margin:0;padding:0;list-style:none}.qodef-mobile-header-navigation ul li{position:relative;margin:0;padding:0}.qodef-mobile-header-navigation ul li ul{display:none;padding:3px 0;margin-left:0}.qodef-mobile-header-navigation ul li.menu-item-has-children>a:after{content:'>';position:absolute;top:0;right:0;line-height:inherit;-webkit-transform-origin:50% 50%;-ms-transform-origin:50% 50%;transform-origin:50% 50%}.qodef-mobile-header-navigation>ul{margin:0 auto;padding:34px 0}.qodef-mobile-header-navigation>ul>li>a{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;font-weight:600;font-size:15px}.qodef-mobile-header-navigation>ul>li>a>span{position:relative}.qodef-mobile-header-navigation>ul>li>a>span:before{content:'';position:absolute;display:inline-block;background-color:currentColor;width:100%;height:2px;left:0;bottom:0;z-index:100;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}.qodef-mobile-header-navigation .qodef-drop-down-second-inner ul li>a{font-family:Poppins,sans-serif;font-size:15px;line-height:1.6875em;font-weight:400;color:#333}.qodef-header-navigation{height:100%}.qodef-header-navigation ul{margin:0;padding:0;list-style:none}.qodef-header-navigation ul li{position:relative;margin:0;padding:0}.qodef-header-navigation ul li.qodef-menu-item--narrow ul{position:absolute;top:100%;left:0;width:260px;margin:0;padding:28px 0;background-color:#1f1f1f;opacity:0;visibility:hidden;text-align:left}.qodef-header-navigation ul li.qodef-menu-item--narrow ul li{padding:1px 39px}.qodef-header-navigation>ul{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:100%}.qodef-header-navigation>ul>li{height:100%;margin:0 18px}.qodef-header-navigation>ul>li:first-child{margin-left:0}.qodef-header-navigation>ul>li:last-child{margin-right:0}.qodef-header-navigation>ul>li>a{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;font-weight:600;font-size:15px;height:100%}.qodef-header-navigation>ul>li>a>span{position:relative}.qodef-header-navigation>ul>li>a>span:before{content:'';position:absolute;display:inline-block;background-color:currentColor;width:100%;height:2px;left:0;bottom:0;z-index:100;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul li>a{font-family:Poppins,sans-serif;font-size:16px;line-height:1.6875em;font-weight:400;color:#fff;font-size:15px}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;margin:0 0 4px 0;overflow:hidden;padding-right:25px;justify-content:flex-start}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a span{position:relative;padding:0}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a span:before{content:'';position:absolute;bottom:0;left:0;height:2px;width:100%;background:#e82a2a;z-index:-1;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}#qodef-page-sidebar{position:relative;display:inline-block;width:100%;vertical-align:top;margin-bottom:60px}@media only screen and (max-width:1024px){#qodef-page-sidebar{margin-bottom:-30px}}.qodef-page-title{position:relative;display:inline-block;width:100%;vertical-align:top;height:100px;background-color:#fce5c5}.qodef-page-title .qodef-m-inner{position:relative;display:inline-block;width:100%;vertical-align:top;height:100%}.qodef-page-title .qodef-m-content{height:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.qodef-page-title .qodef-m-title{margin:0 0 6px 0}.widget{margin:0 0 50px}.widget:last-child{margin-bottom:0!important}.widget .qodef-widget-title{margin:0 0 13px}.widget a{color:#333}.widget.widget_lekker_core_side_area_opener{margin:0!important}.widget.widget_lekker_core_social_share{margin:0 0 36px}.widget.widget_search .qodef-search-form-inner{position:relative;display:inline-block;width:100%;vertical-align:top}.widget.widget_search button,.widget.widget_search input{height:60px;padding:18px 0;font-family:inherit;font-weight:inherit;line-height:24px;border-radius:0;outline:0;-webkit-appearance:none}.widget.widget_search input{position:relative;display:inline-block;width:100%;vertical-align:top;padding-left:27px;padding-right:60px;font-size:16px;color:#333;background-color:#f7f7f7;border:1px solid transparent}.widget.widget_search input::-webkit-input-placeholder{color:inherit;opacity:1}.widget.widget_search input::-moz-placeholder{color:inherit;opacity:1}.widget.widget_search input:-ms-input-placeholder{color:inherit;opacity:1}.widget.widget_search input::-ms-input-placeholder{color:inherit;opacity:1}.widget.widget_search button{position:absolute;top:0;right:0;width:77px;font-size:13px;text-align:center;color:#1f1f1f;background-color:transparent;border:0}.widget.widget_search button span{display:block;line-height:inherit}.widget.widget_search button span:before{display:block;line-height:inherit}.widget.widget_tag_cloud{margin:0 0 48px}.widget.widget_tag_cloud .tagcloud{font-size:0}.widget.widget_tag_cloud .tagcloud a{position:relative;display:inline-block;vertical-align:top;margin:0 2px 2px 0;padding:5px 10px;font-family:inherit;line-height:inherit;letter-spacing:-.02em;background-color:#f55758;font-size:13px!important;font-weight:600;color:#fff!important}#qodef-side-area .widget{margin:0 0 20px;color:#fff}#qodef-side-area .widget:last-child{margin-bottom:0!important}#qodef-side-area .widget .qodef-widget-title{margin:0 0 13px;color:#fff}#qodef-side-area .widget.widget_search .qodef-search-form-inner{position:relative;display:inline-block;width:100%;vertical-align:top}#qodef-side-area .widget.widget_search button,#qodef-side-area .widget.widget_search input{height:60px;padding:18px 0;font-family:inherit;font-weight:inherit;line-height:24px;border-radius:0;outline:0;-webkit-appearance:none}#qodef-side-area .widget.widget_search input{position:relative;display:inline-block;width:100%;vertical-align:top;padding-left:27px;padding-right:60px;font-size:16px;color:#333;background-color:#f7f7f7;border:1px solid transparent}#qodef-side-area .widget.widget_search input::-webkit-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input::-moz-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input:-ms-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input::-ms-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search button{position:absolute;top:0;right:0;width:77px;font-size:13px;text-align:center;color:#1f1f1f;background-color:transparent;border:0}#qodef-side-area .widget.widget_search button span{display:block;line-height:inherit}#qodef-side-area .widget.widget_search button span:before{display:block;line-height:inherit}#qodef-page-sidebar .widget{margin:0 0 39px}#qodef-page-sidebar .widget:last-child{margin-bottom:0!important}#qodef-page-sidebar .widget .qodef-widget-title{margin:0 0 23px}#qodef-page-sidebar .widget a{color:#333}#qodef-page-sidebar .widget.widget_lekker_core_social_share{margin:0 0 36px}#qodef-page-sidebar .widget.widget_tag_cloud{margin:0 0 48px}#qodef-page-sidebar .widget.widget_tag_cloud .tagcloud{font-size:0}#qodef-page-sidebar .widget.widget_tag_cloud .tagcloud a{position:relative;display:inline-block;vertical-align:top;margin:0 2px 2px 0;padding:5px 10px;font-family:inherit;line-height:inherit;letter-spacing:-.02em;background-color:#f55758;font-size:13px!important;font-weight:600;color:#fff!important}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input[type=search]::-ms-clear{display:none}@media only screen and (max-width:1200px){.qodef-content-grid{width:960px}}@media only screen and (max-width:1024px){.qodef-content-grid{width:768px}}@media only screen and (max-width:768px){.qodef-content-grid{width:600px}}@media only screen and (max-width:680px){.qodef-content-grid{width:420px}}@media only screen and (max-width:480px){.qodef-content-grid{width:300px}}@media only screen and (max-width:1024px){#qodef-page-header{display:none}}@media only screen and (max-width:1024px){#qodef-page-mobile-header{display:block}}#qodef-back-to-top{position:fixed;width:58px;right:50px;bottom:8%;margin:0;z-index:10000;opacity:0;visibility:hidden;-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}#qodef-back-to-top .qodef-btn-background{position:absolute;left:-26px;top:0;background-color:transparent;width:158px;height:58px;z-index:-10}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines{width:58px;height:58px;position:absolute;left:139px}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:after,#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:before{content:'';width:2px;height:24px;background-color:#1f1f1f;position:absolute;right:100%;top:5px;-webkit-transform-origin:top;-ms-transform-origin:top;transform-origin:top;display:inline-block!important}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:after{top:29px;-webkit-transform-origin:bottom;-ms-transform-origin:bottom;transform-origin:bottom}#qodef-back-to-top .qodef-back-to-top-text{position:relative;display:block;width:158px;height:58px;font-family:Poppins,sans-serif;color:#1f1f1f;letter-spacing:-.02em;line-height:58px;font-size:13px;text-align:center;font-weight:700;overflow:hidden}#qodef-back-to-top span span{display:block;line-height:inherit}.qodef-blog{position:relative}#qodef-page-header .qodef-widget-holder{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:100%;margin-left:24px}#qodef-page-header .qodef-widget-holder .widget{margin:0 12px}#qodef-page-header .qodef-widget-holder .widget:first-child{margin-left:0;margin-right:5px}#qodef-page-header .qodef-widget-holder .widget:last-child{margin-right:0}#qodef-page-header .qodef-header-logo-link img.qodef--main{opacity:1}#qodef-page-header .qodef-header-logo-link img.qodef--dark,#qodef-page-header .qodef-header-logo-link img.qodef--light{opacity:0}#qodef-page-header .qodef-header-logo-link img:not(.qodef--main):not(.qodef--sticky){position:absolute;top:50%;left:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.qodef-header-standard--right #qodef-page-header-inner .qodef-header-navigation{margin-left:auto}.qodef-header-sticky{position:fixed;top:0;left:0;height:110px;width:100%;background-color:#fff;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);z-index:100}.qodef-header-sticky-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 45px}.qodef-header-standard--right .qodef-header-sticky-inner .qodef-header-logo-link{margin-right:auto}#qodef-page-mobile-header{background-color:#fff}#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--main{opacity:1}#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--dark,#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--light{opacity:0}#qodef-page-mobile-header .qodef-mobile-header-logo-link img:not(.qodef--main){position:absolute;top:50%;left:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.qodef-mobile-header--standard #qodef-page-mobile-header #qodef-page-mobile-header-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.qodef-mobile-header--standard #qodef-page-mobile-header #qodef-page-mobile-header-inner .qodef-mobile-header-logo-link{margin-right:auto}.qodef-header-navigation ul li .qodef-drop-down-second{position:absolute;top:100%;left:-33px;display:block;width:260px;opacity:0;visibility:hidden;overflow:hidden;z-index:10;background-color:#1f1f1f}.qodef-header-navigation ul li.qodef-menu-item--narrow .qodef-drop-down-second-inner{position:relative;display:inline-block;width:100%;vertical-align:top}.qodef-header-navigation ul li.qodef-menu-item--narrow .qodef-drop-down-second-inner>ul{opacity:1;visibility:visible}.qodef-opener-icon{position:relative;display:inline-block;vertical-align:middle;line-height:1}.qodef-opener-icon .qodef-m-icon{position:relative;visibility:visible}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines{position:relative;display:block;width:45px;height:45px;background-color:#000;border-radius:50%;-webkit-backface-visibility:hidden;backface-visibility:hidden}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines:before{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:4px;top:3px;z-index:-1;-webkit-transform:scale(.5);-ms-transform:scale(.5);transform:scale(.5)}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines:after{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:8px;top:7px;z-index:-1;-webkit-transform:scale(.5);-ms-transform:scale(.5);transform:scale(.5)}.qodef-opener-icon.qodef-source--predefined .qodef-m-line{position:absolute;left:10px;height:2px;width:56%;background-color:#fff}.qodef-opener-icon.qodef-source--predefined .qodef-m-line.qodef--1{top:18px}.qodef-opener-icon.qodef-source--predefined .qodef-m-line.qodef--2{top:26px}.qodef-separator{position:relative;height:auto;font-size:0;line-height:1}.qodef-separator .qodef-m-line{position:relative;display:inline-block;width:100%;vertical-align:top;margin:10px 0;border-bottom:1px solid #e1e1e1}#qodef-side-area .widget.widget_lekker_core_separator{margin-bottom:0}#qodef-side-area{position:fixed;top:0;right:-490px;width:490px;height:100%;min-height:100%;padding:64px 101px 35px 66px;text-align:left;background-color:#1f1f1f;overflow:hidden;visibility:hidden;z-index:9999}#qodef-side-area-close{position:absolute;top:31px;right:46px;display:block;z-index:1000;color:#fff}#qodef-side-area-close.qodef-source--predefined .qodef-m-line{background-color:#1f1f1f}#qodef-side-area-close.qodef-source--predefined .qodef-m-line.qodef--1{top:21px;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}#qodef-side-area-close.qodef-source--predefined .qodef-m-line.qodef--2{top:21px;-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg)}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines{background-color:#fff}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines:after,#qodef-side-area-close.qodef-source--predefined .qodef-m-lines:before{display:none}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines .qodef-m-line{height:2px;width:56%}.qodef-social-share{position:relative;display:inline-block;vertical-align:top}.qodef-social-share .qodef-social-title{position:relative;display:inline-block;vertical-align:top;margin:0 10px 0 0;font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;line-height:1}.qodef-social-share ul{position:relative;vertical-align:middle;list-style:none;padding:0;margin:0;display:inline-block}.qodef-social-share li{position:relative;display:inline-block;vertical-align:top;line-height:1;padding:0;margin:0}.qodef-social-share li a{font-size:14px}.qodef-social-share.qodef-layout--list li{margin-right:15px}.qodef-social-share.qodef-layout--list li:last-child{margin-right:0}.widget .qodef-social-share.qodef-layout--list .qodef-social-title{display:block;margin-bottom:26px}.qodef-page-title{background-position:center 0;background-repeat:no-repeat;background-size:cover}.qodef-page-title.qodef-alignment--center{text-align:center}@media only screen and (max-width:1024px){body:not(.qodef-content-behind-header) #qodef-page-outer{margin-top:0!important}}@media only screen and (max-width:1024px){body:not(.qodef-content-behind-header) .qodef-page-title .qodef-m-content{padding-top:0!important}}button::-moz-focus-inner{padding:0;border:0}.screen-reader-text{position:absolute;top:-10000em;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}:root{--page-title-display:block}h1.entry-title{display:var(--page-title-display)}.elementor-kit-32{--e-global-color-primary:#000000;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#FF00E5;--e-global-color-4786da9:#FFFFFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Maven Pro";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500}.elementor-kit-32 h1{font-family:"Maven Pro",Sans-serif}h1.entry-title{display:var(--page-title-display)}</style><link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%7CMaven%20Pro%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMaven%20Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin-ext%2Clatin&#038;display=swap" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" /><link rel="preload" href="https://clinc.com/wp-content/cache/min/1/3fc4c47819f49760ec006823061202d3.css" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" media="all" data-minify="1" />
+	<meta name="description" content="Banks are benefiting by using AI assistants to handle any number of tasks that are traditionally time-consuming, labor intensive, and prone to mistakes." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://clinc.com/ai-banking/" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Cooper Lower">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="4 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://clinc.com/#organization","name":"Clinc","url":"https://clinc.com/","sameAs":["https://www.facebook.com/clincAI","https://www.instagram.com/clinc.ai/","https://www.linkedin.com/company/clinc-inc./","https://twitter.com/ClincAI"],"logo":{"@type":"ImageObject","@id":"https://clinc.com/#logo","inLanguage":"en-US","url":"https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg","caption":"Clinc"},"image":{"@id":"https://clinc.com/#logo"}},{"@type":"WebSite","@id":"https://clinc.com/#website","url":"https://clinc.com/","name":"Clinc.com","description":"Clinc Conversational AI","publisher":{"@id":"https://clinc.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://clinc.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://clinc.com/ai-banking/#primaryimage","inLanguage":"en-US","url":"https://clinc.com/wp-content/uploads/2019/06/banking-AI.jpg","width":1024,"height":535},{"@type":"WebPage","@id":"https://clinc.com/ai-banking/#webpage","url":"https://clinc.com/ai-banking/","name":"The Future of AI in Banking (2019) - Clinc.com","isPartOf":{"@id":"https://clinc.com/#website"},"primaryImageOfPage":{"@id":"https://clinc.com/ai-banking/#primaryimage"},"datePublished":"2019-06-13T17:13:15+00:00","dateModified":"2020-11-18T23:19:03+00:00","description":"Banks are benefiting by using AI assistants to handle any number of tasks that are traditionally time-consuming, labor intensive, and prone to mistakes.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://clinc.com/ai-banking/"]}]},{"@type":"Article","@id":"https://clinc.com/ai-banking/#article","isPartOf":{"@id":"https://clinc.com/ai-banking/#webpage"},"author":{"@id":"https://clinc.com/#/schema/person/d80fc4c1521c188113cd9698cd270fd3"},"headline":"The Future of AI in Banking (2019)","datePublished":"2019-06-13T17:13:15+00:00","dateModified":"2020-11-18T23:19:03+00:00","mainEntityOfPage":{"@id":"https://clinc.com/ai-banking/#webpage"},"publisher":{"@id":"https://clinc.com/#organization"},"image":{"@id":"https://clinc.com/ai-banking/#primaryimage"},"articleSection":"AI for Banks","inLanguage":"en-US"},{"@type":"Person","@id":"https://clinc.com/#/schema/person/d80fc4c1521c188113cd9698cd270fd3","name":"Cooper Lower","image":{"@type":"ImageObject","@id":"https://clinc.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/95cbc99d6ee470a0733d6df8229ea796?s=96&d=mm&r=g","caption":"Cooper Lower"}}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Clinc.com &raquo; Feed" href="https://clinc.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Clinc.com &raquo; Comments Feed" href="https://clinc.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Clinc.com &raquo; The Future of AI in Banking (2019) Comments Feed" href="https://clinc.com/ai-banking/feed/" />
+		
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	
+
+
+
+
+
+
+<link rel='preload'   href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.6.2' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" type='text/css' media='all' />
+
+
+
+
+
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+
+
+
+
+
+
+
+
+
+
+<style id='lekker-style-inline-css' type='text/css'>
+#qodef-page-outer { margin-top: -110px;}#qodef-side-area { background-color: #1f1f1f;}.qodef-page-title { height: 250px;background-color: #f7f7f7;background-image: url(https://clinc.com/wp-content/uploads/2020/10/L2-bg.svg);}.qodef-page-title .qodef-m-content { padding-top: 110px;}@media only screen and (max-width: 1024px) { .qodef-page-title { height: 200px;}}h1 { font-weight: 500;}a:hover, p a:hover { color: #8224e3;}.qodef-header--standard #qodef-page-header { background-color: rgba(247,247,247,0);}
+</style>
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' src='https://clinc.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+
+
+<link rel="https://api.w.org/" href="https://clinc.com/wp-json/" /><link rel="alternate" type="application/json" href="https://clinc.com/wp-json/wp/v2/posts/363" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://clinc.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://clinc.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://clinc.com/?p=363' />
+<link rel="alternate" type="application/json+oembed" href="https://clinc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fclinc.com%2Fai-banking%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://clinc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fclinc.com%2Fai-banking%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v7.47.0-->
+			
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					}
+					Object.defineProperty(window.hbspt.forms, 'create', {
+						configurable: true,
+						get: function() {
+							return hbspt._wpCreateForm;
+						},
+						set: function(value) {
+							hbspt._wpCreateForm = value;
+							while (hbspt._wpFormsQueue.length) {
+								var formDef = hbspt._wpFormsQueue.shift();
+								if (!document.currentScript) {
+									var formScriptId = 'hbspt-forms-loader-script';
+									hubspot.utils.currentScript = document.getElementsById(formScriptId);
+								}
+								hbspt._wpCreateForm.call(hbspt.forms, formDef);
+							}
+						},
+					})
+				})();
+			</script>
+		<style>/* CSS added by WP Meta and Date Remover*/.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }</style>		
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+						<link rel="pingback" href="https://clinc.com/xmlrpc.php">
+			<meta name="generator" content="Powered by Slider Revolution 6.2.22 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57GP8T2');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NL5M9C2');</script>
+<!-- End Google Tag Manager -->
+<!-- ay gsc -->
+<meta name="google-site-verification" content="xaMz-1XKQTqnresOhb4sfOuEzeWk8G4lrbx805VygHE">
+
+<!-- mb gsc -->
+<meta name="google-site-verification" content="xsf4J2XL-2DBg4L14IENWsi4l_PX1hpr6UZvWtzJWdA">
+
+<link rel="icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			.wp-block-quote:before, blockquote:before {
+  content: '“';
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  height: .3em;
+  font-size: 150px;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: -.03em;
+  color: #333;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: -1;
+}
+
+/* Remove meta data */
+
+
+.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }		</style>
+		<script>
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
+</script></head>
+<body class="post-template-default single single-post postid-363 single-format-standard qode-framework-1.1.3 qodef-back-to-top--enabled  qodef-content-grid-1300 qodef-header--standard qodef-header-appearance--sticky qodef-mobile-header--standard qodef-drop-down-second--full-width qodef-drop-down-second--animate-height lekker-core-1.0.1 lekker-1.1 qodef-header-standard--right qodef-search--covers-header elementor-default elementor-kit-32 elementor-page elementor-page-363" itemscope itemtype="https://schema.org/WebPage">
+
+		<div id="qodef-page-wrapper" class="">
+		<header id="qodef-page-header">
+		<div id="qodef-page-header-inner" >
+		<a itemprop="url" class="qodef-header-logo-link qodef-height--set" href="https://clinc.com/" style="height:44px" rel="home">
+	<img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main" alt="logo main" loading="lazy" /></noscript></noscript>	<img   alt="logo dark" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--dark lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--dark" alt="logo dark" loading="lazy" /></noscript>	<img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light" alt="logo light" loading="lazy" /></noscript></noscript></a>	<nav class="qodef-header-navigation" role="navigation" aria-label="Top Menu">
+		<ul id="menu-clinc-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4967"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5334"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5092 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5142"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5090"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5147"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5234 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5225"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5014"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5233"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5228 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5266"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5290"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5449"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi Case Study</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5086"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	<div class="qodef-widget-holder">
+		<div id="lekker_core_side_area_opener-2" class="widget widget_lekker_core_side_area_opener qodef-header-widget-area-one" data-area="header-widget-one"><a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--predefined qodef-side-area-opener" style="color: #1f1f1f;;margin: 0 0 0 13px" >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a></div>	</div>
+	</div>
+	<div class="qodef-header-sticky ">
+    <div class="qodef-header-sticky-inner ">
+		<a itemprop="url" class="qodef-header-logo-link qodef-height--set" href="https://clinc.com/" style="height:44px" rel="home">
+	<img   alt="logo sticky" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--sticky lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--sticky" alt="logo sticky" loading="lazy" /></noscript></a>	<nav class="qodef-header-navigation" role="navigation" aria-label="Top Menu">
+		<ul id="menu-clinc-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4967"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5334"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5092 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5142"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5090"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5147"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5234 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5225"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5014"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5233"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5228 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5266"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5290"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5449"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi Case Study</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5086"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	    <div class="qodef-widget-holder">
+		    <div id="lekker_core_side_area_opener-4" class="widget widget_lekker_core_side_area_opener qodef-sticky-right"><a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--predefined qodef-side-area-opener" style="margin: 0 0 0 13px" >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a></div>	    </div>
+	        </div>
+</div></header><header id="qodef-page-mobile-header">
+		<div id="qodef-page-mobile-header-inner">
+		<div class="qodef-page-mobile-header-logo-opener">
+    <a itemprop="url" class="qodef-mobile-header-logo-link" href="https://clinc.com/" style="height:26px" rel="home">
+	<img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main" alt="logo main" loading="lazy" /></noscript></noscript>	<img   alt="logo dark" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--dark lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--dark" alt="logo dark" loading="lazy" /></noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light" alt="logo light" loading="lazy" /></noscript></noscript></a><a class="qodef-mobile-header-opener" href="#">
+	<span class="qodef-m-lines">
+		<span class="qodef-m-line qodef--1"></span>
+		<span class="qodef-m-line qodef--2"></span>
+	</span>
+</a></div>
+	<nav class="qodef-mobile-header-navigation" role="navigation" aria-label="Mobile Menu">
+		<ul id="menu-mobile-menu-1" class="qodef-content-grid"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5497"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5486"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5496 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5494"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5495"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5493"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5491"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5498 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5490"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5489"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5500"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5501 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5488"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5487"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5485"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5502"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	</div>
+	</header>		<div id="qodef-page-outer">
+			<div class="qodef-page-title qodef-m qodef-title--standard qodef-alignment--center qodef-vertical-alignment--header-bottom qodef--has-image">
+		<div class="qodef-m-inner">
+		<div class="qodef-m-content qodef-content-grid ">
+    <h1 class="qodef-m-title entry-title">
+        Blog    </h1>
+    </div>	</div>
+	</div>			<div id="qodef-page-inner" class="qodef-content-grid"><main id="qodef-page-content" class="qodef-grid qodef-layout--template qodef-gutter--large">
+	<div class="qodef-grid-inner clear">
+		<div class="qodef-grid-item qodef-page-content-section qodef-col--8">
+		<div class="qodef-blog qodef-m qodef--single">
+		<article class="qodef-blog-item qodef-e post-363 post type-post status-publish format-standard has-post-thumbnail hentry category-ai-for-banks">
+	<div class="qodef-e-inner">
+		<div class="qodef-e-media">
+		<div class="qodef-e-media-image">
+					<img width="1024" height="535"   alt="" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2019/06/banking-AI.jpg 1024w, https://clinc.com/wp-content/uploads/2019/06/banking-AI-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2019/06/banking-AI-768x401.jpg 768w"  data-src="https://clinc.com/wp-content/uploads/2019/06/banking-AI.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-full size-full wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="535" src="https://clinc.com/wp-content/uploads/2019/06/banking-AI.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2019/06/banking-AI.jpg 1024w, https://clinc.com/wp-content/uploads/2019/06/banking-AI-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2019/06/banking-AI-768x401.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>					</div>
+</div>		<div class="qodef-e-content">
+			<div class="qodef-e-info qodef-info--top">
+				<div class="qodef-e-info-item qodef-e-info-author">
+	<span class="qodef-e-info-author-label">By</span>
+	<a itemprop="author" class="qodef-e-info-author-link" href="https://clinc.com/author/cooper-lower/">
+			</a>
+</div><div itemprop="dateCreated" class="qodef-e-info-item qodef-e-info-date entry-date published updated">
+	<a itemprop="url" href="https://clinc.com/2021/03/"></a>
+	<meta itemprop="interactionCount" content="UserComments: 0"/>
+</div><div class="qodef-e-info-item qodef-e-info-category">
+	<a href="https://clinc.com/category/ai-for-banks/" rel="category tag">AI for Banks</a></div>			</div>
+			<div class="qodef-e-text">
+				<h3 itemprop="name" class="qodef-e-title entry-title">
+			The Future of AI in Banking (2019)	</h3>		<div data-elementor-type="wp-post" data-elementor-id="363" class="elementor elementor-363" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-41cf4bc4 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="41cf4bc4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a23b1b6" data-id="a23b1b6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3a746f57 elementor-widget elementor-widget-text-editor" data-id="3a746f57" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Banks have long been on the cutting edge of technological advancements. From computers to the internet to mobile apps, few industries have benefited as much from new technology as the banking industry.</p><p>Artificial intelligence (AI) is no different. With the rise of AI, banks have a new tool to handle any number of tasks that are traditionally time-consuming, labor intensive, and prone to mistakes. There are several ways AI is doing this and will continue to do so in the years ahead.</p><h4>Document Review</h4><p>JPMorgan Chase made headlines with its deployment of an AI bot whose function was quite different from those of other banks. Whereas many banks are using AI in the form of chatbots that interact with customers, JPMorgan Chase deployed a bot, known as COIN, that customers will never see—a bot that analyzes contracts, agreements, paperwork, and legal documents.</p><p>COIN is so successful that in the first 15 months of deployment, the AI saved the bank some 360,000 hours of manpower. COIN can do in seconds what takes human beings hours to accomplish. Just as important, COIN can analyze complex agreements, contracts, and legal documents more accurately than a person.</p><h4>Anti-Money Laundering</h4><p>Anti-money laundering (AML) is another area where banks are beginning to tap into the power of AI. Detecting money laundering is a notoriously difficult task. With hundreds of thousands of wire transfers totaling trillions of dollars a day—not to mention the various privacy laws designed to protect financial customers—it’s almost impossible to identify every instance of money laundering. In spite of that, in the aftermath of 9/11, banks are required to do everything possible to identify and help combat money laundering.</p><p>While banks have been using rule-based software to identify money laundering for some time, AI offers a significant improvement. True AI learns, grows, and adapts with each experience, both successful and unsuccessful. As a result, while AI is already making a dent in AML, as time goes on, it will continue to rack up successes. Much of this is due to AI’s ability to process large quantities of data and see trends and patterns that can be easily missed when attempting to detect money laundering.</p><h4>Fraud Detection</h4><p>Closely related is the use of AI in fraud detection. Virtually every credit card and debit card user has been on the receiving end of having their suspended due to suspicious activity. Unfortunately, more often than not, there’s no actual fraudulent activity. Traveling, using a card at unfamiliar stores or purchasing products from some online stores can trigger a fraudulent warning.</p><p>Another area where AI is beginning to shines is improved customer experience. Thanks to machine learning, AI can identify patterns and data points that rudimentary, rule-based software can easily miss. Also, AI offers improved privacy and security—an essential factor when discussing financial transactions.</p><h4>Predictive Banking</h4><p>For centuries banks have responded to customer needs after being approached by a customer making a request. For the first time in history, banks can anticipate what customers want and need before being contacted,  and instead approach the customer to meet those needs.</p><p>AI is making that possible for the first time in history. AI uses vast quantities of data; it has access to create predictive profiles of customers. Banks now can offer services to customers based on real-time data and insights. Instead of waiting for a customer to approach the bank with a request, virtual agents can analyze data and propose a service, or mix of services, tailored to the customer’s needs.</p><p>In time, it’s entirely likely that virtual agents will eventually begin replacing many traditional roles in the banking industry. AI offers the ability for banks to make data-based decisions faster, in real-time and proactively. As with any use of true AI, the more transactions a virtual agent engages in, the better, more efficient it will become.</p><h4>Customer Service</h4><p>AI is already revolutionizing the customer service process. It’s no secret that banks have different tiers of support. Unfortunately, like any business, banks have limited resources and cannot afford to provide everyone with that level of service—until now.</p><p>AI provides a viable way for all of a bank’s customers to receive top-notch service. Chatbots offer 24/7 help and support, mobile banking apps use predictive algorithms to show customers what they want to see preemptively and virtual loan officers and financial advisors can proactively make offers and provide financial advice—all based on data and machine learning AI. Meanwhile, on the back-end, AI can be double-checking and analyzing legal documents and contracts to ensure the customer, as well as the bank, are protected.</p><h4>AI-Based Banking: The Future</h4><p>The evidence is clear: The future of AI in banking in 2019 and beyond has never looked better. In fact, in an article for<a href="https://www.globalbankingandfinance.com/five-fintech-predictions-for-2019/"> Global Banking &amp; Finance Review</a>, Five Degrees CEO Martijn Hohmann predicts that “through using cognitive computing systems, including real-time insights and information processing, banks can seize an opportunity that will grow revenues up to 30 percent by 2022.”</p><p>Whether it document processing, anti-money laundering, fraud detection, predictive banking, or customer service, AI offers a level of efficiency that is unparalleled in the history of banking. With access to virtually unlimited data, AI can see trends, patterns, outliers, and data points in a much larger context than the average human could easily discern. Best of all, with an increasing focus on privacy, AI represents a viable way to use that data in a safe, responsible manner.</p><p><a href="https://clinc.com/contact/">Contact us</a> to see how our AI platform can help your bank move forward in 2019 and beyond.</p><div class="level__left"><div class="level__item"><div class="js-copy-attribute-content rd__p rd__p--no-margin">Photo by <strong><a href="https://www.pexels.com/@croberin?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Croberin Photography </a></strong>from <strong><a href="https://www.pexels.com/photo/curtain-glass-building-1422408/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Pexels</a></strong></div></div></div></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+					</div>
+						<div class="qodef-e-info qodef-info--bottom">
+				<div class="qodef-e-info-left">
+									</div>
+				<div class="qodef-e-info-right">
+						<div class="qodef-shortcode qodef-m  qodef-social-share clear qodef-layout--list ">			<span class="qodef-social-title">Share: </span>		<ul class="qodef-shortcode-list">		<li class="qodef-facebook-share">	<a itemprop="url" class="qodef-share-link" href="#" onclick="window.open(&#039;https://www.facebook.com/sharer.php?u=https%3A%2F%2Fclinc.com%2Fai-banking%2F&#039;, &#039;sharer&#039;, &#039;toolbar=0,status=0,width=620,height=280&#039;);">	 				<span class="qodef-icon-elegant-icons social_facebook qodef-social-network-icon"></span>			</a></li><li class="qodef-twitter-share">	<a itemprop="url" class="qodef-share-link" href="#" onclick="window.open(&#039;https://twitter.com/intent/tweet?text=Banks+have+long+been+on+the+cutting+edge+of+technological+advancements.+From+computers+to+the++via+%40clinc.comhttps://clinc.com/ai-banking/&#039;, &#039;popupwindow&#039;, &#039;scrollbars=yes,width=800,height=400&#039;);">	 				<span class="qodef-icon-elegant-icons social_twitter qodef-social-network-icon"></span>			</a></li><li class="qodef-linkedin-share">	<a itemprop="url" class="qodef-share-link" href="#" onclick="popUp=window.open(&#039;https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fclinc.com%2Fai-banking%2F&amp;title=The+Future+of+AI+in+Banking+%282019%29&#039;, &#039;popupwindow&#039;, &#039;scrollbars=yes,width=800,height=400&#039;);popUp.focus();return false;">	 				<span class="qodef-icon-elegant-icons social_linkedin qodef-social-network-icon"></span>			</a></li>	</ul></div>				</div>
+			</div>
+					</div>
+	</div>
+</article>	<div id="qodef-single-post-navigation" class="qodef-m">
+		<div class="qodef-m-inner">
+								<a itemprop="url" class="qodef-m-nav qodef--prev" href="https://clinc.com/finovate-2017-artificial-intelligence/">
+						<span class="qodef-m-nav-lines"></span>
+						<span class="qodef-m-nav-label">Prev</span>					</a>
+									<a itemprop="url" class="qodef-m-nav qodef--next" href="https://clinc.com/automate-your-customer-communication-without-sacrificing-experience/">
+						<span class="qodef-m-nav-lines"></span>
+						<span class="qodef-m-nav-label">Next</span>					</a>
+						</div>
+	</div>
+	<div id="qodef-related-posts">
+		<div class="qodef-shortcode qodef-m qodef--no-bottom-space qodef-blog qodef-item-layout--basic qodef-grid qodef-layout--columns  qodef-gutter--normal qodef-col-num--3   qodef-item-layout--basic qodef--no-bottom-space qodef-pagination--off qodef-responsive--predefined" data-options="{&quot;plugin&quot;:&quot;lekker_core&quot;,&quot;module&quot;:&quot;blog\/shortcodes&quot;,&quot;shortcode&quot;:&quot;blog-list&quot;,&quot;post_type&quot;:&quot;post&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:3,&quot;custom_class&quot;:&quot;qodef--no-bottom-space&quot;,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columns_responsive&quot;:&quot;predefined&quot;,&quot;columns_1440&quot;:&quot;3&quot;,&quot;columns_1366&quot;:&quot;3&quot;,&quot;columns_1024&quot;:&quot;3&quot;,&quot;columns_768&quot;:&quot;3&quot;,&quot;columns_680&quot;:&quot;3&quot;,&quot;columns_480&quot;:&quot;3&quot;,&quot;space&quot;:&quot;normal&quot;,&quot;posts_per_page&quot;:3,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;category&quot;,&quot;tax__in&quot;:[91],&quot;layout&quot;:&quot;basic&quot;,&quot;title_tag&quot;:&quot;h5&quot;,&quot;excerpt_length&quot;:&quot;100&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;object_class_name&quot;:&quot;LekkerCoreBlogListShortcode&quot;,&quot;taxonomy_filter&quot;:&quot;category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;category&quot;,&quot;field&quot;:&quot;term_id&quot;,&quot;terms&quot;:[91]}]},&quot;space_value&quot;:15}">		<div class="qodef-grid-inner clear">		<article class="qodef-e qodef-grid-item qodef-item--full post-534 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-ai-for-banks category-conversational-ai tag-ai-for-banking tag-american-banker tag-conversational-ai tag-covid-19 tag-virtual-assistants">	<div class="qodef-e-inner">			<div class="qodef-e-media-image">		<a itemprop="url" href="https://clinc.com/clincs-tech-isbanks-maxi-featured-in-american-banker/">			<img width="1024" height="535"   alt="" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2020/06/blog-images_0001_AmericanBanker_blog_Blog.jpg 1024w, https://clinc.com/wp-content/uploads/2020/06/blog-images_0001_AmericanBanker_blog_Blog-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2020/06/blog-images_0001_AmericanBanker_blog_Blog-768x401.jpg 768w"  data-src="https://clinc.com/wp-content/uploads/2020/06/blog-images_0001_AmericanBanker_blog_Blog.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-full size-full wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="535" src="https://clinc.com/wp-content/uploads/2020/06/blog-images_0001_AmericanBanker_blog_Blog.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2020/06/blog-images_0001_AmericanBanker_blog_Blog.jpg 1024w, https://clinc.com/wp-content/uploads/2020/06/blog-images_0001_AmericanBanker_blog_Blog-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2020/06/blog-images_0001_AmericanBanker_blog_Blog-768x401.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>		</a>	</div>		<div class="qodef-e-content">			<h5 itemprop="name" class="qodef-e-title entry-title" >	<a itemprop="url" class="qodef-e-title-link" href="https://clinc.com/clincs-tech-isbanks-maxi-featured-in-american-banker/">		Clinc&#8217;s Tech, İşbank’s Maxi Featured in American Banker	</a></h5>		</div>	</div></article><article class="qodef-e qodef-grid-item qodef-item--full post-532 post type-post status-publish format-standard has-post-thumbnail hentry category-ai-for-banks category-clinc category-conversational-ai tag-ai-for-banking tag-conversational-ai tag-financial-services tag-fintech">	<div class="qodef-e-inner">			<div class="qodef-e-media-image">		<a itemprop="url" href="https://clinc.com/financial-institutions-can-connect-with-consumers-via-conversational-banking-capability-from-fiserv/">			<img width="1024" height="535"   alt="finserve" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2020/06/finserve.jpg 1024w, https://clinc.com/wp-content/uploads/2020/06/finserve-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2020/06/finserve-768x401.jpg 768w"  data-src="https://clinc.com/wp-content/uploads/2020/06/finserve.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-full size-full wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="535" src="https://clinc.com/wp-content/uploads/2020/06/finserve.jpg" class="attachment-full size-full wp-post-image" alt="finserve" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2020/06/finserve.jpg 1024w, https://clinc.com/wp-content/uploads/2020/06/finserve-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2020/06/finserve-768x401.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>		</a>	</div>		<div class="qodef-e-content">			<h5 itemprop="name" class="qodef-e-title entry-title" >	<a itemprop="url" class="qodef-e-title-link" href="https://clinc.com/financial-institutions-can-connect-with-consumers-via-conversational-banking-capability-from-fiserv/">		Financial Institutions Can Connect with Consumers via Conversational Banking Capability from Fiserv	</a></h5>		</div>	</div></article><article class="qodef-e qodef-grid-item qodef-item--full post-530 post type-post status-publish format-standard has-post-thumbnail hentry category-ai-for-banks category-conversational-ai tag-ai-for-banking tag-conversational-ai tag-covid-19 tag-financial-services">	<div class="qodef-e-inner">			<div class="qodef-e-media-image">		<a itemprop="url" href="https://clinc.com/isbanks-virtual-assistant-maxi-has-responded-to-more-than-1-million-customer-inquiries-related-to-covid-19/">			<img width="1024" height="535"   alt="" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2020/05/isbank-maxi.jpg 1024w, https://clinc.com/wp-content/uploads/2020/05/isbank-maxi-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2020/05/isbank-maxi-768x401.jpg 768w"  data-src="https://clinc.com/wp-content/uploads/2020/05/isbank-maxi.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-full size-full wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="535" src="https://clinc.com/wp-content/uploads/2020/05/isbank-maxi.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2020/05/isbank-maxi.jpg 1024w, https://clinc.com/wp-content/uploads/2020/05/isbank-maxi-300x157.jpg 300w, https://clinc.com/wp-content/uploads/2020/05/isbank-maxi-768x401.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>		</a>	</div>		<div class="qodef-e-content">			<h5 itemprop="name" class="qodef-e-title entry-title" >	<a itemprop="url" class="qodef-e-title-link" href="https://clinc.com/isbanks-virtual-assistant-maxi-has-responded-to-more-than-1-million-customer-inquiries-related-to-covid-19/">		İşbank’s Virtual Assistant Maxi Has Responded to More Than 1 Million Customer Inquiries Related To COVID-19	</a></h5>		</div>	</div></article>	</div>	</div>	</div>
+	</div>
+</div>	<div class="qodef-grid-item qodef-page-sidebar-section qodef-col--4">
+			<aside id="qodef-page-sidebar">
+		<div id="tag_cloud-2" class="widget widget_tag_cloud" data-area="main-sidebar"><h5 class="qodef-widget-title">Tags</h5><div class="tagcloud"><a href="https://clinc.com/tag/ai/" class="tag-cloud-link tag-link-103 tag-link-position-1" style="font-size: 8pt;" aria-label="AI (1 item)">AI</a>
+<a href="https://clinc.com/tag/ai-for-banking/" class="tag-cloud-link tag-link-104 tag-link-position-2" style="font-size: 20.2972972973pt;" aria-label="AI for Banking (8 items)">AI for Banking</a>
+<a href="https://clinc.com/tag/american-banker/" class="tag-cloud-link tag-link-109 tag-link-position-3" style="font-size: 8pt;" aria-label="American Banker (1 item)">American Banker</a>
+<a href="https://clinc.com/tag/automation/" class="tag-cloud-link tag-link-99 tag-link-position-4" style="font-size: 8pt;" aria-label="automation (1 item)">automation</a>
+<a href="https://clinc.com/tag/conversational-ai/" class="tag-cloud-link tag-link-100 tag-link-position-5" style="font-size: 22pt;" aria-label="conversational AI (10 items)">conversational AI</a>
+<a href="https://clinc.com/tag/coronavirus/" class="tag-cloud-link tag-link-105 tag-link-position-6" style="font-size: 8pt;" aria-label="Coronavirus (1 item)">Coronavirus</a>
+<a href="https://clinc.com/tag/covid-19/" class="tag-cloud-link tag-link-106 tag-link-position-7" style="font-size: 15.5675675676pt;" aria-label="COVID-19 (4 items)">COVID-19</a>
+<a href="https://clinc.com/tag/digital-self-service/" class="tag-cloud-link tag-link-101 tag-link-position-8" style="font-size: 8pt;" aria-label="digital self service (1 item)">digital self service</a>
+<a href="https://clinc.com/tag/financial-services/" class="tag-cloud-link tag-link-107 tag-link-position-9" style="font-size: 17.0810810811pt;" aria-label="Financial Services (5 items)">Financial Services</a>
+<a href="https://clinc.com/tag/fintech/" class="tag-cloud-link tag-link-108 tag-link-position-10" style="font-size: 15.5675675676pt;" aria-label="Fintech (4 items)">Fintech</a>
+<a href="https://clinc.com/tag/virtual-assistants/" class="tag-cloud-link tag-link-102 tag-link-position-11" style="font-size: 17.0810810811pt;" aria-label="virtual assistants (5 items)">virtual assistants</a></div>
+</div><div id="lekker_core_social_share-2" class="widget widget_lekker_core_social_share" data-area="main-sidebar"><div class="qodef-shortcode qodef-m  qodef-social-share clear qodef-layout--list ">
+			<span class="qodef-social-title">Share</span>
+		<ul class="qodef-shortcode-list">
+		<li class="qodef-facebook-share">
+	<a itemprop="url" class="qodef-share-link" href="#" onclick="window.open(&#039;https://www.facebook.com/sharer.php?u=https%3A%2F%2Fclinc.com%2Fai-banking%2F&#039;, &#039;sharer&#039;, &#039;toolbar=0,status=0,width=620,height=280&#039;);">
+	 				<span class="qodef-icon-elegant-icons social_facebook qodef-social-network-icon"></span>			</a>
+</li><li class="qodef-twitter-share">
+	<a itemprop="url" class="qodef-share-link" href="#" onclick="window.open(&#039;https://twitter.com/intent/tweet?text=Banks+have+long+been+on+the+cutting+edge+of+technological+advancements.+From+computers+to+the++via+%40clinc.comhttps://clinc.com/ai-banking/&#039;, &#039;popupwindow&#039;, &#039;scrollbars=yes,width=800,height=400&#039;);">
+	 				<span class="qodef-icon-elegant-icons social_twitter qodef-social-network-icon"></span>			</a>
+</li><li class="qodef-linkedin-share">
+	<a itemprop="url" class="qodef-share-link" href="#" onclick="popUp=window.open(&#039;https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fclinc.com%2Fai-banking%2F&amp;title=The+Future+of+AI+in+Banking+%282019%29&#039;, &#039;popupwindow&#039;, &#039;scrollbars=yes,width=800,height=400&#039;);popUp.focus();return false;">
+	 				<span class="qodef-icon-elegant-icons social_linkedin qodef-social-network-icon"></span>			</a>
+</li>	</ul>
+</div></div>	</aside>
+	</div>
+	</div>
+</main>
+			</div><!-- close #qodef-page-inner div from header.php -->
+		</div><!-- close #qodef-page-outer div from header.php -->
+		<footer id="qodef-page-footer" >
+		<div id="qodef-page-footer-top-area">
+		<div id="qodef-page-footer-top-area-inner" class="qodef-content-grid">
+			<div class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--3 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1">
+				<div class="qodef-grid-inner clear">
+											<div class="qodef-grid-item">
+							<div id="nav_menu-2" class="widget widget_nav_menu" data-area="footer_top_area_column_1"><div class="menu-footer-menu-left-container"><ul id="menu-footer-menu-left" class="menu"><li id="menu-item-5520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5520"><a href="https://clinc.com/">Home</a></li>
+<li id="menu-item-5465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5465"><a href="https://clinc.com/why-clinc/">Why Clinc?</a></li>
+<li id="menu-item-5466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5466"><a href="https://clinc.com/about-us/">About Us</a></li>
+</ul></div></div>						</div>
+											<div class="qodef-grid-item">
+							<div id="media_image-2" class="widget widget_media_image" data-area="footer_top_area_column_2"><img   alt="" loading="lazy" style="max-width: 100%; height: auto;" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white-1.svg" class="image wp-image-4986  attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white-1.svg" class="image wp-image-4986  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></noscript></div><div id="lekker_core_separator-2" class="widget widget_lekker_core_separator" data-area="footer_top_area_column_2"><div class="qodef-shortcode qodef-m  qodef-separator clear ">
+	<div class="qodef-m-line" style="border-color: #ffffff;width: 50px;border-bottom-width: 2px;margin-top: 47px;margin-bottom: 40px"></div>
+</div></div><div id="text-2" class="widget widget_text" data-area="footer_top_area_column_2">			<div class="textwidget"><p>Follow us on social networks:</p>
+</div>
+		</div><div id="lekker_core_social_icons_group-8" class="widget widget_lekker_core_social_icons_group" data-area="footer_top_area_column_2">            <div class="qodef-social-icons-group">
+				<span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://www.facebook.com/clincAI" target="_blank">
+            <span class="qodef-icon-elegant-icons social_facebook qodef-icon qodef-e" style="" ></span>            </a>
+	</span><span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://www.instagram.com/clinc.ai/?hl=en" target="_blank">
+            <span class="qodef-icon-elegant-icons social_instagram qodef-icon qodef-e" style="" ></span>            </a>
+	</span><span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://twitter.com/clincAI" target="_blank">
+            <span class="qodef-icon-elegant-icons social_twitter qodef-icon qodef-e" style="" ></span>            </a>
+	</span>            </div>
+		</div>						</div>
+											<div class="qodef-grid-item">
+							<div id="nav_menu-3" class="widget widget_nav_menu" data-area="footer_top_area_column_3"><div class="menu-footer-menu-right-container"><ul id="menu-footer-menu-right" class="menu"><li id="menu-item-5467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5467"><a href="https://clinc.com/blog/">Blog</a></li>
+<li id="menu-item-5468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5468"><a href="https://clinc.com/careers/">Careers</a></li>
+<li id="menu-item-5469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5469"><a href="https://clinc.com/contact-us/">Contact Us</a></li>
+</ul></div></div>						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</footer><a id="qodef-back-to-top" href="#">
+    <span class="qodef-btn-background">
+		<span class="qodef-m-nav-lines"></span>
+		<span class="qodef-back-to-top-text">
+			Back To Top		</span>
+    </span>
+</a>	<div id="qodef-side-area" >
+		<a href="javascript:void(0)" id="qodef-side-area-close" class="qodef-opener-icon qodef-m qodef-source--predefined"  >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a>		<div id="qodef-side-area-inner">
+			<div id="search-4" class="widget widget_search" data-area="side-area"><form role="search" method="get" class="qodef-search-form" action="https://clinc.com/">
+	<label for="qodef-search-form-605b21751bd22" class="screen-reader-text">Search for:</label>
+	<div class="qodef-search-form-inner clear">
+		<input type="search" id="qodef-search-form-605b21751bd22" class="qodef-search-form-field" value="" name="s" placeholder="Search..." />
+		<button type="submit" class="qodef-search-form-button"><span class="qodef-icon-elegant-icons icon_search" ></span></button>
+	</div>
+</form></div><div id="lekker_core_separator-15" class="widget widget_lekker_core_separator" data-area="side-area"><div class="qodef-shortcode qodef-m  qodef-separator clear ">
+	<div class="qodef-m-line" style="border-bottom-width: 0px;margin-bottom: -2px"></div>
+</div></div><div id="text-4" class="widget widget_text" data-area="side-area"><h5 class="qodef-widget-title">Where to find us</h5>			<div class="textwidget"><p><span style="line-height: 34px;"><br />
+Headquarters<br />
+<strong>ANN ARBOR</strong><br />
+200 S. First Street<br />
+Ann Arbor, Michigan<br />
+</span><span style="line-height: 34px;">48104<br />
+</span></p>
+</div>
+		</div>		</div>
+	</div>
+	</div><!-- close #qodef-page-wrapper div from header.php -->
+	<!-- Instagram Feed JS -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-delay-js-js-after'>
+(function() {
+"use strict";var e=function(){function n(e,t){for(var r=0;r<t.length;r++){var n=t[r];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(e,n.key,n)}}return function(e,t,r){return t&&n(e.prototype,t),r&&n(e,r),e}}();function n(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function r(e,t){n(this,r),this.attrName="data-rocketlazyloadscript",this.browser=t,this.options=this.browser.options,this.triggerEvents=e,this.userEventListener=this.triggerListener.bind(this)}return e(r,[{key:"init",value:function(){this._addEventListener(this)}},{key:"reset",value:function(){this._removeEventListener(this)}},{key:"_addEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.addEventListener(e,t.userEventListener,t.options)})}},{key:"_removeEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.removeEventListener(e,t.userEventListener,t.options)})}},{key:"_loadScriptSrc",value:function(){var r=this,e=document.querySelectorAll("script["+this.attrName+"]");0!==e.length&&Array.prototype.slice.call(e).forEach(function(e){var t=e.getAttribute(r.attrName);e.setAttribute("src",t),e.removeAttribute(r.attrName)}),this.reset()}},{key:"triggerListener",value:function(){this._loadScriptSrc(),this._removeEventListener(this)}}],[{key:"run",value:function(){RocketBrowserCompatibilityChecker&&new r(["keydown","mouseover","touchmove","touchstart"],new RocketBrowserCompatibilityChecker({passive:!0})).init()}}]),r}();t.run();
+}());
+</script>
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.11","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/clinc.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":363,"title":"The%20Future%20of%20AI%20in%20Banking%20%282019%29%20-%20Clinc.com","excerpt":"","featuredImage":"https:\/\/clinc.com\/wp-content\/uploads\/2019\/06\/banking-AI.jpg"}};
+</script>
+
+
+
+
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/clinc.com\/wp-admin\/admin-ajax.php","nonce":"065040ff4c","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/clinc.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+
+ 
+<script>"use strict";var wprRemoveCPCSS=function wprRemoveCPCSS(){var elem;document.querySelector('link[data-rocket-async="style"][rel="preload"]')?setTimeout(wprRemoveCPCSS,200):(elem=document.getElementById("rocket-critical-css"))&&"remove"in elem&&elem.remove()};window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><script src="https://clinc.com/wp-content/cache/min/1/53283ddc90dee01ef63d7899e9f586fa.js" data-minify="1" defer></script><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%7CMaven%20Pro%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMaven%20Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin-ext%2Clatin&#038;display=swap" /><link rel="stylesheet" href="https://clinc.com/wp-content/cache/min/1/3fc4c47819f49760ec006823061202d3.css" media="all" data-minify="1" /><link rel='stylesheet' id='material-icons-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.6.2' type='text/css' media='all' /></noscript></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

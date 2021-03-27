@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<title>
+Best Sedans For 2021 - Forbes Wheels 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Reviews Lists Guides Car Accessories Reviews Lists Guides Car Accessories Models Ford F-150 Chevrolet Silverado 1500 Ram 1500 Toyota RAV4 Honda CR-V Toyota Camry Honda Civic Chevrolet Equinox GMC Sierra 1500 Nissan Rogue Ford Mustang Mach-E Types Best SUVs For 2021 Best Midsize SUVs Best Midsize Luxury SUVs Best Small SUVs And Crossovers Best Luxury SUVs Best Luxury SUVs Under $50,000 Best Off-Road SUVs Best Pickup Trucks Best Midsize Pickup Trucks Best Sedans For 2021 Best Electric Cars Best Cars of 2021 Car of the Year 2021 Best Minivans Best Sports Cars Best Lease Deals Best SUV Lease Deals Articles Unique Features of the Ford F150 How To Think Like A Car Dealer AWD Vs. 4WD Car Subscription Services What Are Advanced Driver-Assistance Systems? Best Infotainment Systems Why New Vehicles Should Have Apple CarPlay Or Android Auto What Are All-Season Tires? How To Prepare Your Vehicle For A Road Trip Best Summer Road Trip Vehicles 3-Row SUVs With The Most Cargo Space Best SUVs With Roof Rails Types Best Car Accessories Best Car GPS Navigation Systems Best Jumper Cables Best Car Battery Chargers Best Radar Detectors Best Car Seat Covers Best GPS Trackers For Cars Best Ceramic Coatings Best Car Lifts Back To Forbes.com <base-star-rating-v2 :star-rating="ratingValue" out-of="100" v-if="renderRating" :tool-tip-text = "toolTipText"> WHY WE PICKED IT Read More SCROLL TO SITE <compare-modal v-bind:smart-compare-visible="false" v-on:close="toggleCarModal" v-on:add="addCarToCompare"> <transition name="slide-fade"> <bottom-compare-drawer v-if="compareList.length > 0" v-bind:data="compareList" v-on:toggle="toggleCarModal" v-on:removecar="removeCarFromCompare" v-on:compare="sendToComparePage"/> <overlay v-if="showDialogBox" :back-drop-opacity="isDeviceMobile ? 0.38 : 0.7"> <transition name="slide-fade"> <alert v-on:close-alert="showDialogBox = false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="CloseSlideShow" v-if="viewPhotos" :title="galleryTitle"> Wheels Best Sedans Best Sedans For 2021 Alex Kwanten Forbes Staff Updated: Jan 20, 2021 Updated: Jan 20, 2021 Sedans and hatchbacks comprise a little under one in four of new vehicles sold in the U.S. That’s a steep decline from 2000 or even 2012, when cars and light trucks were split 50/50 in terms of consumer preference. Crossovers have taken a big bite out of the sedan market, leading some automakers to pare back their car offerings. Come 2021, the Buick, Ford and Lincoln brands will sell only SUVs, give or take the Mustang. Don’t count sedans out just yet though. There are still lots of buyers—more than 3 million so far this year, according to MotorIntelligence—who prefer cars. Cars are easy to live with: They’re generally quieter, smoother, better handling and more fuel-efficient than their SUV counterparts. Some people just prefer the familiarity of a traditional car. The winnowing of the sedan and hatchback universe means the remaining options must stand out in terms of performance, safety and efficiency. Style also is a huge factor now that over half the market has defected to crossovers and SUV in search of more utility. While Detroit may be throttling back on four-doors, automakers from Asia and Europe are hedging their bets, and in some cases expanding their offerings to cater to these customers. The Forbes Wheels 10 Best Sedans for 2021 features three entries from Germany, three from Japan and four from South Korea. The nominees and winners were selected by the 2020 Forbes Wheels Car of the Year panel, comprising four staff editors and seven contributors. Our criteria included performance, safety, technology, comfort and convenience, fuel economy, design and functionality. Because each category spans the full spectrum of pricing, we selected vehicles that stand out among their peers. Vehicles eligible for nomination include any car or truck for sale or in production during 2020; some debuted prior to 2020. Read More Show Summary Acura TLX All-new with sleeker styling and a renewed focus on driving fun Audi A5/S5/RS5 Sportback Slick style, great driving dynamics Genesis G70 On par with premium rivals but far less costly Genesis G80 Opulent, handsome, packed with tech and a bargain Honda Accord A benchmark family sedan, now with more style Hyundai Sonata Great value, solid safety suite Kia K5 Dramatically styled Optima successor Mazda3 Sporty fun with no sacrifice in practicality Mercedes-Benz E-Class Benchmark for midsize luxury sedans Volkswagen Golf / GTI High quality, practical value machine <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Acura TLX"> (41) 2021 Acura TLX (41) Price Starting From $37,500 = 3 && !addedToCompare" > Compare = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The TLX is all-new for 2021 and a dramatic departure from the previous TLX. Longer, lower, and wider, it rides an all-new platform clothed in a prettier, more athletic shape than its predecessor. The makeover is part of an ongoing reinvention of the Acura brand. The automaker is specifically to recapture the sporty image it had in the 1990s and the new TLX offers a more involving but still luxurious driving experience. The regular TLX’s 2.0-liter four-cylinder engine returns 272 horsepower, up 66 horses from the 2020 model. As before TLXs can be had with front or all-wheel drive. Acura will soon add an even sportier 335-horsepower V6 Type S version. Pros & Cons Updated infotainment and audio system catch up to competitors. Powerful base engine and quick-shifting transmission. Well-rounded suite of standard features and driver safety systems Significant price increase over outgoing model. V6 engine option won’t become available until Spring 2021. No announced integrations with voice assistants, such as Amazon Alexa. Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs The TLX is all-new for 2021 and a dramatic departure from the previous TLX. Longer, lower, and wider, it rides an all-new platform clothed in a prettier, more athletic shape than its predecessor. The makeover is part of an ongoing reinvention of the Acura brand. The automaker is specifically to recapture the sporty image it had in the 1990s and the new TLX offers a more involving ...Read More The TLX is all-new for 2021 and a dramatic departure from the previous TLX. Longer, lower, and wider, it rides an all-new platform clothed in a prettier, more athletic shape than its predecessor. The makeover is part of an ongoing reinvention of the Acura brand. The automaker is specifically to recapture the sporty image it had in the 1990s and the new TLX offers a more involving but still luxurious driving experience. The regular TLX’s 2.0-liter four-cylinder engine returns 272 horsepower, up 66 horses from the 2020 model. As before TLXs can be had with front or all-wheel drive. Acura will soon add an even sportier 335-horsepower V6 Type S version. Read Less Updated infotainment and audio system catch up to competitors. Powerful base engine and quick-shifting transmission. Well-rounded suite of standard features and driver safety systems Significant price increase over outgoing model. V6 engine option won’t become available until Spring 2021. No announced integrations with voice assistants, such as Amazon Alexa. <best-of-specs :specs="specs" :show-mobile-ui="false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Audi A5"> (17) 2021 Audi A5 (17) Price Starting From $44,000 = 3 && !addedToCompare" > Compare = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It Audi’s A5 began life in 2007 as a stylish and sporty two-door version of the A4 sedan. In time it gained a sleek fastback “four door coupe” bodystyle, the Sportback, and the A5 was totally redesigned for 2017. The Sportback’s four doors make it more practical than the A5 coupe and cabriolet, but it sacrifices none of their slick styling or sharp driving dynamics. All A5’s are all-wheel drive and packed with modern tech and luxury features, including massaging front seats on the S5 and RS5. Regular A5’s start out with 201- or 261-horsepower four-cylinder engines while the performance-oriented S5 offers a 349-horsepower V6. If that’s not enough, the nearly track-ready RS5 has twin turbos and 444 horses. Pros & Cons Standard wireless Apple Carplay Aggressive styling Standard massaging sport seats on S5 High price point for this segment Could use more legroom Less cargo capacity than competitors Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs Audi’s A5 began life in 2007 as a stylish and sporty two-door version of the A4 sedan. In time it gained a sleek fastback “four door coupe” bodystyle, the Sportback, and the A5 was totally redesigned for 2017. The Sportback’s four doors make it more practical than the A5 coupe and cabriolet, but it sacrifices none of their slick styling or sharp driving dynamics. All A5’s ...Read More Audi’s A5 began life in 2007 as a stylish and sporty two-door version of the A4 sedan. In time it gained a sleek fastback “four door coupe” bodystyle, the Sportback, and the A5 was totally redesigned for 2017. The Sportback’s four doors make it more practical than the A5 coupe and cabriolet, but it sacrifices none of their slick styling or sharp driving dynamics. All A5’s are all-wheel drive and packed with modern tech and luxury features, including massaging front seats on the S5 and RS5. Regular A5’s start out with 201- or 261-horsepower four-cylinder engines while the performance-oriented S5 offers a 349-horsepower V6. If that’s not enough, the nearly track-ready RS5 has twin turbos and 444 horses. Read Less Standard wireless Apple Carplay Aggressive styling Standard massaging sport seats on S5 High price point for this segment Could use more legroom Less cargo capacity than competitors <best-of-specs :specs="specs" :show-mobile-ui="false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2020 Genesis G70"> (28) 2020 Genesis G70 (28) Price Starting From $35,450 <base-star-rating-v2 star-rating="82" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It Many cars have tried competing head-to-head with the BMW 3 Series and Mercedes-Benz C-class, and few have succeeded as well as the new-in-2017 Genesis G70. Though heavily-optioned BMWs will outperform it, the G70 offers style, speed and luxury on par with its rivals for far less money, model for model. The G70 comes with either a 252-horsepower 2.0-liter four-cylinder engine or a 365-horsepower V6 and rear- or all-wheel drive. It also offers a manual transmission for enthusiasts, which the 3 Series no longer does. Its cabin is visually striking and rich with technology, too. Genesis may not have much history, but all its models have ten year warranties, far more than any other luxury brand. Pros & Cons Excellent driving dynamics and good power Terrific build quality and long warranty Undercuts nearly all competition on price So-so fuel economy Mostly unknown brand with little cachet Limited storage options Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs Many cars have tried competing head-to-head with the BMW 3 Series and Mercedes-Benz C-class, and few have succeeded as well as the new-in-2017 Genesis G70. Though heavily-optioned BMWs will outperform it, the G70 offers style, speed and luxury on par with its rivals for far less money, model for model. The G70 comes with either a 252-horsepower 2.0-liter four-cylinder engine or ...Read More Many cars have tried competing head-to-head with the BMW 3 Series and Mercedes-Benz C-class, and few have succeeded as well as the new-in-2017 Genesis G70. Though heavily-optioned BMWs will outperform it, the G70 offers style, speed and luxury on par with its rivals for far less money, model for model. The G70 comes with either a 252-horsepower 2.0-liter four-cylinder engine or a 365-horsepower V6 and rear- or all-wheel drive. It also offers a manual transmission for enthusiasts, which the 3 Series no longer does. Its cabin is visually striking and rich with technology, too. Genesis may not have much history, but all its models have ten year warranties, far more than any other luxury brand. Read Less Excellent driving dynamics and good power Terrific build quality and long warranty Undercuts nearly all competition on price So-so fuel economy Mostly unknown brand with little cachet Limited storage options <best-of-specs :specs="specs" :show-mobile-ui="false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Genesis G80"> (14) 2021 Genesis G80 (14) Price Starting From $47,700 <base-star-rating-v2 star-rating="94" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The G80 is all-new for 2021, and replaces the original G80, which formed the basis of the Genesis brand in 2016. The redesigned G80 looks the part of an opulent luxury car inside and out. It sports a sleek fastback profile and lots of delicate chrome detailing outside. On the inside it’s restrained but beautifully detailed and user friendly, with a massive and easy-to-use 14.5-inch infotainment screen atop the dashboard. The sum is a car that looks and feels as expensive as rivals from Audi or Mercedes-Benz, but as with the other Genesis models sells for thousands less. Power comes from a 300-horsepower 2.5-liter turbocharged four-cylinder engine or a twin-turbo 375-horsepower V6; both in rear or all-wheel drive. Pros & Cons Rich, distinctive exterior and interior Sophisticated performance, comprehensive tech Compelling value Explaining what a “Genesis” is to friends Fuel economy merely average Hefty price premium for AWD Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs The G80 is all-new for 2021, and replaces the original G80, which formed the basis of the Genesis brand in 2016. The redesigned G80 looks the part of an opulent luxury car inside and out. It sports a sleek fastback profile and lots of delicate chrome detailing outside. On the inside it’s restrained but beautifully detailed and user friendly, with a massive and easy-to-use 14.5-inch ...Read More The G80 is all-new for 2021, and replaces the original G80, which formed the basis of the Genesis brand in 2016. The redesigned G80 looks the part of an opulent luxury car inside and out. It sports a sleek fastback profile and lots of delicate chrome detailing outside. On the inside it’s restrained but beautifully detailed and user friendly, with a massive and easy-to-use 14.5-inch infotainment screen atop the dashboard. The sum is a car that looks and feels as expensive as rivals from Audi or Mercedes-Benz, but as with the other Genesis models sells for thousands less. Power comes from a 300-horsepower 2.5-liter turbocharged four-cylinder engine or a twin-turbo 375-horsepower V6; both in rear or all-wheel drive. Read Less Rich, distinctive exterior and interior Sophisticated performance, comprehensive tech Compelling value Explaining what a “Genesis” is to friends Fuel economy merely average Hefty price premium for AWD <best-of-specs :specs="specs" :show-mobile-ui="false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Honda Accord Sedan"> (16) 2021 Honda Accord Sedan (16) Price Starting From $24,970 Why We Picked It The Accord has been a quality car and a market leader among family sedans since the first Accord sedan was introduced in 1977. The tenth-generation Accord was introduced in 2018 and was again a benchmark against which other family sedans are judged; a practical and reliable all-arounder. The car’s long, sloping roof, creased fenders and bluff front end give it lots of character, something missing from the Accord since the mid-1990s, and it’s been given some light visual updates for 2021. It handles and drives enthusiastically, too. Honda, long averse to turbocharging in road cars, equips the Accord with a pair of turbocharged four-cylinder engines, a 192-horsepower 1.5-liter and a 252-horsepower 2.0-liter, both of them eager and frugal. Lightest of all on fuel is the 212-horsepower Accord Hybrid, which returns 48 mpg, city or highway, according to the EPA. In fine Honda tradition, the Accord’s interior is logical, practical, and user friendly. Pros & Cons Sleek styling and involving driving experience Hybrid offerings perform almost identically to conventional models User-friendly infotainment system The trunk has a surprisingly narrow opening Road noise is louder than expected on some models The styling causes large rear blind spots Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs The Accord has been a quality car and a market leader among family sedans since the first Accord sedan was introduced in 1977. The tenth-generation Accord was introduced in 2018 and was again a benchmark against which other family sedans are judged; a practical and reliable all-arounder. The car’s long, sloping roof, creased fenders and bluff front end give it lots of character ...Read More The Accord has been a quality car and a market leader among family sedans since the first Accord sedan was introduced in 1977. The tenth-generation Accord was introduced in 2018 and was again a benchmark against which other family sedans are judged; a practical and reliable all-arounder. The car’s long, sloping roof, creased fenders and bluff front end give it lots of character, something missing from the Accord since the mid-1990s, and it’s been given some light visual updates for 2021. It handles and drives enthusiastically, too. Honda, long averse to turbocharging in road cars, equips the Accord with a pair of turbocharged four-cylinder engines, a 192-horsepower 1.5-liter and a 252-horsepower 2.0-liter, both of them eager and frugal. Lightest of all on fuel is the 212-horsepower Accord Hybrid, which returns 48 mpg, city or highway, according to the EPA. In fine Honda tradition, the Accord’s interior is logical, practical, and user friendly. Read Less Sleek styling and involving driving experience Hybrid offerings perform almost identically to conventional models User-friendly infotainment system The trunk has a surprisingly narrow opening Road noise is louder than expected on some models The styling causes large rear blind spots <best-of-specs :specs="specs" :show-mobile-ui="false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Hyundai Sonata"> (17) 2021 Hyundai Sonata (17) Price Starting From $23,600 <base-star-rating-v2 star-rating="89" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It Introduced in 2019 as a 2020 model, Hyundai’s eighth-generation Sonata has come a long way since the first U.S.-bound models were sold here in 1989. Though only marginally larger than the 2019 Sonata, the 2020 model is 1.5 inches lower and its eye-catching, shark-nosed styling makes it look bigger than it actually is. It isn’t as aggressive to drive as it looks, but it’s a decent performer with its 1.6-liter, 180-horsepower or 2.5-liter, 192-horsepower four-cylinder engines. Performance from the fuel-sipping hybrid, with a 192-horsepower 1.6-liter four, is similar. At the top end of the lineup, there’s a much more powerful N Line version, with a 290-horsepower 2.5-liter four. The Sonata hybrid gets 51 mpg highway. The Sonata excels on value, packing a large standard suite of driver assistance technology and many desirable features at a relatively low price. Pros & Cons Uncharacteristically cool styling Lots of class-above tech Efficient engines Aside from the N Line, less power than most rivals No manual option Smooth to operate, but not very involving to drive Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #3 in Best Lease Deals For March 2021 Why We Picked It Pros & Cons Specs Also Featured In Introduced in 2019 as a 2020 model, Hyundai’s eighth-generation Sonata has come a long way since the first U.S.-bound models were sold here in 1989. Though only marginally larger than the 2019 Sonata, the 2020 model is 1.5 inches lower and its eye-catching, shark-nosed styling makes it look bigger than it actually is. It isn’t as aggressive to drive as it looks, but it’s a ...Read More Introduced in 2019 as a 2020 model, Hyundai’s eighth-generation Sonata has come a long way since the first U.S.-bound models were sold here in 1989. Though only marginally larger than the 2019 Sonata, the 2020 model is 1.5 inches lower and its eye-catching, shark-nosed styling makes it look bigger than it actually is. It isn’t as aggressive to drive as it looks, but it’s a decent performer with its 1.6-liter, 180-horsepower or 2.5-liter, 192-horsepower four-cylinder engines. Performance from the fuel-sipping hybrid, with a 192-horsepower 1.6-liter four, is similar. At the top end of the lineup, there’s a much more powerful N Line version, with a 290-horsepower 2.5-liter four. The Sonata hybrid gets 51 mpg highway. The Sonata excels on value, packing a large standard suite of driver assistance technology and many desirable features at a relatively low price. Read Less Uncharacteristically cool styling Lots of class-above tech Efficient engines Aside from the N Line, less power than most rivals No manual option Smooth to operate, but not very involving to drive <best-of-specs :specs="specs" :show-mobile-ui="false"> #3 in Best Lease Deals For March 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Kia K5"> (20) 2021 Kia K5 (20) Price Starting From $23,490 <base-star-rating-v2 star-rating="86" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It New for 2021, the dramatically-styled K5 replaces Kia’s long-serving Optima, building on the combination of style and value introduced on earlier generations of the Optima. The K5 takes visual cues from the larger, performance-focused Kia Stinger, subtly flared fenders and long fastback roof among them, and translates them into a family-friendly package. The clean, modern interior is packed with nice features, and like the related Hyundai Sonata, a good complement of standard driver-assist goodies. A long options list means buyers can configure the K5 in many different ways, but all are good values. Most K5’s are powered by a 180-horsepower 1.6-liter turbocharged four-cylinder engine, but the top-spec GT gets a 290-horsepower 2.5-liter turbo four. Pros & Cons Looks attractive and expensive inside and out Compelling value GT model brings 290 horsepower Ride-and-handling only average in this class Not the roomiest back seat Wireless AppleCar Play and Android Auto only offered on smaller screen Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs New for 2021, the dramatically-styled K5 replaces Kia’s long-serving Optima, building on the combination of style and value introduced on earlier generations of the Optima. The K5 takes visual cues from the larger, performance-focused Kia Stinger, subtly flared fenders and long fastback roof among them, and translates them into a family-friendly package. The clean, modern interior ...Read More New for 2021, the dramatically-styled K5 replaces Kia’s long-serving Optima, building on the combination of style and value introduced on earlier generations of the Optima. The K5 takes visual cues from the larger, performance-focused Kia Stinger, subtly flared fenders and long fastback roof among them, and translates them into a family-friendly package. The clean, modern interior is packed with nice features, and like the related Hyundai Sonata, a good complement of standard driver-assist goodies. A long options list means buyers can configure the K5 in many different ways, but all are good values. Most K5’s are powered by a 180-horsepower 1.6-liter turbocharged four-cylinder engine, but the top-spec GT gets a 290-horsepower 2.5-liter turbo four. Read Less Looks attractive and expensive inside and out Compelling value GT model brings 290 horsepower Ride-and-handling only average in this class Not the roomiest back seat Wireless AppleCar Play and Android Auto only offered on smaller screen <best-of-specs :specs="specs" :show-mobile-ui="false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Mazda Mazda3"> (14) 2021 Mazda Mazda3 (14) Price Starting From $22,650 <base-star-rating-v2 star-rating="89" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It Mazda, adept at making seemingly ordinary cars lots of fun to drive, has steadily improved the Mazda3 through four generations since 2004. The most recent arrived in 2019. In style and feel, it could easily pass for a premium-brand machine, with show car styling and a clean, modern interior with obvious attention to detail. It comes as a sedan or hatchback, the latter offering more cargo space and a curvaceous shape that always looks like it’s in motion. In 2020, all models were powered by a 186-horsepower 2.5-liter four-cylinder engine, with front- or all-wheel drive. For 2021, there are new models on both ends: a 2.0-liter 155-horsepower base model with front-wheel drive, and an optional 250-horsepower turbocharged 2.5-liter version with front- or all-wheel drive. An engaging and rewarding drive for an enthusiast, there’s even an optional manual transmission, but the Mazda3 doesn’t demand any compromises from regular consumers who just want really nice transportation. Pros & Cons Great handling Classy styling inside and out Sporty without sacrificing comfort or practicality Hatchback design is an acquired taste More expensive than some rivals So-so rear legroom Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #3 in Forbes Wheels Car Of The Year For 2021 Why We Picked It Pros & Cons Specs Also Featured In Mazda, adept at making seemingly ordinary cars lots of fun to drive, has steadily improved the Mazda3 through four generations since 2004. The most recent arrived in 2019. In style and feel, it could easily pass for a premium-brand machine, with show car styling and a clean, modern interior with obvious attention to detail. It comes as a sedan or hatchback, the latter offering more ...Read More Mazda, adept at making seemingly ordinary cars lots of fun to drive, has steadily improved the Mazda3 through four generations since 2004. The most recent arrived in 2019. In style and feel, it could easily pass for a premium-brand machine, with show car styling and a clean, modern interior with obvious attention to detail. It comes as a sedan or hatchback, the latter offering more cargo space and a curvaceous shape that always looks like it’s in motion. In 2020, all models were powered by a 186-horsepower 2.5-liter four-cylinder engine, with front- or all-wheel drive. For 2021, there are new models on both ends: a 2.0-liter 155-horsepower base model with front-wheel drive, and an optional 250-horsepower turbocharged 2.5-liter version with front- or all-wheel drive. An engaging and rewarding drive for an enthusiast, there’s even an optional manual transmission, but the Mazda3 doesn’t demand any compromises from regular consumers who just want really nice transportation. Read Less Great handling Classy styling inside and out Sporty without sacrificing comfort or practicality Hatchback design is an acquired taste More expensive than some rivals So-so rear legroom <best-of-specs :specs="specs" :show-mobile-ui="false"> #3 in Forbes Wheels Car Of The Year For 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2020 Mercedes-Benz E-Class"> (26) 2020 Mercedes-Benz E-Class (26) Price Starting From $54,050 = 3 && !addedToCompare" > Compare = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The latest in a long line of Mercedes-Benz’s midsize standard bearers, the current E-class was introduced for 2017 and has been recently refreshed for 2021, with updated styling and some additional models. It carries on many Mercedes-Benz traditions as you’d expect, being packed with state-of-the-art technology, including a full complement of assisted-driving systems and Mercedes-Benz’s new MBUX infotainment technology. Like all E’s before it, passengers sit in a comfy and luxurious cabin. There are four current engines corresponding to the trim lines, the E350 houses a 2.0-liter, 255-horsepower four-cylinder, the E450 a 362-horsepower V6, the AMG E53 housing a 369-horsepower inline six and the AMG E63 S packing a heavy-hitting 603-horsepower V8. A plug-in hybrid, the E350e, is due in the spring. Pros & Cons Packed with technology Spacious well-appointed interior Many different combinations and models to choose Complex infotainment system Price inflates quickly when option boxes are ticked Base model not very powerful Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs The latest in a long line of Mercedes-Benz’s midsize standard bearers, the current E-class was introduced for 2017 and has been recently refreshed for 2021, with updated styling and some additional models. It carries on many Mercedes-Benz traditions as you’d expect, being packed with state-of-the-art technology, including a full complement of assisted-driving systems and Mercedes-Benz’s ...Read More The latest in a long line of Mercedes-Benz’s midsize standard bearers, the current E-class was introduced for 2017 and has been recently refreshed for 2021, with updated styling and some additional models. It carries on many Mercedes-Benz traditions as you’d expect, being packed with state-of-the-art technology, including a full complement of assisted-driving systems and Mercedes-Benz’s new MBUX infotainment technology. Like all E’s before it, passengers sit in a comfy and luxurious cabin. There are four current engines corresponding to the trim lines, the E350 houses a 2.0-liter, 255-horsepower four-cylinder, the E450 a 362-horsepower V6, the AMG E53 housing a 369-horsepower inline six and the AMG E63 S packing a heavy-hitting 603-horsepower V8. A plug-in hybrid, the E350e, is due in the spring. Read Less Packed with technology Spacious well-appointed interior Many different combinations and models to choose Complex infotainment system Price inflates quickly when option boxes are ticked Base model not very powerful <best-of-specs :specs="specs" :show-mobile-ui="false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Volkswagen Golf"> (21) 2021 Volkswagen Golf (21) Price Starting From $23,195 <base-star-rating-v2 star-rating="86" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It 2021 will be the Volkswagen Golf’s final year in the USA, though the Golf GTI will live on. That’s a shame, because even though the current seventh-generation Golf dates back to 2013, it’s still a high-quality, practical value machine. The Golf and GTI share the same cavernous, comfy, no-nonsense interior and upright hatchback body, though the GTI clothes the inside in nicer materials. The Golf is motivated by a 1.4-liter 147-horsepower four-cylinder engine while the GTI uses a 2.0-liter 228-horsepower four. Both are turbocharged and both offer manual or automatic transmissions. The GTI is faster, with higher handling limits, but both are fun to drive, reasonably priced, and have lots of cargo space. Pros & Cons Premium, well-engineered feel Involving driving dynamics Textbook space efficiency Plain Jane styling Lackluster infotainment experience Competitors offer plusher interiors Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs 2021 will be the Volkswagen Golf’s final year in the USA, though the Golf GTI will live on. That’s a shame, because even though the current seventh-generation Golf dates back to 2013, it’s still a high-quality, practical value machine. The Golf and GTI share the same cavernous, comfy, no-nonsense interior and upright hatchback body, though the GTI clothes the inside in nicer ...Read More 2021 will be the Volkswagen Golf’s final year in the USA, though the Golf GTI will live on. That’s a shame, because even though the current seventh-generation Golf dates back to 2013, it’s still a high-quality, practical value machine. The Golf and GTI share the same cavernous, comfy, no-nonsense interior and upright hatchback body, though the GTI clothes the inside in nicer materials. The Golf is motivated by a 1.4-liter 147-horsepower four-cylinder engine while the GTI uses a 2.0-liter 228-horsepower four. Both are turbocharged and both offer manual or automatic transmissions. The GTI is faster, with higher handling limits, but both are fun to drive, reasonably priced, and have lots of cargo space. Read Less Premium, well-engineered feel Involving driving dynamics Textbook space efficiency Plain Jane styling Lackluster infotainment experience Competitors offer plusher interiors <best-of-specs :specs="specs" :show-mobile-ui="false"> At a Glance Cars Price Mileage Rating 2021 Acura TLX 2021 Acura TLX Price $37,500 Mileage 22 City / 31 Hwy Rating Review not available Not available = 3 && !compareCarList.includes('123750')"> Added To Compare Add To Compare 2021 Audi A5 2021 Audi A5 Price $44,000 Mileage N/A City / N/A Hwy Rating Review not available Not available = 3 && !compareCarList.includes('153956')"> Added To Compare Add To Compare 2020 Genesis G70 2020 Genesis G70 Price $35,450 Mileage 22 City / 30 Hwy Rating 82 /100 = 3 && !compareCarList.includes('22448')"> Added To Compare Add To Compare 2021 Genesis G80 2021 Genesis G80 Price $47,700 Mileage 23 City / 32 Hwy Rating 94 /100 = 3 && !compareCarList.includes('124721')"> Added To Compare Add To Compare 2021 Honda Accord Sedan 2021 Honda Accord Sedan Price $24,970 Mileage 30 City / 38 Hwy Rating Review not available Not available 2021 Hyundai Sonata 2021 Hyundai Sonata Price $23,600 Mileage 28 City / 38 Hwy Rating 89 /100 = 3 && !compareCarList.includes('124947')"> Added To Compare Add To Compare 2021 Kia K5 2021 Kia K5 Price $23,490 Mileage 29 (Est) City / 38 (Est) Hwy Rating 86 /100 = 3 && !compareCarList.includes('125099')"> Added To Compare Add To Compare 2021 Mazda Mazda3 2021 Mazda Mazda3 Price $22,650 Mileage 26 City / 34 Hwy Rating 89 /100 = 3 && !compareCarList.includes('274095')"> Added To Compare Add To Compare 2020 Mercedes-Benz E-Class 2020 Mercedes-Benz E-Class Price $54,050 Mileage 23 City / 32 Hwy Rating Review not available Not available = 3 && !compareCarList.includes('23170')"> Added To Compare Add To Compare 2021 Volkswagen Golf 2021 Volkswagen Golf Price $23,195 Mileage 28 (2020) City / 36 (2020) Hwy Rating 86 /100 = 3 && !compareCarList.includes('126010')"> Added To Compare Add To Compare Forbes Wheels Car of the Year Panelists These top vehicles for 2021 were chosen by a 10-person panel of Forbes Wheels staff and contributors. Sam Abuelsamid  (contributor) is principal research analyst at consulting firm Guidehouse Insights (formerly Navigant Research) and is a frequent contributor to Forbes.com, covering innovation in the transportation sector. Brian Armstead  (contributor) is president emeritus of the Washington Automotive Press Association and a North American Car, Truck and Utility of the Year (NACTOY) Juror. Bill Howard  (Forbes Wheels Staff) is editor of Forbes Wheels. He is the past president of the International Motor Press Association and was previously executive editor and contributing editor for Ziff-Davis’ PC Magazine and ExtremeTech. Alex Kalogiannis  (contributor) has been an automotive writer for over 10 years and in addition to bylines at outlets such as Gear Patrol, Trucks.com and SlashGear, he was previously Car section editor at Digital Trends. Alex Kwanten  (Forbes Wheels Staff) has worked in automotive, marine and aviation for over a decade and reported on buying, selling and servicing cars for multiple industry publications, including Automotive News. Carly Schaffner  (Forbes Wheels Staff) has worked in the automotive industry for over a decade in both editorial and communication roles. Before joining Forbes Wheels, she was managing editor of Trucks.com. Chris Teague  (contributor) is a freelance automotive writer focused on new vehicle reviews, industry trends and breaking news, and has an MBA with a focus on data analysis that gives him insight into some of the auto industry’s biggest companies. Lawrence Ulrich  (contributor) is an award-winning auto writer, and former chief auto critic for The New York Times, Detroit Free Press and The Drive. John Voelcker (contributor) was editor of Green Car Reports for nine years. He now is a reporter and analyst covering advanced auto technologies and energy policy, and a North American Car, Truck and Utility of the Year (NACTOY) Juror. Andrew Wendler  (Forbes Staff) grew up immersed in automotive, marine and aviation culture and spent a decade at Car and Driver as a writer and editor before joining Forbes Wheels. You May Also Like Best Luxury SUVs Under $50,000 By Liane Yvkoff Contributor Best Small SUVs And Crossovers For 2021 By Carly Schaffner Forbes Staff Best SUVs With Roof Rails By Liane Yvkoff Contributor Best Sports Cars For 2021 By Alex Kwanten Forbes Staff Best SUVs For 2021 By Carly Schaffner Forbes Staff Best Pickups For 2021 By Andrew Wendler Forbes Staff &nbsp; Latest Articles Best Used Cars Under $5,000 For 2021 Best Off-Road SUVs For 2021 2022 Audi e-tron GT First Drive Review: Sexier Than A Tesla Best Small And Midsize SUV Lease Deals Best Crossovers And Small SUVs For 2021 Best Midsize Pickups For 2021 Best Minivans For 2021 © 2021 Forbes Media LLC. All Rights Reserved. AdChoices AdChoices Privacy Statement Terms and Conditions Contact Us Send Us Feedback Jobs At Forbes Reprints &amp; Permissions Forbes Press Room Forbes Quote of the Day Advertise 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="https://www.forbes.com/wheels/">https://www.forbes.com/wheels/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ford/f-150/">https://www.forbes.com/wheels/cars/ford/f-150/</a> ( Ford F-150 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chevrolet/silverado-1500/">https://www.forbes.com/wheels/cars/chevrolet/silverado-1500/</a> ( Chevrolet Silverado 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ram/1500/">https://www.forbes.com/wheels/cars/ram/1500/</a> ( Ram 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/rav4/">https://www.forbes.com/wheels/cars/toyota/rav4/</a> ( Toyota RAV4 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/honda/cr-v/">https://www.forbes.com/wheels/cars/honda/cr-v/</a> ( Honda CR-V )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/camry/">https://www.forbes.com/wheels/cars/toyota/camry/</a> ( Toyota Camry )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/honda/civic-sedan/">https://www.forbes.com/wheels/cars/honda/civic-sedan/</a> ( Honda Civic )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chevrolet/equinox/">https://www.forbes.com/wheels/cars/chevrolet/equinox/</a> ( Chevrolet Equinox )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/gmc/sierra-1500/">https://www.forbes.com/wheels/cars/gmc/sierra-1500/</a> ( GMC Sierra 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/nissan/rogue/">https://www.forbes.com/wheels/cars/nissan/rogue/</a> ( Nissan Rogue )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2021/">https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2021/</a> ( Ford Mustang Mach-E )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs/">https://www.forbes.com/wheels/best/suvs/</a> ( Best SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-luxury-suvs/">https://www.forbes.com/wheels/best/midsize-luxury-suvs/</a> ( Best Midsize Luxury SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/small-suvs-crossovers/">https://www.forbes.com/wheels/best/small-suvs-crossovers/</a> ( Best Small SUVs And Crossovers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs/">https://www.forbes.com/wheels/best/luxury-suvs/</a> ( Best Luxury SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs-under-50000/">https://www.forbes.com/wheels/best/luxury-suvs-under-50000/</a> ( Best Luxury SUVs Under $50,000 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/pickups/">https://www.forbes.com/wheels/best/pickups/</a> ( Best Pickup Trucks )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-pickup-trucks/">https://www.forbes.com/wheels/best/midsize-pickup-trucks/</a> ( Best Midsize Pickup Trucks )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sedans/">https://www.forbes.com/wheels/best/sedans/</a> ( Best Sedans For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-10-best-evs-2021/">https://www.forbes.com/wheels/advice/forbes-wheels-10-best-evs-2021/</a> ( Best Electric Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-best-cars-2021-semifinalists/">https://www.forbes.com/wheels/advice/forbes-wheels-best-cars-2021-semifinalists/</a> ( Best Cars of 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-car-of-the-year-for-2021-mazda3/">https://www.forbes.com/wheels/advice/forbes-wheels-car-of-the-year-for-2021-mazda3/</a> ( Car of the Year 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/minivans/">https://www.forbes.com/wheels/best/minivans/</a> ( Best Minivans )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sports-cars/">https://www.forbes.com/wheels/best/sports-cars/</a> ( Best Sports Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/lease-deals/">https://www.forbes.com/wheels/best/lease-deals/</a> ( Best Lease Deals )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-suv-lease-deals/">https://www.forbes.com/wheels/advice/best-suv-lease-deals/</a> ( Best SUV Lease Deals )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/8-unique-features-on-the-2021-ford-f-150/">https://www.forbes.com/wheels/features/8-unique-features-on-the-2021-ford-f-150/</a> ( Unique Features of the Ford F150 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/how-to-think-like-a-dealer-get-best-price-car-you-want/">https://www.forbes.com/wheels/advice/how-to-think-like-a-dealer-get-best-price-car-you-want/</a> ( How To Think Like A Car Dealer )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/awd-versus-4wd/">https://www.forbes.com/wheels/advice/awd-versus-4wd/</a> ( AWD Vs. 4WD )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/car-subscription-services/">https://www.forbes.com/wheels/advice/car-subscription-services/</a> ( Car Subscription Services )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/advanced-driver-assistance-systems-what-are-they/">https://www.forbes.com/wheels/advice/advanced-driver-assistance-systems-what-are-they/</a> ( What Are Advanced Driver-Assistance Systems? )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/5-best-infotainment-systems/">https://www.forbes.com/wheels/advice/5-best-infotainment-systems/</a> ( Best Infotainment Systems )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/why-your-new-vehicle-should-have-apple-carplay-android-auto/">https://www.forbes.com/wheels/advice/why-your-new-vehicle-should-have-apple-carplay-android-auto/</a> ( Why New Vehicles Should Have Apple CarPlay Or Android Auto )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/what-are-all-season-tires-are-they-right-for-you/">https://www.forbes.com/wheels/advice/what-are-all-season-tires-are-they-right-for-you/</a> ( What Are All-Season Tires? )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/how-to-prepare-your-vehicle-road-trip/">https://www.forbes.com/wheels/advice/how-to-prepare-your-vehicle-road-trip/</a> ( How To Prepare Your Vehicle For A Road Trip )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-summer-road-trip-vehicles/">https://www.forbes.com/wheels/advice/best-summer-road-trip-vehicles/</a> ( Best Summer Road Trip Vehicles )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/three-row-midsize-suvs-most-cargo-space/">https://www.forbes.com/wheels/advice/three-row-midsize-suvs-most-cargo-space/</a> ( 3-Row SUVs With The Most Cargo Space )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs-with-roof-rails/">https://www.forbes.com/wheels/best/suvs-with-roof-rails/</a> ( Best SUVs With Roof Rails )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-10-best-car-accessories-2021/">https://www.forbes.com/wheels/advice/forbes-wheels-10-best-car-accessories-2021/</a> ( Best Car Accessories )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-gps-navigation/">https://www.forbes.com/wheels/accessories/best-car-gps-navigation/</a> ( Best Car GPS Navigation Systems )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-jumper-cables/">https://www.forbes.com/wheels/accessories/best-jumper-cables/</a> ( Best Jumper Cables )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-battery-chargers/">https://www.forbes.com/wheels/accessories/best-car-battery-chargers/</a> ( Best Car Battery Chargers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-radar-detectors/">https://www.forbes.com/wheels/accessories/best-radar-detectors/</a> ( Best Radar Detectors )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-seat-covers/">https://www.forbes.com/wheels/accessories/best-car-seat-covers/</a> ( Best Car Seat Covers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-gps-trackers-for-cars/">https://www.forbes.com/wheels/accessories/best-gps-trackers-for-cars/</a> ( Best GPS Trackers For Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-ceramic-coatings/">https://www.forbes.com/wheels/accessories/best-ceramic-coatings/</a> ( Best Ceramic Coatings )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-lifts/">https://www.forbes.com/wheels/accessories/best-car-lifts/</a> ( Best Car Lifts )
+</p>
+<p>
+<a href="https://www.forbes.com/">https://www.forbes.com/</a> ( Back To Forbes.com )
+</p>
+<p>
+<a href="#">#</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/">https://www.forbes.com/wheels/</a> ( Wheels )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/akwanten/">https://www.forbes.com/wheels/author/akwanten/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/akwanten/">https://www.forbes.com/wheels/author/akwanten/</a> ( Alex Kwanten )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/genesis/g70/">https://www.forbes.com/wheels/cars/genesis/g70/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/genesis/g80/">https://www.forbes.com/wheels/cars/genesis/g80/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/hyundai/sonata/">https://www.forbes.com/wheels/cars/hyundai/sonata/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/lease-deals/">https://www.forbes.com/wheels/best/lease-deals/</a> ( Best Lease Deals For March 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/lease-deals/">https://www.forbes.com/wheels/best/lease-deals/</a> ( Best Lease Deals For March 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/kia/k5/">https://www.forbes.com/wheels/cars/kia/k5/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/mazda/mazda3/">https://www.forbes.com/wheels/cars/mazda/mazda3/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/car-of-the-year-2021/">https://www.forbes.com/wheels/best/car-of-the-year-2021/</a> ( Forbes Wheels Car Of The Year For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/car-of-the-year-2021/">https://www.forbes.com/wheels/best/car-of-the-year-2021/</a> ( Forbes Wheels Car Of The Year For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/volkswagen/golf/">https://www.forbes.com/wheels/cars/volkswagen/golf/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs-under-50000/">https://www.forbes.com/wheels/best/luxury-suvs-under-50000/</a> ( Best Luxury SUVs Under $50,000 By Liane Yvkoff Contributor )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/small-suvs-crossovers/">https://www.forbes.com/wheels/best/small-suvs-crossovers/</a> ( Best Small SUVs And Crossovers For 2021 By Carly Schaffner Forbes Staff )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs-with-roof-rails/">https://www.forbes.com/wheels/best/suvs-with-roof-rails/</a> ( Best SUVs With Roof Rails By Liane Yvkoff Contributor )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sports-cars/">https://www.forbes.com/wheels/best/sports-cars/</a> ( Best Sports Cars For 2021 By Alex Kwanten Forbes Staff )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs/">https://www.forbes.com/wheels/best/suvs/</a> ( Best SUVs For 2021 By Carly Schaffner Forbes Staff )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/pickups/">https://www.forbes.com/wheels/best/pickups/</a> ( Best Pickups For 2021 By Andrew Wendler Forbes Staff )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-used-cars-under-5000/">https://www.forbes.com/wheels/advice/best-used-cars-under-5000/</a> ( Best Used Cars Under $5,000 For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2022-audi-e-tron-gt-review/">https://www.forbes.com/wheels/features/2022-audi-e-tron-gt-review/</a> ( 2022 Audi e-tron GT First Drive Review: Sexier Than A Tesla )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-suv-lease-deals/">https://www.forbes.com/wheels/advice/best-suv-lease-deals/</a> ( Best Small And Midsize SUV Lease Deals )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/small-suvs-crossovers/">https://www.forbes.com/wheels/best/small-suvs-crossovers/</a> ( Best Crossovers And Small SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-pickup-trucks/">https://www.forbes.com/wheels/best/midsize-pickup-trucks/</a> ( Best Midsize Pickups For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/minivans/">https://www.forbes.com/wheels/best/minivans/</a> ( Best Minivans For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/">https://www.forbes.com/</a> ( )
+</p>
+<p>
+<a href="https://www.facebook.com/forbeswheels">https://www.facebook.com/forbeswheels</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/ForbesWheels">https://twitter.com/ForbesWheels</a> ( )
+</p>
+<p>
+<a href="https://www.instagram.com/forbeswheels/">https://www.instagram.com/forbeswheels/</a> ( )
+</p>
+<p>
+<a href="https://preferences-mgr.truste.com/?pid=forbes01">https://preferences-mgr.truste.com/?pid=forbes01</a> ( AdChoices )
+</p>
+<p>
+<a href="https://preferences-mgr.truste.com/?pid=forbes01&amp;aid=forbes_mobile01">https://preferences-mgr.truste.com/?pid=forbes01&amp;aid=forbes_mobile01</a> ( AdChoices )
+</p>
+<p>
+<a href="//www.forbes.com/fdc/privacy.html">//www.forbes.com/fdc/privacy.html</a> ( Privacy Statement )
+</p>
+<p>
+<a href="//www.forbes.com/terms">//www.forbes.com/terms</a> ( Terms and Conditions )
+</p>
+<p>
+<a href="//www.forbes.com/fdc/contact.html">//www.forbes.com/fdc/contact.html</a> ( Contact Us )
+</p>
+<p>
+<a href="mailto:feedback@forbes.com">mailto:feedback@forbes.com</a> ( Send Us Feedback )
+</p>
+<p>
+<a href="//www.forbes.com/sites/careers-at-forbes/">//www.forbes.com/sites/careers-at-forbes/</a> ( Jobs At Forbes )
+</p>
+<p>
+<a href="http://forbesreprints.magreprints.com/">http://forbesreprints.magreprints.com/</a> ( Reprints &amp; Permissions )
+</p>
+<p>
+<a href="//www.forbes.com/sites/forbespr/">//www.forbes.com/sites/forbespr/</a> ( Forbes Press Room )
+</p>
+<p>
+<a href="//www.forbes.com/quotes/">//www.forbes.com/quotes/</a> ( Forbes Quote of the Day )
+</p>
+<p>
+<a href="http://www.forbesmedia.com/">http://www.forbesmedia.com/</a> ( Advertise )
+</p>
+</body>
+</html>

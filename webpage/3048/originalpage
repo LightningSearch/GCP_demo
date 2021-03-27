@@ -1,0 +1,234 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>
+var content = '';
+window.onload = function (){
+	var fired = false;
+	var metas = document.getElementsByTagName('meta');
+	for (var i=0; i<metas.length; ++i) {
+		if (metas[i].getAttribute('http-equiv') == 'refresh') {
+			content = metas[i].getAttribute('content');
+		}
+	}
+	if(content != ''){
+		window.onbeforeunload = function(event){
+			if((content.indexOf('cds_to_id') > -1 && content.indexOf('DestinationLogging') == -1 ) && fired == false ){
+				xmlhttp=new XMLHttpRequest();
+				var url = '/servlet/AJAXDestinationLogging?';
+				url += 'lsid=10830920548082121'
+				url += '&vid=1';
+				url += '&cds_param=' + encodeURIComponent(content);
+				xmlhttp.open('POST',url,false);
+				xmlhttp.send();
+			}
+			return;
+		}
+	}
+	var elements = document.getElementsByTagName('a');
+	for(var i = 0, len = elements.length; i < len; i++) {
+		elements[i].onclick = function (event) {
+			if(this.getAttribute('data-cds_to_id') || (this.href.indexOf('cds_to_id') > -1 && this.href.indexOf('DestinationLogging') == -1 ) ){
+				xmlhttp=new XMLHttpRequest();
+				var url = '/servlet/AJAXDestinationLogging?';
+				url += 'lsid=10830920548082121'
+				url += '&vid=1';
+				if(this.getAttribute('data-cds_to_id')){ url += '&cds_to_id=' + this.getAttribute('data-cds_to_id');}
+				if((this.href.indexOf('cds_to_id') > -1 && this.href.indexOf('DestinationLogging') == -1 )) {url += '&cds_param=' + encodeURIComponent(this.href);}
+				xmlhttp.open('POST',url,true);
+				xmlhttp.send();
+				fired = true;
+			}
+			return true;
+		}
+	}
+}
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P93F9X5');</script>
+<!-- End Google Tag Manager -->
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Forbes</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="images/css/mag_redesign/normalize.css">
+  <link rel="stylesheet" href="images/css/mag_redesign/mainstyles.css">
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon-1.png">
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P93F9X5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!-- Start landing page -->
+  <div class="container">
+    <!-- columns should be the immediate child of a .row -->
+    <!-- logo row-->
+    <div style="background-color:#000000;"class="row">
+      <div class="two columns">
+        <div style="text-align:center;">
+        <a href="#"><img src="images/logo.jpg" alt="Forbes" height="48" width="140" style="padding:10px;"></a>
+      </div>
+      </div>
+      <div class="ten columns"> </div>
+    </div>
+  <!-- Top text and cover row -->
+    <div class="row" style="background-color:#000000;">
+      <div class="one-half column">
+      <div class="top-text">
+      <h2>Welcome to our next chapter.</h2>
+      <br/>
+      <a class="mobile" href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=164319"><img src="images/cover-serena.jpg" alt="Cover" width="100%" max-width="685" style="border:1px solid #373636; margin-bottom:30px;">
+      </a> 
+      <div style="max-width:400px; display:inline-block;">
+      <p>
+      With bold new sections, our passionate commitment to true investigative journalism takes a giant leap forward &ndash; with deeper reporting that&apos;s more vital, more lively, and more impactful than ever before.
+      </p>
+    </div>
+    <br>
+    <!-- Standard buttons -->
+      <a class="button" href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=164319">GET A FREE ISSUE</a>
+      </div>
+      </div>
+      <div class="one-half column">
+        <div class="cover-img">
+      <a class="desktop" href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=164319"><img src="images/cover-serena.jpg" alt="Cover" width="100%" max-width="685" style="border:1px solid #373636;"></a>
+        </div>
+      </div>
+    </div>
+<!-- section 1 -->
+    <div style="background-color:#5d31a6;"class="row">
+      <div class="two-thirds column" style="line-height:0px;">
+        <img src="images/section1.jpg" alt="Jay Z" width="100%" max-width="984">
+      </div>
+      <div class="one-third column">
+          <div class="section-text">
+        <h3>Frontrunner</h3>
+        <br>
+        <p>
+          What&apos;s new and who&apos;s next. Frontrunner unearths the people and businesses on the verge of something big.  Jay&dash;Z just reached billionaire status&hellip; find out who else is on our radar to achieve big things.
+        </p>
+      </div>
+      </div>
+    </div>
+    <!-- section 2 -->
+        <div style="background-color:#03054b;"class="row">
+          <div class="two-thirds column" style="line-height:0px;">
+            <img src="images/section2.jpg" alt="Climate change will impact investments" width="100%" max-width="984">
+          </div>
+          <div class="one-third column">
+              <div class="section-text">
+            <h3>Contrarian</h3>
+            <br>
+            <p>
+            Exploring the people thinking, acting, and doing things differently from the crowd. Sometimes thinking outside the box and going against the status quo produces results far beyond &quot;tried and true&quot; methods.
+            </p>
+          </div>
+          </div>
+        </div>
+        <!-- section 3 -->
+            <div style="background-color:#4e1803;"class="row">
+              <div class="two-thirds column" style="line-height:0px;">
+                <img src="images/section3.jpg" alt="Richest Women" width="100%" max-width="984">
+              </div>
+              <div class="one-third column">
+                  <div class="section-text">
+                <h3>The List</h3>
+                <br>
+                <p>
+                  A mainstay of Forbes that&apos;s more relevant than ever.  From the <i>30 Under 30</i> to big names to watch in blockchain, Forbes lists bring you the people and companies at the top of their game.                <br>
+                </p>
+              </div>
+              </div>
+            </div>
+            <!-- section 4 -->
+                <div style="background-color:#780001;"class="row">
+                  <div class="two-thirds column" style="line-height:0px;">
+                    <img src="images/section4.jpg" alt="The Truth Behind Trump Tower Moscow" width="100%" max-width="984">
+                  </div>
+                  <div class="one-third column">
+                      <div class="section-text">
+                    <h3>The Forbes Investigation</h3>
+                    <br>
+                    <p>
+                    A true examination and deep dive into stories that only our investigating team can unearth. This is the hard&dash;hitting journalism &ndash; the kind that doesn&apos;t play favorites &ndash; that you&apos;ve come to expect from Forbes.
+                    </p>
+                  </div>
+                  </div>
+                </div>
+                <!-- section 5 -->
+                    <div style="background-color:#727272;"class="row">
+                      <div class="two-thirds column" style="line-height:0px;">
+                        <img src="images/section8.jpg" alt="The Trend" width="100%" max-width="984">
+                      </div>
+                      <div class="one-third column">
+                          <div class="section-text">
+                        <h3>The Trends</h3>
+                        <br>
+                        <p>
+                          New and unexpected similarities surfacing in the business world.  Concerns, challenges, forward&dash;thinking conversations and solutions &ndash; connective tissue that keeps popping up across companies and industries.
+                          <br>
+                        </p>
+                      </div>
+                      </div>
+                    </div>
+                    <div style="background-color:#000000;"class="row">
+                      <div class="one column">
+                      </div>
+                      <div style="text-align:center;padding-top:45px;padding-bottom:45px;"class="eleven columns">
+                        <h4>Experience the new <em>Forbes</em> for yourself with this special limited&dash;time offer.</h4>
+                        <br>
+                        <a class="button" style="background-color:#f0222e;border:none;" href="https://subs.forbesmagazine.com/servlet/OrdersGateway?cds_mag_code=FRB&cds_page_id=164319">GET A FREE ISSUE</a>
+                      </div>
+                    </div>
+  </div>
+  <!-- End landing page-->
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<script type="text/javascript">
+(function () {
+var cnv = document.createElement('script');
+	cnv.async = true;
+	var cnvJsHost = (("https:" == document.location.protocol) ? "https://sts.eccmp.com" : "http://sts.eccmp.com");
+	cnv.src = cnvJsHost + '/sts/scripts/conversen-SDK.js';
+	document.getElementsByTagName('body')[0].appendChild(cnv);
+} ());
+
+window.cnvAsyncInit = function() {Cnv.init({
+	custId: '766',
+	entityId: '100',
+	restLink: 'sts.eccmp.com',
+	enableFacebook: false,
+	enableSocialEvents: false
+  });
+}
+</script>
+</body>
+</html>
+

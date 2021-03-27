@@ -1,0 +1,344 @@
+
+bc
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover" />
+62
+<link rel="preconnect" href="//abs.twimg.com" /><link rel="dns-prefetch" href="//abs.twimg.com" />
+66
+<link rel="preconnect" href="//api.twitter.com" /><link rel="dns-prefetch" href="//api.twitter.com" />
+62
+<link rel="preconnect" href="//pbs.twimg.com" /><link rel="dns-prefetch" href="//pbs.twimg.com" />
+50
+<link rel="preconnect" href="//t.co" /><link rel="dns-prefetch" href="//t.co" />
+66
+<link rel="preconnect" href="//video.twimg.com" /><link rel="dns-prefetch" href="//video.twimg.com" />
+c7
+<link rel="preload" as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.b2053185.js" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj" />
+ca
+<link rel="preload" as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/vendors~main.d8c93ed5.js" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj" />
+c5
+<link rel="preload" as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en.cc494bf5.js" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj" />
+c2
+<link rel="preload" as="script" crossorigin="anonymous" href="https://abs.twimg.com/responsive-web/client-web-legacy/main.c2f906f5.js" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj" />
+65
+<meta property="fb:app_id" content="2231777543" />
+<meta property="og:site_name" content="Twitter" />
+5e
+<meta name="google-site-verification" content="acYOOcR5z6puMzLn6hLDZI1nNHXPxt57OIstz1vnCV0" />
+55
+<meta name="facebook-domain-verification" content="x6sdcc8b5ju3bh8nbm59eswogvg6t1" />
+4b
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials" />
+57
+<link rel="alternate" hreflang="x-default" href="https://twitter.com/kyle_l_wiggers" />
+58
+<link rel="alternate" hreflang="en" href="https://twitter.com/kyle_l_wiggers?lang=en" />
+58
+<link rel="alternate" hreflang="ar" href="https://twitter.com/kyle_l_wiggers?lang=ar" />
+62
+<link rel="alternate" hreflang="ar-x-fm" href="https://twitter.com/kyle_l_wiggers?lang=ar-x-fm" />
+58
+<link rel="alternate" hreflang="bg" href="https://twitter.com/kyle_l_wiggers?lang=bg" />
+58
+<link rel="alternate" hreflang="bn" href="https://twitter.com/kyle_l_wiggers?lang=bn" />
+58
+<link rel="alternate" hreflang="ca" href="https://twitter.com/kyle_l_wiggers?lang=ca" />
+58
+<link rel="alternate" hreflang="cs" href="https://twitter.com/kyle_l_wiggers?lang=cs" />
+58
+<link rel="alternate" hreflang="da" href="https://twitter.com/kyle_l_wiggers?lang=da" />
+58
+<link rel="alternate" hreflang="de" href="https://twitter.com/kyle_l_wiggers?lang=de" />
+58
+<link rel="alternate" hreflang="el" href="https://twitter.com/kyle_l_wiggers?lang=el" />
+5e
+<link rel="alternate" hreflang="en-GB" href="https://twitter.com/kyle_l_wiggers?lang=en-GB" />
+5e
+<link rel="alternate" hreflang="en-ss" href="https://twitter.com/kyle_l_wiggers?lang=en-ss" />
+5e
+<link rel="alternate" hreflang="en-xx" href="https://twitter.com/kyle_l_wiggers?lang=en-xx" />
+58
+<link rel="alternate" hreflang="es" href="https://twitter.com/kyle_l_wiggers?lang=es" />
+58
+<link rel="alternate" hreflang="eu" href="https://twitter.com/kyle_l_wiggers?lang=eu" />
+58
+<link rel="alternate" hreflang="fa" href="https://twitter.com/kyle_l_wiggers?lang=fa" />
+58
+<link rel="alternate" hreflang="fi" href="https://twitter.com/kyle_l_wiggers?lang=fi" />
+5a
+<link rel="alternate" hreflang="fil" href="https://twitter.com/kyle_l_wiggers?lang=fil" />
+58
+<link rel="alternate" hreflang="fr" href="https://twitter.com/kyle_l_wiggers?lang=fr" />
+58
+<link rel="alternate" hreflang="ga" href="https://twitter.com/kyle_l_wiggers?lang=ga" />
+58
+<link rel="alternate" hreflang="gl" href="https://twitter.com/kyle_l_wiggers?lang=gl" />
+58
+<link rel="alternate" hreflang="gu" href="https://twitter.com/kyle_l_wiggers?lang=gu" />
+58
+<link rel="alternate" hreflang="he" href="https://twitter.com/kyle_l_wiggers?lang=he" />
+58
+<link rel="alternate" hreflang="hi" href="https://twitter.com/kyle_l_wiggers?lang=hi" />
+58
+<link rel="alternate" hreflang="hr" href="https://twitter.com/kyle_l_wiggers?lang=hr" />
+58
+<link rel="alternate" hreflang="hu" href="https://twitter.com/kyle_l_wiggers?lang=hu" />
+58
+<link rel="alternate" hreflang="id" href="https://twitter.com/kyle_l_wiggers?lang=id" />
+58
+<link rel="alternate" hreflang="it" href="https://twitter.com/kyle_l_wiggers?lang=it" />
+58
+<link rel="alternate" hreflang="ja" href="https://twitter.com/kyle_l_wiggers?lang=ja" />
+58
+<link rel="alternate" hreflang="kn" href="https://twitter.com/kyle_l_wiggers?lang=kn" />
+58
+<link rel="alternate" hreflang="ko" href="https://twitter.com/kyle_l_wiggers?lang=ko" />
+58
+<link rel="alternate" hreflang="mr" href="https://twitter.com/kyle_l_wiggers?lang=mr" />
+58
+<link rel="alternate" hreflang="ms" href="https://twitter.com/kyle_l_wiggers?lang=ms" />
+58
+<link rel="alternate" hreflang="nb" href="https://twitter.com/kyle_l_wiggers?lang=nb" />
+58
+<link rel="alternate" hreflang="nl" href="https://twitter.com/kyle_l_wiggers?lang=nl" />
+58
+<link rel="alternate" hreflang="pl" href="https://twitter.com/kyle_l_wiggers?lang=pl" />
+58
+<link rel="alternate" hreflang="pt" href="https://twitter.com/kyle_l_wiggers?lang=pt" />
+58
+<link rel="alternate" hreflang="ro" href="https://twitter.com/kyle_l_wiggers?lang=ro" />
+58
+<link rel="alternate" hreflang="ru" href="https://twitter.com/kyle_l_wiggers?lang=ru" />
+58
+<link rel="alternate" hreflang="sk" href="https://twitter.com/kyle_l_wiggers?lang=sk" />
+58
+<link rel="alternate" hreflang="sr" href="https://twitter.com/kyle_l_wiggers?lang=sr" />
+58
+<link rel="alternate" hreflang="sv" href="https://twitter.com/kyle_l_wiggers?lang=sv" />
+58
+<link rel="alternate" hreflang="ta" href="https://twitter.com/kyle_l_wiggers?lang=ta" />
+58
+<link rel="alternate" hreflang="th" href="https://twitter.com/kyle_l_wiggers?lang=th" />
+58
+<link rel="alternate" hreflang="tr" href="https://twitter.com/kyle_l_wiggers?lang=tr" />
+58
+<link rel="alternate" hreflang="uk" href="https://twitter.com/kyle_l_wiggers?lang=uk" />
+58
+<link rel="alternate" hreflang="ur" href="https://twitter.com/kyle_l_wiggers?lang=ur" />
+58
+<link rel="alternate" hreflang="vi" href="https://twitter.com/kyle_l_wiggers?lang=vi" />
+58
+<link rel="alternate" hreflang="zh" href="https://twitter.com/kyle_l_wiggers?lang=zh" />
+62
+<link rel="alternate" hreflang="zh-Hant" href="https://twitter.com/kyle_l_wiggers?lang=zh-Hant" />
+42
+<link rel="canonical" href="https://twitter.com/kyle_l_wiggers" />
+67
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Twitter">
+86
+<link rel="mask-icon" sizes="any" href="https://abs.twimg.com/responsive-web/client-web-legacy/icon-svg.168b89d5.svg" color="#1da1f2">
+5a
+<link rel="shortcut icon" href="//abs.twimg.com/favicons/twitter.ico" type="image/x-icon">
+83
+<link rel="apple-touch-icon" sizes="192x192" href="https://abs.twimg.com/responsive-web/client-web-legacy/icon-ios.b1fc7275.png" />
+e6
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Twitter" />
+<meta name="apple-mobile-web-app-status-bar-style" content="white" />
+<meta name="theme-color" content="#ffffff" />
+
+115
+<meta http-equiv="origin-trial" content="Apir4chqTX+4eFxKD+ErQlKRB/VtZ/dvnLfd9Y9Nenl5r1xJcf81alryTHYQiuUlz9Q49MqGXqyaiSmqWzHUqQwAAABneyJvcmlnaW4iOiJodHRwczovL3R3aXR0ZXIuY29tOjQ0MyIsImZlYXR1cmUiOiJDb250YWN0c01hbmFnZXIiLCJleHBpcnkiOjE1NzUwMzUyODMsImlzU3ViZG9tYWluIjp0cnVlfQ==" />
+27
+<style>html,body{height: 100%;}</style>
+a7c
+<style id="react-native-stylesheet">[stylesheet-group="0"]{}
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);}
+body{margin:0;}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
+input::-webkit-inner-spin-button,input::-webkit-outer-spin-button,input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-webkit-search-results-button,input::-webkit-search-results-decoration{display:none;}
+[stylesheet-group="0.1"]{}
+:focus:not([data-focusvisible-polyfill]){outline: none;}
+[stylesheet-group="1"]{}
+.css-1dbjc4n{-ms-flex-align:stretch;-ms-flex-direction:column;-ms-flex-negative:0;-ms-flex-preferred-size:auto;-webkit-align-items:stretch;-webkit-box-align:stretch;-webkit-box-direction:normal;-webkit-box-orient:vertical;-webkit-flex-basis:auto;-webkit-flex-direction:column;-webkit-flex-shrink:0;align-items:stretch;border:0 solid black;box-sizing:border-box;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;flex-basis:auto;flex-direction:column;flex-shrink:0;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;min-height:0px;min-width:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;position:relative;z-index:0;}
+.css-901oao{border:0 solid black;box-sizing:border-box;color:rgba(0,0,0,1.00);display:inline;font:14px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;margin-bottom:0px;margin-left:0px;margin-right:0px;margin-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;white-space:pre-wrap;word-wrap:break-word;}
+.css-16my406{color:inherit;font:inherit;white-space:inherit;}
+[stylesheet-group="2"]{}
+.r-13awgt0{-ms-flex:1 1 0%;-webkit-flex:1;flex:1;}
+.r-4qtqp9{display:inline-block;}
+.r-ywje51{margin-bottom:auto;margin-left:auto;margin-right:auto;margin-top:auto;}
+.r-hvic4v{display:none;}
+.r-1adg3ll{display:block;}
+[stylesheet-group="2.2"]{}
+.r-12vffkv>*{pointer-events:auto;}
+.r-12vffkv{pointer-events:none!important;}
+.r-14lw9ot{background-color:rgba(255,255,255,1.00);}
+.r-1p0dtai{bottom:0px;}
+.r-1d2f490{left:0px;}
+.r-1xcajam{position:fixed;}
+.r-zchlnj{right:0px;}
+.r-ipm5af{top:0px;}
+.r-yyyyoo{fill:currentcolor;}
+.r-1xvli5t{height:1.25em;}
+.r-dnmrzs{max-width:100%;}
+.r-bnwqim{position:relative;}
+.r-1plcrui{vertical-align:text-bottom;}
+.r-lrvibr{-moz-user-select:none;-ms-user-select:none;-webkit-user-select:none;user-select:none;}
+.r-13gxpu9{color:rgba(29,161,242,1.00);}
+.r-wy61xf{height:72px;}
+.r-u8s1d{position:absolute;}
+.r-1blnp2b{width:72px;}
+.r-1ykxob0{top:60%;}
+.r-1b2b6em{line-height:2em;}
+.r-q4m81j{text-align:center;}</style>
+42
+<body style="background-color: #FFFFFF;">
+  <noscript>
+    <style>
+3cc
+
+    body {
+      -ms-overflow-style: scrollbar;
+      overflow-y: scroll;
+      overscroll-behavior-y: none;
+    }
+
+    .errorContainer {
+      background-color: #FFF;
+      color: #0F1419;
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 10%;
+      font-family: Helvetica, sans-serif;
+      font-size: 16px;
+    }
+
+    .errorButton {
+      margin: 3em 0;
+    }
+
+    .errorButton a {
+      background: #1DA1F2;
+      border-radius: 2.5em;
+      color: white;
+      padding: 1em 2em;
+      text-decoration: none;
+    }
+
+    .errorButton a:hover,
+    .errorButton a:focus {
+      background: rgb(26, 145, 218);
+    }
+
+    .errorFooter {
+      color: #657786;
+      font-size: 80%;
+      line-height: 1.5;
+      padding: 1em 0;
+    }
+
+    .errorFooter a,
+    .errorFooter a:visited {
+      color: #657786;
+      text-decoration: none;
+      padding-right: 1em;
+    }
+
+    .errorFooter a:hover,
+    .errorFooter a:active {
+      text-decoration: underline;
+    }
+
+317
+
+      #placeholder,
+      #react-root {
+        display: none !important;
+      }
+      body {
+        background-color: #FFF !important;
+      }
+    </style>
+    <div class="errorContainer">
+      <img width="46" height="38" srcset="https://abs.twimg.com/errors/logo46x38.png 1x, https://abs.twimg.com/errors/logo46x38@2x.png 2x" src="https://abs.twimg.com/errors/logo46x38.png" alt="Twitter" />
+      <h1>JavaScript is not available.</h1>
+      <p>We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.</p>
+      <p class="errorButton"><a href="https://help.twitter.com/using-twitter/twitter-supported-browsers">Help Center</a></p>
+1b8
+
+    <p class="errorFooter">
+      <a href="https://twitter.com/tos">Terms of Service</a>
+      <a href="https://twitter.com/privacy">Privacy Policy</a>
+      <a href="https://support.twitter.com/articles/20170514">Cookie Policy</a>
+      <a href="https://legal.twitter.com/imprint">Imprint</a>
+      <a href="https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html">Ads info</a>
+      © 2021 Twitter, Inc.
+    </p>
+
+19
+
+    </div>
+  </noscript>
+1c4
+<div id="react-root" style="height:100%;display:flex;"><div class="css-1dbjc4n r-13awgt0 r-12vffkv"><div class="css-1dbjc4n r-13awgt0 r-12vffkv"><style>
+@media (prefers-color-scheme: dark) {
+  #placeholder {
+    background-color: #000000
+  }
+}
+</style><div aria-label="Loading…" class="css-1dbjc4n r-14lw9ot r-1p0dtai r-1d2f490 r-1xcajam r-zchlnj r-ipm5af" id="placeholder"><svg viewBox="0 0 24 24" class="r-1p0dtai r-13gxpu9 r-4qtqp9 r-yyyyoo r-wy61
+492
+xf r-1d2f490 r-ywje51 r-dnmrzs r-u8s1d r-zchlnj r-1plcrui r-ipm5af r-lrvibr r-1blnp2b"><g><path d="M23.643 4.937c-.835.37-1.732.62-2.675.733.962-.576 1.7-1.49 2.048-2.578-.9.534-1.897.922-2.958 1.13-.85-.904-2.06-1.47-3.4-1.47-2.572 0-4.658 2.086-4.658 4.66 0 .364.042.718.12 1.06-3.873-.195-7.304-2.05-9.602-4.868-.4.69-.63 1.49-.63 2.342 0 1.616.823 3.043 2.072 3.878-.764-.025-1.482-.234-2.11-.583v.06c0 2.257 1.605 4.14 3.737 4.568-.392.106-.803.162-1.227.162-.3 0-.593-.028-.877-.082.593 1.85 2.313 3.198 4.352 3.234-1.595 1.25-3.604 1.995-5.786 1.995-.376 0-.747-.022-1.112-.065 2.062 1.323 4.51 2.093 7.14 2.093 8.57 0 13.255-7.098 13.255-13.254 0-.2-.005-.402-.014-.602.91-.658 1.7-1.477 2.323-2.41z"></path></g></svg></div><div class="css-1dbjc4n r-hvic4v r-1d2f490 r-1xcajam r-zchlnj r-1ykxob0" id="ScriptLoadFailure"><form action="" method="GET"><div dir="auto" class="css-901oao r-1adg3ll r-1b2b6em r-q4m81j"><span class="css-901oao css-16my406">Something went wrong, but don’t fret — let’s give it another shot.</span><br/><input type="hidden" name="failedScript" value=""/><input type="submit" value="Try again"/></div></form></div></div></div></div>
+1fc7
+<script type="text/javascript" charset="utf-8" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj">window.__INITIAL_STATE__={"optimist":[],"urt":{},"toasts":[],"entities":{"users":{"entities":{},"errors":{},"fetchStatus":{}},"tweets":{"entities":{},"errors":{},"fetchStatus":{}},"cards":{"entities":{},"errors":{},"fetchStatus":{}},"moments":{"entities":{},"errors":{},"fetchStatus":{}},"liveEvents":{"entities":{},"errors":{},"fetchStatus":{}},"imageCache":{"entities":{},"errors":{},"fetchStatus":{}}},"featureSwitch":{"config":{"2fa_multikey_management_enabled":{"value":true},"account_country_setting_countries_whitelist":{"value":["ad","ae","af","ag","ai","al","am","ao","ar","as","at","au","aw","ax","az","ba","bb","bd","be","bf","bg","bh","bi","bj","bl","bm","bn","bo","bq","br","bs","bt","bv","bw","by","bz","ca","cc","cd","cf","cg","ch","ci","ck","cl","cm","co","cr","cu","cv","cw","cx","cy","cz","de","dj","dk","dm","do","dz","ec","ee","eg","er","es","et","fi","fj","fk","fm","fo","fr","ga","gb","gd","ge","gf","gg","gh","gi","gl","gm","gn","gp","gq","gr","gs","gt","gu","gw","gy","hk","hn","hr","ht","hu","id","ie","il","im","in","io","iq","ir","is","it","je","jm","jo","jp","ke","kg","kh","ki","km","kn","kr","kw","ky","kz","la","lb","lc","li","lk","lr","ls","lt","lu","lv","ly","ma","mc","md","me","mf","mg","mh","mk","ml","mn","mo","mp","mq","mr","ms","mt","mu","mv","mw","mx","my","mz","na","nc","ne","nf","ng","ni","nl","no","np","nr","nu","nz","om","pa","pe","pf","pg","ph","pk","pl","pm","pn","pr","ps","pt","pw","py","qa","re","ro","rs","ru","rw","sa","sb","sc","se","sg","sh","si","sk","sl","sm","sn","so","sr","st","sv","sx","sz","tc","td","tf","tg","th","tj","tk","tl","tm","tn","to","tr","tt","tv","tw","tz","ua","ug","us","uy","uz","va","vc","ve","vi","vn","vu","wf","ws","xk","ye","yt","za","zm","zw"]},"account_session_console_from_graphql_enabled":{"value":false},"author_moderated_replies_urt_container_enabled":{"value":false},"business_profiles_rweb_onboarding_enabled":{"value":false},"c9s_enabled":{"value":false},"content_language_setting_enabled":{"value":true},"conversation_controls_flexible_participation_enabled":{"value":false},"conversation_controls_flexible_participation_reply_enabled":{"value":true},"conversation_controls_limited_replies_consumption_configuration":{"value":"no_reply"},"conversation_controls_limited_replies_creation_enabled":{"value":true},"conversation_controls_my_followers_enabled":{"value":false},"conversation_controls_notifying_participants_enabled":{"value":true},"dm_conversations_muted_list_enabled":{"value":false},"dm_conversations_muting_enabled":{"value":false},"dm_conversations_nsfw_media_filter_enabled":{"value":false},"dm_conversations_requests_inbox_actions_button_enabled":{"value":false},"dm_reactions_config_active_reactions":{"value":["😂:funny","😲:surprised","😢:sad","❤️:like","🔥:excited","👍:agree","👎:disagree"]},"dm_reactions_config_inactive_reactions":{"value":["😠:angry","😷:mask"]},"dm_voice_rendering_enabled":{"value":true},"employee_role":{"value":false},"explore_settings_trends_policy_url":{"value":""},"guest_broadcasting_timeline_decorations_enabled":{"value":true},"hashflags_animation_like_button_enabled":{"value":true},"home_timeline_latest_timeline_autoswitch_half_life_minutes":{"value":43200},"home_timeline_latest_timeline_autoswitch_threshold_multiplier":{"value":2},"home_timeline_latest_timeline_max_time_to_autoswitch_minutes":{"value":5256000},"home_timeline_latest_timeline_min_time_to_autoswitch_minutes":{"value":5256000},"home_timeline_latest_timeline_switch_enabled":{"value":true},"home_timeline_latest_timeline_threshold_to_increase_autoswitch_seconds":{"value":60},"home_timeline_spheres_copy_variant":{"value":"list_follow"},"home_timeline_spheres_custom_banner_image_reads_enabled":{"value":true},"home_timeline_spheres_detail_page_muting_enabled":{"value":true},"home_timeline_spheres_list_cell_thumbnail_enabled":{"value":true},"home_timeline_spheres_max_user_owned_or_subscribed_lists_count":{"value":5},"home_timeline_spheres_ranking_mode_control_enabled":{"value":true},"identity_verification_debadging_notification_enabled":{"value":true},"identity_verification_educational_prompt_enabled":{"value":true},"identity_verification_intake_enabled":{"value":false},"list_management_page_urt_timeline_enabled":{"value":true},"live_event_docking_enabled":{"value":true},"live_event_multi_video_auto_advance_dock_enabled":{"value":true},"live_event_multi_video_auto_advance_enabled":{"value":true},"live_event_multi_video_auto_advance_fullscreen_enabled":{"value":false},"live_event_multi_video_auto_advance_transition_duration_seconds":{"value":5},"live_event_multi_video_enabled":{"value":true},"live_event_timeline_default_refresh_rate_interval_seconds":{"value":30},"live_event_timeline_minimum_refresh_rate_interval_seconds":{"value":10},"live_event_timeline_server_controlled_refresh_rate_enabled":{"value":true},"livepipeline_client_enabled":{"value":true},"livepipeline_dm_features_enabled":{"value":true},"livepipeline_tweetengagement_enabled":{"value":true},"moment_annotations_enabled":{"value":true},"network_layer_503_backoff_mode":{"value":"host"},"project_friday_enabled":{"value":false},"responsive_web_account_ownership_verification_enabled":{"value":false},"responsive_web_add_impression_id_to_mute_engagement_enabled":{"value":true},"responsive_web_alt_svc":{"value":false},"responsive_web_alt_text_badge_enabled":{"value":false},"responsive_web_api_transition_enabled":{"value":true},"responsive_web_article_nudge_enabled":{"value":true},"responsive_web_auto_logout_multiaccount_enabled":{"value":true},"responsive_web_auto_logout_restrictedauthtoken_enabled":{"value":true},"responsive_web_auto_logout_twid_enabled":{"value":true},"responsive_web_better_stateful_buttons_variant":{"value":"control"},"responsive_web_birdwatch_consumption_enabled":{"value":false},"responsive_web_birdwatch_contribution_enabled":{"value":false},"responsive_web_birdwatch_hcomp_user":{"value":false},"responsive_web_birdwatch_site_enabled":{"value":true},"responsive_web_birdwatch_traffic_lights_enabled":{"value":true},"responsive_web_branch_cpid_enabled":{"value":false},"responsive_web_branch_sdk_enabled":{"value":true},"responsive_web_card_preload_mode":{"value":false},"responsive_web_carousel_video_mute_state_enabled":{"value":false},"responsive_web_carousels_convert_to_single_media":{"value":false},"responsive_web_cleanup_macaw_swift_indexed_db":{"value":true},"responsive_web_continue_as_always_enabled":{"value":false},"responsive_web_continue_as_param_enabled":{"value":true},"responsive_web_csrf_clientside_enabled":{"value":true},"responsive_web_dcm_2_enabled":{"value":true},"responsive_web_dm_quick_access_enabled":{"value":true},"responsive_web_dm_quick_access_no_empty_drawer_enabled":{"value":true},"responsive_web_dm_quick_access_with_close_enabled":{"value":false},"responsive_web_eu_compliance_double_click_disabled":{"value":false},"responsive_web_eu_compliance_ga_disabled":{"value":false},"responsive_web_eu_compliance_player_card_disabled":{"value":false},"responsive_web_eu_compliance_sentry_disabled":{"value":false},"responsive_web_eu_countries":{"value":["at","be","bg","ch","cy","cz","de","dk","ee","es","fi","fr","gb","gr","hr","hu","ie","is","it","li","lt","lu","lv","mt","nl","no","pl","pt","ro","se","si","sk"]},"responsive_web_extension_compatibility_hide":{"value":false},"responsive_web_extension_compatibility_impression_guard":{"value":true},"responsive_web_extension_compatibility_override_param":{"value":false},"responsive_web_extension_compatibility_scribe":{"value":true},"responsive_web_extension_compatibility_size_threshold":{"value":50},"responsive_web_fake_root_twitter_domain_for_testing":{"value":false},"responsive_web_fetch_hashflags_on_boot":{"value":true},"responsive_web_fleets_dm_consumption_enabled":{"value":true},"responsive_web_fleets_notification_screen_enabled":{"value":false},"responsive_web_fleets_viewer_screen_enabled":{"value":true},"responsive_web_framerate_tracking_home_enabled":{"value":false},"responsive_w
+2030
+eb_graphql_amr_timeline":{"value":false},"responsive_web_graphql_bookmarks":{"value":false},"responsive_web_graphql_conversations_enabled":{"value":false},"responsive_web_graphql_dark_reads_probability":{"value":0},"responsive_web_graphql_feedback":{"value":true},"responsive_web_graphql_likes_timeline":{"value":false},"responsive_web_graphql_list_management_timelines_enabled":{"value":false},"responsive_web_graphql_list_recommended_users_enabled":{"value":false},"responsive_web_graphql_list_tweets_timeline":{"value":false},"responsive_web_graphql_media_timeline":{"value":false},"responsive_web_graphql_mutation_bookmarks":{"value":false},"responsive_web_graphql_non_legacy_card":{"value":true},"responsive_web_graphql_profile_timeline":{"value":false},"responsive_web_graphql_redux_module_users":{"value":false},"responsive_web_graphql_topic_timeline_enabled":{"value":false},"responsive_web_graphql_tweet_by_rest_id":{"value":false},"responsive_web_graphql_tweet_results":{"value":false},"responsive_web_graphql_user_by_rest_id":{"value":true},"responsive_web_graphql_user_profile_screen":{"value":false},"responsive_web_graphql_user_results":{"value":false},"responsive_web_graphql_users_by_rest_ids":{"value":true},"responsive_web_hoisting_anchor_invalidation_enabled":{"value":false},"responsive_web_hover_on_mousemove_enabled":{"value":false},"responsive_web_inline_login_box_enabled":{"value":"full"},"responsive_web_inline_reply_enabled":{"value":false},"responsive_web_inline_reply_with_fab_enabled":{"value":false},"responsive_web_install_banner_show_immediate":{"value":false},"responsive_web_instream_video_redesign_enabled":{"value":true},"responsive_web_left_nav_refresh_connect_enabled":{"value":false},"responsive_web_left_nav_refresh_topics_enabled":{"value":false},"responsive_web_list_hover_cards_enabled":{"value":true},"responsive_web_live_video_parity_periscope_auth_enabled":{"value":false},"responsive_web_login_input_type_email_enabled":{"value":false},"responsive_web_login_signup_sheet_app_install_cta_enabled":{"value":true},"responsive_web_lohp_refresh_enabled":{"value":true},"responsive_web_media_upload_limit_2g":{"value":250},"responsive_web_media_upload_limit_3g":{"value":1500},"responsive_web_media_upload_limit_slow_2g":{"value":150},"responsive_web_media_upload_md5_hashing_enabled":{"value":false},"responsive_web_media_upload_target_jpg_pixels_per_byte":{"value":6},"responsive_web_menu_section_divider_enabled":{"value":false},"responsive_web_modal_close_enabled":{"value":true},"responsive_web_moment_maker_annotations_enabled":{"value":false},"responsive_web_moment_maker_enabled":{"value":false},"responsive_web_moment_maker_promoted_tweets_enabled":{"value":false},"responsive_web_multiple_account_limit":{"value":5},"responsive_web_new_client_events_enabled":{"value":false},"responsive_web_new_copy_security_key_2fa_enabled":{"value":true},"responsive_web_newsletters_callout_enabled":{"value":true},"responsive_web_newsletters_menu_enabled":{"value":true},"responsive_web_ntab_verified_mentions_vit_internal_dogfood":{"value":false},"responsive_web_oauth2_consent_flow_enabled":{"value":false},"responsive_web_ocf_lite_login_flow_enabled":{"value":false},"responsive_web_ocf_sms_autoverify_darkwrite":{"value":false},"responsive_web_ocf_sms_autoverify_enabled":{"value":false},"responsive_web_open_in_app_prompt_enabled":{"value":false},"responsive_web_prerolls_fullscreen_disabled_on_ios":{"value":false},"responsive_web_promoted_tweet_param_append_enabled":{"value":true},"responsive_web_promoted_tweet_url_rewrite_enabled":{"value":false},"responsive_web_quick_promote_enabled":{"value":true},"responsive_web_report_page_not_found":{"value":false},"responsive_web_rich_tweet_landing_enabled":{"value":true},"responsive_web_scroller_autopoll_enabled":{"value":false},"responsive_web_scroller_v3_enabled":{"value":false},"responsive_web_search_dms_enabled":{"value":true},"responsive_web_second_degree_replies_nudge_force_enabled":{"value":false},"responsive_web_second_degree_replies_nudge_get_enabled":{"value":false},"responsive_web_second_degree_replies_nudge_show_enabled":{"value":false},"responsive_web_serviceworker_safari_disabled":{"value":false},"responsive_web_settings_revamp_enabled":{"value":false},"responsive_web_settings_timeline_polling_enabled":{"value":false},"responsive_web_settings_timeline_polling_interval_ms":{"value":0},"responsive_web_settings_timeline_refresh_background_interval":{"value":0},"responsive_web_settings_timeline_refresh_enabled":{"value":false},"responsive_web_settings_timeline_refresh_instant_default":{"value":true},"responsive_web_sidebar_ttf_enabled":{"value":false},"responsive_web_trends_setting_new_endpoints":{"value":true},"responsive_web_trigger_test_backoff_on_bookmark":{"value":false},"responsive_web_unsupported_entry_tombstone":{"value":false},"responsive_web_use_app_prompt_copy_variant":{"value":"prompt_better"},"responsive_web_use_app_prompt_enabled":{"value":true},"responsive_web_video_control_bar_refactor_enabled":{"value":false},"responsive_web_video_pcomplete_enabled":{"value":true},"responsive_web_video_promoted_logging_enabled":{"value":true},"responsive_web_vod_muted_captions_enabled":{"value":true},"responsive_web_vs_config_resize_observer_enabled":{"value":true},"responsive_web_zipkin_api_requests_enabled":{"value":false},"responsive_web_zipkin_api_requests_paths_allowlist":{"value":["/2/timeline/home.json"]},"rito_smart_block_list_enabled":{"value":false},"scribe_api_error_sample_size":{"value":0},"scribe_api_sample_size":{"value":100},"scribe_cdn_host_list":{"value":["si0.twimg.com","si1.twimg.com","si2.twimg.com","si3.twimg.com","a0.twimg.com","a1.twimg.com","a2.twimg.com","a3.twimg.com","abs.twimg.com","amp.twimg.com","o.twimg.com","pbs.twimg.com","pbs-eb.twimg.com","pbs-ec.twimg.com","pbs-v6.twimg.com","pbs-h1.twimg.com","pbs-h2.twimg.com","video.twimg.com","platform.twitter.com","cdn.api.twitter.com","ton.twimg.com","v.cdn.vine.co","mtc.cdn.vine.co","edge.vncdn.co","mid.vncdn.co"]},"scribe_cdn_sample_size":{"value":50},"scribe_web_nav":{"value":false},"scribe_web_nav_sample_size":{"value":0},"search_channels_description_enabled":{"value":true},"search_channels_discovery_page_enabled":{"value":false},"soft_interventions_like_nudge_enabled":{"value":true},"soft_interventions_nudge_backend_control_enabled":{"value":true},"soft_interventions_retweet_nudge_enabled":{"value":true},"soft_interventions_share_nudge_enabled":{"value":true},"topic_icons_enabled":{"value":false},"topic_landing_page_condensed_header_enabled":{"value":true},"topic_landing_page_enabled":{"value":true},"topic_landing_page_share_enabled":{"value":true},"topics_discovery_page_enabled":{"value":false},"topics_discovery_topic_picker_page_enabled":{"value":true},"topics_new_social_context_icon_color_enabled":{"value":false},"topics_peek_home_enabled":{"value":false},"topics_peek_search_enabled":{"value":false},"traffic_rewrite_map":{"value":[]},"tweet_limited_actions_config_enabled":{"value":true},"tweet_limited_actions_config_non_compliant":{"value":["reply","retweet","like","send_via_dm","add_to_bookmarks","add_to_moment","pin_to_profile","view_tweet_activity","share_tweet_via"]},"unified_cards_cta_color_blue_cta":{"value":true},"user_display_name_max_limit":{"value":50},"voice_consumption_enabled":{"value":false},"web_video_bitrate_persistence_enabled":{"value":false},"web_video_hls_android_mse_enabled":{"value":true},"web_video_hls_mp4_threshold_sec":{"value":0},"web_video_hlsjs_version":{"value":""},"web_video_prefetch_playlist_autoplay_disabled":{"value":false},"web_video_smart_buffering_enabled":{"value":false},"web_video_smart_buffering_preroll_prebuffering_enabled":{"value":true}},"debug":{},"defaultConfig":{"2fa_multikey_management_enabled":{"value":true},"account_country_setting_countries_whitelist":{"value":["ad","ae","af","ag","ai","al","am","ao","ar","as","at","au","aw","ax","az","ba","bb","bd","be","bf","bg","bh","bi","bj","bl","bm","bn","bo","bq","br","bs","bt","bv","bw","by","bz","ca","cc","cd","cf","cg","ch","ci","ck","cl","cm","co","cr","cu","cv","cw","cx","cy","cz","de","dj","dk","dm","do","dz","ec","ee","eg","er","es","et","fi","fj","fk","fm","fo","fr","ga",
+3
+"gb
+1fc7
+","gd","ge","gf","gg","gh","gi","gl","gm","gn","gp","gq","gr","gs","gt","gu","gw","gy","hk","hn","hr","ht","hu","id","ie","il","im","in","io","iq","ir","is","it","je","jm","jo","jp","ke","kg","kh","ki","km","kn","kr","kw","ky","kz","la","lb","lc","li","lk","lr","ls","lt","lu","lv","ly","ma","mc","md","me","mf","mg","mh","mk","ml","mn","mo","mp","mq","mr","ms","mt","mu","mv","mw","mx","my","mz","na","nc","ne","nf","ng","ni","nl","no","np","nr","nu","nz","om","pa","pe","pf","pg","ph","pk","pl","pm","pn","pr","ps","pt","pw","py","qa","re","ro","rs","ru","rw","sa","sb","sc","se","sg","sh","si","sk","sl","sm","sn","so","sr","st","sv","sx","sz","tc","td","tf","tg","th","tj","tk","tl","tm","tn","to","tr","tt","tv","tw","tz","ua","ug","us","uy","uz","va","vc","ve","vi","vn","vu","wf","ws","xk","ye","yt","za","zm","zw"]},"account_session_console_from_graphql_enabled":{"value":false},"author_moderated_replies_urt_container_enabled":{"value":false},"business_profiles_rweb_onboarding_enabled":{"value":false},"c9s_enabled":{"value":false},"content_language_setting_enabled":{"value":true},"conversation_controls_flexible_participation_enabled":{"value":false},"conversation_controls_flexible_participation_reply_enabled":{"value":true},"conversation_controls_limited_replies_consumption_configuration":{"value":"no_reply"},"conversation_controls_limited_replies_creation_enabled":{"value":true},"conversation_controls_my_followers_enabled":{"value":false},"conversation_controls_notifying_participants_enabled":{"value":true},"dm_conversations_muted_list_enabled":{"value":false},"dm_conversations_muting_enabled":{"value":false},"dm_conversations_nsfw_media_filter_enabled":{"value":false},"dm_conversations_requests_inbox_actions_button_enabled":{"value":false},"dm_reactions_config_active_reactions":{"value":["😂:funny","😲:surprised","😢:sad","❤️:like","🔥:excited","👍:agree","👎:disagree"]},"dm_reactions_config_inactive_reactions":{"value":["😠:angry","😷:mask"]},"dm_voice_rendering_enabled":{"value":true},"employee_role":{"value":false},"explore_settings_trends_policy_url":{"value":""},"guest_broadcasting_timeline_decorations_enabled":{"value":true},"hashflags_animation_like_button_enabled":{"value":true},"home_timeline_latest_timeline_autoswitch_half_life_minutes":{"value":43200},"home_timeline_latest_timeline_autoswitch_threshold_multiplier":{"value":2},"home_timeline_latest_timeline_max_time_to_autoswitch_minutes":{"value":5256000},"home_timeline_latest_timeline_min_time_to_autoswitch_minutes":{"value":5256000},"home_timeline_latest_timeline_switch_enabled":{"value":true},"home_timeline_latest_timeline_threshold_to_increase_autoswitch_seconds":{"value":60},"home_timeline_spheres_copy_variant":{"value":"list_follow"},"home_timeline_spheres_custom_banner_image_reads_enabled":{"value":true},"home_timeline_spheres_detail_page_muting_enabled":{"value":true},"home_timeline_spheres_list_cell_thumbnail_enabled":{"value":true},"home_timeline_spheres_max_user_owned_or_subscribed_lists_count":{"value":5},"home_timeline_spheres_ranking_mode_control_enabled":{"value":true},"identity_verification_debadging_notification_enabled":{"value":true},"identity_verification_educational_prompt_enabled":{"value":true},"identity_verification_intake_enabled":{"value":false},"list_management_page_urt_timeline_enabled":{"value":true},"live_event_docking_enabled":{"value":true},"live_event_multi_video_auto_advance_dock_enabled":{"value":true},"live_event_multi_video_auto_advance_enabled":{"value":true},"live_event_multi_video_auto_advance_fullscreen_enabled":{"value":false},"live_event_multi_video_auto_advance_transition_duration_seconds":{"value":5},"live_event_multi_video_enabled":{"value":true},"live_event_timeline_default_refresh_rate_interval_seconds":{"value":30},"live_event_timeline_minimum_refresh_rate_interval_seconds":{"value":10},"live_event_timeline_server_controlled_refresh_rate_enabled":{"value":true},"livepipeline_client_enabled":{"value":true},"livepipeline_dm_features_enabled":{"value":true},"livepipeline_tweetengagement_enabled":{"value":true},"moment_annotations_enabled":{"value":true},"network_layer_503_backoff_mode":{"value":"host"},"project_friday_enabled":{"value":false},"responsive_web_account_ownership_verification_enabled":{"value":false},"responsive_web_add_impression_id_to_mute_engagement_enabled":{"value":true},"responsive_web_alt_svc":{"value":false},"responsive_web_alt_text_badge_enabled":{"value":false},"responsive_web_api_transition_enabled":{"value":true},"responsive_web_article_nudge_enabled":{"value":true},"responsive_web_auto_logout_multiaccount_enabled":{"value":true},"responsive_web_auto_logout_restrictedauthtoken_enabled":{"value":true},"responsive_web_auto_logout_twid_enabled":{"value":true},"responsive_web_better_stateful_buttons_variant":{"value":"control"},"responsive_web_birdwatch_consumption_enabled":{"value":false},"responsive_web_birdwatch_contribution_enabled":{"value":false},"responsive_web_birdwatch_hcomp_user":{"value":false},"responsive_web_birdwatch_site_enabled":{"value":true},"responsive_web_birdwatch_traffic_lights_enabled":{"value":false},"responsive_web_branch_cpid_enabled":{"value":false},"responsive_web_branch_sdk_enabled":{"value":true},"responsive_web_card_preload_mode":{"value":false},"responsive_web_carousel_video_mute_state_enabled":{"value":false},"responsive_web_carousels_convert_to_single_media":{"value":false},"responsive_web_cleanup_macaw_swift_indexed_db":{"value":true},"responsive_web_continue_as_always_enabled":{"value":false},"responsive_web_continue_as_param_enabled":{"value":true},"responsive_web_csrf_clientside_enabled":{"value":true},"responsive_web_dcm_2_enabled":{"value":true},"responsive_web_dm_quick_access_enabled":{"value":true},"responsive_web_dm_quick_access_no_empty_drawer_enabled":{"value":true},"responsive_web_dm_quick_access_with_close_enabled":{"value":false},"responsive_web_eu_compliance_double_click_disabled":{"value":false},"responsive_web_eu_compliance_ga_disabled":{"value":false},"responsive_web_eu_compliance_player_card_disabled":{"value":false},"responsive_web_eu_compliance_sentry_disabled":{"value":false},"responsive_web_eu_countries":{"value":["at","be","bg","ch","cy","cz","de","dk","ee","es","fi","fr","gb","gr","hr","hu","ie","is","it","li","lt","lu","lv","mt","nl","no","pl","pt","ro","se","si","sk"]},"responsive_web_extension_compatibility_hide":{"value":false},"responsive_web_extension_compatibility_impression_guard":{"value":true},"responsive_web_extension_compatibility_override_param":{"value":false},"responsive_web_extension_compatibility_scribe":{"value":true},"responsive_web_extension_compatibility_size_threshold":{"value":50},"responsive_web_fake_root_twitter_domain_for_testing":{"value":false},"responsive_web_fetch_hashflags_on_boot":{"value":false},"responsive_web_fleets_dm_consumption_enabled":{"value":true},"responsive_web_fleets_notification_screen_enabled":{"value":false},"responsive_web_fleets_viewer_screen_enabled":{"value":true},"responsive_web_framerate_tracking_home_enabled":{"value":false},"responsive_web_graphql_amr_timeline":{"value":false},"responsive_web_graphql_bookmarks":{"value":false},"responsive_web_graphql_conversations_enabled":{"value":false},"responsive_web_graphql_dark_reads_probability":{"value":0},"responsive_web_graphql_feedback":{"value":true},"responsive_web_graphql_likes_timeline":{"value":false},"responsive_web_graphql_list_management_timelines_enabled":{"value":false},"responsive_web_graphql_list_recommended_users_enabled":{"value":false},"responsive_web_graphql_list_tweets_timeline":{"value":false},"responsive_web_graphql_media_timeline":{"value":false},"responsive_web_graphql_mutation_bookmarks":{"value":false},"responsive_web_graphql_non_legacy_card":{"value":true},"responsive_web_graphql_profile_timeline":{"value":false},"responsive_web_graphql_redux_module_users":{"value":false},"responsive_web_graphql_topic_timeline_enabled":{"value":false},"responsive_web_graphql_tweet_by_rest_id":{"value":false},"responsive_web_graphql_tweet_results":{"value":false},"responsive
+2030
+_web_graphql_user_by_rest_id":{"value":true},"responsive_web_graphql_user_profile_screen":{"value":false},"responsive_web_graphql_user_results":{"value":false},"responsive_web_graphql_users_by_rest_ids":{"value":true},"responsive_web_hoisting_anchor_invalidation_enabled":{"value":false},"responsive_web_hover_on_mousemove_enabled":{"value":false},"responsive_web_inline_login_box_enabled":{"value":"full"},"responsive_web_inline_reply_enabled":{"value":false},"responsive_web_inline_reply_with_fab_enabled":{"value":false},"responsive_web_install_banner_show_immediate":{"value":false},"responsive_web_instream_video_redesign_enabled":{"value":true},"responsive_web_left_nav_refresh_connect_enabled":{"value":false},"responsive_web_left_nav_refresh_topics_enabled":{"value":false},"responsive_web_list_hover_cards_enabled":{"value":false},"responsive_web_live_video_parity_periscope_auth_enabled":{"value":false},"responsive_web_login_input_type_email_enabled":{"value":false},"responsive_web_login_signup_sheet_app_install_cta_enabled":{"value":true},"responsive_web_lohp_refresh_enabled":{"value":false},"responsive_web_media_upload_limit_2g":{"value":250},"responsive_web_media_upload_limit_3g":{"value":1500},"responsive_web_media_upload_limit_slow_2g":{"value":150},"responsive_web_media_upload_md5_hashing_enabled":{"value":false},"responsive_web_media_upload_target_jpg_pixels_per_byte":{"value":6},"responsive_web_menu_section_divider_enabled":{"value":false},"responsive_web_modal_close_enabled":{"value":true},"responsive_web_moment_maker_annotations_enabled":{"value":false},"responsive_web_moment_maker_enabled":{"value":false},"responsive_web_moment_maker_promoted_tweets_enabled":{"value":false},"responsive_web_multiple_account_limit":{"value":5},"responsive_web_new_client_events_enabled":{"value":false},"responsive_web_new_copy_security_key_2fa_enabled":{"value":true},"responsive_web_newsletters_callout_enabled":{"value":true},"responsive_web_newsletters_menu_enabled":{"value":true},"responsive_web_ntab_verified_mentions_vit_internal_dogfood":{"value":false},"responsive_web_oauth2_consent_flow_enabled":{"value":false},"responsive_web_ocf_lite_login_flow_enabled":{"value":false},"responsive_web_ocf_sms_autoverify_darkwrite":{"value":false},"responsive_web_ocf_sms_autoverify_enabled":{"value":false},"responsive_web_open_in_app_prompt_enabled":{"value":false},"responsive_web_prerolls_fullscreen_disabled_on_ios":{"value":false},"responsive_web_promoted_tweet_param_append_enabled":{"value":true},"responsive_web_promoted_tweet_url_rewrite_enabled":{"value":false},"responsive_web_quick_promote_enabled":{"value":true},"responsive_web_report_page_not_found":{"value":false},"responsive_web_rich_tweet_landing_enabled":{"value":true},"responsive_web_scroller_autopoll_enabled":{"value":false},"responsive_web_scroller_v3_enabled":{"value":false},"responsive_web_search_dms_enabled":{"value":true},"responsive_web_second_degree_replies_nudge_force_enabled":{"value":false},"responsive_web_second_degree_replies_nudge_get_enabled":{"value":false},"responsive_web_second_degree_replies_nudge_show_enabled":{"value":false},"responsive_web_serviceworker_safari_disabled":{"value":false},"responsive_web_settings_revamp_enabled":{"value":false},"responsive_web_settings_timeline_polling_enabled":{"value":false},"responsive_web_settings_timeline_polling_interval_ms":{"value":0},"responsive_web_settings_timeline_refresh_background_interval":{"value":0},"responsive_web_settings_timeline_refresh_enabled":{"value":false},"responsive_web_settings_timeline_refresh_instant_default":{"value":true},"responsive_web_sidebar_ttf_enabled":{"value":false},"responsive_web_trends_setting_new_endpoints":{"value":true},"responsive_web_trigger_test_backoff_on_bookmark":{"value":false},"responsive_web_unsupported_entry_tombstone":{"value":false},"responsive_web_use_app_prompt_copy_variant":{"value":""},"responsive_web_use_app_prompt_enabled":{"value":false},"responsive_web_video_control_bar_refactor_enabled":{"value":false},"responsive_web_video_pcomplete_enabled":{"value":true},"responsive_web_video_promoted_logging_enabled":{"value":false},"responsive_web_vod_muted_captions_enabled":{"value":true},"responsive_web_vs_config_resize_observer_enabled":{"value":true},"responsive_web_zipkin_api_requests_enabled":{"value":false},"responsive_web_zipkin_api_requests_paths_allowlist":{"value":["/2/timeline/home.json"]},"rito_smart_block_list_enabled":{"value":false},"scribe_api_error_sample_size":{"value":0},"scribe_api_sample_size":{"value":100},"scribe_cdn_host_list":{"value":["si0.twimg.com","si1.twimg.com","si2.twimg.com","si3.twimg.com","a0.twimg.com","a1.twimg.com","a2.twimg.com","a3.twimg.com","abs.twimg.com","amp.twimg.com","o.twimg.com","pbs.twimg.com","pbs-eb.twimg.com","pbs-ec.twimg.com","pbs-v6.twimg.com","pbs-h1.twimg.com","pbs-h2.twimg.com","video.twimg.com","platform.twitter.com","cdn.api.twitter.com","ton.twimg.com","v.cdn.vine.co","mtc.cdn.vine.co","edge.vncdn.co","mid.vncdn.co"]},"scribe_cdn_sample_size":{"value":50},"scribe_web_nav":{"value":false},"scribe_web_nav_sample_size":{"value":0},"search_channels_description_enabled":{"value":true},"search_channels_discovery_page_enabled":{"value":false},"soft_interventions_like_nudge_enabled":{"value":true},"soft_interventions_nudge_backend_control_enabled":{"value":true},"soft_interventions_retweet_nudge_enabled":{"value":true},"soft_interventions_share_nudge_enabled":{"value":true},"topic_icons_enabled":{"value":false},"topic_landing_page_condensed_header_enabled":{"value":true},"topic_landing_page_enabled":{"value":true},"topic_landing_page_share_enabled":{"value":true},"topics_discovery_page_enabled":{"value":false},"topics_discovery_topic_picker_page_enabled":{"value":true},"topics_new_social_context_icon_color_enabled":{"value":false},"topics_peek_home_enabled":{"value":false},"topics_peek_search_enabled":{"value":false},"traffic_rewrite_map":{"value":[]},"tweet_limited_actions_config_enabled":{"value":true},"tweet_limited_actions_config_non_compliant":{"value":["reply","retweet","like","send_via_dm","add_to_bookmarks","add_to_moment","pin_to_profile","view_tweet_activity","share_tweet_via"]},"unified_cards_cta_color_blue_cta":{"value":true},"user_display_name_max_limit":{"value":50},"voice_consumption_enabled":{"value":false},"web_video_bitrate_persistence_enabled":{"value":false},"web_video_hls_android_mse_enabled":{"value":true},"web_video_hls_mp4_threshold_sec":{"value":0},"web_video_hlsjs_version":{"value":""},"web_video_prefetch_playlist_autoplay_disabled":{"value":false},"web_video_smart_buffering_enabled":{"value":false},"web_video_smart_buffering_preroll_prebuffering_enabled":{"value":true}},"impression_pointers":{"responsive_web_lohp_refresh_enabled":["responsive_web_lohp_brand_refresh_11662"]},"impressions":{"responsive_web_lohp_brand_refresh_11662":{"key":"responsive_web_lohp_brand_refresh_11662","bucket":"treatment","version":1}},"featureSetToken":"5d7827dfadc1ffe1f49da855ffeecf18cfde4c5b","isLoaded":true,"isLoading":false,"keysRead":{},"settingsVersion":"b180886cac735c3180539868c9f49e74"},"session":{"country":"XX","emailLiteLoginEligibility":{"fetchStatus":"none"},"guestId":"161659581599042804","language":"en","oneFactorLoginEligibility":{"fetchStatus":"none"}},"typeaheadUsers":{"fetchStatus":"none","users":{},"denylist":{},"lastUpdated":0,"index":{}},"settings":{"local":{"nextPushCheckin":0,"shouldAutoPlayGif":false,"scale":"normal","themeColor":"blue500","highContrastEnabled":false,"themeBackground":"light","loginPromptLastShown":0,"reducedMotionEnabled":false,"showTweetMediaDetailDrawer":true,"autoPollNewTweets":false},"remote":{"settings":{"display_sensitive_media":false},"fetchStatus":"none"},"dataSaver":{"dataSaverMode":false},"transient":{"dtabBarInfo":{"hide":false},"loginPromptShown":false,"lastViewedDmInboxPath":"/messages","themeFocus":""}},"devices":{"browserPush":{"fetchStatus":"none","pushNotificationsPrompt":{"dismissed":false,"fetchStatus":"none"},"subscribed":false,"supported":null},"devices":{"data":{"emails":[],"phone_numbers":[]},"fetchStatus":"none"},"notificationSettings":{"push_settings":{"error":null,"fetchStatus":"none"},"push_settings_template":{
+9
+"template
+37d
+":{"settings":[]}},"sms_settings":{"error":null,"fetchStatus":"none"},"sms_settings_template":{"template":{"settings":[]}},"checkin_time":null}},"audio":{"conversationLookup":{}},"hashflags":{"fetchStatus":"none","hashflags":{}},"friendships":{"pendingFollowers":{"acceptedIds":[],"ids":[],"fetchStatus":{"bottom":"none","top":"none"},"hydratedIds":[]}},"homeTimeline":{"useLatest":false,"fetchStatus":"none"},"multiAccount":{"fetchStatus":"none","users":[],"badgeCounts":{},"addAccountFetchStatus":"none"},"badgeCount":{"unreadDMCount":0},"ocf_location":{"startLocation":{}},"navigation":{},"teams":{"fetchStatus":"none","teams":{}},"cardState":{},"promotedContent":{}};window.__META_DATA__={"env":"prod","isLoggedIn":false,"isRTL":false,"hasMultiAccountCookie":false,"uaParserTags":["m2","rweb_unsupported","msw"],"serverDate":1616595816057,"sha":"c752ef824493ccfaba8dd3b7def23b4281545b53"};
+62
+</script><script id="nonce-csp" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj"></script>
+1fc7
+<script type="text/javascript" charset="utf-8" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj">window.__SCRIPTS_LOADED__ = {};!function(e){function n(n){for(var o,t,i=n[0],c=n[1],l=n[2],s=0,m=[];s<i.length;s++)t=i[s],Object.prototype.hasOwnProperty.call(a,t)&&a[t]&&m.push(a[t][0]),a[t]=0;for(o in c)Object.prototype.hasOwnProperty.call(c,o)&&(e[o]=c[o]);for(u&&u(n);m.length;)m.shift()();return r.push.apply(r,l||[]),d()}function d(){for(var e,n=0;n<r.length;n++){for(var d=r[n],o=!0,i=1;i<d.length;i++){var c=d[i];0!==a[c]&&(o=!1)}o&&(r.splice(n--,1),e=t(t.s=d[0]))}return e}var o={},a={1:0},r=[];function t(n){if(o[n])return o[n].exports;var d=o[n]={i:n,l:!1,exports:{}};return e[n].call(d.exports,d,d.exports,t),d.l=!0,d.exports}t.e=function(e){var n=[],d=a[e];if(0!==d)if(d)n.push(d[2]);else{var o=new Promise((function(n,o){d=a[e]=[n,o]}));n.push(d[2]=o);var r,i=document.createElement("script");i.charset="utf-8",i.timeout=120,t.nc&&i.setAttribute("nonce",t.nc),i.src=function(e){return t.p+""+({0:"sharedCore",3:"shared~loader.DMDrawer~bundle.Compose~bundle.RichTextCompose~bundle.DirectMessages~bundle.DMRichTextCompose~b",4:"shared~bundle.Settings~ondemand.SettingsInternals~bundle.SettingsTransparency~bundle.SettingsRevamp~ondemand.",5:"shared~bundle.ComposeMedia~bundle.Ocf~bundle.SettingsProfile~bundle.UserLists",6:"shared~bundle.Compose~bundle.RichTextCompose~ondemand.ComposeScheduling~bundle.PlainTextCompose",7:"shared~bundle.MultiAccount~bundle.Login~bundle.LoggedOutHome~ondemand.IntentPrompt",8:"shared~bundle.Settings~ondemand.SettingsInternals~bundle.SettingsTransparency~bundle.SettingsRevamp",9:"shared~bundle.BadgeViolationsNotification~bundle.AccountVerification~bundle.SettingsRevamp",10:"shared~bundle.DirectMessages~bundle.TweetMediaDetail~bundle.UserAvatar",11:"shared~bundle.Place~bundle.Search~bundle.QuoteTweetActivity",12:"shared~bundle.RichTextCompose~bundle.DMRichTextCompose~ondemand.RichText",13:"shared~loader.DMDrawer~bundle.DMRichTextCompose~bundle.DirectMessages",14:"shared~bundle.Birdwatch~bundle.Topics",15:"shared~bundle.Compose~bundle.PlainTextCompose",16:"shared~bundle.Display~bundle.Settings",17:"shared~bundle.Explore~loader.ExploreSidebar",18:"shared~bundle.Ocf~bundle.SettingsProfile",19:"shared~bundle.TopicPeek~bundle.Topics",20:"shared~bundle.TopicPeek~ondemand.EmojiPicker",21:"shared~loader.AudioOnlyVideoPlayer~ondemand.InlinePlayer",22:"shared~loader.DashMenu~bundle.Account",23:"shared~loader.Typeahead~bundle.UserLists",24:"shared~loaders.video.VideoPlayerDefaultUI~loaders.video.VideoPlayerEventsUI",25:"shared~ondemand.EmojiPickerData~ondemand.EmojiPicker",26:"shared~ondemand.GraphQLModule~ondemand.UserProfileGraphQL",27:"shared~ondemand.SettingsInternals~ondemand.SettingsRevamp",28:"bundle.AboutThisAd",29:"bundle.Account",31:"bundle.AdvancedSearch",32:"bundle.AudioSpace",33:"bundle.BadgeViolationsNotification",34:"bundle.Birdwatch",35:"bundle.Bookmarks",36:"bundle.Collection",37:"bundle.Communities",38:"bundle.Compose",39:"bundle.ComposeMedia",40:"bundle.ConnectTab",41:"bundle.Conversation",42:"bundle.ConversationParticipants",43:"bundle.DMRichTextCompose",44:"bundle.DirectMessages",45:"bundle.Display",46:"bundle.Download",47:"bundle.Explore",48:"bundle.ExploreTopics",49:"bundle.FleetsNotification",50:"bundle.FollowerRequests",51:"bundle.GenericTimeline",52:"bundle.GifSearch",53:"bundle.HomeTimeline",54:"bundle.KeyboardShortcuts",55:"bundle.LiveEvent",56:"bundle.LoggedOutHome",57:"bundle.Login",58:"bundle.Logout",59:"bundle.Moment",60:"bundle.MomentMaker",61:"bundle.MultiAccount",62:"bundle.NetworkInstrument",63:"bundle.NewsLanding",64:"bundle.Newsletters",65:"bundle.NotMyAccount",66:"bundle.NotificationDetail",67:"bundle.Notifications",68:"bundle.OAuth",69:"bundle.Ocf",70:"bundle.Place",71:"bundle.PlainTextCompose",72:"bundle.ProfileRedirect",73:"bundle.QuoteTweetActivity",74:"bundle.Report",75:"bundle.RichTextCompose",76:"bundle.Search",77:"bundle.Settings",78:"bundle.SettingsBizProfile",79:"bundle.SettingsInternals",80:"bundle.SettingsProfile",81:"bundle.SettingsRevamp",82:"bundle.SettingsTransparency",83:"bundle.SmsLogin",84:"bundle.TopicPeek",85:"bundle.Topics",86:"bundle.Trends",87:"bundle.TweetActivity",88:"bundle.TweetMediaDetail",89:"bundle.TweetMediaTags",90:"bundle.Twitterversary",91:"bundle.UserAvatar",92:"bundle.UserFollowLists",93:"bundle.UserLists",94:"bundle.UserMoments",95:"bundle.UserProfile",96:"bundle.UserRedirect",147:"loader.AbsolutePower",148:"loader.AppModules",149:"loader.AudioOnlyVideoPlayer",150:"loader.DMDrawer",151:"loader.DashMenu",152:"loader.ExploreSidebar",153:"loader.FeedbackSheet",154:"loader.FeedbackTombstone",155:"loader.NewTweetsPill",156:"loader.ProfileClusterFollow",157:"loader.PushNotificationsPrompt",158:"loader.SideNav",159:"loader.SignupModule",160:"loader.TimelineRenderer",161:"loader.TweetCurationActionMenu",162:"loader.Typeahead",163:"loader.WideLayout",164:"loader.directMessagesData",165:"loader.graphQLDarkReads",166:"loader.personalizationData",167:"loaders.video.PlayerHls13",168:"loaders.video.PlayerHls14",169:"loaders.video.VideoPlayerDefaultUI",170:"loaders.video.VideoPlayerEventsUI",172:"ondemand.Balloons",173:"ondemand.BranchSdk",174:"ondemand.CarouselScroller",175:"ondemand.ComposeScheduling",176:"ondemand.Dropdown",177:"ondemand.EditBirthdate",178:"ondemand.EditPinned",179:"ondemand.EmojiPicker",180:"ondemand.FleetMediaDetail",181:"ondemand.GraphQLModule",182:"ondemand.HoverCard",183:"ondemand.InlinePlayer",184:"ondemand.IntentPrompt",185:"ondemand.LottieWeb",186:"ondemand.MicrosoftInterface",187:"ondemand.ProfileSidebar",188:"ondemand.ReactBeautifulDnd",189:"ondemand.RichText",190:"ondemand.SettingsInternals",191:"ondemand.SettingsRevamp",192:"ondemand.UserProfileGraphQL",193:"ondemand.countries-ar",194:"ondemand.countries-bg",195:"ondemand.countries-bn",196:"ondemand.countries-ca",197:"ondemand.countries-cs",198:"ondemand.countries-da",199:"ondemand.countries-de",200:"ondemand.countries-el",201:"ondemand.countries-en",202:"ondemand.countries-en-GB",203:"ondemand.countries-es",204:"ondemand.countries-eu",205:"ondemand.countries-fa",206:"ondemand.countries-fi",207:"ondemand.countries-fil",208:"ondemand.countries-fr",209:"ondemand.countries-ga",210:"ondemand.countries-gl",211:"ondemand.countries-gu",212:"ondemand.countries-he",213:"ondemand.countries-hi",214:"ondemand.countries-hr",215:"ondemand.countries-hu",216:"ondemand.countries-id",217:"ondemand.countries-it",218:"ondemand.countries-ja",219:"ondemand.countries-kn",220:"ondemand.countries-ko",221:"ondemand.countries-mr",222:"ondemand.countries-ms",223:"ondemand.countries-nb",224:"ondemand.countries-nl",225:"ondemand.countries-pl",226:"ondemand.countries-pt",227:"ondemand.countries-ro",228:"ondemand.countries-ru",229:"ondemand.countries-sk",2231:"ondemand.countries-sv",232:"ondemand.countries-ta",233:"ondemand.countries-th",234:"ondemand.countries-tr",235:"ondemand.countries-uk",236:"ondemand.countries-ur",237:"ondemand.countries-zh",238:"ondemand.countries-zh-Hant",239:"ondemand.emoji.ar",240:"ondemand.emoji.ar-x-fm",241:"ondemand.emoji.bg",242:"ondemand.emoji.bn",243:"ondemand.emoji.ca",244:"ondemand.emoji.cs",245:"ondemand.emoji.da",246:"ondemand.emoji.de",247:"ondemand.emoji.el",248:"ondemand.emoji.en",249:"ondemand.emoji.en-GB",250:"ondemand.emoji.en-ss",251:"ondemand.emoji.en-xx",252:"ondemand.emoji.es",253:"ondemand.emoji.eu",254:"ondemand.emoji.fa",255:"ondemand.emoji.fi",256:"ondemand.emoji.fil",257:"ondemand.emoji.fr",258:"ondemand.emoji.ga",259:"ondemand.emoji.gl",260:"ondemand.emoji.gu",261:"ondemand.emoji.he",262:"ondemand.emoji.hi",263:"ondemand.emoji.hr",264:"ondemand.emoji.hu",265:"ondemand.emoji.id",266:"ondemand.emoji.it",267:"ondemand.emoji.ja",268:"ondemand.emoji.kn",269:"ondemand.emoji.ko",270:"ondemand.emoji.mr",271:"ondemand.emoji.ms",272:"ondemand.emoji.nb",273:"ondemand.emoji.nl",274:"ondemand.emoji.pl",275:"ondemand.emoji.pt",276:"ondemand.emoji.ro",277:"ondemand.emoji.ru",278:"ondemand.emoji.sk",279:"ondemand.emoji.sr",280:"ondemand.emoji.sv",281:"ondemand.emoji.ta",282:"ondemand.emoji.th",283:"ondemand.emoji.tr",284:
+12cf
+"ondemand.emoji.uk",285:"ondemand.emoji.ur",286:"ondemand.emoji.vi",287:"ondemand.emoji.zh",288:"ondemand.emoji.zh-Hant",289:"ondemand.framerateTracking"}[e]||e)+"."+{0:"147b940",3:"a74938e",4:"6f85d11",5:"2a63399",6:"f360474",7:"0e19754",8:"9e8a7b5",9:"290a279",10:"a33a742",11:"bf5b18f",12:"607096e",13:"1587ded",14:"9f141c8",15:"65aa11a",16:"c0598d1",17:"9220921",18:"f945321",19:"35f70bd",20:"d23bb30",21:"bc6b8ba",22:"c9f88d0",23:"cb5efd9",24:"5e7c73f",25:"9110018",26:"9ecd3dc",27:"9a865f3",28:"4477a54",29:"3e40ebf",31:"64c1cf5",32:"5616062",33:"6fcb8f4",34:"e046313",35:"f496905",36:"3ec8aad",37:"315e744",38:"b79087f",39:"9ca7bac",40:"c90eca3",41:"830f5df",42:"07771fd",43:"d50a97f",44:"2449168",45:"690f486",46:"a291942",47:"e5b910d",48:"d89cdac",49:"1f9601a",50:"1f32ecd",51:"f6ad2ab",52:"47c7e96",53:"4a95ccc",54:"bc12c3b",55:"0775821",56:"01a953c",57:"eb06ef2",58:"fada1ec",59:"d887262",60:"5250a51",61:"c2a4f7e",62:"c63f299",63:"9ee7240",64:"e283f85",65:"1e498de",66:"0cfa172",67:"247cb15",68:"62eade0",69:"1db9bea",70:"4f9cdac",71:"119a98b",72:"9967d3b",73:"d685b92",74:"caac19e",75:"3a2f4b4",76:"283a555",77:"e7ddc90",78:"357cfbf",79:"5daaa4a",80:"694954a",81:"5f35976",82:"cab1b52",83:"ced2942",84:"210f430",85:"23566ed",86:"69a1095",87:"0f6160f",88:"ca54845",89:"2675078",90:"9b3b6ce",91:"fae3e50",92:"2cce99a",93:"bca5ddf",94:"979a2b0",95:"abe7108",96:"841a1be",147:"42cfa3a",148:"890c3ba",149:"76d2d79",150:"a84e93a",151:"def9ee3",152:"c3fdfa0",153:"f920f5f",154:"eeca04a",155:"eba3fde",156:"208d91d",157:"99d3bf8",158:"810366c",159:"77c1989",160:"eb7de1d",161:"5e79251",162:"9939bed",163:"a5553b5",164:"6643e5e",165:"dedb4ea",166:"47ff62b",167:"ef9351b",168:"608b935",169:"f70eda2",170:"1db5e59",172:"827577c",173:"2b484e9",174:"0865f0e",175:"bd128bd",176:"67ab00a",177:"21b8b5d",178:"f4ffeb3",179:"befbd3a",180:"b27e941",181:"0afea17",182:"dede694",183:"e91dc31",184:"7fd78a3",185:"e16a31f",186:"4bdb517",187:"c109cfe",188:"073654c",189:"e5dc1ef",190:"265cb00",191:"244cb41",192:"a713546",193:"1656c19",194:"7fed971",195:"c2f0308",196:"d014590",197:"2c96c44",198:"9e9edac",199:"dc735c6",200:"e8417da",201:"6203213",202:"b185f7f",203:"561dafc",204:"cdd54f0",205:"a5cd2b6",206:"7eb6f74",207:"e748db1",208:"eb9f5ba",209:"24d862e",210:"75c61ff",211:"689f6e0",212:"ca2925f",213:"1f54658",214:"2e19a60",215:"6f0bd29",216:"5ac480f",217:"448067c",218:"0e243ec",219:"33a7cbd",220:"88b1b8a",221:"9535309",222:"63668c0",223:"9e17860",224:"b21a7fd",225:"e92f68d",226:"20ce42b",227:"9264707",228:"43e724f",229:"5aaef14",2231:"ee1a50e",232:"c5fa27c",233:"e9a272d",234:"38c586d",235:"37c2577",236:"a99666c",237:"f3af4bf",238:"1407c95",239:"cec4d75",240:"42a9e95",241:"9b348e3",242:"d2ef735",243:"75f5414",244:"e25d866",245:"4cec3a2",246:"dcd565c",247:"e353896",248:"a692212",249:"a5c57a0",250:"4a897b2",251:"6f6756b",252:"3d286a4",253:"f2d961c",254:"dc252a8",255:"fafef5a",256:"d1a4a2d",257:"2c0a579",258:"44bc628",259:"0626a75",260:"b9a0956",261:"3e950d7",262:"88d966c",263:"1526b85",264:"fa5c533",265:"947ab94",266:"fa86131",267:"e74cb35",268:"c466664",269:"45e87d4",270:"7f961b0",271:"94a9ec7",272:"6bb5c74",273:"a686fd1",274:"20ab2f9",275:"686acfd",276:"b7d5082",277:"5bfd21c",278:"d4b6351",279:"0ee69a5",280:"6e3d10c",281:"64671f9",282:"66e787e",283:"372df75",284:"29345e5",285:"498816a",286:"51d6609",287:"8d2ec0d",288:"317ed7c",289:"bed0879"}[e]+"5.js"}(e);var c=new Error;r=function(n){i.onerror=i.onload=null,clearTimeout(l);var d=a[e];if(0!==d){if(d){var o=n&&("load"===n.type?"missing":n.type),r=n&&n.target&&n.target.src;c.message="Loading chunk "+e+" failed.\n("+o+": "+r+")",c.name="ChunkLoadError",c.type=o,c.request=r,d[1](c)}a[e]=void 0}};var l=setTimeout((function(){r({type:"timeout",target:i})}),12e4);i.onerror=i.onload=r,document.head.appendChild(i)}return Promise.all(n)},t.m=e,t.c=o,t.d=function(e,n,d){t.o(e,n)||Object.defineProperty(e,n,{enumerable:!0,get:d})},t.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},t.t=function(e,n){if(1&n&&(e=t(e)),8&n)return e;if(4&n&&"object"==typeof e&&e&&e.__esModule)return e;var d=Object.create(null);if(t.r(d),Object.defineProperty(d,"default",{enumerable:!0,value:e}),2&n&&"string"!=typeof e)for(var o in e)t.d(d,o,function(n){return e[n]}.bind(null,o));return d},t.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return t.d(n,"a",n),n},t.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},t.p="https://abs.twimg.com/responsive-web/client-web-legacy/",t.oe=function(e){throw e};var i=window.webpackJsonp=window.webpackJsonp||[],c=i.push.bind(i);i.push=n,i=i.slice();for(var l=0;l<i.length;l++)n(i[l]);var u=c;d()}([]),window.__SCRIPTS_LOADED__.runtime=!0;
+</script>
+dc
+<script type="text/javascript" charset="utf-8" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj" crossorigin="anonymous" src="https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.b2053185.js"></script>
+df
+<script type="text/javascript" charset="utf-8" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj" crossorigin="anonymous" src="https://abs.twimg.com/responsive-web/client-web-legacy/vendors~main.d8c93ed5.js"></script>
+da
+<script type="text/javascript" charset="utf-8" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj" crossorigin="anonymous" src="https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en.cc494bf5.js"></script>
+d7
+<script type="text/javascript" charset="utf-8" nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj" crossorigin="anonymous" src="https://abs.twimg.com/responsive-web/client-web-legacy/main.c2f906f5.js"></script>
+227
+<script nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj">(function () {
+  if (!window.__SCRIPTS_LOADED__['main']) {
+    document.getElementById('ScriptLoadFailure').style.display = 'block';
+    var criticalScripts = ["polyfills","vendors~main","i18n","main"];
+    for (var i = 0; i < criticalScripts.length; i++) {
+      var criticalScript = criticalScripts[i];
+      if (!window.__SCRIPTS_LOADED__[criticalScript]) {
+        document.getElementsByName('failedScript')[0].value = criticalScript;
+        break;
+      }
+    }
+  }
+})();</script>
+41
+<script nonce="ODMyZGJhYTAtODFmYi00MGY0LThlZGQtMWFkM2YxMTUzMmVj">
+73
+document.cookie = decodeURIComponent("gt=1374728607990489090; Max-Age=10800; Domain=.twitter.com; Path=/; Secure");
+9
+</script>
+0
+

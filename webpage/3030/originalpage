@@ -1,0 +1,147 @@
+
+
+<!DOCTYPE html>
+<html>
+<head><meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="keywords" content=""><meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<style class="main_style">
+.layout-canvas-g { background-color: #FFFFFF; border: none; box-sizing: border-box; padding: 0px; width: 100%; }
+.layout-canvas-g > .header, .layout-canvas-g > .section, .layout-canvas-g > .footer { position: relative; overflow: hidden; width: 100%; overflow-wrap: break-word; }
+.layout-canvas-g > .section { margin: 10px 0px; }
+.layout-canvas-g > .section > .columns { box-sizing: border-box; overflow-wrap: break-word; }
+body { color: #000000; font-family: Arial; font-size: 12px; margin: 0px auto; max-width: 1280px; }
+@media only screen and (max-width: 480px) {
+  .mobile-hidden { display: none !important; }
+  .responsive-td { width: 100% !important; display: block !important; padding: 0px !important; }
+}
+.layout-canvas-g > .section > .columns { width: 100%; }
+</style>
+
+</head>
+<body>
+<div class="layout layout-canvas-g">
+	<div class="section">
+		<div class="columns col1">
+			<table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0"><tr><td align="center"><img src="https://image.read.forbes.com/lib/fe3a11717164047e751775/m/1/55b6ead7-e1d8-4426-9b98-2a682ea90a7f.jpg" height="77" width="405" style="display: block; padding: 0px; text-align: center; height: 77px; width: 405px; border: 0px;"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><meta charset="utf-8">
+<title>Forbes Investing Digest Sign Up</title>
+<link href="https://fonts.googleapis.com/css?family=Fjalla+One|Average" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,600,700|Fjalla+One" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+<style type="text/css">.mktoContent {position: relative;}
+  .lpeCElement {position:static !important}
+</style>
+<link href="https://cloud.read.forbes.com/ID-Sign-Up-CSS" rel="stylesheet">
+<div class="headercopy" id="headercopy">
+<p style=" margin-bottom:40px; margin-left: 10px; font-size: 16px; text-align:center; line-height: 20px;"><strong>Sent Tuesdays</strong></p>
+</div>
+
+<div class="maincopy" id="bodycopy">
+<p style=" margin-bottom:40px; margin-left: 10px; font-size: 16px; text-align:center; line-height: 22px;">Stay up to date on the investing world with<br>
+<strong>Forbes Investing Digest</strong>, a free eletter of Forbes&rsquo;<br>
+top investing articles, delivered every Tuesday<br>
+to your inbox. Discover what&rsquo;s making markets<br>
+move, what smart money is buying and what&rsquo;s<br>
+happening globally.<br>
+<br>
+Get investing strategies along with which stocks<br>
+should perform well now and in the long run,<br>
+how sectors like tech, health care and energy<br>
+are doing, which companies legendary investors<br>
+like Warren Buffett current favor, and much more.</p>
+</div>
+</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- END FORM --><link href="https://cloud.read.forbes.com/ID-Sign-Up-CSS" rel="stylesheet"> <style>
+   
+   input[type=email], select {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+   
+   button[type=submit] {
+  width: 30%;
+background-image: linear-gradient(to bottom, #31731c, #266014);
+  color: white;
+  padding: 10px 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+     text-align: center;
+     font-size: 24px;
+       font-weight: bold;
+}
+
+
+   
+   .footer {
+     font-size: 10px;
+     text-align: center;
+     padding-top: 25px;
+</style>
+
+
+<!-- FORM SECTION-->
+  <div class="row">
+    <div class="col" id="anchor1">
+      <center>
+   
+      
+      <!-- FORM -->
+
+        
+        <form action="https://cloud.read.forbes.com/Investing-Digest-processing-page?k=FDC_INV_Opt&sourceurl=Investing-Digest-Sign-Up" method="POST"> 
+          <div class="form-row">
+          <div class="form-row" style="padding:10px 0px 0px 0px;" width="200">
+            <input type="email" id="email" name="email" placeholder="Enter your email" required="yes">
+          </div>
+        
+       </div>
+    
+        <div class="form-row">
+         <center>
+          <input type="hidden" name="clicked" value="true">
+          <button type="submit" id="submitbutton">
+          <div style="" class="submitText">Sign Up</div>
+            
+            </button></center></div></form>  
+            <!-- <script>
+               
+         const queryString = window.location.search;
+         //console.log(queryString); // example ?k=LBB_Facebook&source=email 
+         
+         const urlParams = new URLSearchParams(queryString);
+         const kparameter = urlParams.get('k')
+         //console.log(product);
+               
+               
+               
+       document.getElementById("submitbutton").addEventListener("click", myFunction);
+       function myFunction() {
+ var email = document.getElementById("email").value;    
+         window.location.href="https://cloud.read.forbes.com/Interstitial_Page_?email="+email+"&k="+kparameter;
+       }
+      </script> -->
+            
+          
+          
+        </center></div></div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><link href="https://cloud.read.forbes.com/ID-Sign-Up-CSS" rel="stylesheet">&nbsp;<div class="advisory" id="advisory">
+ <div style="text-align: center;">
+  <p style="font-size: 10px; line-height: 12px;   color: #888888;">
+   *A valid email address is required. By clicking submit, you<br>
+   agree to receive updates and special offers from Forbes.<br>
+   <br>
+   <a href="https://www.forbes.com/fdc/privacy.html">Privacy Policy</a><br>
+   Forbes Media | 499 Washington Blvd. | Jersey City, NJ 07130</p></div></div></td></tr></table>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+

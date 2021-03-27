@@ -1,0 +1,1369 @@
+
+ <!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blog - Finovate</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://finovate.com/xmlrpc.php">
+<link rel="dns-prefetch" href="//fast.wistia.net/">
+<link rel="dns-prefetch" href="https://eventbrite.com/">
+ 	  <link rel="shortcut icon" href="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/icon.png" />
+ 
+	<!-- This site is optimized with the Yoast SEO plugin v15.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Tracking financial technology &amp; innovations. The latest developments in fintech &amp; financial services, personal finance, banking &amp; investment management." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://finovate.com/blog/" />
+	<link rel="next" href="https://finovate.com/blog/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Blog - Finovate" />
+	<meta property="og:description" content="Tracking financial technology &amp; innovations. The latest developments in fintech &amp; financial services, personal finance, banking &amp; investment management." />
+	<meta property="og:url" content="https://finovate.com/blog/" />
+	<meta property="og:site_name" content="Finovate" />
+	<meta property="og:image" content="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/cropped-icon.png" />
+	<meta property="og:image:width" content="512" />
+	<meta property="og:image:height" content="512" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@finovate" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://finovate.com/#organization","name":"Finovate.com","url":"https://finovate.com/","sameAs":["https://twitter.com/finovate"],"logo":{"@type":"ImageObject","@id":"https://finovate.com/#logo","inLanguage":"en-US","url":"https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/cropped-icon.png","width":512,"height":512,"caption":"Finovate.com"},"image":{"@id":"https://finovate.com/#logo"}},{"@type":"WebSite","@id":"https://finovate.com/#website","url":"https://finovate.com/","name":"Finovate","description":"Conferences Showcasing The Future of Financial And Banking Technology","publisher":{"@id":"https://finovate.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://finovate.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":["WebPage","CollectionPage"],"@id":"https://finovate.com/blog/#webpage","url":"https://finovate.com/blog/","name":"Blog - Finovate","isPartOf":{"@id":"https://finovate.com/#website"},"datePublished":"2014-10-29T21:54:30+00:00","dateModified":"2015-08-13T00:44:20+00:00","description":"Tracking financial technology & innovations. The latest developments in fintech & financial services, personal finance, banking & investment management.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://finovate.com/blog/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Finovate &raquo; Feed" href="https://finovate.com/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/finovate.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- finovate.com is managing ads with Advanced Ads --><script>
+						advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+						</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://finovate-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='unslider-css-css'  href='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-slider/public/assets/css/unslider.css?ver=1.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css-css'  href='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-slider/public/assets/css/slider.css?ver=1.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='finovate-style-css'  href='https://finovate-wpengine.netdna-ssl.com/wp-content/themes/finovate/finovate-sass/stylesheets/finovatestyles.css?ver=1616103596' type='text/css' media='all' />
+<link rel='stylesheet' id='finovate-extended-style-css'  href='https://finovate-wpengine.netdna-ssl.com/wp-content/themes/finovate/style-jr.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/cookie-notice/includes/../css/front.min.css?ver=5.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/wp-retina-2x/app/picturefill.min.js?ver=1610119918' id='wr2x-picturefill-js-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-slider/public/assets/js/unslider.min.js?ver=1.4.3' id='unslider-js-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.move.js?ver=1.4.3' id='unslider-move-js-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.swipe.js?ver=1.4.3' id='unslider-swipe-js-js'></script>
+<script type='text/javascript' id='advanced-ads-advanced-js-js-extra'>
+/* <![CDATA[ */
+var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_needed"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.23.2' id='advanced-ads-advanced-js-js'></script>
+<script type='text/javascript' id='advanced-ads-responsive-js-extra'>
+/* <![CDATA[ */
+var advanced_ads_responsive = {"reload_on_resize":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-responsive/public/assets/js/script.js?ver=1.8.4' id='advanced-ads-responsive-js'></script>
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/finovate.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":0,"token":"ebc1c49181","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.2.4' id='wpp-js-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-pro/modules/click-fraud-protection/assets/js/cfp.min.js?ver=2.2.2' id='advanced-ads-pro/cfp-js'></script>
+<script type='text/javascript' src='//use.typekit.net/zqp1oar.js?ver=5.6' id='finovate_typekit-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/themes/finovate/js/modernizr.finovate.js?ver=5.6' id='finovate-modernizr-js'></script>
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/finovate.com\/wp-admin\/admin-ajax.php","nonce":"d16776e43a","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":".finovate.com","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.0.3' id='cookie-notice-front-js'></script>
+<script type='text/javascript' id='advanced-ads-pro/cache_busting-js-extra'>
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/finovate.com\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"","lazy_load":{"default_offset":0,"offsets":[]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-pro/modules/cache-busting/inc/base.min.js?ver=2.2.2' id='advanced-ads-pro/cache_busting-js'></script>
+<link rel="https://api.w.org/" href="https://finovate.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://finovate.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://finovate-wpengine.netdna-ssl.com/wp-includes/wlwmanifest.xml" /> 
+<!-- Stream WordPress user activity plugin v3.6.2 -->
+<script type="text/javascript">
+		;var advadsCfpQueue = [], advadsCfpExpHours = 3;
+		var advadsCfpClickLimit = 3;
+		;
+		var advadsCfpPath = '';
+		var advadsCfpDomain = '';
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script>  		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<style type="text/css">
+	a {
+  	color: #148ecb;
+	}
+	a:hover {
+  	color: #d73d94;
+	}
+	.enquirelink {border: 1px solid #148ecb; color: #148ecb;}
+	.btn-primary {
+		background-color: #148ecb;
+	}
+	.homefeatured .confinfo .featuredpoints, .poststhumb {
+    border-top: 3px #148ecb solid;
+	}
+	.btn-primary:active, .btn-primary:hover, .btn-primary:focus {
+		background-color: #1595d5;
+	}
+    .sectionheader, .sectionsubheader, .popover-content h3 a, .testimonialcell {
+    color: #148ecb;
+    }
+	.navbar-toggle2 .icon-bar {
+	border-bottom: 6px solid #d73d94;
+	}
+	
+	.navbar-toggle2.collapsed .icon-bar {
+	border-top: 6px solid #d73d94;
+	}
+	.navbar-toggle2 {
+	border:#d73d94 1px solid;
+	}
+	.enquirelink:active, .enquirelink:hover, .enquirelink:focus {
+	background-color: ;
+	}
+	.blog-container .entry-content a, .blog-container .entry-summary a, .search-results .entry-content a, .search-results .entry-summary a, .page-template-full-width-php .site-main a, .page-template-tpl-formstack-php .site-main a {color: #148ecb;}
+    	</style>
+	<style>.simplemap img{max-width:none !important;padding:0 !important;margin:0 !important;}.staticmap,.staticmap img{max-width:100% !important;height:auto !important;}.simplemap .simplemap-content{display:none;}</style>
+<script>var google_map_api_key = "AIzaSyB32wrt0rU-FjTPA29iwk2YWUkwocd-3Fw";</script><script type="text/javascript">
+			if ( undefined === advadsGATracking ) var advadsGATracking = {};
+			advadsGATracking.ads = {"76755":{"title":"INTS CDO - Sidebar","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76754":{"title":"INTS CDO - S","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76748":{"title":"INTS CDO - L","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76753":{"title":"INTS CDO - M","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76792":{"title":"SWIFT - Sidebar","target":"https:\/\/www.swift.com\/innovate"},"76794":{"title":"SWIFT - L","target":"https:\/\/www.swift.com\/innovate"},"76799":{"title":"SWIFT - S","target":"https:\/\/www.swift.com\/innovate"},"76798":{"title":"SWIFT - M","target":"https:\/\/www.swift.com\/innovate"},"76660":{"title":"Unqork - Sidebar","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=ON-D"},"76659":{"title":"Unqork - M","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=ON-D"},"76655":{"title":"Unqork - L","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=ON-D"},"76654":{"title":"Fabrick - Sidebar","target":"tps:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=ON-D"},"76653":{"title":"Fabrick - M","target":"tps:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=ON-D"},"76649":{"title":"Fabrick - L","target":"tps:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=ON-D"},"76593":{"title":"Ohpen - Sidebar","target":"https:\/\/ohpen.com\/"},"76592":{"title":"Ohpen - S","target":"https:\/\/ohpen.com\/"},"76590":{"title":"Ohpen - M","target":"https:\/\/ohpen.com\/"},"76586":{"title":"Ohpen- L","target":"https:\/\/ohpen.com\/"},"76529":{"title":"InterSystems Mar - L","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76538":{"title":"InterSystems Mar - Sidebar","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76517":{"title":"Accusoft March - Sidebar","target":"https:\/\/bit.ly\/3jTJVu8"},"76534":{"title":"InterSystems Mar - S","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76510":{"title":"Accusoft March - L","target":"https:\/\/bit.ly\/3jTJVu8"},"76515":{"title":"Accusoft March - M","target":"https:\/\/bit.ly\/3jTJVu8"},"76516":{"title":"Accusoft March - S","target":"https:\/\/bit.ly\/3jTJVu8"},"76536":{"title":"InterSystems Mar - M","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76365":{"title":"Fabrik - S","target":"https:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=Finban"},"76371":{"title":"Fabrik - M","target":"https:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=Finban"},"76370":{"title":"Fabrik - L","target":"https:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=Finban"},"76379":{"title":"Unqork - S","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=FinBan"},"76378":{"title":"Unqork - M","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=FinBan"},"76374":{"title":"Unqork - L","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=FinBan"},"76372":{"title":"Fabrik - Sidebar","target":"https:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=Finban"},"75839":{"title":"Zendesk - L","target":"https:\/\/www.zendesk.com\/campaign\/finovatelp\/"},"75845":{"title":"Zendesk - S","target":"https:\/\/www.zendesk.com\/campaign\/finovatelp\/"},"75844":{"title":"Zendesk - M","target":"https:\/\/www.zendesk.com\/campaign\/finovatelp\/"},"75838":{"title":"Insurtech PrizmDoc - S","target":"https:\/\/bit.ly\/3nsWQ6U"},"75837":{"title":"Insurtech PrizmDoc - M","target":"https:\/\/bit.ly\/3nsWQ6U"},"75833":{"title":"Insurtech PrizmDoc - L","target":"https:\/\/bit.ly\/3nsWQ6U"},"75809":{"title":"Intersystems FS - S","target":false},"75810":{"title":"Intersystems FS - M","target":false},"75807":{"title":"Intersystems FS - L","target":false},"75700":{"title":"Intersystems AI Fried \u2013 M","target":false},"75701":{"title":"Intersystems AI Fried - L","target":false},"75699":{"title":"Intersystems AI Fried - S","target":false},"75693":{"title":"Accusoft FIN_SDK L","target":"https:\/\/bit.ly\/3jvq037"},"75697":{"title":"Accusoft FIN_SDK M","target":"https:\/\/bit.ly\/3jvq037"},"75698":{"title":"Accusoft FIN_SDK S","target":"https:\/\/bit.ly\/3jvq037"},"75608":{"title":"DreamQuark - M","target":"http:\/\/www.dreamquark.com\/"},"75580":{"title":"DreamQuark - S","target":"https:\/\/www.dreamquark.com"},"75578":{"title":"DreamQuark - L","target":"https:\/\/www.dreamquark.com"},"75415":{"title":"Accusoft - S","target":"https:\/\/bit.ly\/2F929bg"},"75414":{"title":"Accusoft - M","target":"https:\/\/bit.ly\/2F929bg"},"75410":{"title":"Accusoft - L","target":"https:\/\/bit.ly\/2F929bg"},"75389":{"title":"FFFR - S","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A\/1685822?partnerref=FinBan"},"75388":{"title":"FFFR - M","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A\/1685822?partnerref=FinBan"},"75384":{"title":"FFFR - L","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A\/1685822?partnerref=FinBan"},"75156":{"title":"Lifesize - L","target":"https:\/\/www.lifesize.com\/cxengage?utm_source=finovate&utm_medium=banner"},"75161":{"title":"Lifesize - S","target":"https:\/\/www.lifesize.com\/cxengage?utm_source=finovate&utm_medium=banner"},"75160":{"title":"Lifesize - M","target":"https:\/\/www.lifesize.com\/cxengage?utm_source=finovate&utm_medium=banner"},"74927":{"title":"Capital Markets - M","target":false},"74928":{"title":"Capital Markets - L","target":false},"74926":{"title":"Capital Market - S","target":false},"75108":{"title":"Google - L","target":"https:\/\/pages.apigee.com\/digital-business-ecosystems-research-register.html?utm_source=finovate&utm_medium=email&utm_campaign=oxford-ecosystems&utm_content=ebook"},"75113":{"title":"Google - S","target":"https:\/\/pages.apigee.com\/digital-business-ecosystems-research-register.html?utm_source=finovate&utm_medium=email&utm_campaign=oxford-ecosystems&utm_content=ebook"},"75112":{"title":"Google - M","target":"https:\/\/pages.apigee.com\/digital-business-ecosystems-research-register.html?utm_source=finovate&utm_medium=email&utm_campaign=oxford-ecosystems&utm_content=ebook"},"75101":{"title":"KAS - S","target":"https:\/\/kasisto.com\/"},"75099":{"title":"KAS - M","target":"https:\/\/kasisto.com\/"},"75097":{"title":"KAS - L","target":"https:\/\/kasisto.com\/"},"75044":{"title":"Microsoft - M","target":"https:\/\/info.microsoft.com\/en-us-ondemand-Accelerateddigitaltransformationinbanking-none.html?wt.mc_id=AID3018292_QSG_OLA_458808"},"75045":{"title":"Microsoft - S","target":"https:\/\/info.microsoft.com\/en-us-ondemand-Accelerateddigitaltransformationinbanking-none.html?wt.mc_id=AID3018292_QSG_OLA_458808"},"75040":{"title":"Microsoft - L","target":"https:\/\/info.microsoft.com\/en-us-ondemand-Accelerateddigitaltransformationinbanking-none.html?wt.mc_id=AID3018292_QSG_OLA_458808"},"74925":{"title":"AI Scott - S","target":false},"74923":{"title":"AI Scott - M","target":false},"74918":{"title":"AI Scott - L","target":false},"74855":{"title":"LendingFront - M","target":"https:\/\/go.lendingfront.com\/eBook-SmallBusinessCapital-2020?utm_source=finovate&utm_medium=cpm&utm_campaign=advertising-finovate&utm_content=ebook"},"74856":{"title":"LendingFront-S","target":"https:\/\/go.lendingfront.com\/eBook-SmallBusinessCapital-2020?utm_source=finovate&utm_medium=cpm&utm_campaign=advertising-finovate&utm_content=ebook"},"74851":{"title":"LendingFront- L","target":"https:\/\/go.lendingfront.com\/eBook-SmallBusinessCapital-2020?utm_source=finovate&utm_medium=cpm&utm_campaign=advertising-finovate&utm_content=ebook"},"74701":{"title":"RedHat Webinar - M","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A?partnerref=FinBan"},"74702":{"title":"RedHat Webinar - S","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A?partnerref=FinBan"},"74694":{"title":"RedHat Webinar - L","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A?partnerref=FinBan"},"74610":{"title":"Redhat 5 Benefits - S","target":"https:\/\/www.redhat.com\/en\/events\/webinar\/benefit-it-automation-financial-services?sc_cid=7013a000002gY6mAAE"},"74605":{"title":"Redhat 5 benefits - L","target":"https:\/\/www.redhat.com\/en\/events\/webinar\/benefit-it-automation-financial-services?sc_cid=7013a000002gY6mAAE"},"74609":{"title":"Redhat 5 benefits - M","target":"https:\/\/www.redhat.com\/en\/events\/webinar\/benefit-it-automation-financial-services?sc_cid=7013a000002gY6mAAE"},"74633":{"title":"ITSCREDIT Genie Advisor - M","target":"http:\/\/itscredit-5051771.hs-sites.com\/finovate-video-interview"},"74628":{"title":"ITSCREDIT Genie Advisor - L","target":"http:\/\/itscredit-5051771.hs-sites.com\/finovate-video-interview"},"74634":{"title":"ITSCREDIT Genie Advisor - S","target":"http:\/\/itscredit-5051771.hs-sites.com\/finovate-video-interview"},"74603":{"title":"Redhat it automation - M","target":"http:\/\/redhat.lookbookhq.com\/fsi-it-automation-itdm\/mi-five-benefits-of-?sc_cid=7013a000002gY6XAAU"},"74599":{"title":"Redhat IT automation - L","target":"http:\/\/redhat.lookbookhq.com\/fsi-it-automation-itdm\/mi-five-benefits-of-?sc_cid=7013a000002gY6XAAU"},"74604":{"title":"Redhat it automation - S","target":"http:\/\/redhat.lookbookhq.com\/fsi-it-automation-itdm\/mi-five-benefits-of-?sc_cid=7013a000002gY6XAAU"},"74456":{"title":"FFHR Mag","target":"https:\/\/get.informaconnect.com\/finovatefintechhalftimereview2020\/"},"74498":{"title":"FFHR-S","target":"https:\/\/event.on24.com\/wcc\/r\/2303409\/E7259AEE901F65C8A6F6F0306CA2D1A6?partnerref=POSTBAN"},"74499":{"title":"FFHR Mag - S","target":"https:\/\/get.informaconnect.com\/finovatefintechhalftimereview2020\/"},"74493":{"title":"Accusoft - S","target":"https:\/\/get.knect365.com\/finovateaccusoft2020\/"},"74464":{"title":"FFHR Mag - M","target":"https:\/\/get.informaconnect.com\/finovatefintechhalftimereview2020\/"},"74466":{"title":"Accusoft - M","target":"https:\/\/get.knect365.com\/finovateaccusoft2020\/"},"74457":{"title":"Accusoft","target":"https:\/\/get.knect365.com\/finovateaccusoft2020\/"},"74462":{"title":"FFHR-M","target":"https:\/\/event.on24.com\/wcc\/r\/2303409\/E7259AEE901F65C8A6F6F0306CA2D1A6?partnerref=POSTBAN"},"74454":{"title":"FFHR","target":"https:\/\/event.on24.com\/wcc\/r\/2303409\/E7259AEE901F65C8A6F6F0306CA2D1A6?partnerref=POSTBAN"},"74070":{"title":"Zendesk - S","target":"https:\/\/event.on24.com\/wcc\/r\/2337893\/E346317FF30022F63CCFFC1B26D2D517?partnerref=FinBan"},"74069":{"title":"Zendesk - M","target":"https:\/\/event.on24.com\/wcc\/r\/2337893\/E346317FF30022F63CCFFC1B26D2D517?partnerref=FinBan"},"74065":{"title":"Zendesk - L","target":"https:\/\/event.on24.com\/wcc\/r\/2337893\/E346317FF30022F63CCFFC1B26D2D517?partnerref=FinBan"},"73960":{"title":"MLT - S","target":"https:\/\/bit.ly\/2JJy6pp"},"73959":{"title":"MLT - M","target":"https:\/\/bit.ly\/2JJy6pp"},"73956":{"title":"MLT - L","target":"https:\/\/bit.ly\/2JJy6pp"},"73799":{"title":"Finovate Webinar DXC - S","target":"https:\/\/event.on24.com\/wcc\/r\/2252011\/DE931215ECFDDDECFC5B3B470E2C8876?partnerref=FinBan"},"73798":{"title":"Finovate Webinar DXC - M","target":"https:\/\/event.on24.com\/wcc\/r\/2252011\/DE931215ECFDDDECFC5B3B470E2C8876?partnerref=FinBan"},"73793":{"title":"Finovate Webinar DXC - L","target":"https:\/\/event.on24.com\/wcc\/r\/2252011\/DE931215ECFDDDECFC5B3B470E2C8876?partnerref=FinBan"},"73075":{"title":"Banking Technology Mag Feb2020 - S","target":"https:\/\/www.fintechfutures.com\/2020\/02\/banking-technology-february-issue-out-now\/?utm_source=Finovate&utm_medium=Link&utm_campaign=BT_Mag_Feb_2020"},"73076":{"title":"Banking Technology Mag Feb2020 - M","target":"https:\/\/www.fintechfutures.com\/2020\/02\/banking-technology-february-issue-out-now\/?utm_source=Finovate&utm_medium=Link&utm_campaign=BT_Mag_Feb_2020"},"73077":{"title":"Banking Technology Mag Feb2020 - L","target":"https:\/\/www.fintechfutures.com\/2020\/02\/banking-technology-february-issue-out-now\/?utm_source=Finovate&utm_medium=Link&utm_campaign=BT_Mag_Feb_2020"},"73014":{"title":"Accusoft - L","target":"http:\/\/bit.ly\/396dK4b"},"73013":{"title":"Accusoft - S","target":"http:\/\/bit.ly\/396dK4b"},"73012":{"title":"Accusoft - M","target":"http:\/\/bit.ly\/396dK4b"},"73023":{"title":"Finovate Podcast - M","target":"https:\/\/soundcloud.com\/finovate-podcast"},"73022":{"title":"Finovate Podcast - S","target":"https:\/\/soundcloud.com\/finovate-podcast"},"73018":{"title":"Finovate Podcast - L","target":"https:\/\/soundcloud.com\/finovate-podcast"},"72766":{"title":"Anyvision - M","target":"http:\/\/www.anyvision.co\/"},"72767":{"title":"Anyvision - L","target":"http:\/\/www.anyvision.co\/"},"72765":{"title":"Anyvision - S","target":"http:\/\/www.anyvision.co\/"},"72444":{"title":"Accusoft eguide - S","target":"http:\/\/bit.ly\/2R42Kx4"},"72443":{"title":"Accusoft eguide - M","target":"http:\/\/bit.ly\/2R42Kx4"},"72439":{"title":"Accusoft eguide - L","target":"http:\/\/bit.ly\/2R42Kx4"},"72415":{"title":"Banking Tech - S","target":"http:\/\/bit.ly\/2M29SIp"},"72414":{"title":"Banking Tech - M","target":"http:\/\/bit.ly\/2M29SIp"},"72411":{"title":"Banking Tech - L","target":"http:\/\/bit.ly\/2M29SIp"},"72293":{"title":"Ondot Finovate - L","target":"https:\/\/event.on24.com\/wcc\/r\/2138057\/F02107386A69AA827284BADCD57D6DE0?partnerref=FinBan"},"72291":{"title":"Ondot Finovate - S","target":"https:\/\/event.on24.com\/wcc\/r\/2138057\/F02107386A69AA827284BADCD57D6DE0?partnerref=FinBan"},"72292":{"title":"Ondot Finovate - M","target":"https:\/\/event.on24.com\/wcc\/r\/2138057\/F02107386A69AA827284BADCD57D6DE0?partnerref=FinBan"},"72287":{"title":"CeleritTiFintech - L","target":"https:\/\/event.on24.com\/wcc\/r\/2138051\/489E4D30E996E676EF608912C6D22E9F?partnerref=FinBan"},"72286":{"title":"CeleritTiFintech - M","target":"https:\/\/event.on24.com\/wcc\/r\/2138051\/489E4D30E996E676EF608912C6D22E9F?partnerref=FinBan"},"72227":{"title":"Sinequa - S","target":"https:\/\/go.sinequa.com\/white-paper-all-the-alphas.html?utm_source=finovate"},"72225":{"title":"Sinequa - M","target":"https:\/\/go.sinequa.com\/white-paper-all-the-alphas.html?utm_source=finovate"},"72222":{"title":"Sinequa - L","target":"https:\/\/go.sinequa.com\/white-paper-all-the-alphas.html?utm_source=finovate"},"71775":{"title":"Basel IV Survey - L","target":"https:\/\/www.surveymonkey.com\/r\/Q5CQRQ3"},"71774":{"title":"Basel IV Survey - M","target":"https:\/\/www.surveymonkey.com\/r\/Q5CQRQ3"},"71768":{"title":"Basel IV Survey - S","target":"https:\/\/www.surveymonkey.com\/r\/Q5CQRQ3"},"71713":{"title":"Nuxeo - S","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=B"},"71712":{"title":"Nuxeo - M","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=B"},"71708":{"title":"Nuxeo - L","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=B"},"71555":{"title":"Kasasa - L","target":"https:\/\/www.kasasa.com\/products\/loans?utm_source=finovate&utm_medium=display-ad&utm_campaign=kasasa-loans&utm_content=link&utm_term=oct-emagazine"},"71560":{"title":"Kasasa - S","target":"https:\/\/www.kasasa.com\/products\/loans?utm_source=finovate&utm_medium=display-ad&utm_campaign=kasasa-loans&utm_content=link&utm_term=oct-emagazine"},"71559":{"title":"Kasasa - M","target":"https:\/\/www.kasasa.com\/products\/loans?utm_source=finovate&utm_medium=display-ad&utm_campaign=kasasa-loans&utm_content=link&utm_term=oct-emagazine"},"71401":{"title":"BT Magazine - S","target":"http:\/\/bit.ly\/2MgEogU"},"71399":{"title":"BT Magazine - M","target":"http:\/\/bit.ly\/2MgEogU"},"71395":{"title":"BT Magazine - L","target":"http:\/\/bit.ly\/2MgEogU"},"71114":{"title":"Outsystems Webinar - L","target":"https:\/\/event.on24.com\/wcc\/r\/2097477\/7D3F1784F6331F7426F001634DDC9AF0?partnerref=FinBan"},"71118":{"title":"Outsystems Webinar - M","target":"https:\/\/event.on24.com\/wcc\/r\/2097477\/7D3F1784F6331F7426F001634DDC9AF0?partnerref=FinBan"},"71113":{"title":"Outsystems Webinar - S","target":"https:\/\/event.on24.com\/wcc\/r\/2097477\/7D3F1784F6331F7426F001634DDC9AF0?partnerref=FinBan"},"70864":{"title":"Morningstar - M","target":"https:\/\/www.morningstar.com\/company?utm_source=knect365&utm_medium=display&utm_campaign=finnovate19"},"70865":{"title":"Morningstar - L","target":"https:\/\/www.morningstar.com\/company?utm_source=knect365&utm_medium=display&utm_campaign=finnovate19"},"70861":{"title":"Morningstar - S","target":"https:\/\/www.morningstar.com\/company?utm_source=knect365&utm_medium=display&utm_campaign=finnovate19"},"70599":{"title":"InterSystems - S","target":"https:\/\/www.intersystems.com\/"},"70597":{"title":"Intersystems - M","target":"https:\/\/www.intersystems.com\/"},"70595":{"title":"Intersystems - L","target":"https:\/\/www.intersystems.com\/"},"70498":{"title":"Webinar TeachingOldDog - S","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=FinBan"},"70497":{"title":"Webinar TeachingOldDog - M","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=FinBan"},"70493":{"title":"Webinar TeachingOldDog - L","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=FinBan"},"70324":{"title":"FinovateAwards - S","target":"https:\/\/bit.ly\/2MpeqJP"},"70323":{"title":"FinovateAwards - M","target":"https:\/\/bit.ly\/2MpeqJP"},"70319":{"title":"FinovateAwards - L","target":"https:\/\/bit.ly\/2MpeqJP"}};
+			advadsGATracking.UID = false;
+			advadsGATracking.isParallel = false;
+			advadsGATracking.linkBase = 'https://finovate.com/linkout/';
+		</script>
+		<link rel="icon" href="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/cropped-icon-270x270.png" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-742257-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+var $k =jQuery.noConflict();
+ 	 $k(document).ready(function () {
+		 
+		
+		function onScroll(event){
+			var scrollPos = $(document).scrollTop();
+			$k('#menu-events a').each(function () {
+				var currLink = $(this);
+				var refElement = $(currLink.attr("href"));
+				if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+					$('#menu-events li a').removeClass("active");
+					currLink.addClass("active");
+				}
+				else{
+					currLink.removeClass("active");
+				}
+			});
+		}
+	});  
+	 $self.data("lastScrollTop", scrollTop);
+	
+});
+
+$k.fn.visibleHeight = function() {
+    var elBottom, elTop, scrollBot, scrollTop, visibleBottom, visibleTop;
+    scrollTop = $k(window).scrollTop();
+    scrollBot = scrollTop + $k(window).height();
+    elTop = this.offset().top;
+    elBottom = elTop + this.outerHeight();
+    visibleTop = elTop < scrollTop ? scrollTop : elTop;
+    visibleBottom = elBottom > scrollBot ? scrollBot : elBottom;
+    return visibleBottom - visibleTop
+}
+</script>
+
+</head>
+
+				
+<body class="blog  desktop finovate site-id-1 group-blog cookies-not-set aa-prefix-finov-" data-spy="scroll" data-target="#finovate-collapse">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+												<div id="informadrop">
+			<div class="informawrapper">
+				<div class="informatopcontent">
+				<div id="iribbon-container">
+				<div id="iribbon-detail">
+					<div id="iribbon-left">
+						<p>Finovate is part of the Informa Connect Division of Informa PLC</p>
+						<ul>
+						  <li class="iribbon-mainlink"><a target="_blank" href="https://informa.com/">Informa PLC</a></li>
+						  <li><a target="_blank" href="https://informa.com/about-us/">About us</a></li>
+						  <li><a target="_blank" href="https://informa.com/investors/">Investor relations</a></li>
+						  <li><a target="_blank" href="https://informa.com/talent/">Talent</a></li>
+						</ul>
+					</div>
+					<div id="iribbon-right">
+						<p>This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.</p>
+					</div>
+				</div>
+			</div>
+				</div>
+        	<div class="informaclick"></div>
+    		</div>
+		</div>
+		<nav id="site-navigation" class="main-navigation navbar navbar-default navbar-fixed-top affix" role="navigation">
+			<div class="container-fluid">					
+			<a href="https://finovate.com/" class="navbar-brand"></a>	
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#finovate-collapse">
+        			<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>				
+			</div><!-- #navbar-header -->
+            <div class="event-nav-container">
+            <div class="navbar-event">
+            <div class="navbar-eventtxt">More</div>
+				<button type="button" class="navbar-toggle2 collapsed" data-toggle="collapse" data-target="#finovate-collapse2">
+        			<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+				</button>				
+			</div><!-- #navbar-header -->
+            </div>
+			<div id="finovate-collapse" class="collapse navbar-collapse finovate-main-menu">
+				<div class="clearfix topmenu">
+								<div class="container"><ul id="menu-main" class="nav navbar-nav navbar-right main-navigation"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-68339" class="first-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-68339 nav-item"><a title="Events▾" href="#" class="nav-link">Events▾</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10189" class="europe menu-item menu-item-type-custom menu-item-object-custom menu-item-10189 nav-item"><a title="FinovateEurope" target="_blank" href="https://informaconnect.com/finovateeurope/?vip_code=FKV2368FINOVATEREF&#038;utm_source=FinovateWebReferral&#038;utm_medium=web_listing&#038;utm_campaign=FKV2368-FinovateWebReferral-web_listing&#038;utm_term=FinovateWebReferral&#038;utm_content=FKV2368FINOVATEREF&#038;tracker_id=FKV2368FINOVATEREF" class="dropdown-item">FinovateEurope</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10188" class="spring menu-item menu-item-type-custom menu-item-object-custom menu-item-10188 nav-item"><a title="FinovateSpring" target="_blank" href="https://informaconnect.com/finovatespring/?vip_code=FKV2369FINOVATEREF&#038;utm_source=FinovateWebReferral&#038;utm_medium=web_listing&#038;utm_campaign=FKV2369-FinovateWebReferral-web_listing&#038;utm_term=FinovateWebReferral&#038;utm_content=FKV2369FINOVATEREF&#038;tracker_id=FKV2369FINOVATEREF" class="dropdown-item">FinovateSpring</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-53222" class="asia menu-item menu-item-type-custom menu-item-object-custom menu-item-53222 nav-item"><a title="FinovateAsia" target="_blank" href="https://informaconnect.com/finovateasia/?vip_code=FKV2374FINOVATEREF&#038;utm_source=FinovateWebReferral&#038;utm_medium=web_listing&#038;utm_campaign=FKV2374-FinovateWebReferral-web_listing&#038;utm_term=FinovateWebReferral&#038;utm_content=FKV2374FINOVATEREF&#038;tracker_id=FKV2374FINOVATEREF" class="dropdown-item">FinovateAsia</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10190" class="fall menu-item menu-item-type-custom menu-item-object-custom menu-item-10190 nav-item"><a title="FinovateFall" target="_blank" href="https://informaconnect.com/finovatefall/?vip_code=FKV2373FINOVATEREF&#038;utm_source=FinovateWebReferral&#038;utm_medium=web_listing&#038;utm_campaign=FKV2373-FinovateWebReferral-web_listing&#038;utm_term=FinovateWebReferral&#038;utm_content=FKV2373FINOVATEREF&#038;tracker_id=FKV2373FINOVATEREF" class="dropdown-item">FinovateFall</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-69821" class="europe menu-item menu-item-type-custom menu-item-object-custom menu-item-69821 nav-item"><a title="FinovateAwards" target="_blank" href="https://finance.knect365.com/finovate-industry-awards/" class="dropdown-item">FinovateAwards</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-76127" class="focus menu-item menu-item-type-custom menu-item-object-custom menu-item-76127 nav-item"><a title="FinovateFocus" href="https://informaconnect.com/finovatefocus/" class="dropdown-item">FinovateFocus</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-9970" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9957 current_page_item current_page_parent active menu-item-9970 nav-item"><a title="Blog" href="https://finovate.com/blog/" class="nav-link">Blog</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-73113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73113 nav-item"><a title="Videos" href="https://finovate.com/videos/" class="nav-link">Videos</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-73476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-73476 nav-item"><a title="Programs" href="#" class="nav-link">Programs</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-73478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73478 nav-item"><a title="Startup Booster Program" href="https://finovate.com/startup-booster/" class="dropdown-item">Startup Booster Program</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-73477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73477 nav-item"><a title="Exec Reboot" href="https://finovate.com/exec-reboot/" class="dropdown-item">Exec Reboot</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-71061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71061 nav-item"><a title="Podcast" target="_blank" href="https://finovate.com/podcast" class="nav-link">Podcast</a></li>
+</ul></div>				</div>
+                </div>
+				<div id="finovate-collapse2" class="collapse navbar-collapse finovate-main-menu">
+							</div><!-- #finovate-collapse -->
+			</div><!-- .container -->
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+	<!-- Banner Ad --><div id="finov-7fa792fbebca835a4b71033bc9445dff"></div>
+	<div id="content" class="site-content">
+<div class="blogbanner">
+		<div class="container">
+			<div class="row">
+				<div>
+					<header class="page-header">			
+						<h1>Finovate<br />Blog</h1>
+					</header><!-- .page-header -->	
+					<p class="blogtagline">Tracking fintech, banking & financial services innovations since 1994</p>
+				</div>
+			</div>
+	</div>	<!-- .blog-container -->
+</div>  <div class="blog-container">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main blog-col-md-2" role="main">
+		
+		
+						
+									
+					<article id="post-76767" class="post-76767 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni-news category-daily-news category-funding category-jumio tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/jumio-makes-history-with-150-million-investment-in-digital-identity/" rel="bookmark">Jumio Makes History with $150 Million Investment in Digital Identity</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-asim-alnamat-343720.jpg" alt="Jumio Makes History with $150 Million Investment in Digital Identity"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/david/">David Penn</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/jumio-makes-history-with-150-million-investment-in-digital-identity/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-23T09:21:00-07:00">March 23, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/alumni-news/" rel="category tag">Alumni News</a>, <a href="https://finovate.com/category/daily-news/" rel="category tag">Daily news</a>, <a href="https://finovate.com/category/funding/" rel="category tag">Funding</a>, <a href="https://finovate.com/category/jumio/" rel="category tag">Jumio</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-asim-alnamat-343720-1024x678.jpg" alt="" class="wp-image-76833" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-asim-alnamat-343720-1024x678.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-asim-alnamat-343720-300x199.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-asim-alnamat-343720.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>In the biggest fundraising for an identity verification company to date, <strong><a href="https://www.jumio.com">Jumio</a></strong> has <a href="https://www.jumio.com/about/press-releases/great-hill-partners/">locked in an investment of $150 million</a>. The funding comes courtesy of Great Hill Partners, a private equity firm that specializes in investments in &#8220;high-growth, disruptive companies.&#8221; The investment takes Jumio&#8217;s total funding to more than $255 million, according to Crunchbase.</p>
+
+
+
+<p>&#8220;Jumio&#8217;s innovations helped establish the identity verification market, and the need to establish someone&#8217;s digital identity remotely has never been greater,&#8221; Jumio CEO Robert Prigge said. The company plans to use the new capital to automate its identity verification solutions, expand the breadth of its <em>Jumio KYX Platform</em>, and further build out the platform&#8217;s suite of AML compliance solutions. </p>
+
+
+
+<p>As part of the investment, Great Hill Partners&#8217; Nick Cayer and Matt Vettel will join Jumio&#8217;s Board of Directors. Cayer, who has been with Great Hill since 2006, praised the company as &#8220;the de factor global leader in online identity verification, fraud detection, and compliance.&#8221; He added that given the mandate many institutions have to digitize processes such as onboarding and KYC monitoring, firms like Jumio can play a key role in helping them keep pace with the growing volume of digital and mobile-based transactions.</p>
+
+
+
+<p>Making its Finovate debut in 2013 and <a href="https://www.jumio.com/about/press-releases/jumio-acquired-by-centana-growth-partners/">being acquired by Centana Growth Partners</a> in 2016, Jumio has verified more than 300 million identities issued by 200+ countries and territories since inception in 2010. With customers and partners in a wide range of verticals &#8211; from financial services and the sharing economy to retail, travel, and online gaming &#8211; Jumio leverages AI, biometrics, machine learning, and certified liveness detection to help ensure that customers are who they claim to be. Jumio&#8217;s KYX Platform, <a href="https://www.jumio.com/about/press-releases/kyx-platform/">launched last fall</a>, provides organizations with an end-to-end identity verification and eKYC solution that enables them to onboard new accounts safely and accurately, keep existing accounts secure, and meet their compliance obligations with regards to KYC, AML, and GDPR.</p>
+
+
+
+<p>&#8220;Digital transformation is more than a buzzword. It&#8217;s today&#8217;s business imperative,&#8221; Prigge said. &#8220;To succeed, organizations must transform quickly and do it in ways that build trust, security, and satisfaction. Businesses can tailor the Jumio KYX Platform to fit their unique needs and risks and tap into services that accelerate digital transformation without sacrificing security and convenience.&#8221;</p>
+
+
+
+<p>Learn more about how Jumio <a href="https://finovate.com/how-digital-identity-tech-helps-businesses-fight-deepfakes-and-battle-bots/">fights deep fakes and bots</a> in our interview from last summer featuring company VP of Marketing, Dean Nicolls.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>Photo by&nbsp;<strong><a href="https://www.pexels.com/@asim-razan?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">asim alnamat</a></strong>&nbsp;from&nbsp;<strong><a href="https://www.pexels.com/photo/silver-framed-hippie-sunglasses-on-concrete-343720/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Pexels</a></strong></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=Jumio Makes History with $150 Million Investment in Digital Identity&body=https%3A%2F%2Ffinovate.com%2Fjumio-makes-history-with-150-million-investment-in-digital-identity%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=Jumio+Makes+History+with+%24150+Million+Investment+in+Digital+Identity&amp;url=https%3A%2F%2Ffinovate.com%2Fjumio-makes-history-with-150-million-investment-in-digital-identity%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Fjumio-makes-history-with-150-million-investment-in-digital-identity%2F" title="Jumio+Makes+History+with+%24150+Million+Investment+in+Digital+Identity">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/jumio-makes-history-with-150-million-investment-in-digital-identity/&t=Jumio Makes History with $150 Million Investment in Digital Identity" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76834" class="post-76834 post type-post status-publish format-standard has-post-thumbnail hentry category-daily-news tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/small-business-insurance-player-huckleberry-partners-with-berkshire-hathaway/" rel="bookmark">Small Business Insurance Player Huckleberry Partners with Berkshire Hathaway</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/98F887D6-36BD-4E40-85E3-8B4BF158F0B7.jpg" alt="Small Business Insurance Player Huckleberry Partners with Berkshire Hathaway"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/julie/">Julie Muhn (@julieschicktanz)</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/small-business-insurance-player-huckleberry-partners-with-berkshire-hathaway/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-23T08:54:57-07:00">March 23, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/daily-news/" rel="category tag">Daily news</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large"><img loading="lazy" width="1440" height="900" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/98F887D6-36BD-4E40-85E3-8B4BF158F0B7-edited.jpg" alt="" class="wp-image-76836" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/98F887D6-36BD-4E40-85E3-8B4BF158F0B7-edited.jpg 1440w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/98F887D6-36BD-4E40-85E3-8B4BF158F0B7-edited-300x188.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/98F887D6-36BD-4E40-85E3-8B4BF158F0B7-edited-1024x640.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+
+
+
+<p>Online small business insurance company Huckleberry <a href="https://techcrunch.com/2021/03/23/huckleberry-offering-insurance-to-smbs-partners-with-berkshire-hathaway/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29">announced</a> a partnership with Berkshire Hathaway GUARD today.</p>
+
+
+
+<p>As part of the partnership, Huckleberry joins Berkshire Hathaway GUARD&#8217;s curated network of independent agents and brokers across the U.S. For Huckleberry, it&#8217;s the largest partnership with an insurance carrier the company has inked since it was founded in 2017.</p>
+
+
+
+<p>Huckleberry offers a range of coverage for U.S. small businesses in need of insurance. Coverage types include general liability, workers&#8217; compensation, business owners&#8217; policies, business interruption, liquor liability, and more. Five of its policies, including including cyber, automotive insurance, and umbrella insurance, were added just last year.</p>
+
+
+
+<p>What&#8217;s unique about Huckleberry, which offers coverage in 45 U.S. states, is its paper-free application experience that offers an estimate in a matter of minutes. And because the startup doesn&#8217;t charge brokerage fees, it not only provides a streamlined approached, but also a more competitive rate. instant coverage</p>
+
+
+
+<p>The San Francisco-based company is in the process of moving its headquarters across the country to New York and also has plans to open a second headquarters location in Columbus, Ohio. As part of this growth, Huckleberry aims to boost its workforce to 100 people by the start of next year.</p>
+
+
+
+<p>Founded by Bryan O&#8217;Connell , Huckleberry has raised $22 million. Its most recent investment was a $22 million Series A round led by Tribe Capital.</p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=Small Business Insurance Player Huckleberry Partners with Berkshire Hathaway&body=https%3A%2F%2Ffinovate.com%2Fsmall-business-insurance-player-huckleberry-partners-with-berkshire-hathaway%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=Small+Business+Insurance+Player+Huckleberry+Partners+with+Berkshire+Hathaway&amp;url=https%3A%2F%2Ffinovate.com%2Fsmall-business-insurance-player-huckleberry-partners-with-berkshire-hathaway%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Fsmall-business-insurance-player-huckleberry-partners-with-berkshire-hathaway%2F" title="Small+Business+Insurance+Player+Huckleberry+Partners+with+Berkshire+Hathaway">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/small-business-insurance-player-huckleberry-partners-with-berkshire-hathaway/&t=Small Business Insurance Player Huckleberry Partners with Berkshire Hathaway" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76778" class="post-76778 post type-post status-publish format-standard has-post-thumbnail hentry category-startups tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/new-startup-highlight-mainstreet/" rel="bookmark">New Startup Highlight: MainStreet</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/liza-rusalskaya-0gqcBEe2rv8-unsplash-scaled.jpg" alt="New Startup Highlight: MainStreet"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/julie/">Julie Muhn (@julieschicktanz)</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/new-startup-highlight-mainstreet/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-22T17:24:11-07:00">March 22, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/startups/" rel="category tag">Startups</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/liza-rusalskaya-0gqcBEe2rv8-unsplash-1024x687.jpg" alt="" class="wp-image-76820" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/liza-rusalskaya-0gqcBEe2rv8-unsplash-1024x687.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/liza-rusalskaya-0gqcBEe2rv8-unsplash-300x201.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/liza-rusalskaya-0gqcBEe2rv8-unsplash-1536x1031.jpg 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/liza-rusalskaya-0gqcBEe2rv8-unsplash-2048x1375.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Here in the U.S., it&#8217;s tax season. And even though the IRS has extended the filing deadline by a few weeks, it&#8217;s still a stressful time for both individuals and businesses. In an era of changing benefits, everyone is on the lookout to minimize their tax burden.</p>
+
+
+
+<p>Enter <a href="https://www.mainstreet.com/join?ref=home&amp;utm_campaign=March18&amp;utm_medium=Paid&amp;utm_source=Product+Hunt">MainStreet</a>, a company founded in 2019 that helps qualify tech startups for tax credits that most accountants don&#8217;t check for. The California-based company works with startups&#8217; accountants to check for more than 200 potential unclaimed tax credits.</p>
+
+
+
+<p>MainStreet works by integrating the startups&#8217; payroll and scanning the data on a monthly basis for potential federal, state, and local tax credits. If MainStreet finds a tax credit, the company will advance 80% of the credit amount to the startup so that they can use the funds right away instead of waiting on their tax refund. The client is responsible for repaying that amount, with no interest incurred, after they receive their credit from the government.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-22-at-6.23.43-PM-1024x503.png" alt="" class="wp-image-76832" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-22-at-6.23.43-PM-1024x503.png 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-22-at-6.23.43-PM-300x148.png 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-22-at-6.23.43-PM-1536x755.png 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-22-at-6.23.43-PM.png 1686w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>MainStreet does not charge a fee for this monthly service. Instead, the company keeps the remaining 20% of the startups&#8217; tax credit amount. However, MainStreet only receives payment if it successfully finds a refund for the client.</p>
+
+
+
+<p>In the event of an audit, MainStreet offers support through the auditing process. And if MainStreet makes an error with the paperwork or credit claim, the client is insured for up to $1 million.</p>
+
+
+
+<p>So far, MainStreet has found more than $80 million for over 1,000 startups. The company&#8217;s clients include Rally, Newfront Insurance, LedgerX, Pave, and more. </p>
+
+
+
+<p>In the long term, MainStreet plans to expand its operations beyond serving tech startups to include small businesses, as well.</p>
+
+
+
+<p>MainStreet has received almost $63 million from investors including Gradient Ventures, Sound Ventures, and Signal Fire.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>Photo by <a href="https://unsplash.com/@lizarusalskaya?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Liza Rusalskaya</a> on <a href="https://unsplash.com/s/photos/street?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=New Startup Highlight: MainStreet&body=https%3A%2F%2Ffinovate.com%2Fnew-startup-highlight-mainstreet%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=New+Startup+Highlight%3A+MainStreet&amp;url=https%3A%2F%2Ffinovate.com%2Fnew-startup-highlight-mainstreet%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Fnew-startup-highlight-mainstreet%2F" title="New+Startup+Highlight%3A+MainStreet">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/new-startup-highlight-mainstreet/&t=New Startup Highlight: MainStreet" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76818" class="post-76818 post type-post status-publish format-standard has-post-thumbnail hentry category-daily-news tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/crypto-infrastructure-specialist-fireblocks-raises-133-million/" rel="bookmark">Crypto Infrastructure Specialist Fireblocks Raises $133 Million</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-min-an-1313817.jpg" alt="Crypto Infrastructure Specialist Fireblocks Raises $133 Million"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/david/">David Penn</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/crypto-infrastructure-specialist-fireblocks-raises-133-million/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-22T14:10:29-07:00">March 22, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/daily-news/" rel="category tag">Daily news</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="632" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-min-an-1313817-1024x632.jpg" alt="" class="wp-image-76819" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-min-an-1313817-1024x632.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-min-an-1313817-300x185.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-min-an-1313817.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Anybody else old enough to remember the argument that while blockchain technology probably had value, actual cryptocurrencies were already passé?</p>
+
+
+
+<p>In a round led by Coatue, Ribbit, and Stripes, digital asset infrastructure specialist <a href="https://www.fireblocks.com">Fireblocks</a> has <a href="https://www.prnewswire.com/news-releases/fireblocks-raises-133-million-in-series-c-funding-to-bring-the-worlds-biggest-banks-and-fintechs-into-crypto-301249839.html">secured $133 million in new capital</a> to power its mission to make it easier for banks to get into the digital asset space.</p>
+
+
+
+<p>&#8220;Fintechs and banks require not only a specialized custody and settlement infrastructure to ensure customer funds are safely managed, but (also) a platform that enables new lines of digital offerings,&#8221; Fireblocks CEO Michael Shaulov said. He noted that while the company has no plans to become an actual bank itself, &#8220;we believe our infrastructure will lend itself perfectly to power an entirely new era of financial services.&#8221;</p>
+
+
+
+<p>Also participating in the round as strategic investors were The Bank of New York Mellon and SVB. A number of Fireblocks existing investors also contributed to the round, including Paradigm, Galaxy Digital, Swisscom Ventures, Tenaya Capital and Cyberstarts Ventures. The investment brings the fintech&#8217;s total capital raised to $179 million.</p>
+
+
+
+<p>Founded in 2018, Fireblocks launched as a digital assets infrastructure company helping crypto-based institutions and exchanges move, store, and issue digital assets. As interest in digital assets &#8211; especially cryptocurrencies like Bitcoin and Ethereum &#8211; has surged, Fireblocks has begun to leverage its talent and technology in digital assets to enable banks and other financial institutions to bring cryptocurrency access to their customers. By linking to its Fireblocks&#8217; platform, banks and fintechs will be able to deploy a wide range of solutions &#8211; from custody, tokenization, and asset management to trading, lending, and payments &#8211; on both public and private blockchain networks.</p>
+
+
+
+<p>The company&#8217;s investors highlighted Fireblocks&#8217; capacity to enable banks and other financial institutions to efficiently and securely take advantage of the opportunity of and interest in digital assets. CEO of Asset Servicing and Head of Digital for BNY Mellon Roman Regelman said that bridging the gap between traditional and digital assets is &#8220;foundational to the future of custody.&#8221; Coatue Managing Partner Kris Fredrickson concurred: &#8220;our belief (is) that a new financial ecosystem is emerging and (companies) like Fireblocks are essential.&#8221;</p>
+
+
+
+<p>Last month, Fireblocks announced a partnership with digital payment- platform-as-a-service company, First. Together, the companies introduced a secure wallet and infrastructure solution to <a href="https://www.fireblocks.com/press/fireblocks-and-first-launch-institutional-diem-infrastructure-for-vasps/">enable financial institutions to facilitate transactions via the Diem network</a>. Fireblocks began the year collaborating with global fintech Ibanera to help its customers <a href="https://www.fireblocks.com/press/ibanera-partners-with-fireblocks-to-enhance-crypto-service-offering/">safely transfer crypto funds in real-time</a>.</p>
+
+
+
+<p>Since inception, Fireblocks has secured the transfer of more than $400 billion in digital assets. The company is headquartered in New York City.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>Photo by&nbsp;<strong><a href="https://www.pexels.com/@minan1398?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Min An</a></strong>&nbsp;from&nbsp;<strong><a href="https://www.pexels.com/photo/selective-focus-photography-of-lanterns-1313817/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Pexels</a></strong></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=Crypto Infrastructure Specialist Fireblocks Raises $133 Million&body=https%3A%2F%2Ffinovate.com%2Fcrypto-infrastructure-specialist-fireblocks-raises-133-million%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=Crypto+Infrastructure+Specialist+Fireblocks+Raises+%24133+Million&amp;url=https%3A%2F%2Ffinovate.com%2Fcrypto-infrastructure-specialist-fireblocks-raises-133-million%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Fcrypto-infrastructure-specialist-fireblocks-raises-133-million%2F" title="Crypto+Infrastructure+Specialist+Fireblocks+Raises+%24133+Million">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/crypto-infrastructure-specialist-fireblocks-raises-133-million/&t=Crypto Infrastructure Specialist Fireblocks Raises $133 Million" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76814" class="post-76814 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni-news category-daily-news category-funding category-zopa tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/zopa-receives-28-million-investment/" rel="bookmark">Zopa Receives $28 Million Investment</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pawel-czerwinski-jkwWCG6wYcI-unsplash-scaled.jpg" alt="Zopa Receives $28 Million Investment"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/julie/">Julie Muhn (@julieschicktanz)</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/zopa-receives-28-million-investment/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-22T11:21:45-07:00">March 22, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/alumni-news/" rel="category tag">Alumni News</a>, <a href="https://finovate.com/category/daily-news/" rel="category tag">Daily news</a>, <a href="https://finovate.com/category/funding/" rel="category tag">Funding</a>, <a href="https://finovate.com/category/zopa/" rel="category tag">Zopa</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pawel-czerwinski-jkwWCG6wYcI-unsplash-1024x683.jpg" alt="" class="wp-image-76815" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pawel-czerwinski-jkwWCG6wYcI-unsplash-1024x683.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pawel-czerwinski-jkwWCG6wYcI-unsplash-300x200.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pawel-czerwinski-jkwWCG6wYcI-unsplash-1536x1024.jpg 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pawel-czerwinski-jkwWCG6wYcI-unsplash-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Peer-to-peer lending platform and digital bank <strong><a href="https://www.zopa.com/">Zopa</a></strong> landed some extra funds this week, now that its new banking platform is starting to take off. </p>
+
+
+
+<p>The U.K.-based company <a href="https://www.altfi.com/article/7728_zopa-raises-20m-to-expand-digital-bank-eyes-profits">pulled in</a> $28 million (£20 million) from existing investors, bringing its total raised to $465 million.</p>
+
+
+
+<p>Investors in today&#8217;s round include IAG Silverstripe, which led the round, as well as Augmentum, Alternative Credit Investments, Venture Founders, and others. The company will use the funds to support the growth of its digital bank.</p>
+
+
+
+<p>Zopa secured its banking license last June and has since transitioned its platform from a peer-to-peer lending operation to a digital bank with a peer-to-peer lending option. Since that time, Zopa began offering savings accounts, which have reached $346 million (£250 million) in customer deposits, and a <a href="https://finovate.com/zopa-launches-credit-card-with-unique-feature/">credit card</a> product that has made Zopa a top 10 credit card issuer in the U.K. based on new customers.</p>
+
+
+
+<p>The new funding comes at a time when competition among digital banks is at an all-time high. Zopa is poised to do well in the battle for new clients and deposits, however. The company has built a well-established client base, resources, and relationships since it was founded in 2004 as a peer-to-peer lending platform.</p>
+
+
+
+<p>Zopa CEO Jaidev Janardana echoes this. &#8220;Less than a year since launching our bank, we have exceeded our plan for growth, both in terms of customers and balance sheet,&#8221; he said. &#8220;This capital injection will enable us to continue on this accelerated path. Our strong entry to the U.K. savings and credit card markets shows the organic appeal of our products and we are happy to have investors who share our excitement at the opportunity to serve more customers across more product categories.&#8221;</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Paweł Czerwiński</a> on <a href="https://unsplash.com/s/photos/piggy-bank?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=Zopa Receives $28 Million Investment&body=https%3A%2F%2Ffinovate.com%2Fzopa-receives-28-million-investment%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=Zopa+Receives+%2428+Million+Investment&amp;url=https%3A%2F%2Ffinovate.com%2Fzopa-receives-28-million-investment%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Fzopa-receives-28-million-investment%2F" title="Zopa+Receives+%2428+Million+Investment">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/zopa-receives-28-million-investment/&t=Zopa Receives $28 Million Investment" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76773" class="post-76773 post type-post status-publish format-standard has-post-thumbnail hentry category-finovate-global tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/austrias-bitpanda-reaches-unicorn-status-a-look-at-the-latest-in-french-fintech/" rel="bookmark">Austria&#8217;s BitPanda Reaches Unicorn Status; A Look at the Latest in French Fintech</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-tim-abee-5633389.jpg" alt="Austria&#8217;s BitPanda Reaches Unicorn Status; A Look at the Latest in French Fintech"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/david/">David Penn</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/austrias-bitpanda-reaches-unicorn-status-a-look-at-the-latest-in-french-fintech/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-19T11:55:07-07:00">March 19, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/finovate-global/" rel="category tag">Finovate Global</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-tim-abee-5633389-1024x682.jpg" alt="" class="wp-image-76807" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-tim-abee-5633389-1024x682.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-tim-abee-5633389-300x200.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-tim-abee-5633389.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Still looking for evidence that cryptocurrencies have arrived? The <a href="https://pitchbook.com/news/articles/bitpanda-bitcoin-unicorn">$170 million raised</a> this week by Austrian digital asset neobroker <a href="https://www.bitpanda.com/en">Bitpanda</a> is a testament to both the surging interest in cryptocurrencies as well as the vitality of fintech innovation in the CEE countries.</p>
+
+
+
+<p>Bitpanda&#8217;s Series B round earned the company a valuation of $1.2 billion, <a href="https://tech.eu/brief/bitpanda-funding/">giving Austria its first fintech unicorn</a>. The Vienna-based company, founded in 2014 by co-CEOs Eric Demuth and Paul Klanschek, along with CTO Christian Trummer, plans to use the capital to add to the types of investments available on its platform, as well as expand to more markets in Europe. </p>
+
+
+
+<p>This latest funding round was led by Valar Ventures and featured participation from DST Global. The round is more than triple the amount raised by Bitpanda in its Series A financing back in September, which was also led by Valar Ventures (SpeedInvest of Vienna was an investor in the round, as well). The capital arrives the same week that Bitpanda announced that it had reached a <a href="https://blog.bitpanda.com/thank-you-we-are-celebrating-2-million-users-at-bitpanda/">new milestone of more than two million registered users</a> on its Bitpanda and Bitpanda Pro platforms.</p>
+
+
+
+<p>Bitpanda enables cryptocurrency investors and traders to buy, sell, save, and send more than 50 digital assets including Bitcoin and Ethereum. The neobroker also offers the world&#8217;s first real crypto index and a Bitpanda Card that enables Bitpanda accountholders to spend their digital assets as easily as they spend their cash.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>With FinovateEurope <a href="https://finovate.com/finovateeurope-2021-launches-next-week/">right around the corner</a>, we&#8217;ve got more than a little continental fintech on the mind these days. This week we take a quick look at fintech news from France, a country whose fintech industry is often overlooked in the broader conversation on European fintech.</p>
+
+
+
+<p>Earlier this week, we learned that Finovate alum <strong><a href="https://www.ledger.com/">Ledger</a></strong> was launching a new business division dedicated to taking advantage of growing <a href="https://www.crowdfundinsider.com/2021/03/173286-france-based-digital-asset-blockchain-application-solutions-provider-ledger-announces-enterprise-solutions-division-for-institutions/?utm_source=dlvr.it&amp;utm_medium=twitter">institutional interest in cryptocurrencies</a>. Headquartered in Paris and founded in 2013, the company announced that its Ledger Enterprise Solutions unit will <a href="https://www.crowdfundinsider.com/2021/03/173286-france-based-digital-asset-blockchain-application-solutions-provider-ledger-announces-enterprise-solutions-division-for-institutions/?utm_source=dlvr.it&amp;utm_medium=twitter">support enterprise adoption of the company&#8217;s core custody technology</a>, <em>Ledger Vault</em>, as well as advise institutional clients with regards to technology implementation, security, and governance of digital asset portfolios.</p>
+
+
+
+<p>On the French fintech funding beat, PayFit, a payroll and HR platform launched in France in 2016, announced that it has <a href="https://www.finextra.com/newsarticle/37695/french-payroll-and-hr-platform-payfit-raises-90-million?utm_medium=rssfinextra&amp;utm_source=finextrafeed">secured $107 million</a> (EUR 90 million) in Series D funding. The investment was led by Eurzeo Growth, Large Venture, and BPI France, and featured participation from the company&#8217;s existing investors Accel, Frst, and individual investor Xavier Niel.</p>
+
+
+
+<p>The company said that the capital will help support its comprehensive HR solution for SMEs and enable the company &#8211; which also operates in Spain, Germany, the U.K., and Italy &#8211; to &#8220;increase headcount from 550 to 800&#8221; by the end of 2021.</p>
+
+
+
+<p>PayFit serves more than 5,000 small businesses, and includes <strong>Revolut</strong>, Starling Bank, and Treatwell among its customers. The company experienced growth of 40% in 2020 &#8211; a pace PayFit anticipates doubling this year &#8211; and credited much of this &#8220;hypergrowth&#8221; to the digital imperative brought on by the COVID-19 crisis.</p>
+
+
+
+<p>&#8220;As a result of the pandemic, HR professionals have faced a much higher workload and unfamiliar challenges,&#8221; PayFit co-founder and CEO Firmin Zocchetto <a href="https://switch.payfit.com/en/payfit-raises-90-million-to-become-a-european-leader/">said</a>. &#8220;They have had to deal with various issues, including supporting the company&#8217;s management with the implementation of remote work policies and ensuring employee wellbeing through new initiatives.&#8221;</p>
+
+
+
+<p>Zocchetto said that there are &#8220;tens of millions of SMEs&#8221; that are ready for digital transformation. &#8220;The market is huge, and our ambition remains the same: to become the point of reference for payroll and HR management for all SMEs,&#8221; he said.</p>
+
+
+
+<p>Striking another note in the funding beat, French fintech Silvr <a href="https://www.uktech.news/news/silvr-french-fintech-raises-26m-to-re-invent-financing-online-businesses-20210311">announced a EUR 3 million seed investment this week</a>. The company, launched last year by Nima Karimi and Gregory Tappero, provides financing for digital businesses that cannot access traditional bank financing and want to raise equity capital.</p>
+
+
+
+<p>Silvr offers a revenue-based financing model based on the performance of the financed company, an approach that contrasts with both traditional asset-based lending and fundraising models. Karimi has <a href="https://www.uktech.news/news/silvr-french-fintech-raises-26m-to-re-invent-financing-online-businesses-20210311">said</a> that Silvr&#8217;s strategy offers a new option for SMEs in France, calling it simpler and more transparent.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>Here is our look at fintech innovation around the world.</p>
+
+
+
+<h2>Asia-Pacific</h2>
+
+
+
+<ul><li>Philippines-based neobank Tonik launched this week as the <a href="https://finance.yahoo.com/news/tonik-launches-first-neobank-philippines-080000097.html">first financial institution of its kind</a> in the country.</li><li>Ant Group CEO Simon Hu <a href="https://www.businessinsider.com/ant-group-ceo-simon-hu-resigns-steps-down-bloomberg-2021-3">announced his resignation</a> this week as fallout from the fintech&#8217;s abandoned IPO effort continues.</li><li>Fintech News Singapore <a href="https://fintechnews.sg/49434/openbanking/open-banking-in-vietnam/">looked at the progress of open banking</a> in Vietnam.</li></ul>
+
+
+
+<h2>Sub-Saharan Africa</h2>
+
+
+
+<ul><li>The impact investing arm of TPG, The Rise Fund, <a href="https://www.finextra.com/newsarticle/37693/airtel-africa-picks-up-200-million-investment-in-mobile-money-business?utm_medium=rssfinextra&amp;utm_source=finextrafeed">announced an investment of $200 million</a> in Airtel Africa&#8217;s mobile money business.</li><li>Nigerian digital bank Kuda <a href="https://nairametrics.com/2021/03/18/deal-kuda-bank-raises-25-million-series-a-funding-led-by-valar-ventures/">raised $25 million</a> in Series A funding.</li><li>South African fintech Homanini secured $1.5 million in funding <a href="https://disrupt-africa.com/2021/03/17/sa-fintech-startup-nomanini-raises-1-5m-funding-round/">to help merchants and micro-entrepreneurs</a> sell airtime and prepaid electricity.</li></ul>
+
+
+
+<h2>Central and Eastern Europe</h2>
+
+
+
+<ul><li>SEON, a Hungarian startup helps companies weed out false accounts and prevent fraudulent transactions, <a href="https://seon.io/resources/news/the-story-of-seons-e10m-series-a-funding/">secured $12 million (EUR 10 million) in funding</a>. The round is Hungary&#8217;s largest Series A funding to date.</li><li>Lithuanian fintech FINCI <a href="https://www.temenos.com/news/2021/03/16/finci-goes-live-with-temenos-in-record-time-in-less-than-4-months/">has gone live</a> with Temenos&#8217; <em>Payments</em> and <em>Transact</em> core banking solutions.</li><li>Estonian financial services company LVH <a href="https://www.finextra.com/newsarticle/37678/lvh-to-invest-445-million-in-b-north?utm_medium=rssfinextra&amp;utm_source=finextrafeed">invested GBP 4.45 million</a> in U.K.-based B-North, which is building a SME lending bank.</li></ul>
+
+
+
+<h2>Middle East and Northern Africa</h2>
+
+
+
+<ul><li>Liv, the digital bank run by Emirates NBD, <a href="https://www.reuters.com/article/us-emirates-banking-idUSKBN2AZ03X">unveiled its prime subscription account</a>.</li><li>First Digital Bank <a href="https://www.haaretz.com/israel-news/tech-news/.premium-israel-s-first-digital-bank-begins-operations-heralding-ai-revolution-1.9619382">went live in Israel this week</a>. The institution is the first new bank in the country in more than 40 years.</li><li>First Iraqi Bank, a new, all-digital institution, <a href="https://www.finextra.com/pressarticle/86616/digital-only-challenger-first-iraqi-bank-goes-live-with-icfs-tech-support?utm_medium=rssfinextra&amp;utm_source=finextrafeed">launched this week</a> with a digital banking platform from ICS BANKS.</li></ul>
+
+
+
+<h2>Central and Southern Asia</h2>
+
+
+
+<ul><li>Indian fintech Yap <a href="https://www.livemint.com/companies/start-ups/fintech-startup-yap-raises-10-million-11615874431412.html">secured $10 million in funding</a> this week for its API platform that connects fintechs, offline businesses, and other platforms.</li><li>Digital lending platform Indialends <a href="https://www.livemint.com/companies/news/indialends-raises-5-1-million-from-acp-partners-and-dsg-consumer-partners-11616137098384.html">raised $5.1 million</a> in a round led by ACP Partners and DSG Consumer Partners.</li><li>Dubai Islamic Bank <a href="https://ibsintelligence.com/ibsi-news/dubai-islamic-bank-and-codebase-technologies-launch-roshan-digital-account-app-in-pakistan/">launched its <em>Rohan Digital Account</em> app</a> in Pakistan courtesy of a partnership with Codebase Technologies.</li></ul>
+
+
+
+<h2>Latin America and the Caribbean</h2>
+
+
+
+<ul><li>Banco ProCredit Ecuador <a href="https://www.finextra.com/pressarticle/86639/quipu-introduces-garmin-pay-and-fitbit-pay-to-ecuador?utm_medium=rssfinextra&amp;utm_source=finextrafeed">teamed up</a> with processor Quipu to offer Garmin Pay and Fitbit Pay in Ecuador.</li><li>MagicCube <a href="https://www.prnewswire.com/news-releases/magiccubes-i-accept-the-worlds-first-software-based-replacement-for-traditional-payment-terminals-enables-smartphones-as-tap--pin-pos-for-brazilian-merchants-301245269.html">introduced its SoftPOS system</a> in Brazil.</li><li>Fondeadora, a challenger bank based in Mexico, <a href="https://techcrunch.com/2021/03/15/mexican-challenger-bank-fondeadora-adds-14-million-to-its-series-b/">raised another $14 million in funding</a>, extending its Series A round.</li></ul>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>Photo by&nbsp;<strong><a href="https://www.pexels.com/@tim-abee-3668299?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Tim Abee</a></strong>&nbsp;from&nbsp;<strong><a href="https://www.pexels.com/photo/wood-animal-cute-grass-5633389/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Pexels</a></strong></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=Austria&#8217;s BitPanda Reaches Unicorn Status; A Look at the Latest in French Fintech&body=https%3A%2F%2Ffinovate.com%2Faustrias-bitpanda-reaches-unicorn-status-a-look-at-the-latest-in-french-fintech%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=Austria%26%238217%3Bs+BitPanda+Reaches+Unicorn+Status%3B+A+Look+at+the+Latest+in+French+Fintech&amp;url=https%3A%2F%2Ffinovate.com%2Faustrias-bitpanda-reaches-unicorn-status-a-look-at-the-latest-in-french-fintech%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Faustrias-bitpanda-reaches-unicorn-status-a-look-at-the-latest-in-french-fintech%2F" title="Austria%26%238217%3Bs+BitPanda+Reaches+Unicorn+Status%3B+A+Look+at+the+Latest+in+French+Fintech">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/austrias-bitpanda-reaches-unicorn-status-a-look-at-the-latest-in-french-fintech/&t=Austria&#8217;s BitPanda Reaches Unicorn Status; A Look at the Latest in French Fintech" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76804" class="post-76804 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni-news category-daily-news category-mergers-acquisitions category-pindrop-security tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/pindrop-to-buy-nextcaller/" rel="bookmark">Pindrop to Buy NextCaller</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-samson-katt-5256184-scaled.jpg" alt="Pindrop to Buy NextCaller"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/julie/">Julie Muhn (@julieschicktanz)</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/pindrop-to-buy-nextcaller/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-19T10:14:44-07:00">March 19, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/alumni-news/" rel="category tag">Alumni News</a>, <a href="https://finovate.com/category/daily-news/" rel="category tag">Daily news</a>, <a href="https://finovate.com/category/mergers-acquisitions/" rel="category tag">Mergers &amp; Acquisitions</a>, <a href="https://finovate.com/category/pindrop-security/" rel="category tag">Pindrop Security</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-samson-katt-5256184-1024x683.jpg" alt="" class="wp-image-76805" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-samson-katt-5256184-1024x683.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-samson-katt-5256184-300x200.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-samson-katt-5256184-1536x1024.jpg 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-samson-katt-5256184-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Phone-based fraud prevention company <strong><a href="https://www.pindrop.com/">Pindrop</a></strong> <a href="https://www.businesswire.com/news/home/20210318005123/en/Pindrop-Acquires-Next-Caller-Reaffirming-its-Position-as-the-Industry-Leader-in-All-Things-Voice-Security-Authentication-and-Verification">acquired</a> Next Caller this week. Terms of the deal were undisclosed.</p>
+
+
+
+<p>Pindrop anticipates the purchase of NextCaller, a call verification and fraud detection solution for contact centers, will position the company for growth, expand its client base, and position it as an industry leader.</p>
+
+
+
+<p>&#8220;Our two companies will now be able to service the market in its entirety with the right solution for whatever stage of voice security and authentication they are in,&#8221; said Next Caller Co-founder and CEO Ian Roncoroni.</p>
+
+
+
+<p>The deal comes at a time when demand for call centers is expanding. In a recent report, Forrester found that 42% of brands surveyed saw an increase in year-over-year call center call volume since the pandemic began. Additionally, 65% of companies reported they struggle to manage the high call volume and 80% of firms reported that fraud is a very serious issue in the call center.</p>
+
+
+
+<p>Given this, Pindrop CEO Vijay Balasubramaniyan has a positive outlook for the fraud prevention industry. &#8220;We couldn’t be more bullish about the future,&#8221; he said, &#8220;The need for our combined solutions will only continue to grow as brands across multiple industries not only look to better secure their voice channel, but also improve the customer experience. Understanding who you are speaking to is the most effective way to build a better relationship with customers, resulting in a higher NPS and subsequently more profitable exchanges.&#8221;</p>
+
+
+
+<p>As for what&#8217;s next, Next Caller will operate as a wholly-owned subsidiary under Pindrop.</p>
+
+
+
+<p>Founded in 2011, Pindrop <a href="https://www.pindrop.com/press-release/pindrop-launches-first-ivr-fraud-protection-solution/#:~:text=Atlanta%2C%20GA%20%E2%80%93%20February%2023%2C,all%20customer%20voice%20channel%20interactions.">debuted</a> an IVR solution as well as the availability of its voice authentication technology for use in OTT streaming devices. Headquartered in Alabama, Pindrop is privately held and has raised a total of $213 million from investors including Andreessen Horowitz and Citi Ventures.</p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=Pindrop to Buy NextCaller&body=https%3A%2F%2Ffinovate.com%2Fpindrop-to-buy-nextcaller%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=Pindrop+to+Buy+NextCaller&amp;url=https%3A%2F%2Ffinovate.com%2Fpindrop-to-buy-nextcaller%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Fpindrop-to-buy-nextcaller%2F" title="Pindrop+to+Buy+NextCaller">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/pindrop-to-buy-nextcaller/&t=Pindrop to Buy NextCaller" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76787" class="post-76787 post type-post status-publish format-standard has-post-thumbnail hentry category-finovate category-finovateeurope-2021 category-finovateeurope-2021-sneak-peek category-stylopay">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/finovateeurope-digital-2021-sneak-peek-stylopay/" rel="bookmark">FinovateEurope Digital 2021 Sneak Peek: Stylopay</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Stylopay.png" alt="FinovateEurope Digital 2021 Sneak Peek: Stylopay"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/oliver/">oliver</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/finovateeurope-digital-2021-sneak-peek-stylopay/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-18T17:20:15-07:00">March 18, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/finovate/" rel="category tag">Finovate</a>, <a href="https://finovate.com/category/finovateeurope-2021/" rel="category tag">FinovateEurope 2021</a>, <a href="https://finovate.com/category/finovateeurope-2021-sneak-peek/" rel="category tag">FinovateEurope 2021 Sneak Peek</a>, <a href="https://finovate.com/category/stylopay/" rel="category tag">Stylopay</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><a href="https://zoqq.com/" target="_blank" rel="noopener"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-23-at-12.24.02-PM-1024x638.png" alt="" class="wp-image-76838" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-23-at-12.24.02-PM-1024x638.png 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-23-at-12.24.02-PM-300x187.png 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-23-at-12.24.02-PM-1536x957.png 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-23-at-12.24.02-PM-2048x1276.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres-1024x427.jpg" alt="" class="wp-image-76571" width="154" height="64" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres-1024x427.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres-300x125.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres-1536x640.jpg 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres.jpg 1728w" sizes="(max-width: 154px) 100vw, 154px" /></figure></div>
+
+
+
+<blockquote class="wp-block-quote"><p><em>A look at the companies demoing at FinovateEurope Digital on March 23 through 25, 2021. <a rel="noreferrer noopener" href="https://informaconnect.com/finovateeurope/purchase/select-package/" target="_blank">Register today</a> and save your spot.</em></p></blockquote>
+
+
+
+<p><strong><a href="https://www.stylopay.com/" target="_blank" rel="noreferrer noopener">Stylopay</a></strong>&#8216;s <em>Zoqq </em>is a self-service application and management portal for corporate card programs. Apply in 30 minutes and get approved in 7 days. Pay only card cost.</p>
+
+
+
+<p><strong>Features</strong></p>
+
+
+
+<ul><li>Apply in 30 minutes and get approved in 7 days </li><li>Get and manage programs in different countries and different currencies</li><li>Start with 100 cards at low costs with complementary admin and user portals</li></ul>
+
+
+
+<p><strong>Why it&#8217;s great</strong><br>Faster application, multi-currency card program, global reach!</p>
+
+
+
+<p><strong>Presenters</strong></p>
+
+
+
+<div class="wp-block-image is-style-rounded"><figure class="alignright size-thumbnail is-resized"><img loading="lazy" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Stylopay-Sanjit-Ghanti-150x150.png" alt="" class="wp-image-76789" width="115" height="115" /></figure></div>
+
+
+
+<p><strong>Sanjit Ghanti, COO</strong><br>Ghanti is a payments expert. He has a background in hosted BPAAS solutions, business transformation, and operations. He manages IT infrastructure, product launch, and operations.<br><a href="https://www.linkedin.com/in/sanjitghanti" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
+
+
+
+<div class="wp-block-image is-style-rounded"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Stylopay-Avishek-Singh.jpg" alt="" class="wp-image-76790" width="115" height="115" /></figure></div>
+
+
+
+<p><strong>Avishek Singh, CEO</strong><br>Singh has experience in marketing, finance, and start-ups. He also manages business connections, contributes to marketing strategies, and is passionate about innovation.<br><a href="https://www.linkedin.com/in/avishek-singh-19253560/" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=FinovateEurope Digital 2021 Sneak Peek: Stylopay&body=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-digital-2021-sneak-peek-stylopay%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=FinovateEurope+Digital+2021+Sneak+Peek%3A+Stylopay&amp;url=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-digital-2021-sneak-peek-stylopay%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-digital-2021-sneak-peek-stylopay%2F" title="FinovateEurope+Digital+2021+Sneak+Peek%3A+Stylopay">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/finovateeurope-digital-2021-sneak-peek-stylopay/&t=FinovateEurope Digital 2021 Sneak Peek: Stylopay" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76783" class="post-76783 post type-post status-publish format-standard has-post-thumbnail hentry category-dreams category-finovate category-finovateeurope-2021 category-finovateeurope-2021-sneak-peek">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/finovateeurope-digital-2021-sneak-peek-dreams/" rel="bookmark">FinovateEurope Digital 2021 Sneak Peek: Dreams</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams.png" alt="FinovateEurope Digital 2021 Sneak Peek: Dreams"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/oliver/">oliver</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/finovateeurope-digital-2021-sneak-peek-dreams/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-18T17:20:00-07:00">March 18, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/dreams/" rel="category tag">Dreams</a>, <a href="https://finovate.com/category/finovate/" rel="category tag">Finovate</a>, <a href="https://finovate.com/category/finovateeurope-2021/" rel="category tag">FinovateEurope 2021</a>, <a href="https://finovate.com/category/finovateeurope-2021-sneak-peek/" rel="category tag">FinovateEurope 2021 Sneak Peek</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><a href="https://www.getdreams.com/en/" target="_blank" rel="noopener"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-1024x650.png" alt="" class="wp-image-76784" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-1024x650.png 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-300x190.png 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-1536x974.png 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-2048x1299.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres-1024x427.jpg" alt="" class="wp-image-76571" width="154" height="64" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres-1024x427.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres-300x125.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres-1536x640.jpg 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/FE2021_JoinUs_highres.jpg 1728w" sizes="(max-width: 154px) 100vw, 154px" /></figure></div>
+
+
+
+<blockquote class="wp-block-quote"><p><em>A look at the companies demoing at FinovateEurope Digital on March 23 through 25, 2021. <a rel="noreferrer noopener" href="https://informaconnect.com/finovateeurope/purchase/select-package/" target="_blank">Register today</a> and save your spot.</em></p></blockquote>
+
+
+
+<p><a href="https://www.getdreams.com/en/" target="_blank" rel="noreferrer noopener"><strong>Dreams</strong></a> is a financial wellbeing platform that helps banks attract the new generation and create superior digital engagement by leveraging the latest insights from cognitive and behavioral science.</p>
+
+
+
+<p><strong>Features</strong></p>
+
+
+
+<ul><li>Increase financial wellbeing: 2/3 of Dreams users feel less stressed about money </li><li>Increase retention: 4.3x vs. comparable financial apps </li><li>Attract the next generation: 75% millennial audience</li></ul>
+
+
+
+<p><strong>Why it&#8217;s great</strong><br>Dreams leverages cognitive and behavioral science to effectively influence consumer behavior, help the end user create healthier financial habits, and help banks significantly increase digital engagement.</p>
+
+
+
+<p><strong>Presenters</strong></p>
+
+
+
+<div class="wp-block-image is-style-rounded"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-Lucia-Hegenbartova.jpeg" alt="" class="wp-image-76785" width="115" height="115" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-Lucia-Hegenbartova.jpeg 800w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-Lucia-Hegenbartova-300x300.jpeg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-Lucia-Hegenbartova-150x150.jpeg 150w" sizes="(max-width: 115px) 100vw, 115px" /></figure></div>
+
+
+
+<p><strong>Lucia Hegenbartova, Chief Commercial Officer</strong><br>Hegenbartova is Chief Commercial Officer at Dreams, responsible for building commercial partnerships with banks around the world.<br><a href="https://www.linkedin.com/in/lucia-hegenbartova/" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
+
+
+
+<div class="wp-block-image is-style-rounded"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-Elin-Helander.jpeg" alt="" class="wp-image-76786" width="115" height="115" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-Elin-Helander.jpeg 800w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-Elin-Helander-300x300.jpeg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Dreams-Elin-Helander-150x150.jpeg 150w" sizes="(max-width: 115px) 100vw, 115px" /></figure></div>
+
+
+
+<p><strong>Elin Helander, Chief Scientific Officer</strong><br>Helander is Chief Scientific Officer at Dreams, responsible for injecting the latest insights from cognitive and behavioral science into the Dreams app.<br><a href="https://www.linkedin.com/in/elinhelander/" target="_blank" rel="noreferrer noopener">LinkedIn</a></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=FinovateEurope Digital 2021 Sneak Peek: Dreams&body=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-digital-2021-sneak-peek-dreams%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=FinovateEurope+Digital+2021+Sneak+Peek%3A+Dreams&amp;url=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-digital-2021-sneak-peek-dreams%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-digital-2021-sneak-peek-dreams%2F" title="FinovateEurope+Digital+2021+Sneak+Peek%3A+Dreams">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/finovateeurope-digital-2021-sneak-peek-dreams/&t=FinovateEurope Digital 2021 Sneak Peek: Dreams" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76781" class="post-76781 post type-post status-publish format-standard has-post-thumbnail hentry category-finovateeurope-2021 tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/finovateeurope-2021-launches-next-week/" rel="bookmark">FinovateEurope 2021 Launches Next Week</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-claudia-schmalz-5894987.jpg" alt="FinovateEurope 2021 Launches Next Week"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/david/">David Penn</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/finovateeurope-2021-launches-next-week/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-18T14:08:39-07:00">March 18, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/finovateeurope-2021/" rel="category tag">FinovateEurope 2021</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-claudia-schmalz-5894987-1024x576.jpg" alt="" class="wp-image-76782" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-claudia-schmalz-5894987-1024x576.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-claudia-schmalz-5894987-300x169.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-claudia-schmalz-5894987.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><a href="https://informaconnect.com/finovateeurope/?vip_code=FKV2368FINOVATEREF&amp;utm_source=FinovateWebReferral&amp;utm_medium=web_listing&amp;utm_campaign=FKV2368-FinovateWebReferral-web_listing&amp;utm_term=FinovateWebReferral&amp;utm_content=FKV2368FINOVATEREF&amp;tracker_id=FKV2368FINOVATEREF">FinovateEurope</a></strong> is right around the corner! Our all-digital, interactive fintech conference begins March 23 at 9am Central European Time and continues through March 25. <a href="https://informaconnect.com/finovateeurope/dual-booking-form/">Visit our registration page today</a> to save your spot!</p>
+
+
+
+<p>FinovateEurope will feature our signature format of innovative fintech demonstrations and in-depth, insightful keynotes, panel discussions, and debates on some of our industry&#8217;s most important topics and critical themes. To learn more about our demoing companies, <a href="https://finovate.com/category/finovateeurope-2021-sneak-peek/">check out our Sneak Peek Series</a>. For more on our thought leadership content, here&#8217;s a short, day-by-day summary of what to look out for.</p>
+
+
+
+<h3>March 23: Martes / Dienstag / Wtorek / Tuesday</h3>
+
+
+
+<p>Kicking off the event on Day One of FinovateEurope are keynote addresses from Katharina Lueth of Raisin UK, Joe Lichtenberg of InterSystems, and a conversation between HSBC&#8217;s Steve Suarez and Louise Beaumont of the Open Banking Working Group.</p>
+
+
+
+<p>The afternoon will feature a number of panel discussions and roundtables covering topics such as open innovation and strategic partnerships, the future of hybrid digital customer experience, and leveraging agility to thrive at times of crisis. The day will end with a conversation on digital engagement in the post-COVID era.</p>
+
+
+
+<h3>March 24: Mercredi / Onsdag / Quarta-feira / Wednesday</h3>
+
+
+
+<p>On Day Two, FinovateEurope begins with a keynote on open innovation and open banking, and continues with a pair of Mastermind Keynotes from Alex James of GoCompare and Alex Thomson of Quantum Metric, as well as from Annerie Vreugdenhil, Chief Innovation Officer with ING. In addition to a keynote on sustainable finance, the afternoon on Day Two will be devoted to panel conversations on the shift to digital payments and preserving &#8220;the human touch&#8221; in the digital financial world.</p>
+
+
+
+<h3>March 25: Donderdag / Giovedì / Čtvrtek / Thursday</h3>
+
+
+
+<p>The final day of FinovateEurope will feature some of our conference&#8217;s most popular sessions, such as our Analyst All Stars presentation. This year, our All Stars include Jost Hoppermann of Forrester, Zil Bareisis of Celent, and Vinod Jain of Aite Group. Day Three will also tackle the growth of morgagetech by way of a Mastermind Keynote from Floris van der Kolk of Ohpen and Rik Douwes of Link Asset Services. Rounding out the day will be a venture capital panel discussion on investment trends in the post-COVID era. This conversation will feature Citi Ventures&#8217; Luis Valdich, Silicon Valley Bank&#8217;s Claire Palmer, SixThirty Ventures&#8217; Samarth Shekar, and Mouro Capital&#8217;s Manuel Silva Martinez.</p>
+
+
+
+<p><em><a href="https://informaconnect.com/finovateeurope/">See our full agenda</a>. And make sure you <a href="https://informaconnect.com/finovateeurope/dual-booking-form/">reserve your spot today</a> for our first, Europe-themed, all-digital, fintech event!</em></p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>Photo by&nbsp;<strong><a href="https://www.pexels.com/@claudia-schmalz-3928374?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Claudia Schmalz</a></strong>&nbsp;from&nbsp;<strong><a href="https://www.pexels.com/photo/facade-of-creative-colorful-apartment-house-in-autumn-city-5894987/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Pexels</a></strong></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=FinovateEurope 2021 Launches Next Week&body=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-2021-launches-next-week%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=FinovateEurope+2021+Launches+Next+Week&amp;url=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-2021-launches-next-week%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Ffinovateeurope-2021-launches-next-week%2F" title="FinovateEurope+2021+Launches+Next+Week">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/finovateeurope-2021-launches-next-week/&t=FinovateEurope 2021 Launches Next Week" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76728" class="post-76728 post type-post status-publish format-standard has-post-thumbnail hentry category-finovate-webinar tag-email tag-finovate-webinar">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/customer-engagement-tactics-to-boost-loyalty-and-monetization/" rel="bookmark">Customer Engagement Tactics to Boost Loyalty and Monetization</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Customer-experience.png" alt="Customer Engagement Tactics to Boost Loyalty and Monetization"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/charlotteburgess/">charlotteburgess</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/customer-engagement-tactics-to-boost-loyalty-and-monetization/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-18T08:15:00-07:00">March 18, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/finovate-webinar/" rel="category tag">Finovate Webinar</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Customer-experience-1024x446.png" alt="" class="wp-image-76729" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Customer-experience-1024x446.png 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Customer-experience-300x131.png 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Customer-experience-1536x669.png 1536w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Customer-experience-2048x892.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong><a href="https://event.on24.com/wcc/r/3072699/48B280ABD5886B44EF99374E2DFE29F4?partnerref=B">Upcoming webinar</a></strong><br><strong>Title:</strong>&nbsp;Customer Engagement Tactics to Boost Loyalty and Monetization<br><strong>Date:</strong>&nbsp;Thursday, April 15, 2021<br><strong>Time:</strong>&nbsp;04:00 British Summer Time<br><strong>Duration:</strong>&nbsp;1 hour</p>
+
+
+
+<p>Research shows brands that excel in customer engagement often exceed their revenue goals. But how well is the financial services industry really responding to customers, and delivering on promises of “customer-centricity?”<br><br><a href="https://event.on24.com/wcc/r/3072699/48B280ABD5886B44EF99374E2DFE29F4?partnerref=B">Join this upcoming webinar</a> where our expert panel will explore the top trends in customer engagement in 2021 for financial services companies, growth levers for financial service businesses, and how customer engagement strategies can be used to drive long-term growth. Find out which steps you can implement now, and in the long term, to improve customer engagement. Hear first-hand insights from Wise, including how the company has advanced its customer engagement strategy over time. </p>
+
+
+
+<p>Featuring: </p>
+
+
+
+<ul><li><strong>Erin Bankaitis</strong>, Strategic Business Consultant, Braze</li><li><strong>Andrei Dinca</strong>, CRM Lead, Wise</li><li><strong>Talie Baker</strong>, Senior Analyst, Aite</li><li>Moderated by <strong>Greg Palmer</strong>, VP, Finovate</li></ul>
+
+
+
+<h3 class="has-text-align-center"><a href="https://event.on24.com/wcc/r/3072699/48B280ABD5886B44EF99374E2DFE29F4?partnerref=B">Register now &gt;&gt;</a></h3>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=Customer Engagement Tactics to Boost Loyalty and Monetization&body=https%3A%2F%2Ffinovate.com%2Fcustomer-engagement-tactics-to-boost-loyalty-and-monetization%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=Customer+Engagement+Tactics+to+Boost+Loyalty+and+Monetization&amp;url=https%3A%2F%2Ffinovate.com%2Fcustomer-engagement-tactics-to-boost-loyalty-and-monetization%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Fcustomer-engagement-tactics-to-boost-loyalty-and-monetization%2F" title="Customer+Engagement+Tactics+to+Boost+Loyalty+and+Monetization">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/customer-engagement-tactics-to-boost-loyalty-and-monetization/&t=Customer Engagement Tactics to Boost Loyalty and Monetization" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+									
+					<article id="post-76779" class="post-76779 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni-news category-daily-news category-nymbus tag-email">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://finovate.com/nymbus-picks-red-hat-as-cloud-platform-partner/" rel="bookmark">NYMBUS Picks Red Hat as Cloud Platform Partner</a></h2>								<img class="img-responsive post-thumb" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-darkhanbaatar-baasanjav-7152704.jpg" alt="NYMBUS Picks Red Hat as Cloud Platform Partner"/>
+				<div class="clearfix"></div>
+				<div class="entry-meta">
+			<span class="byline"> By <span class="author vcard"><a class="url fn n" href="https://finovate.com/author/david/">David Penn</a></span></span> <span class="posted-on">Posted on <a href="https://finovate.com/nymbus-picks-red-hat-as-cloud-platform-partner/" rel="bookmark"><time class="entry-date published updated" datetime="2021-03-18T05:25:40-07:00">March 18, 2021</time></a></span><br />					<span class="cat-links">Categories: <a href="https://finovate.com/category/alumni-news/" rel="category tag">Alumni News</a>, <a href="https://finovate.com/category/daily-news/" rel="category tag">Daily news</a>, <a href="https://finovate.com/category/nymbus/" rel="category tag">NYMBUS</a></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<!--<div class="sharing">
+				</div>-->
+	<div class="entry-content">
+		
+<figure class="wp-block-image size-large is-resized"><img src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-darkhanbaatar-baasanjav-7152704-1024x682.jpg" alt="" class="wp-image-76780" width="800" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-darkhanbaatar-baasanjav-7152704-1024x682.jpg 1024w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-darkhanbaatar-baasanjav-7152704-300x200.jpg 300w, https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/pexels-darkhanbaatar-baasanjav-7152704.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Financial services platform <strong><a href="https://nymbus.com/">NYMBUS</a></strong> has selected the cloud platform from open source solution provider Red Hat for its digital banking ecosystem. The platform, <em>Red Hat OpenShift</em>, will enable Nymbus to <a href="https://www.nymbus.com/press/nymbus-takes-digital-banking-to-new-heights-with-red-hat/">help its community bank and credit union customers accelerate their digital transformations</a>.</p>
+
+
+
+<p>&#8220;The COVID-19 pandemic has changed the way we bank, possibly forever,&#8221; Nymbus CEO Jeffery Kendall said. &#8220;It provided the push for local banks and credit unions to establish more secure, flexible, end-to-end digital banking solutions.&#8221; Kendall added that the partnership with Red Hat would give Nymbus&#8217; partners more &#8220;freedom of choice&#8221; in the way they implemented their cloud banking strategies as well as the  &#8220;multi-cloud uptime&#8221; Kendall said was &#8220;critical for the banking industry.&#8221;</p>
+
+
+
+<p>Courtesy of the new partnership, Nymbus customers will be able to deploy and launch a turnkey, digital bank-in-a-box &#8211; running on OpenShift &#8211; on whatever cloud platform they prefer. The open source, cloud-agnostic nature of Red Hat&#8217;s solution helps institutions avoid being dependent on a sole vendor, which can impede innovation. </p>
+
+
+
+<p>&#8220;Cloud technology is reshaping the way banking services are created and delivered in our digital world,&#8221; Red Hat VP and Global Head of Financial Services Richard Harmon said. &#8220;It is providing service providers the ability to quickly adapt to market changes and make it easier for community banks and credit unions to consume new software. We are excited to work with Nymbus to bring the innovation of open source and cloud technology to the market. Nymbus truly embraces the open source way of working, and we are looking forward to contributing to their success.&#8221;</p>
+
+
+
+<p>Founded in 2015 and headquartered in Miami Beach, Florida, Nymbus most recently <a href="https://finovate.com/videos/finovatefall-2019-nymbus/">demonstrated its technology</a> on the Finovate stage in 2019 as part of FinovateFall. The company began this year with <a href="https://www.nymbus.com/press/nymbus-expands-executive-leadership-team/">a pair of C-suite hires</a> &#8211; Chief Alliance Officer Sarah Howell and Chief Product Officer Larry McClanahan &#8211; a new partnership with NYDIG to <a href="https://www.nymbus.com/press/nymbus-partners-with-nydig-to-offer-bitcoin-banking/">support bitcoin banking</a>, and a <a href="https://www.nymbus.com/press/nymbus-raises-53-million-dollars-in-series-c-funding-led-by-insight-partners/">$53 million Series C funding</a> round that took the company&#8217;s total capital to more than $98 million.</p>
+
+
+
+<hr class="wp-block-separator" />
+
+
+
+<p>Photo by&nbsp;<strong><a href="https://www.pexels.com/@darkhanbaatar-baasanjav-28180472?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Darkhanbaatar Baasanjav</a></strong>&nbsp;from&nbsp;<strong><a href="https://www.pexels.com/photo/cold-snow-wood-people-7152704/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Pexels</a></strong></p>
+
+			</div><!-- .entry-content -->
+	<div class="sharingbottom">
+				<p>Share this:</p>
+		<span class="blogshare"><a class="emailshare" href="mailto:?subject=NYMBUS Picks Red Hat as Cloud Platform Partner&body=https%3A%2F%2Ffinovate.com%2Fnymbus-picks-red-hat-as-cloud-platform-partner%2F">Send Post</a></span>   
+		<span class="blogshare"><a class="twittershare" href="http://twitter.com/intent/tweet/?text=NYMBUS+Picks+Red+Hat+as+Cloud+Platform+Partner&amp;url=https%3A%2F%2Ffinovate.com%2Fnymbus-picks-red-hat-as-cloud-platform-partner%2F&amp;via=Finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ffinovate.com%2Fnymbus-picks-red-hat-as-cloud-platform-partner%2F" title="NYMBUS+Picks+Red+Hat+as+Cloud+Platform+Partner">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="http://www.facebook.com/sharer.php?u=https://finovate.com/nymbus-picks-red-hat-as-cloud-platform-partner/&t=NYMBUS Picks Red Hat as Cloud Platform Partner" target="_blank">Facebook</a></span>
+		</div>
+
+</article><!-- #post-## -->
+
+				
+
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+			<ul class="page-numbers pagination">
+	<li><span aria-current="page" class="page-numbers current">1</span></li>
+	<li><a class="page-numbers" href="https://finovate.com/blog/page/2/">2</a></li>
+	<li><a class="page-numbers" href="https://finovate.com/blog/page/3/">3</a></li>
+	<li><a class="page-numbers" href="https://finovate.com/blog/page/4/">4</a></li>
+	<li><span class="page-numbers dots">&hellip;</span></li>
+	<li><a class="page-numbers" href="https://finovate.com/blog/page/984/">984</a></li>
+	<li><a class="next page-numbers" href="https://finovate.com/blog/page/2/">Next &rarr;</a></li>
+</ul>
+	</nav><!-- .navigation -->
+	
+				
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+		
+<div id="secondary" class="widget-area blog-col-md-1" role="complementary">
+	<aside id="search-3" class="widget widget_search"><h3 class="widget-title">Search</h3> <form role="search" method="get" class="search-form" action="https://finovate.com/">
+	 <div class="searchboxcontainer">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field"  value="" name="s" title="Search for:" />		
+	</label>
+	<a id="searchgo" class="searchgo" href="#"><span class="glyphicon glyphicon-search"></span></a>
+	 </div>
+	 	<input type="submit" class="search-submit" value="Search" />
+</form></aside><aside id="widget_sp_image-3" class="widget widget_sp_image"><h3 class="widget-title">FinovateEurope-blog</h3><a href="https://informaconnect.com/finovateeurope/?vip_code=FKV2368FINOVATEREF&#038;utm_source=FinovateWebReferral&#038;utm_medium=web_listing&#038;utm_campaign=FKV2368-FinovateWebReferral-web_listing&#038;utm_term=FinovateWebReferral&#038;utm_content=FKV2368FINOVATEREF&#038;tracker_id=FKV2368FINOVATEREF" target="_blank" class="widget_sp_image-image-link" title="FinovateEurope-blog"><img alt="FinovateEurope" class="attachment-full" style="max-width: 100%;" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/FinovateEurope-blog.svg" /></a></aside><aside id="widget_sp_image-10" class="widget widget_sp_image"><h3 class="widget-title">FinovateSpring-blog</h3><a href="https://informaconnect.com/finovatespring/?vip_code=FKV2369FINOVATEREF&#038;utm_source=FinovateWebReferral&#038;utm_medium=web_listing&#038;utm_campaign=FKV2369-FinovateWebReferral-web_listing&#038;utm_term=FinovateWebReferral&#038;utm_content=FKV2369FINOVATEREF&#038;tracker_id=FKV2369FINOVATEREF" target="_self" class="widget_sp_image-image-link" title="FinovateSpring-blog"><img alt="FinovateWest" class="attachment-full" style="max-width: 100%;" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/FinovateSpring21-blog.svg" /></a></aside><aside id="widget_sp_image-7" class="widget widget_sp_image"><h3 class="widget-title">FinovateAsia-blog</h3><a href="https://informaconnect.com/finovateasia/?vip_code=FKV2374FINOVATEREF&#038;utm_source=FinovateWebReferral&#038;utm_medium=web_listing&#038;utm_campaign=FKV2374-FinovateWebReferral-web_listing&#038;utm_term=FinovateWebReferral&#038;utm_content=FKV2374FINOVATEREF&#038;tracker_id=FKV2374FINOVATEREF" target="_blank" class="widget_sp_image-image-link" title="FinovateAsia-blog"><img alt="FinovateAsia" class="attachment-full" style="max-width: 100%;" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/FinovateAsia-blog.svg" /></a></aside><aside id="widget_sp_image-4" class="widget widget_sp_image"><h3 class="widget-title">FinovateFall-blog</h3><a href="https://informaconnect.com/finovatefall/?vip_code=FKV2373FINOVATEREF&#038;utm_source=FinovateWebReferral&#038;utm_medium=web_listing&#038;utm_campaign=FKV2373-FinovateWebReferral-web_listing&#038;utm_term=FinovateWebReferral&#038;utm_content=FKV2373FINOVATEREF&#038;tracker_id=FKV2373FINOVATEREF" target="_blank" class="widget_sp_image-image-link" title="FinovateFall-blog"><img alt="FinovateFall" class="attachment-full" style="max-width: 100%;" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/FinovateFall-blog.svg" /></a></aside><aside id="widget_sp_image-9" class="widget widget_sp_image"><h3 class="widget-title">FinovateAwards-blog</h3><a href="https://finance.knect365.com/finovate-industry-awards/" target="_blank" class="widget_sp_image-image-link" title="FinovateAwards-blog"><img alt="FinovateAwards-blog" class="attachment-full" style="max-width: 100%;" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/FinovateAwards-blog.svg" /></a></aside><aside id="widget_sp_image-11" class="widget widget_sp_image"><h3 class="widget-title">FinovateFocus-blog</h3><a href="https://informaconnect.com/finovatefocus/" target="_self" class="widget_sp_image-image-link" title="FinovateFocus-blog"><img alt="FinovateFocus" class="attachment-full" style="max-width: 100%;" src="https://finovate-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/FinovateFocus-blog.svg" /></a></aside><aside id="text-16" class="widget widget_text"><h3 class="widget-title">Subscribe by Email</h3>			<div class="textwidget"><form class="feedblitz" name="FeedBlitz_39e6af24a3f811e484f4002590771251" style="display:block" method="POST" action="https://www.feedblitz.com/f/f.fbz?AddNewUserDirect">  <input class="search-field"  style="display:none" name="EMAIL" maxlength="64" type="text" size="25" value="Please enter your email address" onfocus="if(this.value=='Please enter your email address')this.value='';" onblur="if(this.value=='')this.value='Please enter your email address'"> <input name="EMAIL_" maxlength="64" type="hidden" size="25" value=""> <input name="EMAIL_ADDRESS" maxlength="64" type="hidden" size="25" value=""> <input name="FEEDID" type="hidden" value="646536">
+<input name="cids" type="hidden" value="1">
+<input name="PUBLISHER" type="hidden" value="2501188"> <input class="btn btn-submit"  type="button" value="Subscribe me! &raquo;" onClick="FeedBlitz_39e6af24a3f811e484f4002590771251s(this.form);">
+</form> <script language="Javascript">function FeedBlitz_39e6af24a3f811e484f4002590771251i(){var x=document.getElementsByName('FeedBlitz_39e6af24a3f811e484f4002590771251');for(i=0;i<x.length;i++){x[i].EMAIL.style.display='block'; x[i].action='https://www.feedblitz.com/f/f.fbz?AddNewUserDirect';}} function FeedBlitz_39e6af24a3f811e484f4002590771251s(v){v.submit();}FeedBlitz_39e6af24a3f811e484f4002590771251i();</script></div>
+		</aside><aside id="text-14" class="widget widget_text"><h3 class="widget-title">Want us to cover your news?</h3>			<div class="textwidget">Contact <a href="mailto:research@finovate.com">research@finovate.com</a></div>
+		</aside><aside id="finovatetwitter-2" class="widget widget_finovatetwitter"><h3 class="widget-title">Follow us on Twitter</h3>			    <div class="media">
+		    <div class="media-left">
+			<script src="https://platform.twitter.com/widgets.js"></script>
+			<a href="https://twitter.com/intent/follow?screen_name=finovate"><img alt="Twitter Icon" srcset="https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/finovatewidgets/images/sidebar-twitter-icon.png, https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/finovatewidgets/images/sidebar-twitter-icon@2x.png 2x"/></a></div>
+		    <div class="media-body">45908 Followers</div>
+	    </div>
+
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href="https://finovate.com/tag/womeninfintech/" class="tag-cloud-link tag-link-2214 tag-link-position-1" style="font-size: 11.1300813008pt;" aria-label="#WomeninFinTech (6 items)">#WomeninFinTech</a>
+<a href="https://finovate.com/tag/alumni-news/" class="tag-cloud-link tag-link-1406 tag-link-position-2" style="font-size: 8pt;" aria-label="alumni news (1 item)">alumni news</a>
+<a href="https://finovate.com/tag/alumni-profile/" class="tag-cloud-link tag-link-2352 tag-link-position-3" style="font-size: 8pt;" aria-label="Alumni profile (1 item)">Alumni profile</a>
+<a href="https://finovate.com/tag/analyst-all-stars/" class="tag-cloud-link tag-link-2132 tag-link-position-4" style="font-size: 9.0243902439pt;" aria-label="Analyst All Stars (2 items)">Analyst All Stars</a>
+<a href="https://finovate.com/tag/atos/" class="tag-cloud-link tag-link-2134 tag-link-position-5" style="font-size: 8pt;" aria-label="Atos (1 item)">Atos</a>
+<a href="https://finovate.com/tag/banking/" class="tag-cloud-link tag-link-2135 tag-link-position-6" style="font-size: 8pt;" aria-label="Banking (1 item)">Banking</a>
+<a href="https://finovate.com/tag/big-data/" class="tag-cloud-link tag-link-1412 tag-link-position-7" style="font-size: 8pt;" aria-label="Big Data (1 item)">Big Data</a>
+<a href="https://finovate.com/tag/daily-news/" class="tag-cloud-link tag-link-2346 tag-link-position-8" style="font-size: 10.2764227642pt;" aria-label="Daily News (4 items)">Daily News</a>
+<a href="https://finovate.com/tag/debt-goal/" class="tag-cloud-link tag-link-639 tag-link-position-9" style="font-size: 8pt;" aria-label="Debt Goal (1 item)">Debt Goal</a>
+<a href="https://finovate.com/tag/dswiss/" class="tag-cloud-link tag-link-2205 tag-link-position-10" style="font-size: 8pt;" aria-label="DSwiss (1 item)">DSwiss</a>
+<a href="https://finovate.com/tag/emagazine/" class="tag-cloud-link tag-link-2212 tag-link-position-11" style="font-size: 9.70731707317pt;" aria-label="eMagazine (3 items)">eMagazine</a>
+<a href="https://finovate.com/tag/email/" class="tag-cloud-link tag-link-2390 tag-link-position-12" style="font-size: 22pt;" aria-label="Email (576 items)">Email</a>
+<a href="https://finovate.com/tag/emerging-technology/" class="tag-cloud-link tag-link-2143 tag-link-position-13" style="font-size: 8pt;" aria-label="Emerging technology (1 item)">Emerging technology</a>
+<a href="https://finovate.com/tag/emv/" class="tag-cloud-link tag-link-1414 tag-link-position-14" style="font-size: 8pt;" aria-label="EMV (1 item)">EMV</a>
+<a href="https://finovate.com/tag/finovate-digital-week/" class="tag-cloud-link tag-link-2199 tag-link-position-15" style="font-size: 11.1300813008pt;" aria-label="Finovate Digital Week (6 items)">Finovate Digital Week</a>
+<a href="https://finovate.com/tag/finovate-emagazine/" class="tag-cloud-link tag-link-2255 tag-link-position-16" style="font-size: 9.0243902439pt;" aria-label="Finovate eMagazine (2 items)">Finovate eMagazine</a>
+<a href="https://finovate.com/tag/finovatefall/" class="tag-cloud-link tag-link-2127 tag-link-position-17" style="font-size: 10.7317073171pt;" aria-label="FinovateFall (5 items)">FinovateFall</a>
+<a href="https://finovate.com/tag/finovate-live/" class="tag-cloud-link tag-link-2198 tag-link-position-18" style="font-size: 11.4146341463pt;" aria-label="Finovate Live (7 items)">Finovate Live</a>
+<a href="https://finovate.com/tag/finovatespring-takeover/" class="tag-cloud-link tag-link-2394 tag-link-position-19" style="font-size: 10.2764227642pt;" aria-label="FinovateSpring Takeover (4 items)">FinovateSpring Takeover</a>
+<a href="https://finovate.com/tag/finovate-webinar/" class="tag-cloud-link tag-link-2163 tag-link-position-20" style="font-size: 13.1219512195pt;" aria-label="Finovate Webinar (15 items)">Finovate Webinar</a>
+<a href="https://finovate.com/tag/identity-verification/" class="tag-cloud-link tag-link-2207 tag-link-position-21" style="font-size: 8pt;" aria-label="Identity Verification (1 item)">Identity Verification</a>
+<a href="https://finovate.com/tag/innovation/" class="tag-cloud-link tag-link-2129 tag-link-position-22" style="font-size: 8pt;" aria-label="Innovation (1 item)">Innovation</a>
+<a href="https://finovate.com/tag/investing-2/" class="tag-cloud-link tag-link-625 tag-link-position-23" style="font-size: 8pt;" aria-label="investing (1 item)">investing</a>
+<a href="https://finovate.com/tag/julies-column/" class="tag-cloud-link tag-link-2350 tag-link-position-24" style="font-size: 8pt;" aria-label="Julie&#039;s Column (1 item)">Julie&#039;s Column</a>
+<a href="https://finovate.com/tag/lending/" class="tag-cloud-link tag-link-2206 tag-link-position-25" style="font-size: 8pt;" aria-label="Lending (1 item)">Lending</a>
+<a href="https://finovate.com/tag/machine-learning/" class="tag-cloud-link tag-link-1413 tag-link-position-26" style="font-size: 8pt;" aria-label="Machine Learning (1 item)">Machine Learning</a>
+<a href="https://finovate.com/tag/money-management-platforms/" class="tag-cloud-link tag-link-1418 tag-link-position-27" style="font-size: 8pt;" aria-label="Money Management Platforms (1 item)">Money Management Platforms</a>
+<a href="https://finovate.com/tag/mpos/" class="tag-cloud-link tag-link-1415 tag-link-position-28" style="font-size: 8pt;" aria-label="mPOS (1 item)">mPOS</a>
+<a href="https://finovate.com/tag/msps/" class="tag-cloud-link tag-link-1416 tag-link-position-29" style="font-size: 8pt;" aria-label="MSPs (1 item)">MSPs</a>
+<a href="https://finovate.com/tag/news/" class="tag-cloud-link tag-link-1401 tag-link-position-30" style="font-size: 8pt;" aria-label="News (1 item)">News</a>
+<a href="https://finovate.com/tag/payments/" class="tag-cloud-link tag-link-1420 tag-link-position-31" style="font-size: 9.0243902439pt;" aria-label="payments (2 items)">payments</a>
+<a href="https://finovate.com/tag/pfm/" class="tag-cloud-link tag-link-647 tag-link-position-32" style="font-size: 8pt;" aria-label="PFM (1 item)">PFM</a>
+<a href="https://finovate.com/tag/plaid/" class="tag-cloud-link tag-link-1404 tag-link-position-33" style="font-size: 8pt;" aria-label="Plaid (1 item)">Plaid</a>
+<a href="https://finovate.com/tag/sme-lending/" class="tag-cloud-link tag-link-1427 tag-link-position-34" style="font-size: 9.0243902439pt;" aria-label="SME lending (2 items)">SME lending</a>
+<a href="https://finovate.com/tag/sponsored/" class="tag-cloud-link tag-link-2303 tag-link-position-35" style="font-size: 13.2926829268pt;" aria-label="Sponsored (16 items)">Sponsored</a>
+<a href="https://finovate.com/tag/streetshares/" class="tag-cloud-link tag-link-1402 tag-link-position-36" style="font-size: 8pt;" aria-label="StreetShares (1 item)">StreetShares</a>
+<a href="https://finovate.com/tag/tradier/" class="tag-cloud-link tag-link-1405 tag-link-position-37" style="font-size: 8pt;" aria-label="Tradier (1 item)">Tradier</a>
+<a href="https://finovate.com/tag/videos/" class="tag-cloud-link tag-link-2128 tag-link-position-38" style="font-size: 8pt;" aria-label="Videos (1 item)">Videos</a>
+<a href="https://finovate.com/tag/wealth-management/" class="tag-cloud-link tag-link-1417 tag-link-position-39" style="font-size: 8pt;" aria-label="Wealth Management (1 item)">Wealth Management</a>
+<a href="https://finovate.com/tag/wealth-management-platform/" class="tag-cloud-link tag-link-1419 tag-link-position-40" style="font-size: 9.0243902439pt;" aria-label="Wealth Management Platform (2 items)">Wealth Management Platform</a>
+<a href="https://finovate.com/tag/webinar/" class="tag-cloud-link tag-link-2452 tag-link-position-41" style="font-size: 8pt;" aria-label="Webinar (1 item)">Webinar</a>
+<a href="https://finovate.com/tag/whitepaper/" class="tag-cloud-link tag-link-2166 tag-link-position-42" style="font-size: 8pt;" aria-label="Whitepaper (1 item)">Whitepaper</a>
+<a href="https://finovate.com/tag/women-in-fintech/" class="tag-cloud-link tag-link-2450 tag-link-position-43" style="font-size: 9.0243902439pt;" aria-label="Women in Fintech (2 items)">Women in Fintech</a>
+<a href="https://finovate.com/tag/xignite/" class="tag-cloud-link tag-link-1403 tag-link-position-44" style="font-size: 8pt;" aria-label="Xignite (1 item)">Xignite</a>
+<a href="https://finovate.com/tag/yodlee/" class="tag-cloud-link tag-link-1558 tag-link-position-45" style="font-size: 8pt;" aria-label="Yodlee (1 item)">Yodlee</a></div>
+</aside><aside class="widget finov-widget"><div id="finov-d64fcf7f09c93949d828973e474c3792"></div></aside></div><!-- #secondary -->
+  </div><!-- .blog-container -->
+	
+<input type='hidden' class='tempor' value='123'>
+<input type='hidden' class='curl' value=''>
+
+	</div><!-- #content -->
+ <div class="footercontainer">
+	<footer id="colophon" class="site-footer container" role="contentinfo">
+		<div class="row">
+        	<div class="col-md-3b col-md-offset-0 equalheights">	
+					
+						<aside id="rss-2" class="widget widget_rss"><h3 class="widget-title"><a class="rsswidget" href="https://finovate.com/feed"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="https://finovate-wpengine.netdna-ssl.com/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://finovate.com/">Latest Finovate blog posts</a></h3><ul><li><a class='rsswidget' href='https://finovate.com/jumio-makes-history-with-150-million-investment-in-digital-identity/'>Jumio Makes History with $150 Million Investment in Digital Identity</a></li><li><a class='rsswidget' href='https://finovate.com/small-business-insurance-player-huckleberry-partners-with-berkshire-hathaway/'>Small Business Insurance Player Huckleberry Partners with Berkshire Hathaway</a></li><li><a class='rsswidget' href='https://finovate.com/new-startup-highlight-mainstreet/'>New Startup Highlight: MainStreet</a></li></ul></aside>
+										<div style="display:block; width:100%; background:#FFFFFF; height:10px; position:relative; top:-20px; margin-bottom:-30px;"></div>
+			</div>
+			<div class="col-md-1b col-sm-fixed-165 equalheights">	
+					
+						<aside id="text-9" class="widget widget_text"><h3 class="widget-title">About</h3>			<div class="textwidget"><a href="/contact/">Contact Us</a>
+<a href="/who-we-are/">Who We Are</a>
+<a href="/sponsor/">Sponsor</a>
+<a href="/apply-to-demo/">Apply to Demo</a>
+<div class="socialfooter">
+<span class="blogshare"><a class="rss" href="https://feeds.feedblitz.com/finovate">RSS Feed</a></span>   
+		<span class="blogshare"><a class="twittershare" href="https://twitter.com/finovate" target="_blank">Twitter</a></span>
+		<span id="linkedinshare" class="blogshare"><a class="linkedinshare" href="https://www.linkedin.com/company/finovate-conference-series">LinkedIn</a></span>	
+        <span class="blogshare"><a class="fbshare" href="https://www.facebook.com/Finovate-Conference-Series-1291423074220235/" target="_blank">Facebook</a></span>
+</div></div>
+		</aside>
+										
+			</div>
+			<br />
+			<div class="col-md-1b col-sm-fixed-165 equalheights">	
+					
+						<aside id="text-10" class="widget widget_text"><h3 class="widget-title">Finovate</h3>			<div class="textwidget"><a target="_blank" href="https://informaconnect.com/finovateasia/?vip_code=FKV2374FINOVATEREF&utm_source=FinovateWebReferral&utm_medium=web_listing&utm_campaign=FKV2374-FinovateWebReferral-web_listing&utm_term=FinovateWebReferral&utm_content=FKV2374FINOVATEREF&tracker_id=FKV2374FINOVATEREF">FinovateAsia</a>
+<a target="_blank" href="https://informaconnect.com/finovatefall/?vip_code=FKV2373FINOVATEREF&utm_source=FinovateWebReferral&utm_medium=web_listing&utm_campaign=FKV2373-FinovateWebReferral-web_listing&utm_term=FinovateWebReferral&utm_content=FKV2373FINOVATEREF&tracker_id=FKV2373FINOVATEREF">FinovateFall</a>
+<a target="_blank" href="https://finance.knect365.com/finovate-industry-awards/">FinovateAwards</a>
+<a target="_blank" href="https://informaconnect.com/finovatespring/?vip_code=FKV2369FINOVATEREF&utm_source=FinovateWebReferral&utm_medium=web_listing&utm_campaign=FKV2369-FinovateWebReferral-web_listing&utm_term=FinovateWebReferral&utm_content=FKV2369FINOVATEREF&tracker_id=FKV2369FINOVATEREF">FinovateSpring</a>
+<a target="_blank" href="https://informaconnect.com/finovateeurope/?vip_code=FKV2368FINOVATEREF&utm_source=FinovateWebReferral&utm_medium=web_listing&utm_campaign=FKV2368-FinovateWebReferral-web_listing&utm_term=FinovateWebReferral&utm_content=FKV2368FINOVATEREF&tracker_id=FKV2368FINOVATEREF">FinovateEurope</a></div>
+		</aside>
+										
+			</div>
+			<div class="col-md-1b col-sm-fixed-165 equalheights">	
+					
+						<aside id="text-11" class="widget widget_text"><h3 class="widget-title">Videos</h3>			<div class="textwidget"><p><a href="https://finovate.com/videos/">Demo Videos</a></p>
+<div style="margin:10px;"></div>
+<h3 class="widget-title">Podcast</h3>
+<p><a href="https://finovate.com/podcast">Podcast Archives</a></p>
+</div>
+		</aside>
+										
+			</div>
+		</div>
+	</footer><!-- #colophon -->
+	 <div id="informa-wrapper">
+		 <div id="connect-links" class="connectlinks container">
+			 <ul><li><a class="connectlogo" href="https://informaconnect.com/" target="_blank"></a></li><li><a href="https://informaconnect.com/" target="_blank">Home</a></li> <li><a href="https://www.informaconnect.com/cookie-policy" target="_blank">Cookies</a></li> <li><a href="https://informa.com/privacy-policy" target="_blank">Privacy</a></li> <li><a href="https://www.informaconnect.com/terms-of-use" target="_blank">Terms</a></li></ul>
+		 </div>
+		 <div id="finovatefoot">
+        						<aside id="text-12" class="widget widget_text"><h3 class="widget-title"> </h3>			<div class="textwidget">Copyright &copy 2007-2021 Finovate. All rights reserved.</div>
+		</aside>					        </div>
+	</div>
+ </div><!-- .footercontainer -->
+<div id="finovate-footer" class="finovatefooter">
+	<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script type='text/javascript' id='finovate-js-js-extra'>
+/* <![CDATA[ */
+var finovatevideos = {"videoPage":"https:\/\/finovate.com\/\/videos\/"};
+var finovatespeakers = {"speakersPage":"https:\/\/finovate.com\/\/speakers\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/themes/finovate/js/build/production.js?ver=5.6' id='finovate-js-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/themes/finovate/js/waypoints.min.js?ver=5.6' id='finovate-waypoints-js'></script>
+<script type='text/javascript' id='advadsTrackingHandle-js-extra'>
+/* <![CDATA[ */
+var advadsTracking = {"ajaxurl":"https:\/\/finovate.com\/wp-admin\/admin-ajax.php?action=advanced-ads-tracking-track","method":null,"blogId":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-tracking/public/assets/js/script.js?ver=1.8.13' id='advadsTrackingHandle-js'></script>
+<script type='text/javascript' id='advadsTrackingGAFront-js-extra'>
+/* <![CDATA[ */
+var advadsGALocale = {"Impressions":"Impressions","Clicks":"Clicks"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-content/plugins/advanced-ads-tracking/public/assets/js/ga-tracking.js?ver=1.8.13' id='advadsTrackingGAFront-js'></script>
+<script type='text/javascript' src='https://finovate-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+<script>var advads_placement_tests = [];
+var advads_passive_ads = {};
+var advads_passive_groups = {};
+var advads_passive_placements = {};
+var advads_ajax_queries = [{"id":"manual-placement","method":"placement","params":{"previous_method":"placement","previous_id":"manual-placement","post":{"id":76767,"author":"7","post_type":"post"},"wp_the_query":{"term_id":"","taxonomy":"","is_main_query":true,"is_rest_api":false,"page":1,"numpages":1,"is_archive":false,"is_search":false,"is_home":true,"is_404":false,"is_attachment":false,"is_singular":false,"is_front_page":false,"is_feed":false},"url_parameter":"\/blog\/","placement_type":"default","cache-busting":"auto","ad_label":"default","placement_position":"center","output":{"class":["finov-manual-placement"],"placement_id":"manual-placement"},"global_output":true},"elementid":"finov-7fa792fbebca835a4b71033bc9445dff","blog_id":1},{"id":"sidebar","method":"placement","params":{"previous_method":"placement","previous_id":"sidebar","post":{"id":76779,"author":"7","post_type":"post"},"wp_the_query":{"term_id":"","taxonomy":"","is_main_query":true,"is_rest_api":false,"page":1,"numpages":1,"is_archive":false,"is_search":false,"is_home":true,"is_404":false,"is_attachment":false,"is_singular":false,"is_front_page":false,"is_feed":false},"url_parameter":"\/blog\/","placement_type":"sidebar_widget","output":{"class":["finov-sidebar"],"placement_id":"sidebar"},"global_output":true},"elementid":"finov-d64fcf7f09c93949d828973e474c3792","blog_id":1}];
+var advads_has_ads = [];
+var advads_js_items = [];
+( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {if ( window.advanced_ads_pro ) {advanced_ads_pro.process_passive_cb();} else if ( window.console && window.console.log ) {console.log('Advanced Ads Pro: cache-busting can not be initialized');} });</script>
+		<!-- Cookie Notice plugin v2.0.3 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button" aria-label="OK">OK</a><a href="https://finovate.com/cookie-policy/" target="_blank" id="cn-more-info" class="cn-more-info cn-button bootstrap button" aria-label="Read more">Read more</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="OK"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --><script type="text/javascript">var advads_tracking_ads = {};var advads_tracking_urls = {"1":"https:\/\/finovate.com\/wp-admin\/admin-ajax.php?action=advanced-ads-tracking-track"};var advads_gatracking_uids = {"1":""};var advads_tracking_methods = {"1":"onrequest"};var advads_tracking_parallel = {"1":false};var advads_tracking_linkbases = {"1":"https:\/\/finovate.com\/linkout\/"};var advads_gatracking_allads = {"1":{"76755":{"title":"INTS CDO - Sidebar","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76754":{"title":"INTS CDO - S","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76748":{"title":"INTS CDO - L","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76753":{"title":"INTS CDO - M","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76792":{"title":"SWIFT - Sidebar","target":"https:\/\/www.swift.com\/innovate"},"76794":{"title":"SWIFT - L","target":"https:\/\/www.swift.com\/innovate"},"76799":{"title":"SWIFT - S","target":"https:\/\/www.swift.com\/innovate"},"76798":{"title":"SWIFT - M","target":"https:\/\/www.swift.com\/innovate"},"76660":{"title":"Unqork - Sidebar","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=ON-D"},"76659":{"title":"Unqork - M","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=ON-D"},"76655":{"title":"Unqork - L","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=ON-D"},"76654":{"title":"Fabrick - Sidebar","target":"tps:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=ON-D"},"76653":{"title":"Fabrick - M","target":"tps:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=ON-D"},"76649":{"title":"Fabrick - L","target":"tps:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=ON-D"},"76593":{"title":"Ohpen - Sidebar","target":"https:\/\/ohpen.com\/"},"76592":{"title":"Ohpen - S","target":"https:\/\/ohpen.com\/"},"76590":{"title":"Ohpen - M","target":"https:\/\/ohpen.com\/"},"76586":{"title":"Ohpen- L","target":"https:\/\/ohpen.com\/"},"76529":{"title":"InterSystems Mar - L","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76538":{"title":"InterSystems Mar - Sidebar","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76517":{"title":"Accusoft March - Sidebar","target":"https:\/\/bit.ly\/3jTJVu8"},"76534":{"title":"InterSystems Mar - S","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76510":{"title":"Accusoft March - L","target":"https:\/\/bit.ly\/3jTJVu8"},"76515":{"title":"Accusoft March - M","target":"https:\/\/bit.ly\/3jTJVu8"},"76516":{"title":"Accusoft March - S","target":"https:\/\/bit.ly\/3jTJVu8"},"76536":{"title":"InterSystems Mar - M","target":"https:\/\/www.intersystems.com\/resources\/detail\/the-evolving-role-of-the-cdo-at-financial-organizations\/"},"76365":{"title":"Fabrik - S","target":"https:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=Finban"},"76371":{"title":"Fabrik - M","target":"https:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=Finban"},"76370":{"title":"Fabrik - L","target":"https:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=Finban"},"76379":{"title":"Unqork - S","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=FinBan"},"76378":{"title":"Unqork - M","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=FinBan"},"76374":{"title":"Unqork - L","target":"https:\/\/event.on24.com\/wcc\/r\/2996057\/863C3D6D186CC5A79E6BF2C1752D3C8E?partnerref=FinBan"},"76372":{"title":"Fabrik - Sidebar","target":"https:\/\/event.on24.com\/wcc\/r\/2961410\/AFE92ED61DE72F45DB58C08708CDCF53?partnerref=Finban"},"75839":{"title":"Zendesk - L","target":"https:\/\/www.zendesk.com\/campaign\/finovatelp\/"},"75845":{"title":"Zendesk - S","target":"https:\/\/www.zendesk.com\/campaign\/finovatelp\/"},"75844":{"title":"Zendesk - M","target":"https:\/\/www.zendesk.com\/campaign\/finovatelp\/"},"75838":{"title":"Insurtech PrizmDoc - S","target":"https:\/\/bit.ly\/3nsWQ6U"},"75837":{"title":"Insurtech PrizmDoc - M","target":"https:\/\/bit.ly\/3nsWQ6U"},"75833":{"title":"Insurtech PrizmDoc - L","target":"https:\/\/bit.ly\/3nsWQ6U"},"75809":{"title":"Intersystems FS - S","target":false},"75810":{"title":"Intersystems FS - M","target":false},"75807":{"title":"Intersystems FS - L","target":false},"75700":{"title":"Intersystems AI Fried \u2013 M","target":false},"75701":{"title":"Intersystems AI Fried - L","target":false},"75699":{"title":"Intersystems AI Fried - S","target":false},"75693":{"title":"Accusoft FIN_SDK L","target":"https:\/\/bit.ly\/3jvq037"},"75697":{"title":"Accusoft FIN_SDK M","target":"https:\/\/bit.ly\/3jvq037"},"75698":{"title":"Accusoft FIN_SDK S","target":"https:\/\/bit.ly\/3jvq037"},"75608":{"title":"DreamQuark - M","target":"http:\/\/www.dreamquark.com\/"},"75580":{"title":"DreamQuark - S","target":"https:\/\/www.dreamquark.com"},"75578":{"title":"DreamQuark - L","target":"https:\/\/www.dreamquark.com"},"75415":{"title":"Accusoft - S","target":"https:\/\/bit.ly\/2F929bg"},"75414":{"title":"Accusoft - M","target":"https:\/\/bit.ly\/2F929bg"},"75410":{"title":"Accusoft - L","target":"https:\/\/bit.ly\/2F929bg"},"75389":{"title":"FFFR - S","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A\/1685822?partnerref=FinBan"},"75388":{"title":"FFFR - M","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A\/1685822?partnerref=FinBan"},"75384":{"title":"FFFR - L","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A\/1685822?partnerref=FinBan"},"75156":{"title":"Lifesize - L","target":"https:\/\/www.lifesize.com\/cxengage?utm_source=finovate&utm_medium=banner"},"75161":{"title":"Lifesize - S","target":"https:\/\/www.lifesize.com\/cxengage?utm_source=finovate&utm_medium=banner"},"75160":{"title":"Lifesize - M","target":"https:\/\/www.lifesize.com\/cxengage?utm_source=finovate&utm_medium=banner"},"74927":{"title":"Capital Markets - M","target":false},"74928":{"title":"Capital Markets - L","target":false},"74926":{"title":"Capital Market - S","target":false},"75108":{"title":"Google - L","target":"https:\/\/pages.apigee.com\/digital-business-ecosystems-research-register.html?utm_source=finovate&utm_medium=email&utm_campaign=oxford-ecosystems&utm_content=ebook"},"75113":{"title":"Google - S","target":"https:\/\/pages.apigee.com\/digital-business-ecosystems-research-register.html?utm_source=finovate&utm_medium=email&utm_campaign=oxford-ecosystems&utm_content=ebook"},"75112":{"title":"Google - M","target":"https:\/\/pages.apigee.com\/digital-business-ecosystems-research-register.html?utm_source=finovate&utm_medium=email&utm_campaign=oxford-ecosystems&utm_content=ebook"},"75101":{"title":"KAS - S","target":"https:\/\/kasisto.com\/"},"75099":{"title":"KAS - M","target":"https:\/\/kasisto.com\/"},"75097":{"title":"KAS - L","target":"https:\/\/kasisto.com\/"},"75044":{"title":"Microsoft - M","target":"https:\/\/info.microsoft.com\/en-us-ondemand-Accelerateddigitaltransformationinbanking-none.html?wt.mc_id=AID3018292_QSG_OLA_458808"},"75045":{"title":"Microsoft - S","target":"https:\/\/info.microsoft.com\/en-us-ondemand-Accelerateddigitaltransformationinbanking-none.html?wt.mc_id=AID3018292_QSG_OLA_458808"},"75040":{"title":"Microsoft - L","target":"https:\/\/info.microsoft.com\/en-us-ondemand-Accelerateddigitaltransformationinbanking-none.html?wt.mc_id=AID3018292_QSG_OLA_458808"},"74925":{"title":"AI Scott - S","target":false},"74923":{"title":"AI Scott - M","target":false},"74918":{"title":"AI Scott - L","target":false},"74855":{"title":"LendingFront - M","target":"https:\/\/go.lendingfront.com\/eBook-SmallBusinessCapital-2020?utm_source=finovate&utm_medium=cpm&utm_campaign=advertising-finovate&utm_content=ebook"},"74856":{"title":"LendingFront-S","target":"https:\/\/go.lendingfront.com\/eBook-SmallBusinessCapital-2020?utm_source=finovate&utm_medium=cpm&utm_campaign=advertising-finovate&utm_content=ebook"},"74851":{"title":"LendingFront- L","target":"https:\/\/go.lendingfront.com\/eBook-SmallBusinessCapital-2020?utm_source=finovate&utm_medium=cpm&utm_campaign=advertising-finovate&utm_content=ebook"},"74701":{"title":"RedHat Webinar - M","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A?partnerref=FinBan"},"74702":{"title":"RedHat Webinar - S","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A?partnerref=FinBan"},"74694":{"title":"RedHat Webinar - L","target":"https:\/\/event.on24.com\/wcc\/r\/2507861\/8AB4E8388EA95A276FEA558C0903030A?partnerref=FinBan"},"74610":{"title":"Redhat 5 Benefits - S","target":"https:\/\/www.redhat.com\/en\/events\/webinar\/benefit-it-automation-financial-services?sc_cid=7013a000002gY6mAAE"},"74605":{"title":"Redhat 5 benefits - L","target":"https:\/\/www.redhat.com\/en\/events\/webinar\/benefit-it-automation-financial-services?sc_cid=7013a000002gY6mAAE"},"74609":{"title":"Redhat 5 benefits - M","target":"https:\/\/www.redhat.com\/en\/events\/webinar\/benefit-it-automation-financial-services?sc_cid=7013a000002gY6mAAE"},"74633":{"title":"ITSCREDIT Genie Advisor - M","target":"http:\/\/itscredit-5051771.hs-sites.com\/finovate-video-interview"},"74628":{"title":"ITSCREDIT Genie Advisor - L","target":"http:\/\/itscredit-5051771.hs-sites.com\/finovate-video-interview"},"74634":{"title":"ITSCREDIT Genie Advisor - S","target":"http:\/\/itscredit-5051771.hs-sites.com\/finovate-video-interview"},"74603":{"title":"Redhat it automation - M","target":"http:\/\/redhat.lookbookhq.com\/fsi-it-automation-itdm\/mi-five-benefits-of-?sc_cid=7013a000002gY6XAAU"},"74599":{"title":"Redhat IT automation - L","target":"http:\/\/redhat.lookbookhq.com\/fsi-it-automation-itdm\/mi-five-benefits-of-?sc_cid=7013a000002gY6XAAU"},"74604":{"title":"Redhat it automation - S","target":"http:\/\/redhat.lookbookhq.com\/fsi-it-automation-itdm\/mi-five-benefits-of-?sc_cid=7013a000002gY6XAAU"},"74456":{"title":"FFHR Mag","target":"https:\/\/get.informaconnect.com\/finovatefintechhalftimereview2020\/"},"74498":{"title":"FFHR-S","target":"https:\/\/event.on24.com\/wcc\/r\/2303409\/E7259AEE901F65C8A6F6F0306CA2D1A6?partnerref=POSTBAN"},"74499":{"title":"FFHR Mag - S","target":"https:\/\/get.informaconnect.com\/finovatefintechhalftimereview2020\/"},"74493":{"title":"Accusoft - S","target":"https:\/\/get.knect365.com\/finovateaccusoft2020\/"},"74464":{"title":"FFHR Mag - M","target":"https:\/\/get.informaconnect.com\/finovatefintechhalftimereview2020\/"},"74466":{"title":"Accusoft - M","target":"https:\/\/get.knect365.com\/finovateaccusoft2020\/"},"74457":{"title":"Accusoft","target":"https:\/\/get.knect365.com\/finovateaccusoft2020\/"},"74462":{"title":"FFHR-M","target":"https:\/\/event.on24.com\/wcc\/r\/2303409\/E7259AEE901F65C8A6F6F0306CA2D1A6?partnerref=POSTBAN"},"74454":{"title":"FFHR","target":"https:\/\/event.on24.com\/wcc\/r\/2303409\/E7259AEE901F65C8A6F6F0306CA2D1A6?partnerref=POSTBAN"},"74070":{"title":"Zendesk - S","target":"https:\/\/event.on24.com\/wcc\/r\/2337893\/E346317FF30022F63CCFFC1B26D2D517?partnerref=FinBan"},"74069":{"title":"Zendesk - M","target":"https:\/\/event.on24.com\/wcc\/r\/2337893\/E346317FF30022F63CCFFC1B26D2D517?partnerref=FinBan"},"74065":{"title":"Zendesk - L","target":"https:\/\/event.on24.com\/wcc\/r\/2337893\/E346317FF30022F63CCFFC1B26D2D517?partnerref=FinBan"},"73960":{"title":"MLT - S","target":"https:\/\/bit.ly\/2JJy6pp"},"73959":{"title":"MLT - M","target":"https:\/\/bit.ly\/2JJy6pp"},"73956":{"title":"MLT - L","target":"https:\/\/bit.ly\/2JJy6pp"},"73799":{"title":"Finovate Webinar DXC - S","target":"https:\/\/event.on24.com\/wcc\/r\/2252011\/DE931215ECFDDDECFC5B3B470E2C8876?partnerref=FinBan"},"73798":{"title":"Finovate Webinar DXC - M","target":"https:\/\/event.on24.com\/wcc\/r\/2252011\/DE931215ECFDDDECFC5B3B470E2C8876?partnerref=FinBan"},"73793":{"title":"Finovate Webinar DXC - L","target":"https:\/\/event.on24.com\/wcc\/r\/2252011\/DE931215ECFDDDECFC5B3B470E2C8876?partnerref=FinBan"},"73075":{"title":"Banking Technology Mag Feb2020 - S","target":"https:\/\/www.fintechfutures.com\/2020\/02\/banking-technology-february-issue-out-now\/?utm_source=Finovate&utm_medium=Link&utm_campaign=BT_Mag_Feb_2020"},"73076":{"title":"Banking Technology Mag Feb2020 - M","target":"https:\/\/www.fintechfutures.com\/2020\/02\/banking-technology-february-issue-out-now\/?utm_source=Finovate&utm_medium=Link&utm_campaign=BT_Mag_Feb_2020"},"73077":{"title":"Banking Technology Mag Feb2020 - L","target":"https:\/\/www.fintechfutures.com\/2020\/02\/banking-technology-february-issue-out-now\/?utm_source=Finovate&utm_medium=Link&utm_campaign=BT_Mag_Feb_2020"},"73014":{"title":"Accusoft - L","target":"http:\/\/bit.ly\/396dK4b"},"73013":{"title":"Accusoft - S","target":"http:\/\/bit.ly\/396dK4b"},"73012":{"title":"Accusoft - M","target":"http:\/\/bit.ly\/396dK4b"},"73023":{"title":"Finovate Podcast - M","target":"https:\/\/soundcloud.com\/finovate-podcast"},"73022":{"title":"Finovate Podcast - S","target":"https:\/\/soundcloud.com\/finovate-podcast"},"73018":{"title":"Finovate Podcast - L","target":"https:\/\/soundcloud.com\/finovate-podcast"},"72766":{"title":"Anyvision - M","target":"http:\/\/www.anyvision.co\/"},"72767":{"title":"Anyvision - L","target":"http:\/\/www.anyvision.co\/"},"72765":{"title":"Anyvision - S","target":"http:\/\/www.anyvision.co\/"},"72444":{"title":"Accusoft eguide - S","target":"http:\/\/bit.ly\/2R42Kx4"},"72443":{"title":"Accusoft eguide - M","target":"http:\/\/bit.ly\/2R42Kx4"},"72439":{"title":"Accusoft eguide - L","target":"http:\/\/bit.ly\/2R42Kx4"},"72415":{"title":"Banking Tech - S","target":"http:\/\/bit.ly\/2M29SIp"},"72414":{"title":"Banking Tech - M","target":"http:\/\/bit.ly\/2M29SIp"},"72411":{"title":"Banking Tech - L","target":"http:\/\/bit.ly\/2M29SIp"},"72293":{"title":"Ondot Finovate - L","target":"https:\/\/event.on24.com\/wcc\/r\/2138057\/F02107386A69AA827284BADCD57D6DE0?partnerref=FinBan"},"72291":{"title":"Ondot Finovate - S","target":"https:\/\/event.on24.com\/wcc\/r\/2138057\/F02107386A69AA827284BADCD57D6DE0?partnerref=FinBan"},"72292":{"title":"Ondot Finovate - M","target":"https:\/\/event.on24.com\/wcc\/r\/2138057\/F02107386A69AA827284BADCD57D6DE0?partnerref=FinBan"},"72287":{"title":"CeleritTiFintech - L","target":"https:\/\/event.on24.com\/wcc\/r\/2138051\/489E4D30E996E676EF608912C6D22E9F?partnerref=FinBan"},"72286":{"title":"CeleritTiFintech - M","target":"https:\/\/event.on24.com\/wcc\/r\/2138051\/489E4D30E996E676EF608912C6D22E9F?partnerref=FinBan"},"72227":{"title":"Sinequa - S","target":"https:\/\/go.sinequa.com\/white-paper-all-the-alphas.html?utm_source=finovate"},"72225":{"title":"Sinequa - M","target":"https:\/\/go.sinequa.com\/white-paper-all-the-alphas.html?utm_source=finovate"},"72222":{"title":"Sinequa - L","target":"https:\/\/go.sinequa.com\/white-paper-all-the-alphas.html?utm_source=finovate"},"71775":{"title":"Basel IV Survey - L","target":"https:\/\/www.surveymonkey.com\/r\/Q5CQRQ3"},"71774":{"title":"Basel IV Survey - M","target":"https:\/\/www.surveymonkey.com\/r\/Q5CQRQ3"},"71768":{"title":"Basel IV Survey - S","target":"https:\/\/www.surveymonkey.com\/r\/Q5CQRQ3"},"71713":{"title":"Nuxeo - S","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=B"},"71712":{"title":"Nuxeo - M","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=B"},"71708":{"title":"Nuxeo - L","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=B"},"71555":{"title":"Kasasa - L","target":"https:\/\/www.kasasa.com\/products\/loans?utm_source=finovate&utm_medium=display-ad&utm_campaign=kasasa-loans&utm_content=link&utm_term=oct-emagazine"},"71560":{"title":"Kasasa - S","target":"https:\/\/www.kasasa.com\/products\/loans?utm_source=finovate&utm_medium=display-ad&utm_campaign=kasasa-loans&utm_content=link&utm_term=oct-emagazine"},"71559":{"title":"Kasasa - M","target":"https:\/\/www.kasasa.com\/products\/loans?utm_source=finovate&utm_medium=display-ad&utm_campaign=kasasa-loans&utm_content=link&utm_term=oct-emagazine"},"71401":{"title":"BT Magazine - S","target":"http:\/\/bit.ly\/2MgEogU"},"71399":{"title":"BT Magazine - M","target":"http:\/\/bit.ly\/2MgEogU"},"71395":{"title":"BT Magazine - L","target":"http:\/\/bit.ly\/2MgEogU"},"71114":{"title":"Outsystems Webinar - L","target":"https:\/\/event.on24.com\/wcc\/r\/2097477\/7D3F1784F6331F7426F001634DDC9AF0?partnerref=FinBan"},"71118":{"title":"Outsystems Webinar - M","target":"https:\/\/event.on24.com\/wcc\/r\/2097477\/7D3F1784F6331F7426F001634DDC9AF0?partnerref=FinBan"},"71113":{"title":"Outsystems Webinar - S","target":"https:\/\/event.on24.com\/wcc\/r\/2097477\/7D3F1784F6331F7426F001634DDC9AF0?partnerref=FinBan"},"70864":{"title":"Morningstar - M","target":"https:\/\/www.morningstar.com\/company?utm_source=knect365&utm_medium=display&utm_campaign=finnovate19"},"70865":{"title":"Morningstar - L","target":"https:\/\/www.morningstar.com\/company?utm_source=knect365&utm_medium=display&utm_campaign=finnovate19"},"70861":{"title":"Morningstar - S","target":"https:\/\/www.morningstar.com\/company?utm_source=knect365&utm_medium=display&utm_campaign=finnovate19"},"70599":{"title":"InterSystems - S","target":"https:\/\/www.intersystems.com\/"},"70597":{"title":"Intersystems - M","target":"https:\/\/www.intersystems.com\/"},"70595":{"title":"Intersystems - L","target":"https:\/\/www.intersystems.com\/"},"70498":{"title":"Webinar TeachingOldDog - S","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=FinBan"},"70497":{"title":"Webinar TeachingOldDog - M","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=FinBan"},"70493":{"title":"Webinar TeachingOldDog - L","target":"https:\/\/event.on24.com\/wcc\/r\/2054642\/81DA9E1CA466D0CD88C61796E1D64206?partnerref=FinBan"},"70324":{"title":"FinovateAwards - S","target":"https:\/\/bit.ly\/2MpeqJP"},"70323":{"title":"FinovateAwards - M","target":"https:\/\/bit.ly\/2MpeqJP"},"70319":{"title":"FinovateAwards - L","target":"https:\/\/bit.ly\/2MpeqJP"}}};var advads_gatracking_anonym = true;</script></div>
+</div><!-- #page -->
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072476130;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072476130/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+</body>
+
+</html>

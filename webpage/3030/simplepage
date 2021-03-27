@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<title>
+Forbes Investing Digest Sign Up 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Sent Tuesdays Stay up to date on the investing world with Forbes Investing Digest , a free eletter of Forbes&rsquo; top investing articles, delivered every Tuesday to your inbox. Discover what&rsquo;s making markets move, what smart money is buying and what&rsquo;s happening globally. Get investing strategies along with which stocks should perform well now and in the long run, how sectors like tech, health care and energy are doing, which companies legendary investors like Warren Buffett current favor, and much more. Sign Up const queryString = window.location.search; //console.log(queryString); // example ?k=LBB_Facebook&source=email const urlParams = new URLSearchParams(queryString); const kparameter = urlParams.get('k') //console.log(product); document.getElementById("submitbutton").addEventListener("click", myFunction); function myFunction() { var email = document.getElementById("email").value; window.location.href="https://cloud.read.forbes.com/Interstitial_Page_?email="+email+"&k="+kparameter; } --> &nbsp; *A valid email address is required. By clicking submit, you agree to receive updates and special offers from Forbes. Privacy Policy Forbes Media | 499 Washington Blvd. | Jersey City, NJ 07130 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="https://www.forbes.com/fdc/privacy.html">https://www.forbes.com/fdc/privacy.html</a> ( Privacy Policy )
+</p>
+</body>
+</html>

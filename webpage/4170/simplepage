@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html>
+<title>
+DeepLearningExamples/PyTorch/LanguageModeling/BERT at master · NVIDIA/DeepLearningExamples · GitHub 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Skip to content Sign&nbsp;up Sign&nbsp;up Why GitHub? Features &rarr; Mobile &rarr; Actions &rarr; Codespaces &rarr; Packages &rarr; Security &rarr; Code review &rarr; Project management &rarr; Integrations &rarr; GitHub Sponsors &rarr; Customer stories &rarr; Team Enterprise Explore Explore GitHub &rarr; Learn and contribute Topics &rarr; Collections &rarr; Trending &rarr; Learning Lab &rarr; Open source guides &rarr; Connect with others The ReadME Project &rarr; Events &rarr; Community forum &rarr; GitHub Education &rarr; GitHub Stars program &rarr; Marketplace Pricing Plans &rarr; Compare plans &rarr; Contact Sales &rarr; Education &rarr; --> In this repository All GitHub ↵ Jump to ↵ No suggested jump to results In this repository All GitHub ↵ Jump to ↵ In this organization All GitHub ↵ Jump to ↵ In this repository All GitHub ↵ Jump to ↵ Sign in Sign up Sign up {{ message }} <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"> NVIDIA / DeepLearningExamples Notifications Star 5.6k Fork 1.7k Code Issues 83 Pull requests 17 Actions Projects 0 Security <include-fragment src="/NVIDIA/DeepLearningExamples/security/overall-count" accept="text/fragment+html"> Insights More <details-menu role="menu" class="dropdown-menu dropdown-menu-sw "> Code Issues Pull requests Actions Projects Security Insights master Switch branches/tags <input-demux data-action="tab-container-change:input-demux#storeInput tab-container-changed:input-demux#updateInput"> <tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;"> Branches Tags <ref-selector type="branch" data-targets="input-demux.sinks" data-action=" input-entered:ref-selector#inputEntered tab-selected:ref-selector#tabSelected focus-list:ref-selector#focusFirstListMember " query-endpoint="/NVIDIA/DeepLearningExamples/refs" cache-key="v0:1616145591.280766" current-committish="bWFzdGVy" default-branch="bWFzdGVy" name-with-owner="TlZJRElBL0RlZXBMZWFybmluZ0V4YW1wbGVz" > Nothing to show {{ refName }} default View all branches <ref-selector type="tag" data-action=" input-entered:ref-selector#inputEntered tab-selected:ref-selector#tabSelected focus-list:ref-selector#focusFirstListMember " data-targets="input-demux.sinks" query-endpoint="/NVIDIA/DeepLearningExamples/refs" cache-key="v0:1616145591.280766" current-committish="bWFzdGVy" default-branch="bWFzdGVy" name-with-owner="TlZJRElBL0RlZXBMZWFybmluZ0V4YW1wbGVz" > Nothing to show {{ refName }} default View all tags DeepLearningExamples / PyTorch / LanguageModeling / BERT / Go to file DeepLearningExamples / PyTorch / LanguageModeling / BERT / Latest commit sharathts reflect default paths &hellip; <include-fragment accept="text/fragment+html" src="/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32/rollup?direction=sw" class="d-inline"> dd6b8ca <relative-time datetime="2021-03-10T00:23:55Z" class="no-wrap">Mar 10, 2021 reflect default paths Due to server issues with BookCorpus, the data download script skips downloading BookCorpus by default. dd6b8ca Git stats History Files Permalink Failed to load latest commit information. Type Name Latest commit message Commit time . . checkpoints [BERT/PyT] Triton Inference Server support <time-ago datetime="2020-04-02T12:39:24Z" class="no-wrap ">Apr 2, 2020 data Update URLs for GLUE downloader. <time-ago datetime="2021-03-07T04:27:22Z" class="no-wrap ">Mar 7, 2021 images [BERT/PyT] Updating for Ampere and 20.06 container <time-ago datetime="2020-07-04T01:12:11Z" class="no-wrap ">Jul 4, 2020 processors [BERT/PyT] MRPC and SST-2 support <time-ago datetime="2020-08-14T14:43:11Z" class="no-wrap ">Aug 14, 2020 results [BERT/PyT] Triton Inference Server support <time-ago datetime="2020-04-02T12:39:24Z" class="no-wrap ">Apr 2, 2020 scripts reflect default paths <time-ago datetime="2021-03-10T00:23:55Z" class="no-wrap ">Mar 10, 2021 triton fixed link <time-ago datetime="2020-09-10T13:48:54Z" class="no-wrap ">Sep 10, 2020 vocab [BERT/PyT] New logging and some README updates <time-ago datetime="2020-02-28T12:21:20Z" class="no-wrap ">Feb 28, 2020 .dockerignore [BERT/PyT] Support for multi-node <time-ago datetime="2019-09-10T15:21:52Z" class="no-wrap ">Sep 10, 2019 .gitignore [BERT/PyT] Triton Inference Server support <time-ago datetime="2020-04-02T12:39:24Z" class="no-wrap ">Apr 2, 2020 .gitmodules [BERT/PyT] Triton Inference Server support <time-ago datetime="2020-04-02T12:39:24Z" class="no-wrap ">Apr 2, 2020 Dockerfile [BERT/PyT] MRPC and SST-2 support <time-ago datetime="2020-08-14T14:43:11Z" class="no-wrap ">Aug 14, 2020 LICENSE [BERT/PyT] Updating for Ampere and 20.06 container <time-ago datetime="2020-07-04T01:12:11Z" class="no-wrap ">Jul 4, 2020 NOTICE [BERT/PyT] MRPC and SST-2 support <time-ago datetime="2020-08-14T14:43:11Z" class="no-wrap ">Aug 14, 2020 README.md [BERT/PyT][BERT/TF] Switch back to the original server for data download <time-ago datetime="2021-02-25T22:13:53Z" class="no-wrap ">Feb 25, 2021 bert_config.json 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="#start-of-content">#start-of-content</a> ( Skip to content )
+</p>
+<p>
+<a href="https://github.com/">https://github.com/</a> ( )
+</p>
+<p>
+<a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo">/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo</a> ( Sign&nbsp;up )
+</p>
+<p>
+<a href="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo">/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo</a> ( Sign&nbsp;up )
+</p>
+<p>
+<a href="/features">/features</a> ( Features &rarr; )
+</p>
+<p>
+<a href="/mobile">/mobile</a> ( Mobile &rarr; )
+</p>
+<p>
+<a href="/features/actions">/features/actions</a> ( Actions &rarr; )
+</p>
+<p>
+<a href="/features/codespaces">/features/codespaces</a> ( Codespaces &rarr; )
+</p>
+<p>
+<a href="/features/packages">/features/packages</a> ( Packages &rarr; )
+</p>
+<p>
+<a href="/features/security">/features/security</a> ( Security &rarr; )
+</p>
+<p>
+<a href="/features/code-review/">/features/code-review/</a> ( Code review &rarr; )
+</p>
+<p>
+<a href="/features/project-management/">/features/project-management/</a> ( Project management &rarr; )
+</p>
+<p>
+<a href="/features/integrations">/features/integrations</a> ( Integrations &rarr; )
+</p>
+<p>
+<a href="/sponsors">/sponsors</a> ( GitHub Sponsors &rarr; )
+</p>
+<p>
+<a href="/customer-stories">/customer-stories</a> ( Customer stories &rarr; )
+</p>
+<p>
+<a href="/team">/team</a> ( Team )
+</p>
+<p>
+<a href="/enterprise">/enterprise</a> ( Enterprise )
+</p>
+<p>
+<a href="/explore">/explore</a> ( Explore GitHub &rarr; )
+</p>
+<p>
+<a href="/topics">/topics</a> ( Topics &rarr; )
+</p>
+<p>
+<a href="/collections">/collections</a> ( Collections &rarr; )
+</p>
+<p>
+<a href="/trending">/trending</a> ( Trending &rarr; )
+</p>
+<p>
+<a href="https://lab.github.com/">https://lab.github.com/</a> ( Learning Lab &rarr; )
+</p>
+<p>
+<a href="https://opensource.guide">https://opensource.guide</a> ( Open source guides &rarr; )
+</p>
+<p>
+<a href="https://github.com/readme">https://github.com/readme</a> ( The ReadME Project &rarr; )
+</p>
+<p>
+<a href="https://github.com/events">https://github.com/events</a> ( Events &rarr; )
+</p>
+<p>
+<a href="https://github.community">https://github.community</a> ( Community forum &rarr; )
+</p>
+<p>
+<a href="https://education.github.com">https://education.github.com</a> ( GitHub Education &rarr; )
+</p>
+<p>
+<a href="https://stars.github.com">https://stars.github.com</a> ( GitHub Stars program &rarr; )
+</p>
+<p>
+<a href="/marketplace">/marketplace</a> ( Marketplace )
+</p>
+<p>
+<a href="/pricing">/pricing</a> ( Plans &rarr; )
+</p>
+<p>
+<a href="/pricing#feature-comparison">/pricing#feature-comparison</a> ( Compare plans &rarr; )
+</p>
+<p>
+<a href="https://enterprise.github.com/contact">https://enterprise.github.com/contact</a> ( Contact Sales &rarr; )
+</p>
+<p>
+<a href="https://education.github.com">https://education.github.com</a> ( Education &rarr; )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FDeepLearningExamples%2Ftree%2Fmaster%2FPyTorch%2FLanguageModeling%2FBERT">/login?return_to=%2FNVIDIA%2FDeepLearningExamples%2Ftree%2Fmaster%2FPyTorch%2FLanguageModeling%2FBERT</a> ( Sign in )
+</p>
+<p>
+<a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FDeepLearningExamples">/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FDeepLearningExamples</a> ( Sign up )
+</p>
+<p>
+<a href="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FDeepLearningExamples">/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FDeepLearningExamples</a> ( Sign up )
+</p>
+<p>
+<a href="/NVIDIA">/NVIDIA</a> ( NVIDIA )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( DeepLearningExamples )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FDeepLearningExamples">/login?return_to=%2FNVIDIA%2FDeepLearningExamples</a> ( Notifications )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FDeepLearningExamples">/login?return_to=%2FNVIDIA%2FDeepLearningExamples</a> ( Star )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/stargazers">/NVIDIA/DeepLearningExamples/stargazers</a> ( 5.6k )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FDeepLearningExamples">/login?return_to=%2FNVIDIA%2FDeepLearningExamples</a> ( Fork )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/network/members">/NVIDIA/DeepLearningExamples/network/members</a> ( 1.7k )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( Code )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/issues">/NVIDIA/DeepLearningExamples/issues</a> ( Issues 83 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/pulls">/NVIDIA/DeepLearningExamples/pulls</a> ( Pull requests 17 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/actions">/NVIDIA/DeepLearningExamples/actions</a> ( Actions )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/projects">/NVIDIA/DeepLearningExamples/projects</a> ( Projects 0 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/security">/NVIDIA/DeepLearningExamples/security</a> ( Security <include-fragment src="/NVIDIA/DeepLearningExamples/security/overall-count" accept="text/fragment+html"> )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/pulse">/NVIDIA/DeepLearningExamples/pulse</a> ( Insights )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( Code )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/issues">/NVIDIA/DeepLearningExamples/issues</a> ( Issues )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/pulls">/NVIDIA/DeepLearningExamples/pulls</a> ( Pull requests )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/actions">/NVIDIA/DeepLearningExamples/actions</a> ( Actions )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/projects">/NVIDIA/DeepLearningExamples/projects</a> ( Projects )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/security">/NVIDIA/DeepLearningExamples/security</a> ( Security )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/pulse">/NVIDIA/DeepLearningExamples/pulse</a> ( Insights )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/{{ urlEncodedRefName }}/PyTorch/LanguageModeling/BERT">https://github.com/NVIDIA/DeepLearningExamples/tree/{{ urlEncodedRefName }}/PyTorch/LanguageModeling/BERT</a> ( {{ refName }} default )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/branches">/NVIDIA/DeepLearningExamples/branches</a> ( View all branches )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/{{ urlEncodedRefName }}/PyTorch/LanguageModeling/BERT">https://github.com/NVIDIA/DeepLearningExamples/tree/{{ urlEncodedRefName }}/PyTorch/LanguageModeling/BERT</a> ( {{ refName }} default )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tags">/NVIDIA/DeepLearningExamples/tags</a> ( View all tags )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( DeepLearningExamples )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch">/NVIDIA/DeepLearningExamples/tree/master/PyTorch</a> ( PyTorch )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling</a> ( LanguageModeling )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/find/master">/NVIDIA/DeepLearningExamples/find/master</a> ( Go to file )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( DeepLearningExamples )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch">/NVIDIA/DeepLearningExamples/tree/master/PyTorch</a> ( PyTorch )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling</a> ( LanguageModeling )
+</p>
+<p>
+<a href="/sharathts">/sharathts</a> ( )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commits?author=sharathts">/NVIDIA/DeepLearningExamples/commits?author=sharathts</a> ( sharathts )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32">/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32</a> ( reflect default paths )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32">/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32</a> ( dd6b8ca )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32">/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32</a> ( <relative-time datetime="2021-03-10T00:23:55Z" class="no-wrap">Mar 10, 2021 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32">/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32</a> ( reflect default paths )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commits/master/PyTorch/LanguageModeling/BERT">/NVIDIA/DeepLearningExamples/commits/master/PyTorch/LanguageModeling/BERT</a> ( History )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/19fac37435176683dec3d337cb50e35d93a162a4/PyTorch/LanguageModeling/BERT">/NVIDIA/DeepLearningExamples/tree/19fac37435176683dec3d337cb50e35d93a162a4/PyTorch/LanguageModeling/BERT</a> ( Permalink )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling</a> ( . . )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/checkpoints">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/checkpoints</a> ( checkpoints )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/26c26761042c0e352238add07f0074e87ac66023">/NVIDIA/DeepLearningExamples/commit/26c26761042c0e352238add07f0074e87ac66023</a> ( [BERT/PyT] Triton Inference Server support )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/data">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/data</a> ( data )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/c33299b32232a21c79903dc4a74375165c03660f">/NVIDIA/DeepLearningExamples/commit/c33299b32232a21c79903dc4a74375165c03660f</a> ( Update URLs for GLUE downloader. )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/images">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/images</a> ( images )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/f8b3a63f810049b0da23711f67c6df6d5569c1e0">/NVIDIA/DeepLearningExamples/commit/f8b3a63f810049b0da23711f67c6df6d5569c1e0</a> ( [BERT/PyT] Updating for Ampere and 20.06 container )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/processors">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/processors</a> ( processors )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/88864b929169da328d2070cab9c491c13c9cd24d">/NVIDIA/DeepLearningExamples/commit/88864b929169da328d2070cab9c491c13c9cd24d</a> ( [BERT/PyT] MRPC and SST-2 support )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/results">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/results</a> ( results )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/26c26761042c0e352238add07f0074e87ac66023">/NVIDIA/DeepLearningExamples/commit/26c26761042c0e352238add07f0074e87ac66023</a> ( [BERT/PyT] Triton Inference Server support )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/scripts">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/scripts</a> ( scripts )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32">/NVIDIA/DeepLearningExamples/commit/dd6b8ca2bb80e17b015c0f61e71c2a84733a5b32</a> ( reflect default paths )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/triton">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/triton</a> ( triton )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/cf54b787ae73d6b3561314ba6f5145f501aa68a6">/NVIDIA/DeepLearningExamples/commit/cf54b787ae73d6b3561314ba6f5145f501aa68a6</a> ( fixed link )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/vocab">/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT/vocab</a> ( vocab )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/155578a762478786168cc83b8ef9d5234e0d1906">/NVIDIA/DeepLearningExamples/commit/155578a762478786168cc83b8ef9d5234e0d1906</a> ( [BERT/PyT] New logging and some README updates )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/.dockerignore">/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/.dockerignore</a> ( .dockerignore )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/6fe463fe2776452294187bf4f4e8135798bdf165">/NVIDIA/DeepLearningExamples/commit/6fe463fe2776452294187bf4f4e8135798bdf165</a> ( [BERT/PyT] Support for multi-node )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/.gitignore">/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/.gitignore</a> ( .gitignore )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/26c26761042c0e352238add07f0074e87ac66023">/NVIDIA/DeepLearningExamples/commit/26c26761042c0e352238add07f0074e87ac66023</a> ( [BERT/PyT] Triton Inference Server support )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/.gitmodules">/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/.gitmodules</a> ( .gitmodules )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/26c26761042c0e352238add07f0074e87ac66023">/NVIDIA/DeepLearningExamples/commit/26c26761042c0e352238add07f0074e87ac66023</a> ( [BERT/PyT] Triton Inference Server support )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/Dockerfile">/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/Dockerfile</a> ( Dockerfile )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/88864b929169da328d2070cab9c491c13c9cd24d">/NVIDIA/DeepLearningExamples/commit/88864b929169da328d2070cab9c491c13c9cd24d</a> ( [BERT/PyT] MRPC and SST-2 support )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/LICENSE">/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/LICENSE</a> ( LICENSE )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/f8b3a63f810049b0da23711f67c6df6d5569c1e0">/NVIDIA/DeepLearningExamples/commit/f8b3a63f810049b0da23711f67c6df6d5569c1e0</a> ( [BERT/PyT] Updating for Ampere and 20.06 container )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/NOTICE">/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/NOTICE</a> ( NOTICE )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/88864b929169da328d2070cab9c491c13c9cd24d">/NVIDIA/DeepLearningExamples/commit/88864b929169da328d2070cab9c491c13c9cd24d</a> ( [BERT/PyT] MRPC and SST-2 support )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/README.md">/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/README.md</a> ( README.md )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/04988752a879de969581160bbd208812faba47b6">/NVIDIA/DeepLearningExamples/commit/04988752a879de969581160bbd208812faba47b6</a> ( [BERT/PyT][BERT/TF] Switch back to the original server for data download )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/bert_config.json">/NVIDIA/DeepLearningExamples/blob/master/PyTorch/LanguageModeling/BERT/bert_config.json</a> ( bert_config.json )
+</p>
+</body>
+</html>

@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+<title>
+DeepLearningExamples/FasterTransformer at master · NVIDIA/DeepLearningExamples · GitHub 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Skip to content Sign&nbsp;up Sign&nbsp;up Why GitHub? Features &rarr; Mobile &rarr; Actions &rarr; Codespaces &rarr; Packages &rarr; Security &rarr; Code review &rarr; Project management &rarr; Integrations &rarr; GitHub Sponsors &rarr; Customer stories &rarr; Team Enterprise Explore Explore GitHub &rarr; Learn and contribute Topics &rarr; Collections &rarr; Trending &rarr; Learning Lab &rarr; Open source guides &rarr; Connect with others The ReadME Project &rarr; Events &rarr; Community forum &rarr; GitHub Education &rarr; GitHub Stars program &rarr; Marketplace Pricing Plans &rarr; Compare plans &rarr; Contact Sales &rarr; Education &rarr; --> In this repository All GitHub ↵ Jump to ↵ No suggested jump to results In this repository All GitHub ↵ Jump to ↵ In this organization All GitHub ↵ Jump to ↵ In this repository All GitHub ↵ Jump to ↵ Sign in Sign up Sign up {{ message }} <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"> NVIDIA / DeepLearningExamples Notifications Star 5.6k Fork 1.7k Code Issues 83 Pull requests 17 Actions Projects 0 Security <include-fragment src="/NVIDIA/DeepLearningExamples/security/overall-count" accept="text/fragment+html"> Insights More <details-menu role="menu" class="dropdown-menu dropdown-menu-sw "> Code Issues Pull requests Actions Projects Security Insights master Switch branches/tags <input-demux data-action="tab-container-change:input-demux#storeInput tab-container-changed:input-demux#updateInput"> <tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;"> Branches Tags <ref-selector type="branch" data-targets="input-demux.sinks" data-action=" input-entered:ref-selector#inputEntered tab-selected:ref-selector#tabSelected focus-list:ref-selector#focusFirstListMember " query-endpoint="/NVIDIA/DeepLearningExamples/refs" cache-key="v0:1616145591.280766" current-committish="bWFzdGVy" default-branch="bWFzdGVy" name-with-owner="TlZJRElBL0RlZXBMZWFybmluZ0V4YW1wbGVz" > Nothing to show {{ refName }} default View all branches <ref-selector type="tag" data-action=" input-entered:ref-selector#inputEntered tab-selected:ref-selector#tabSelected focus-list:ref-selector#focusFirstListMember " data-targets="input-demux.sinks" query-endpoint="/NVIDIA/DeepLearningExamples/refs" cache-key="v0:1616145591.280766" current-committish="bWFzdGVy" default-branch="bWFzdGVy" name-with-owner="TlZJRElBL0RlZXBMZWFybmluZ0V4YW1wbGVz" > Nothing to show {{ refName }} default View all tags DeepLearningExamples / FasterTransformer / Go to file DeepLearningExamples / FasterTransformer / Latest commit menggeliu1205 and liumg Fix the bug of mismatching datatype in print_to_screen ( #866 ) &hellip; <include-fragment accept="text/fragment+html" src="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d/rollup?direction=sw" class="d-inline"> 596d11a <relative-time datetime="2021-03-10T23:02:07Z" class="no-wrap">Mar 10, 2021 Fix the bug of mismatching datatype in print_to_screen ( #866 ) Co-authored-by: liumg &lt;mengge.liu@mobvoi.com&gt; 596d11a Git stats History Files Permalink Failed to load latest commit information. Type Name Latest commit message Commit time . . v1 fix two obvious bugs. ( #635 ) <time-ago datetime="2021-02-16T14:20:03Z" class="no-wrap ">Feb 16, 2021 v2.1 [FT] 1. Fix the bug of TensorRT plugin of FasterTransformer encoder. ( #… <time-ago datetime="2020-08-06T12:15:49Z" class="no-wrap ">Aug 6, 2020 v2 fix typo ( #605 ) <time-ago datetime="2020-07-21T15:10:01Z" class="no-wrap ">Jul 21, 2020 v3.0 Byshiue patch 2 ( #805 ) <time-ago datetime="2021-01-08T06:18:26Z" class="no-wrap ">Jan 8, 2021 v3.1 Fix the bug of mismatching datatype in print_to_screen ( #866 ) <time-ago datetime="2021-03-10T23:02:07Z" class="no-wrap ">Mar 10, 2021 LICENSE 1. Add License to FT. <time-ago datetime="2020-03-26T09:13:11Z" class="no-wrap ">Mar 26, 2020 README.md Byshiue patch 2 ( #788 ) <time-ago datetime="2020-12-13T23:28:11Z" class="no-wrap ">Dec 13, 2020 README.md FasterTransformer This repository provides a script and recipe to run the highly optimized transformer for inference, and it is tested and maintained by NVIDIA. Table Of Contents FasterTransformer Table Of Contents Model overview FasterTransformer v1 FasterTransformer v2 FasterTransformer v2.1 FasterTransformer v3.0 FasterTransformer v3.1 Architecture matrix Release notes Changelog Known issues Model overview FasterTransformer v1 FasterTransformer v1 provides a highly optimized BERT equivalent Transformer layer for inference, including C++ API, TensorFlow op and TensorRT plugin. The experiments show that FasterTransformer v1 can provide 1.3 ~ 2 times speedup on NVIDIA Tesla T4 and NVIDIA Tesla V100 for inference. FasterTransformer v2 FastTransformer v2 adds a highly optimized OpenNMT-tf based decoder and decoding for inference in FasterTransformer v1, including C++ API and TensorFlow op. The experiments show that FasterTransformer v2 can provide 1.5 ~ 11 times speedup on NVIDIA Telsa T4 and NVIDIA Tesla V 100 for inference. FasterTransformer v2.1 FasterTransformer v2.1 optimizes some kernels of encoder and decoder, adding the support of PyTorch, the support of remove the padding of encoder and the support of sampling algorithm in decoding. FasterTransformer v3.0 FasterTransformer v3.0 adds the supporting of INT8 quantization for cpp and TensorFlow encoder model on Turing and Ampere GPUs. FasterTransformer v3.1 First, FasterTransformer v3.1 adds the supporting of INT8 quantization of PyTorch encoder model on Turing and Ampere GPUs. Second, v3.1 improves the performances of encoder on FP16 and INT8. Compared to v3.0, v3.1 provides at most 1.2x speedup on T4 FP16, and 1.7x speedup on T4 INT8. Third, v3.1 supports the inference of GPT-2 model. Architecture matrix The following matrix shows the architecture differences between the model. Architecure Encoder Encoder INT8 quantization Decoder Decoding with beam search Decoding with sampling GPT-2 v1 Yes No No No No No v2 Yes No Yes Yes No No v2.1 Yes No Yes Yes Yes No v3.0 Yes Yes Yes Yes Yes No v3.1 Yes Yes Yes Yes Yes Yes Release notes FasterTransformer v1 was deprecated on July 2020. FasterTransformer v2 will be deprecated on Dec 2020. FasterTransformer v2.1 will be deprecated on July 2021. FasterTransformer v3.0 will be deprecated on Sep 2021. Changelog Dec 2020 Release the FasterTransformer 3.1 Nov 2020 Optimize the INT8 inference. Support PyTorch INT8 inference. Provide PyTorch INT8 quantiztion tools. Integrate the fused multi-head attention kernel of TensorRT into FasterTransformer. Add unit test of SQuAD. Update the missed NGC checkpoints. Sep 2020 Support GPT2 Release the FasterTransformer 3.0 Support INT8 quantization of encoder of cpp and TensorFlow op. Add bert-tf-quantization tool. Fix the issue that Cmake 15 or Cmake 16 fail to build this project. Aug 2020 Fix the bug of trt plugin. June 2020 Release the FasterTransformer 2.1 Add effective transformer supporting into encoder. Optimize the beam search kernels. Add PyTorch op supporting May 2020 Fix the bug that seq_len of encoder must be larger than 3. Add the position_encoding of decoding as the input of FasterTransformer decoding. This is convenient to use different types of position encoding. FasterTransformer does not compute the position encoding value, but only lookup the table. Modifying the method of loading model in translate_sample.py . April 2020 Rename decoding_opennmt.h to decoding_beamsearch.h Add DiverseSiblingsSearch for decoding. Add sampling into Decoding The implementation is in the decoding_sampling.h Add top_k sampling, top_p sampling for decoding. Refactor the tensorflow custom op codes. Merge bert_transformer_op.h , bert_transformer_op.cu.cc into bert_transformer_op.cc Merge decoder.h , decoder.cu.cc into decoder.cc Merge decoding_beamsearch.h , decoding_beamsearch.cu.cc into decoding_beamsearch.cc Fix the bugs of finalize function decoding.py. Fix the bug of tf DiverseSiblingSearch. Add BLEU scorer bleu_score.py into utils . Note that the BLEU score requires python3. Fuse QKV Gemm of encoder and masked_multi_head_attention of decoder. Add dynamic batch size and dynamic sequence length features into all ops. March 2020 Add feature in FasterTransformer 2.0 Fix the bug of maximum sequence length of decoder cannot be larger than 128. Add translate_sample.py to demonstrate how to translate a sentence by restoring the pretrained model of OpenNMT-tf. Fix the bug that decoding does not check finish or not after each step. Fix the bug of decoder about max_seq_len. Modify the decoding model structure to fit the OpenNMT-tf decoding model. Add a layer normalization layer after decoder. Add a normalization for inputs of decoder February 2020 Release the FasterTransformer 2.0 Provide a highly optimized OpenNMT-tf based decoder and decoding, including C++ API and TensorFlow OP. Refine the sample codes of encoder. Add dynamic batch size feature into encoder op. July 2019 Release the FasterTransformer 1.0 Provide a highly optimized bert equivalent transformer layer, including C++ API, TensorFlow OP and TensorRT plugin. Known issues There are no known issues with this model. &copy; 2021 GitHub, Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About You can’t perform that action at this time. You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal"> 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="#start-of-content">#start-of-content</a> ( Skip to content )
+</p>
+<p>
+<a href="https://github.com/">https://github.com/</a> ( )
+</p>
+<p>
+<a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo">/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo</a> ( Sign&nbsp;up )
+</p>
+<p>
+<a href="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo">/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo</a> ( Sign&nbsp;up )
+</p>
+<p>
+<a href="/features">/features</a> ( Features &rarr; )
+</p>
+<p>
+<a href="/mobile">/mobile</a> ( Mobile &rarr; )
+</p>
+<p>
+<a href="/features/actions">/features/actions</a> ( Actions &rarr; )
+</p>
+<p>
+<a href="/features/codespaces">/features/codespaces</a> ( Codespaces &rarr; )
+</p>
+<p>
+<a href="/features/packages">/features/packages</a> ( Packages &rarr; )
+</p>
+<p>
+<a href="/features/security">/features/security</a> ( Security &rarr; )
+</p>
+<p>
+<a href="/features/code-review/">/features/code-review/</a> ( Code review &rarr; )
+</p>
+<p>
+<a href="/features/project-management/">/features/project-management/</a> ( Project management &rarr; )
+</p>
+<p>
+<a href="/features/integrations">/features/integrations</a> ( Integrations &rarr; )
+</p>
+<p>
+<a href="/sponsors">/sponsors</a> ( GitHub Sponsors &rarr; )
+</p>
+<p>
+<a href="/customer-stories">/customer-stories</a> ( Customer stories &rarr; )
+</p>
+<p>
+<a href="/team">/team</a> ( Team )
+</p>
+<p>
+<a href="/enterprise">/enterprise</a> ( Enterprise )
+</p>
+<p>
+<a href="/explore">/explore</a> ( Explore GitHub &rarr; )
+</p>
+<p>
+<a href="/topics">/topics</a> ( Topics &rarr; )
+</p>
+<p>
+<a href="/collections">/collections</a> ( Collections &rarr; )
+</p>
+<p>
+<a href="/trending">/trending</a> ( Trending &rarr; )
+</p>
+<p>
+<a href="https://lab.github.com/">https://lab.github.com/</a> ( Learning Lab &rarr; )
+</p>
+<p>
+<a href="https://opensource.guide">https://opensource.guide</a> ( Open source guides &rarr; )
+</p>
+<p>
+<a href="https://github.com/readme">https://github.com/readme</a> ( The ReadME Project &rarr; )
+</p>
+<p>
+<a href="https://github.com/events">https://github.com/events</a> ( Events &rarr; )
+</p>
+<p>
+<a href="https://github.community">https://github.community</a> ( Community forum &rarr; )
+</p>
+<p>
+<a href="https://education.github.com">https://education.github.com</a> ( GitHub Education &rarr; )
+</p>
+<p>
+<a href="https://stars.github.com">https://stars.github.com</a> ( GitHub Stars program &rarr; )
+</p>
+<p>
+<a href="/marketplace">/marketplace</a> ( Marketplace )
+</p>
+<p>
+<a href="/pricing">/pricing</a> ( Plans &rarr; )
+</p>
+<p>
+<a href="/pricing#feature-comparison">/pricing#feature-comparison</a> ( Compare plans &rarr; )
+</p>
+<p>
+<a href="https://enterprise.github.com/contact">https://enterprise.github.com/contact</a> ( Contact Sales &rarr; )
+</p>
+<p>
+<a href="https://education.github.com">https://education.github.com</a> ( Education &rarr; )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FDeepLearningExamples%2Ftree%2Fmaster%2FFasterTransformer">/login?return_to=%2FNVIDIA%2FDeepLearningExamples%2Ftree%2Fmaster%2FFasterTransformer</a> ( Sign in )
+</p>
+<p>
+<a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FDeepLearningExamples">/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FDeepLearningExamples</a> ( Sign up )
+</p>
+<p>
+<a href="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FDeepLearningExamples">/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&amp;source=header-repo&amp;source_repo=NVIDIA%2FDeepLearningExamples</a> ( Sign up )
+</p>
+<p>
+<a href="/NVIDIA">/NVIDIA</a> ( NVIDIA )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( DeepLearningExamples )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FDeepLearningExamples">/login?return_to=%2FNVIDIA%2FDeepLearningExamples</a> ( Notifications )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FDeepLearningExamples">/login?return_to=%2FNVIDIA%2FDeepLearningExamples</a> ( Star )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/stargazers">/NVIDIA/DeepLearningExamples/stargazers</a> ( 5.6k )
+</p>
+<p>
+<a href="/login?return_to=%2FNVIDIA%2FDeepLearningExamples">/login?return_to=%2FNVIDIA%2FDeepLearningExamples</a> ( Fork )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/network/members">/NVIDIA/DeepLearningExamples/network/members</a> ( 1.7k )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( Code )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/issues">/NVIDIA/DeepLearningExamples/issues</a> ( Issues 83 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/pulls">/NVIDIA/DeepLearningExamples/pulls</a> ( Pull requests 17 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/actions">/NVIDIA/DeepLearningExamples/actions</a> ( Actions )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/projects">/NVIDIA/DeepLearningExamples/projects</a> ( Projects 0 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/security">/NVIDIA/DeepLearningExamples/security</a> ( Security <include-fragment src="/NVIDIA/DeepLearningExamples/security/overall-count" accept="text/fragment+html"> )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/pulse">/NVIDIA/DeepLearningExamples/pulse</a> ( Insights )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( Code )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/issues">/NVIDIA/DeepLearningExamples/issues</a> ( Issues )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/pulls">/NVIDIA/DeepLearningExamples/pulls</a> ( Pull requests )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/actions">/NVIDIA/DeepLearningExamples/actions</a> ( Actions )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/projects">/NVIDIA/DeepLearningExamples/projects</a> ( Projects )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/security">/NVIDIA/DeepLearningExamples/security</a> ( Security )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/pulse">/NVIDIA/DeepLearningExamples/pulse</a> ( Insights )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/{{ urlEncodedRefName }}/FasterTransformer">https://github.com/NVIDIA/DeepLearningExamples/tree/{{ urlEncodedRefName }}/FasterTransformer</a> ( {{ refName }} default )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/branches">/NVIDIA/DeepLearningExamples/branches</a> ( View all branches )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/{{ urlEncodedRefName }}/FasterTransformer">https://github.com/NVIDIA/DeepLearningExamples/tree/{{ urlEncodedRefName }}/FasterTransformer</a> ( {{ refName }} default )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tags">/NVIDIA/DeepLearningExamples/tags</a> ( View all tags )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( DeepLearningExamples )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/find/master">/NVIDIA/DeepLearningExamples/find/master</a> ( Go to file )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( DeepLearningExamples )
+</p>
+<p>
+<a href="/menggeliu1205">/menggeliu1205</a> ( )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commits?author=menggeliu1205">/NVIDIA/DeepLearningExamples/commits?author=menggeliu1205</a> ( menggeliu1205 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d">/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d</a> ( Fix the bug of mismatching datatype in print_to_screen ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/pull/866">https://github.com/NVIDIA/DeepLearningExamples/pull/866</a> ( #866 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d">/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d</a> ( ) )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d">/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d</a> ( 596d11a )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d">/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d</a> ( <relative-time datetime="2021-03-10T23:02:07Z" class="no-wrap">Mar 10, 2021 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d">/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d</a> ( Fix the bug of mismatching datatype in print_to_screen ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/pull/866">https://github.com/NVIDIA/DeepLearningExamples/pull/866</a> ( #866 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d">/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d</a> ( ) )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commits/master/FasterTransformer">/NVIDIA/DeepLearningExamples/commits/master/FasterTransformer</a> ( History )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/19fac37435176683dec3d337cb50e35d93a162a4/FasterTransformer">/NVIDIA/DeepLearningExamples/tree/19fac37435176683dec3d337cb50e35d93a162a4/FasterTransformer</a> ( Permalink )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples">/NVIDIA/DeepLearningExamples</a> ( . . )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v1">/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v1</a> ( v1 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/0f5ff9485418051d1e1fd8f5fcb1c4573dfe5d93">/NVIDIA/DeepLearningExamples/commit/0f5ff9485418051d1e1fd8f5fcb1c4573dfe5d93</a> ( fix two obvious bugs. ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/pull/635">https://github.com/NVIDIA/DeepLearningExamples/pull/635</a> ( #635 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/0f5ff9485418051d1e1fd8f5fcb1c4573dfe5d93">/NVIDIA/DeepLearningExamples/commit/0f5ff9485418051d1e1fd8f5fcb1c4573dfe5d93</a> ( ) )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v2.1">/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v2.1</a> ( v2.1 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/1aa68134507a4fe65317cef2f398d4af0b6d1e8c">/NVIDIA/DeepLearningExamples/commit/1aa68134507a4fe65317cef2f398d4af0b6d1e8c</a> ( [FT] 1. Fix the bug of TensorRT plugin of FasterTransformer encoder. ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/pull/640">https://github.com/NVIDIA/DeepLearningExamples/pull/640</a> ( #… )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v2">/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v2</a> ( v2 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/108a783a772bbbaaac6c4b3deb34a61ff2d74e68">/NVIDIA/DeepLearningExamples/commit/108a783a772bbbaaac6c4b3deb34a61ff2d74e68</a> ( fix typo ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/pull/605">https://github.com/NVIDIA/DeepLearningExamples/pull/605</a> ( #605 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/108a783a772bbbaaac6c4b3deb34a61ff2d74e68">/NVIDIA/DeepLearningExamples/commit/108a783a772bbbaaac6c4b3deb34a61ff2d74e68</a> ( ) )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v3.0">/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v3.0</a> ( v3.0 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/3d0d45b4097e91b99404037ff120fd0de36c0ba2">/NVIDIA/DeepLearningExamples/commit/3d0d45b4097e91b99404037ff120fd0de36c0ba2</a> ( Byshiue patch 2 ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/pull/805">https://github.com/NVIDIA/DeepLearningExamples/pull/805</a> ( #805 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/3d0d45b4097e91b99404037ff120fd0de36c0ba2">/NVIDIA/DeepLearningExamples/commit/3d0d45b4097e91b99404037ff120fd0de36c0ba2</a> ( ) )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v3.1">/NVIDIA/DeepLearningExamples/tree/master/FasterTransformer/v3.1</a> ( v3.1 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d">/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d</a> ( Fix the bug of mismatching datatype in print_to_screen ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/pull/866">https://github.com/NVIDIA/DeepLearningExamples/pull/866</a> ( #866 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d">/NVIDIA/DeepLearningExamples/commit/596d11a72ca495e9d0f0fd7035639f8a9a36803d</a> ( ) )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/FasterTransformer/LICENSE">/NVIDIA/DeepLearningExamples/blob/master/FasterTransformer/LICENSE</a> ( LICENSE )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/9519b9678c658e733033b312e3e15c33204873a9">/NVIDIA/DeepLearningExamples/commit/9519b9678c658e733033b312e3e15c33204873a9</a> ( 1. Add License to FT. )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/blob/master/FasterTransformer/README.md">/NVIDIA/DeepLearningExamples/blob/master/FasterTransformer/README.md</a> ( README.md )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/ae76b894b96c6102a7b53468bdbb6099c843382b">/NVIDIA/DeepLearningExamples/commit/ae76b894b96c6102a7b53468bdbb6099c843382b</a> ( Byshiue patch 2 ( )
+</p>
+<p>
+<a href="https://github.com/NVIDIA/DeepLearningExamples/pull/788">https://github.com/NVIDIA/DeepLearningExamples/pull/788</a> ( #788 )
+</p>
+<p>
+<a href="/NVIDIA/DeepLearningExamples/commit/ae76b894b96c6102a7b53468bdbb6099c843382b">/NVIDIA/DeepLearningExamples/commit/ae76b894b96c6102a7b53468bdbb6099c843382b</a> ( ) )
+</p>
+<p>
+<a href="#fastertransformer">#fastertransformer</a> ( )
+</p>
+<p>
+<a href="#table-of-contents">#table-of-contents</a> ( )
+</p>
+<p>
+<a href="#fastertransformer">#fastertransformer</a> ( FasterTransformer )
+</p>
+<p>
+<a href="#table-of-contents">#table-of-contents</a> ( Table Of Contents )
+</p>
+<p>
+<a href="#model-overview">#model-overview</a> ( Model overview )
+</p>
+<p>
+<a href="#fastertransformer-v1">#fastertransformer-v1</a> ( FasterTransformer v1 )
+</p>
+<p>
+<a href="#fastertransformer-v2">#fastertransformer-v2</a> ( FasterTransformer v2 )
+</p>
+<p>
+<a href="#fastertransformer-v21">#fastertransformer-v21</a> ( FasterTransformer v2.1 )
+</p>
+<p>
+<a href="#fastertransformer-v30">#fastertransformer-v30</a> ( FasterTransformer v3.0 )
+</p>
+<p>
+<a href="#fastertransformer-v31">#fastertransformer-v31</a> ( FasterTransformer v3.1 )
+</p>
+<p>
+<a href="#architecture-matrix">#architecture-matrix</a> ( Architecture matrix )
+</p>
+<p>
+<a href="#release-notes">#release-notes</a> ( Release notes )
+</p>
+<p>
+<a href="#changelog">#changelog</a> ( Changelog )
+</p>
+<p>
+<a href="#known-issues">#known-issues</a> ( Known issues )
+</p>
+<p>
+<a href="#model-overview">#model-overview</a> ( )
+</p>
+<p>
+<a href="#fastertransformer-v1">#fastertransformer-v1</a> ( )
+</p>
+<p>
+<a href="#fastertransformer-v2">#fastertransformer-v2</a> ( )
+</p>
+<p>
+<a href="#fastertransformer-v21">#fastertransformer-v21</a> ( )
+</p>
+<p>
+<a href="#fastertransformer-v30">#fastertransformer-v30</a> ( )
+</p>
+<p>
+<a href="#fastertransformer-v31">#fastertransformer-v31</a> ( )
+</p>
+<p>
+<a href="#architecture-matrix">#architecture-matrix</a> ( )
+</p>
+<p>
+<a href="#release-notes">#release-notes</a> ( )
+</p>
+<p>
+<a href="#changelog">#changelog</a> ( )
+</p>
+<p>
+<a href="https://github.com/bytedance/effective_transformer">https://github.com/bytedance/effective_transformer</a> ( effective transformer )
+</p>
+<p>
+<a href="#known-issues">#known-issues</a> ( )
+</p>
+<p>
+<a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">https://docs.github.com/en/github/site-policy/github-terms-of-service</a> ( Terms )
+</p>
+<p>
+<a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">https://docs.github.com/en/github/site-policy/github-privacy-statement</a> ( Privacy )
+</p>
+<p>
+<a href="https://github.com/security">https://github.com/security</a> ( Security )
+</p>
+<p>
+<a href="https://www.githubstatus.com/">https://www.githubstatus.com/</a> ( Status )
+</p>
+<p>
+<a href="https://docs.github.com">https://docs.github.com</a> ( Docs )
+</p>
+<p>
+<a href="https://github.com">https://github.com</a> ( )
+</p>
+<p>
+<a href="https://support.github.com">https://support.github.com</a> ( Contact GitHub )
+</p>
+<p>
+<a href="https://github.com/pricing">https://github.com/pricing</a> ( Pricing )
+</p>
+<p>
+<a href="https://docs.github.com">https://docs.github.com</a> ( API )
+</p>
+<p>
+<a href="https://services.github.com">https://services.github.com</a> ( Training )
+</p>
+<p>
+<a href="https://github.blog">https://github.blog</a> ( Blog )
+</p>
+<p>
+<a href="https://github.com/about">https://github.com/about</a> ( About )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+<p>
+<a href=""></a> ( )
+</p>
+</body>
+</html>

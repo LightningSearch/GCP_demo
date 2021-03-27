@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=IE6" />
+	<meta http-equiv="cleartype" content="on">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title>Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks | VentureBeat</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="alternate" type="application/rss+xml" title="VentureBeat Feed" href="//feeds.feedburner.com/venturebeat/SZYF" />
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+		<script src="https://venturebeat.com/wp-content/themes/vb-news/js/ie/html5shiv.js"></script>
+		<script src="https://venturebeat.com/wp-content/themes/vb-news/js/ie/assets/js/respond.min.js"></script>
+	<![endif]-->
+
+	<meta name='robots' content='max-image-preview:large' />
+		<script async src="https://ccpa-wrapper.privacymanager.io/ccpa/9e40192a-fa05-4f09-b2e5-515213452068/ccpa-liveramp.js"></script>
+		<script async src="https://gdpr-wrapper.privacymanager.io/gdpr/c0e92fc2-9f8f-48f7-a529-7c3b1d744a7d/gdpr-liveramp.js"></script>
+		<script>
+			!function(e){var t={};function n(r){if(t[r])return t[r].exports;var a=t[r]={i:r,l:!1,exports:{}};return e[r].call(a.exports,a,a.exports,n),a.l=!0,a.exports}n.m=e,n.c=t,n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(n.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var a in e)n.d(r,a,function(t){return e[t]}.bind(null,a));return r},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="https://gdpr.privacymanager.io/1.0.10/",n(n.s=2)}({2:function(e,t){!function(){if("function"!=typeof window.__tcfapi){var e,t=[],n=window,r=n.document,a=n.__tcfapi?n.__tcfapi.start:function(){};!n.__tcfapi&&function e(){var t=!!n.frames.__tcfapiLocator;if(!t)if(r.body){var a=r.createElement("iframe");a.style.cssText="display:none",a.name="__tcfapiLocator",r.body.appendChild(a)}else setTimeout(e,5);return!t}()&&(n.__tcfapi=function(n,r,a,o){var i=[n,r,a,o];if(!i.length)return t;if("setGdprApplies"===i[0])i.length>3&&2===parseInt(i[1],10)&&"boolean"==typeof i[3]&&(e=i[3],"function"==typeof i[2]&&i[2]("set",!0));else if("ping"===i[0]){var c={gdprApplies:e,cmpLoaded:!1,apiVersion:"2.0"};"function"==typeof i[2]&&i[2](c,!0)}else t.push(i)},n.__tcfapi.commandQueue=t,n.__tcfapi.start=a,n.addEventListener("message",(function(e){var t="string"==typeof e.data,r={};try{r=t?JSON.parse(e.data):e.data}catch(e){}var a=r.__tcfapiCall;a&&n.__tcfapi(a.command,a.version,(function(n,r){if(e.source){var o={__tcfapiReturn:{returnValue:n,success:r,callId:a.callId,command:a.command}};t&&(o=JSON.stringify(o)),e.source.postMessage(o,"*")}}),a.parameter)}),!1))}}()}});
+		</script>
+			
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Clinc, a four-year-old AI startup based in Ann Arbor, Michigan, has raised $52 million in venture capital, more than 8 times its previous capital raised." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://venturebeat.com/2019/05/20/clinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks" />
+	<meta property="og:description" content="Clinc, a four-year-old AI startup based in Ann Arbor, Michigan, has raised $52 million in venture capital, more than 8 times its previous capital raised." />
+	<meta property="og:url" content="https://venturebeat.com/2019/05/20/clinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks/" />
+	<meta property="og:site_name" content="VentureBeat" />
+	<meta property="article:publisher" content="https://www.facebook.com/venturebeat/" />
+	<meta property="article:published_time" content="2019-05-20T11:00:18+00:00" />
+	<meta property="article:modified_time" content="2019-05-20T14:07:45+00:00" />
+	<meta property="og:image" content="https://venturebeat.com/wp-content/uploads/2017/02/PHOTO_20170222_111835.jpg?w=1200&#038;strip=all" />
+	<meta property="og:image:width" content="1549" />
+	<meta property="og:image:height" content="900" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks" />
+	<meta name="twitter:image" content="https://venturebeat.com/wp-content/uploads/2017/02/PHOTO_20170222_111835.jpg?w=1200&amp;strip=all" />
+	<meta name="twitter:creator" content="@venturebeat" />
+	<meta name="twitter:site" content="@venturebeat" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//accounts.google.com' />
+<link rel='dns-prefetch' href='//cdn.wallkit.net' />
+<link rel='dns-prefetch' href='//www.gstatic.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+		<script src="https://middycdn-a.akamaihd.net/bootstrap/bootstrap.js" id="browsi-tag" data-pubKey="venturebeat" data-siteKey="venturebeat" async></script>
+		<link rel="alternate" type="application/rss+xml" title="VentureBeat &raquo; Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks Comments Feed" href="https://venturebeat.com/2019/05/20/clinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks/feed/" />
+<link rel='stylesheet' id='all-css-0' href='https://venturebeat.com/_static/??/wp-content/themes/vb-news/styles/bootstrap-base.article.css,/wp-includes/css/dist/block-library/style.min.css?m=1615321557' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='firebase-css'  href='https://www.gstatic.com/firebasejs/ui/4.5.1/firebase-ui-auth.css?ver=5.7' media='all' />
+<link rel="https://api.w.org/" href="https://venturebeat.com/wp-json/" /><link rel="alternate" type="application/json" href="https://venturebeat.com/wp-json/wp/v2/posts/2494689" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://venturebeat.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://venturebeat.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7" />
+<link rel='shortlink' href='https://wp.me/p8wLEc-asYV' />
+<link rel="alternate" type="application/json+oembed" href="https://venturebeat.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://venturebeat.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;format=xml" />
+			<meta property="fb:pages" content="7419689078" />
+			<style type='text/css'>img#wpstats{display:none}</style><meta property="fb:pages" content="7419689078">			<script type="application/ld+json">
+				{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"https:\/\/venturebeat.com\/2019\/05\/20\/clinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks\/","headline":"Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks","datePublished":"2019-05-20T11:00:18+00:00","dateModified":"2019-05-20T14:07:45+00:00","image":{"@type":"ImageObject","url":"https:\/\/venturebeat.com\/wp-content\/uploads\/2017\/02\/PHOTO_20170222_111835.jpg?fit=1549%2C900&strip=all","width":1549,"height":900},"author":{"@type":"Person","name":"Kyle Wiggers"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https:\/\/vbstatic.co\/brand\/img\/logos\/VB_Extended_Logo_60H.png","width":416,"height":60},"name":"VentureBeat"},"isAccessibleForFree":"True"}			</script>
+		<link rel="shortcut icon" type="image/x-icon" href="https://venturebeat.com/wp-content/themes/vb-news/img/favicon.ico" />		<script type="text/javascript">
+			var vbSettings = {"property":"VBNews","infinitePostInjection":{"start":2,"offset":5}};
+		</script>
+					<script type="text/javascript">
+				var vb_page_info = {"title":"Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks | VentureBeat","url":"https:\/\/venturebeat.com\/2019\/05\/20\/clinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks\/","page_type":"single","post_title":"Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks","authors":["kylewiggers"],"story_type":false,"channel":"ai","pubDate":"May 20, 2019","pubTime":"04","pubDateTime":"20190520041","unixPubTime":1558324818,"disableAnyClip":false,"post_id":2494689,"subSiteName":"AI","is_mobile":false,"is_tablet":false,"is_forum":false,"ad_load":"normal","dfp_enabled":true};
+			</script>
+			<link rel="amphtml" href="https://venturebeat.com/2019/05/20/clinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks/amp/"><script type="text/javascript">var dfpTargeting = {"env":"production","page_type":"article","post_id":2494689,"post_type":"story","post_chan":"ai","tags":"category-business-industrial","ai":true}</script>		<script type="text/javascript">
+			var buckets = ['A', 'B', 'C', 'D'];
+			var session;
+			var channel;
+			var authors;
+			var tags;
+			var pubDate;
+			var pubTime;
+			var pubDateTime;
+			var randomInt;
+			var pubThirtyDays;
+			var story_type;
+			var testKV;
+			var currentTime = Date.now()/1000;
+			var subSiteName;
+
+			//return session value from url param or null if session doesn't exist
+			function getSessionParam() {
+				var currentSearchParams = new URLSearchParams(window.location.search);
+				return currentSearchParams.get('session');
+			}
+
+			function getTestKeyValue() {
+				var searchParams = new URLSearchParams(window.location.search);
+				return searchParams.get('test');
+			}
+
+			//sees if forced session is valid in buckets array
+			function validateSession(forcedSession) {
+				var validatedSession = buckets.indexOf(forcedSession) > -1 ? forcedSession : '';
+				return setSession(validatedSession);
+			}
+
+			//set session based on url param or create one from buckets array
+			function setSession(forcedSession) {
+				return session = forcedSession || randomSession();
+			}
+
+			//return int between provided min and maxes
+			function getRandomInt(min, max) {
+				return Math.floor(Math.random() * (max - min + 1)) + min;
+			}
+
+			//choose random session from buckets array
+			function randomSession() {
+				return buckets[getRandomInt(0,buckets.length - 1)];
+			}
+
+			//store value of url session param
+			var sessionParam = getSessionParam();
+
+			//handles value of url session param
+			sessionParam ? validateSession(sessionParam.toUpperCase()) : setSession();
+
+			dfpTargeting.session = session;
+
+			testKV = getTestKeyValue();
+
+			if(testKV) {
+				dfpTargeting.test = testKV;
+			}
+
+			if(typeof dfpTargeting !== 'undefined') {
+				tags = dfpTargeting['tags'];
+			}
+
+			if(typeof vb_page_info !== 'undefined') {
+				channel = vb_page_info.channel;
+
+				if(vb_page_info.page_type === 'single') {
+					authors = vb_page_info.authors.join(", ");
+
+					pubDate     = vb_page_info.pubDate;
+					pubTime     = vb_page_info.pubTime;
+					pubDateTime = vb_page_info.pubDateTime;
+
+					pubThirtyDays = (currentTime - vb_page_info.unixPubTime)/86400;
+
+					if(pubThirtyDays > 30) {
+						pubThirtyDays = true;
+					} else {
+						pubThirtyDays = false;
+					}
+
+					if(vb_page_info.story_type) {
+						story_type = vb_page_info.story_type;
+					} else {
+						story_type = 'article';
+					}
+
+					if(vb_page_info.subSiteName) {
+						subSiteName = vb_page_info.subSiteName;
+					}
+				}
+			}
+
+
+			dataLayer = [{"session": session, "channel": channel, "authors": authors, "tags": tags, "pubDate": pubDate, "pubTime": pubTime, "pubDateTime": pubDateTime, "pubThirtyDays": pubThirtyDays, "story_type": story_type, "subSite": subSiteName}];
+
+		</script>
+						<!-- Page-hiding snippet (recommended)  -->
+				<style>.async-hide { opacity: 0 !important} </style>
+				<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+				h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+				(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+				})(window,document.documentElement,'async-hide','dataLayer',4000,
+				{"GTM-P7TNBBC":true});</script>
+
+				<script type="text/javascript">
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+					ga('create', "UA-489886-1", 'auto');
+					ga('require', "GTM-P7TNBBC");
+				</script>
+						<!-- Biddr360 initialization script -->
+			<script type="text/javascript">
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				var slots = [];
+				function gptScript() {
+					let gptScript = document.createElement("script");
+					gptScript.setAttribute("src", "https://securepubads.g.doubleclick.net/tag/js/gpt.js");
+					document.body.appendChild(gptScript);
+				}
+				__tcfapi("gdprApplies", 2, (data, success) => {
+					if (data) {
+						__tcfapi("consentDataExist", 2, (data, success) => {
+							if (data) {
+								gptScript()
+							}
+						})
+					} else {
+						gptScript()
+					}
+				})
+
+				googletag.cmd.push(function() {
+
+					var dfpslots = [].slice.call(document.getElementsByClassName('adslot'));
+					dfpslots.forEach(function(element) {
+						var slot;
+						var unitName = element.getAttribute('id');
+						var sizes = JSON.parse(element.getAttribute('data-sizes'));
+
+						slot = googletag.defineSlot('/1038375/' + unitName, sizes, unitName).setCollapseEmptyDiv(true).addService(googletag.pubads());
+
+						if('m0-p2-s2' === unitName) {
+							slot.setTargeting('Mob', 'Interstitial');
+						}
+
+						slots.push(slot);
+					});
+
+					for(var key in dfpTargeting) {
+						if(dfpTargeting.hasOwnProperty(key)) {
+							if('tags' === key && dfpTargeting[key]) {
+								var tags = dfpTargeting[key].split(',');
+								googletag.pubads().setTargeting(key, tags);
+							} else {
+								googletag.pubads().setTargeting(key, dfpTargeting[key].toString());
+							}
+						}
+					}
+
+					if (typeof _ml !== 'undefined') {
+						if (typeof _ml.us !== 'undefined' && typeof _ml.us.pc !== 'undefined') {
+							googletag.pubads().setTargeting('bombora_pc', _ml.us.pc);
+						}
+					}
+
+
+					googletag.pubads().enableSingleRequest();
+					googletag.enableServices();
+
+					dfpslots.forEach(function(element) {
+						googletag.display(element.getAttribute('id'));
+					});
+				});
+
+			</script>
+					<!-- Start BounceX tag. Deploy at the beginning of document head. -->
+		<script>
+			(function(d) {
+				var e = d.createElement('script');
+				e.src = d.location.protocol + '//tag.bounceexchange.com/3962/i.js';
+				e.async = true;
+				d.getElementsByTagName("head")[0].appendChild(e);
+			}(document));
+		</script>
+		<!-- End BounceX tag -->
+				<script async type='text/javascript' src='https://trinitymedia.ai/player/trinity/2900003718/?pageURL="https://venturebeat.com/2019/05/20/clinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks/"'></script>
+				<script async src="//zdwidget3-bs.sphereup.com/zoomd/SearchUi/Script?clientId=79208299"></script>
+						<script type="text/javascript">
+
+					(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+					j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+					'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+					})(window,document,'script','dataLayer',"GTM-M5ZX2VT");
+
+				</script>
+			<script>
+  (function (s,o,n,a,r,i,z,e) {s['StackSonarObject']=r;s[r]=s[r]||function(){
+  (s[r].q=s[r].q||[]).push(arguments)},s[r].l=1*new Date();i=o.createElement(n),
+  z=o.getElementsByTagName(n)[0];i.async=1;i.src=a;z.parentNode.insertBefore(i,z)
+  })(window,document,'script','https://www.stack-sonar.com/ping.js','stackSonar');
+
+  stackSonar('stack-connect-wp', "7ede8496-0dc2-4ecf-a992-7ca086fc773e");
+</script>
+</head>
+<body class="post-template-default single single-post postid-2494689 single-format-standard singular category-ai channel-ai AI">
+							<div id="a1-p2-s0" data-sizes="[1000,1]" class="adslot" style="display:none; min-height: 100px">
+				</div>
+				<nav id="global-nav" class="GlobalNav ">
+    <div class="Nav__top">
+            <a class="main-nav-home-link GlobalNav__site-logo" href="/">
+            <svg class="SiteLogo SiteLogo--vb" id="SiteLogo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 177.75 100"><title>VentureBeat Homepage</title><path class="SiteLogo__v" d="M140,0c10.06.29,22.25.72,29.6,8.36,4.26,4.53,6.67,11.9,6.67,18.41,0,8.79-4,13.74-6.24,15.87-2.83,2.83-6.52,4.67-10.05,6.37,4.1,1.29,8.36,2.55,12.17,6.24,4.12,4.1,6.94,11.18,6.94,18.69a24.19,24.19,0,0,1-6.94,17.56c-7.92,8.07-18.41,8.22-29.74,8.5h-46V79.6l8.92.14V20.26l-8.92.14V0Zm-8.64,40.22c8.08.15,9.21.15,11.2-.27A9.65,9.65,0,0,0,150.23,30c0-5.24-3-8.21-5.09-9.21s-3.69-1.13-13.75-1.27Zm0,39.38h7.8c5.52,0,13.31-.13,13.31-9.62,0-5-2.69-8.36-6.1-9.64-2.4-1-3.53-1-15-1Z" transform="translate(-1.37)"/><polygon class="SiteLogo__b" points="0 0 42.92 0 42.92 20.4 34.13 20.26 48.72 77.48 64.45 20.26 55.67 20.4 55.67 0 95.04 0 95.04 20.4 88.38 20.26 63.6 100 31.3 100 6.23 20.26 0 20.4 0 0"/></svg>
+        </a>
+            <ul class="Nav__brands">
+            <li><a href="/category/ai/" class="Nav__brand--active">The Machine</a></li>
+            <li><a href="/category/games/" class="">GamesBeat</a></li>
+        </ul>
+        <ul class="Nav__general">
+            <li><a href="https://jobs.venturebeat.com/?app_source=venturebeat&source=venturebeat&utm_source=venturebeat&utm_medium=header&utm_campaign=jobbio_december">Jobs</a></li>
+            <li><a href="https://venturebeat.com/vb-special-issue-ai-and-the-future-of-health-care/">Special Issue</a></li>
+        </ul>
+        <ul class="Nav__user">
+            <div class="wk-signed-account">
+                <li>
+                    <a href="#" id="navbar-account-btn">Account Settings</a>
+                </li>
+                <li>
+                    <a href="#" id="navbar-logout-btn" class="UserLink__signin">Log Out</a>
+                </li>
+            </div>
+            <div class="wk-signed-out-account">
+                <li>
+                                        <a href="/venturebeat-membership-plans/" class="UserLink__join" id="navbar-join-btn">Become a Member</a>
+                </li>
+                <li>
+                    <a href="#" class="UserLink__signin" id="navbar-signin-btn">Sign In</a>
+                </li>
+            </div>
+        </ul>
+    </div>
+    <div class="Nav__bottom Nav__bottom--sub">
+        <div>
+                                        <a class="main-nav-home-link GlobalNav__site-logo GlobalNav__site-logo--mobile" href="/">
+                    <svg class="SiteLogo SiteLogo--vb" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 177.75 100"><title>VentureBeat Homepage</title><path class="SiteLogo__v" d="M140,0c10.06.29,22.25.72,29.6,8.36,4.26,4.53,6.67,11.9,6.67,18.41,0,8.79-4,13.74-6.24,15.87-2.83,2.83-6.52,4.67-10.05,6.37,4.1,1.29,8.36,2.55,12.17,6.24,4.12,4.1,6.94,11.18,6.94,18.69a24.19,24.19,0,0,1-6.94,17.56c-7.92,8.07-18.41,8.22-29.74,8.5h-46V79.6l8.92.14V20.26l-8.92.14V0Zm-8.64,40.22c8.08.15,9.21.15,11.2-.27A9.65,9.65,0,0,0,150.23,30c0-5.24-3-8.21-5.09-9.21s-3.69-1.13-13.75-1.27Zm0,39.38h7.8c5.52,0,13.31-.13,13.31-9.62,0-5-2.69-8.36-6.1-9.64-2.4-1-3.53-1-15-1Z" transform="translate(-1.37)"/><polygon class="SiteLogo__b" points="0 0 42.92 0 42.92 20.4 34.13 20.26 48.72 77.48 64.45 20.26 55.67 20.4 55.67 0 95.04 0 95.04 20.4 88.38 20.26 63.6 100 31.3 100 6.23 20.26 0 20.4 0 0"/></svg>
+                </a>
+                                                <p class="Nav__brand Nav__brand--ai">
+                <a href="/category/ai/">
+                    <svg width="163" height="22" viewBox="0 0 163 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <title>The Machine</title>
+                    <path d="M4.26326 21V20.71L5.45226 20.42C6.24492 20.246 6.64126 19.7627 6.64126 18.97V2.44H4.17626C3.46092 2.44 2.94859 2.63333 2.63926 3.02C2.32992 3.38733 2.00126 3.89967 1.65326 4.557L0.609258 6.587H0.319258L0.464258 1.86H17.1973L17.3133 6.587H17.0233L15.9793 4.557C15.6506 3.89967 15.3316 3.38733 15.0223 3.02C14.7129 2.63333 14.2006 2.44 13.4853 2.44H11.0203V18.97C11.0203 19.7627 11.4166 20.246 12.2093 20.42L13.3983 20.71V21H4.26326ZM18.5879 21V20.71L18.9359 20.594C19.6319 20.362 19.9799 19.8787 19.9799 19.144V3.658C19.9799 3.252 19.9122 2.95233 19.7769 2.759C19.6416 2.56567 19.3806 2.42067 18.9939 2.324L18.5589 2.208V1.918L23.6629 0.670999L24.1269 0.931999L24.0109 5.021V8.646C24.6876 8.08533 25.4126 7.61167 26.1859 7.225C26.9786 6.819 27.8486 6.616 28.7959 6.616C30.0526 6.616 31.0482 6.97367 31.7829 7.689C32.5369 8.40433 32.9139 9.50633 32.9139 10.995V19.173C32.9139 19.5597 32.9912 19.869 33.1459 20.101C33.3006 20.333 33.5712 20.507 33.9579 20.623L34.1899 20.71V21H27.4039V20.71L27.7519 20.623C28.4479 20.391 28.7959 19.898 28.7959 19.144V10.038C28.7959 9.26467 28.6606 8.733 28.3899 8.443C28.1386 8.153 27.6842 8.008 27.0269 8.008C26.6016 8.008 26.1376 8.095 25.6349 8.269C25.1322 8.42367 24.6199 8.704 24.0979 9.11V19.202C24.0979 19.956 24.4459 20.4393 25.1419 20.652L25.3739 20.71V21H18.5879ZM42.6022 6.616C43.8588 6.616 44.9318 6.877 45.8212 7.399C46.7105 7.90167 47.3872 8.59767 47.8512 9.487C48.3345 10.357 48.5762 11.3527 48.5762 12.474C48.5762 12.6867 48.5665 12.909 48.5472 13.141C48.5278 13.3537 48.4892 13.547 48.4312 13.721H39.7892C39.8085 15.809 40.1758 17.317 40.8912 18.245C41.6258 19.1537 42.7085 19.608 44.1392 19.608C45.1058 19.608 45.8888 19.4533 46.4882 19.144C47.0875 18.8347 47.6482 18.3803 48.1702 17.781L48.4602 18.042C47.8608 19.1053 47.0585 19.9367 46.0532 20.536C45.0672 21.1353 43.8782 21.435 42.4862 21.435C41.1135 21.435 39.8955 21.145 38.8322 20.565C37.7688 19.9657 36.9375 19.115 36.3382 18.013C35.7388 16.911 35.4392 15.5963 35.4392 14.069C35.4392 12.4837 35.7872 11.14 36.4832 10.038C37.1792 8.91667 38.0685 8.066 39.1512 7.486C40.2532 6.906 41.4035 6.616 42.6022 6.616ZM42.5152 7.196C41.9545 7.196 41.4712 7.37 41.0652 7.718C40.6785 8.04667 40.3692 8.646 40.1372 9.516C39.9245 10.3667 39.8085 11.575 39.7892 13.141H44.7482C44.9415 11.0337 44.8642 9.516 44.5162 8.588C44.1682 7.66 43.5012 7.196 42.5152 7.196ZM56.3368 21V20.71L56.9168 20.507C57.5742 20.2943 57.9028 19.7433 57.9028 18.854V4.006C57.9028 3.61933 57.8545 3.31 57.7578 3.078C57.6805 2.846 57.4582 2.65267 57.0908 2.498L56.3368 2.15V1.86H61.9338L67.2988 15.896L72.3448 1.86H78.0578V2.15L77.5938 2.324C77.2265 2.45933 76.9752 2.65267 76.8398 2.904C76.7045 3.136 76.6368 3.44533 76.6368 3.832V18.999C76.6368 19.3857 76.6852 19.6853 76.7818 19.898C76.8785 20.1107 77.1105 20.2943 77.4778 20.449L78.0578 20.71V21H70.8368V20.71L71.4458 20.449C71.8132 20.2943 72.0452 20.1107 72.1418 19.898C72.2385 19.6853 72.2868 19.3857 72.2868 18.999V12.474L72.3448 4.18L66.2838 21H64.8338L58.5118 4.383L58.5988 11.604V18.912C58.5988 19.3373 58.6568 19.6853 58.7728 19.956C58.9082 20.2073 59.1595 20.391 59.5268 20.507L60.1648 20.71V21H56.3368ZM82.9439 21.435C81.8225 21.435 80.8752 21.116 80.1019 20.478C79.3479 19.84 78.9709 18.9217 78.9709 17.723C78.9709 16.8143 79.4349 15.983 80.3629 15.229C81.2909 14.4557 82.7505 13.8757 84.7419 13.489C85.0512 13.431 85.3992 13.373 85.7859 13.315C86.1725 13.2377 86.5785 13.1603 87.0039 13.083V10.792C87.0039 9.47733 86.8395 8.559 86.5109 8.037C86.2015 7.49567 85.7085 7.225 85.0319 7.225C84.5679 7.225 84.2005 7.37967 83.9299 7.689C83.6592 7.979 83.4852 8.49133 83.4079 9.226L83.3499 9.545C83.3112 10.3763 83.1082 10.9853 82.7409 11.372C82.3735 11.7587 81.9192 11.952 81.3779 11.952C80.8752 11.952 80.4595 11.7973 80.1309 11.488C79.8022 11.1787 79.6379 10.763 79.6379 10.241C79.6379 9.44833 79.9085 8.78133 80.4499 8.24C81.0105 7.69867 81.7452 7.29267 82.6539 7.022C83.5625 6.75133 84.5485 6.616 85.6119 6.616C87.3325 6.616 88.6569 7.04133 89.5849 7.892C90.5322 8.72333 91.0059 10.0863 91.0059 11.981V18.39C91.0059 19.26 91.4119 19.695 92.2239 19.695H92.8619L93.1229 19.927C92.7556 20.391 92.3496 20.7487 91.9049 21C91.4795 21.2513 90.8705 21.377 90.0779 21.377C89.2272 21.377 88.5506 21.1837 88.0479 20.797C87.5645 20.391 87.2455 19.8593 87.0909 19.202C86.5109 19.8207 85.9115 20.3523 85.2929 20.797C84.6935 21.2223 83.9105 21.435 82.9439 21.435ZM84.7129 19.666C85.0995 19.666 85.4572 19.579 85.7859 19.405C86.1339 19.2117 86.5399 18.9217 87.0039 18.535V13.663C86.8105 13.7017 86.6172 13.7403 86.4239 13.779C86.2306 13.8177 86.0082 13.8563 85.7569 13.895C84.8675 14.127 84.1522 14.5233 83.6109 15.084C83.0889 15.6253 82.8279 16.36 82.8279 17.288C82.8279 18.0807 83.0115 18.68 83.3789 19.086C83.7462 19.4727 84.1909 19.666 84.7129 19.666ZM100.912 21.435C99.597 21.435 98.3983 21.1547 97.3156 20.594C96.2523 20.014 95.4016 19.1827 94.7636 18.1C94.145 16.998 93.8356 15.6543 93.8356 14.069C93.8356 12.503 94.174 11.169 94.8506 10.067C95.5466 8.94567 96.465 8.095 97.6056 7.515C98.7656 6.91567 100.032 6.616 101.405 6.616C102.526 6.616 103.473 6.79967 104.247 7.167C105.02 7.53433 105.61 8.01767 106.016 8.617C106.422 9.197 106.625 9.806 106.625 10.444C106.625 10.9853 106.46 11.4107 106.132 11.72C105.803 12.01 105.378 12.155 104.856 12.155C104.295 12.155 103.841 11.952 103.493 11.546C103.145 11.14 102.942 10.6083 102.884 9.951C102.864 9.52567 102.874 9.168 102.913 8.878C102.951 8.56867 102.951 8.25933 102.913 7.95C102.835 7.62133 102.71 7.40867 102.536 7.312C102.381 7.196 102.159 7.138 101.869 7.138C100.689 7.138 99.771 7.65033 99.1136 8.675C98.4756 9.69967 98.1566 11.3333 98.1566 13.576C98.1566 15.5287 98.5143 17.027 99.2296 18.071C99.9643 19.0957 101.086 19.608 102.594 19.608C103.502 19.608 104.237 19.4437 104.798 19.115C105.358 18.7863 105.9 18.2933 106.422 17.636L106.712 17.868C106.228 19.0087 105.484 19.8883 104.479 20.507C103.473 21.1257 102.284 21.435 100.912 21.435ZM107.514 21V20.71L107.862 20.594C108.558 20.362 108.906 19.8787 108.906 19.144V3.658C108.906 3.252 108.838 2.95233 108.703 2.759C108.567 2.56567 108.306 2.42067 107.92 2.324L107.485 2.208V1.918L112.589 0.670999L113.053 0.931999L112.937 5.021V8.646C113.613 8.08533 114.338 7.61167 115.112 7.225C115.904 6.819 116.774 6.616 117.722 6.616C118.978 6.616 119.974 6.97367 120.709 7.689C121.463 8.40433 121.84 9.50633 121.84 10.995V19.173C121.84 19.5597 121.917 19.869 122.072 20.101C122.226 20.333 122.497 20.507 122.884 20.623L123.116 20.71V21H116.33V20.71L116.678 20.623C117.374 20.391 117.722 19.898 117.722 19.144V10.038C117.722 9.26467 117.586 8.733 117.316 8.443C117.064 8.153 116.61 8.008 115.953 8.008C115.527 8.008 115.063 8.095 114.561 8.269C114.058 8.42367 113.546 8.704 113.024 9.11V19.202C113.024 19.956 113.372 20.4393 114.068 20.652L114.3 20.71V21H107.514ZM127.729 5.108C127.072 5.108 126.511 4.905 126.047 4.499C125.602 4.07367 125.38 3.542 125.38 2.904C125.38 2.24667 125.602 1.715 126.047 1.309C126.511 0.902999 127.072 0.699999 127.729 0.699999C128.386 0.699999 128.937 0.902999 129.382 1.309C129.827 1.715 130.049 2.24667 130.049 2.904C130.049 3.542 129.827 4.07367 129.382 4.499C128.937 4.905 128.386 5.108 127.729 5.108ZM124.307 21V20.71L124.713 20.594C125.1 20.478 125.361 20.304 125.496 20.072C125.651 19.84 125.728 19.5307 125.728 19.144V10.067C125.728 9.661 125.651 9.36133 125.496 9.168C125.361 8.95533 125.1 8.81033 124.713 8.733L124.307 8.646V8.356L129.614 6.645L129.904 6.935L129.817 11.053V19.173C129.817 19.5597 129.885 19.869 130.02 20.101C130.175 20.333 130.436 20.507 130.803 20.623L131.093 20.71V21H124.307ZM132.377 21V20.71L132.783 20.594C133.46 20.4007 133.798 19.927 133.798 19.173V10.096C133.798 9.67067 133.73 9.36133 133.595 9.168C133.46 8.95533 133.199 8.81033 132.812 8.733L132.377 8.617V8.327L137.336 6.645L137.626 6.935L137.858 8.675C138.535 8.07567 139.298 7.58267 140.149 7.196C141 6.80933 141.841 6.616 142.672 6.616C143.948 6.616 144.924 6.964 145.601 7.66C146.297 8.356 146.645 9.41933 146.645 10.85V19.202C146.645 19.956 147.012 20.4297 147.747 20.623L148.008 20.71V21H141.164V20.71L141.541 20.594C142.218 20.3813 142.556 19.9077 142.556 19.173V9.922C142.556 8.68467 141.937 8.066 140.7 8.066C139.849 8.066 138.921 8.49133 137.916 9.342V19.202C137.916 19.956 138.254 20.4297 138.931 20.623L139.192 20.71V21H132.377ZM156.422 6.616C157.678 6.616 158.751 6.877 159.641 7.399C160.53 7.90167 161.207 8.59767 161.671 9.487C162.154 10.357 162.396 11.3527 162.396 12.474C162.396 12.6867 162.386 12.909 162.367 13.141C162.347 13.3537 162.309 13.547 162.251 13.721H153.609C153.628 15.809 153.995 17.317 154.711 18.245C155.445 19.1537 156.528 19.608 157.959 19.608C158.925 19.608 159.708 19.4533 160.308 19.144C160.907 18.8347 161.468 18.3803 161.99 17.781L162.28 18.042C161.68 19.1053 160.878 19.9367 159.873 20.536C158.887 21.1353 157.698 21.435 156.306 21.435C154.933 21.435 153.715 21.145 152.652 20.565C151.588 19.9657 150.757 19.115 150.158 18.013C149.558 16.911 149.259 15.5963 149.259 14.069C149.259 12.4837 149.607 11.14 150.303 10.038C150.999 8.91667 151.888 8.066 152.971 7.486C154.073 6.906 155.223 6.616 156.422 6.616ZM156.335 7.196C155.774 7.196 155.291 7.37 154.885 7.718C154.498 8.04667 154.189 8.646 153.957 9.516C153.744 10.3667 153.628 11.575 153.609 13.141H158.568C158.761 11.0337 158.684 9.516 158.336 8.588C157.988 7.66 157.321 7.196 156.335 7.196Z"/>
+                    </svg>
+                    <span class="Nav__brand-sub">Making sense of AI</span>
+                </a>
+            </p>
+                                </div>
+        <ul class="Nav__icons">
+            <li>
+                <svg class="display-search-icon" id="displaySearchIcon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g>
+                <path id="searchIcon" fill-rule="evenodd" clip-rule="evenodd" d="M14.965 14.255H15.755L20.745 19.255L19.255 20.745L14.255 15.755V14.965L13.985 14.685C12.845 15.665 11.365 16.255 9.755 16.255C6.16504 16.255 3.255 13.345 3.255 9.755C3.255 6.16501 6.16504 3.255 9.755 3.255C13.345 3.255 16.255 6.16501 16.255 9.755C16.255 11.365 15.665 12.845 14.6851 13.985L14.965 14.255ZM5.255 9.755C5.255 12.245 7.26501 14.255 9.755 14.255C12.245 14.255 14.255 12.245 14.255 9.755C14.255 7.26501 12.245 5.255 9.755 5.255C7.26501 5.255 5.255 7.26501 5.255 9.755Z"/>
+                </g>
+                </svg>
+                
+<div class="Search">
+	<input zoomdSearch='{"trigger":"OnEnter"}' id="search-input" class="Search__input GlobalNav__text" type="text" placeholder="Search" name="s" aria-label="Search" required />
+	<button zoomdSearch='{"trigger":"OnClick","forInput":"#search-input"}' type="submit" class="Search__submit">
+	<g><path fill-rule="evenodd" clip-rule="evenodd" d="M14.965 14.255H15.755L20.745 19.255L19.255 20.745L14.255 15.755V14.965L13.985 14.685C12.84515.665 11.365 16.255 9.755 16.255C6.16504 16.255 3.255 13.345 3.255 9.755C3.255 6.16501 6.16504 3.255 9.755 3.255C13.345 3.255 16.255 6.16501 16.255 9.755C16.255 11.365 15.665 12.845 14.6851 13.985L14.965 14.255ZM5.255 9.755C5.255 12.245 7.26501 14.255 9.755 14.255C12.245 14.255 14.255 12.245 14.255 9.755C14.255 7.26501 12.245 5.255 9.755 5.255C7.26501 5.255 5.255 7.26501 5.255 9.755Z" />
+	</g>
+</div>
+            </li>
+            <li id="menuBtn" class="Menu__icon Menu__icon--open">
+                <svg class="Hamburger__icon" id="Ham-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="menu_24px">
+                <path id="icon/navigation/menu_24px" fill-rule="evenodd" clip-rule="evenodd" d="M3 8V6H21V8H3ZM3 13H21V11H3V13ZM3 18H21V16H3V18Z"/>
+                </g>
+                </svg>
+                <svg class="Close__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="close_24px">
+                <path id="icon/navigation/close_24px" d="M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z"/>
+                </g>
+                </svg>
+
+            </li>
+        </ul>
+    </div>
+    <div id="expandedNavContent" class="Nav__hamburger-content">
+		<div class="Search Search--mobile Nav__section--active">
+			<input zoomdSearch='{"trigger":"OnEnter"}' id="mobile-search-input" class="Search__input GlobalNav__text" type="text" placeholder="Search" name="s" aria-label="Search" required />
+			<button zoomdSearch='{"trigger":"OnClick","forInput":"#search-input"}' type="submit" class="Search__submit">
+			<g><path fill-rule="evenodd" clip-rule="evenodd" d="M14.965 14.255H15.755L20.745 19.255L19.255 20.745L14.255 15.755V14.965L13.985 14.685C12.84515.665 11.365 16.255 9.755 16.255C6.16504 16.255 3.255 13.345 3.255 9.755C3.255 6.16501 6.16504 3.255 9.755 3.255C13.345 3.255 16.255 6.16501 16.255 9.755C16.255 11.365 15.665 12.845 14.6851 13.985L14.965 14.255ZM5.255 9.755C5.255 12.245 7.26501 14.255 9.755 14.255C12.245 14.255 14.255 12.245 14.255 9.755C14.255 7.26501 12.245 5.255 9.755 5.255C7.26501 5.255 5.255 7.26501 5.255 9.755Z" />
+			</g>
+		</div>
+        <div class="Nav__section ">
+            <h4 class="Nav__section-title"><a href="/">VentureBeat</a></h4>
+            <ul>
+                <li><a href="/category/arvr/">AR/VR</a></li>
+                <li><a href="/category/big-data/">Big Data</a></li>
+                <li><a href="/category/cloud/">Cloud</a></li>
+                <li><a href="/category/commerce/">Commerce</a></li>
+                <li><a href="/category/dev/">Dev</a></li>
+                <li><a href="/category/enterprise/">Enterprise</a></li>
+                <li><a href="/category/entrepreneur/">Entrepreneur</a></li>
+                <li><a href="/category/marketing/">Marketing</a></li>
+                <li><a href="/category/media/">Media</a></li>
+                <li><a href="/category/mobile/">Mobile</a></li>
+                <li><a href="/category/security/">Security</a></li>
+                <li><a href="/category/social/">Social</a></li>
+                <li><a href="/category/transportation/">Transportation</a></li>
+            </ul>
+            <h4 class="Nav__section-title">Follow</h4>
+            <div class="Nav__footer-social-icons">
+                	<a href="https://twitter.com/venturebeat" class="" target="_blank" rel="noopener">
+		<svg class="Footer__social-icon" data-name="Twitter Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79 64.2">
+			<title>follow us on Twitter</title>
+			<path d="M71.74,25.06c0,.69.05,1.39.05,2.09,0,21.42-16.3,46.12-46.12,46.12A45.85,45.85,0,0,1,.83,66a35.24,35.24,0,0,0,3.86.22,32.48,32.48,0,0,0,20.13-6.94A16.21,16.21,0,0,1,9.69,48a16.85,16.85,0,0,0,3,.29A16.18,16.18,0,0,0,17,47.74,16.23,16.23,0,0,1,4,31.85v-.21a16.18,16.18,0,0,0,7.34,2A16.22,16.22,0,0,1,6.33,12,46,46,0,0,0,39.74,29a16,16,0,0,1-.42-3.69,16.22,16.22,0,0,1,28-11.09,32.56,32.56,0,0,0,10.29-3.94,16.21,16.21,0,0,1-7.13,9,32.24,32.24,0,0,0,9.31-2.54A32.92,32.92,0,0,1,71.74,25.06Z" transform="translate(-0.83 -9.07)"/>
+		</svg>
+	</a>
+	                	<a href="https://www.facebook.com/venturebeat/" class="" target="_blank" rel="noopener">
+		<svg class="Footer__social-icon" data-name="Facebook Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.17 49.85">
+			<title>follow us on Facebook</title>
+			<path d="M50.83,39.89h-7v24.9H33.5V39.89H28.57v-8.8H33.5V25.4C33.5,21.32,35.43,15,43.94,15l7.67,0v8.54H46a2.11,2.11,0,0,0-2.19,2.4v5.17h7.89Z" transform="translate(-28.57 -14.95)"/>
+		</svg>
+	</a>
+	                	<a href="https://www.linkedin.com/company/venturebeat/" class="" target="_blank" rel="noopener">
+		<svg class="Footer__social-icon" data-name="LinkedIn Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 47.79">
+			<title>follow us on LinkedIn</title>
+			<path d="M43,35.33v-.11l-.07.11Z" transform="translate(-15 -15.11)"/><path d="M26.35,62.9H15.63V30.66H26.35ZM21,26.25h-.07A5.55,5.55,0,0,1,15,20.68c0-3.16,2.4-5.57,6.06-5.57s5.93,2.41,6,5.57S24.73,26.25,21,26.25ZM65,62.9H54.28V45.65c0-4.34-1.55-7.3-5.43-7.3a5.89,5.89,0,0,0-5.5,3.93A7.37,7.37,0,0,0,43,44.89v18H32.28s.14-29.22,0-32.24H43v4.56a10.63,10.63,0,0,1,9.66-5.32C59.71,29.9,65,34.5,65,44.41Z" transform="translate(-15 -15.11)"/>
+		</svg>
+	</a>
+	                	<a href="https://feeds.feedburner.com/venturebeat/SZYF" class="" target="_blank" rel="noopener">
+		<svg class="Footer__social-icon" data-name="RSS Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+			<defs><clipPath><rect x="1.29" y="-3.95" width="42.51" height="42.51" style="fill:none"/></clipPath></defs>
+			<title>Follow us on RSS</title><g style="clip-path:url(#clip-path)">
+			<circle cx="6.5" cy="33.6" r="4.9"/><path d="M-.6,8.48A33.48,33.48,0,0,1,32.84,41.92,33.48,33.48,0,0,1-.6,75.36,33.48,33.48,0,0,1-34,41.92,33.48,33.48,0,0,1-.6,8.48m0-5.77A39.21,39.21,0,0,0-39.81,41.92,39.2,39.2,0,0,0-.6,81.13,39.21,39.21,0,0,0,38.61,41.92,39.22,39.22,0,0,0-.6,2.71Z"/><path d="M.33,19.56a20.51,20.51,0,1,1,0,41,20.51,20.51,0,0,1,0-41m0-5.77A26.29,26.29,0,0,0-25.95,40.07,26.28,26.28,0,0,0,.33,66.35,26.28,26.28,0,0,0,26.62,40.07,26.29,26.29,0,0,0,.33,13.79Z"/></g>
+		</svg>
+	</a>
+	            </div>
+        </div>
+        <div class="Nav__section Nav__section--active">
+            <h4 class="Nav__section-title"><a href="/category/ai/">The Machine</a></h4>
+            <ul>
+                <li><a href="/category/ai/">AI</a></li>
+                <li><a href="/tag/machine-learning/">Machine Learning</a></li>
+                <li><a href="/tag/computer-vision/">Computer Vision</a></li>
+                <li><a href="/tag/natural-language-processing/">Natural Language Processing</a></li>
+                <li><a href="/tag/robotic-process-automation/">Robotic Process Automation</a></li>
+            </ul>
+            <h4 class="Nav__section-title">Follow</h4>
+            <div class="Nav__footer-social-icons">
+                	<a href="https://feeds.feedburner.com/the-machine/" class="" target="_blank" rel="noopener">
+		<svg class="Footer__social-icon" data-name="RSS Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+			<defs><clipPath><rect x="1.29" y="-3.95" width="42.51" height="42.51" style="fill:none"/></clipPath></defs>
+			<title>Follow us on RSS</title><g style="clip-path:url(#clip-path)">
+			<circle cx="6.5" cy="33.6" r="4.9"/><path d="M-.6,8.48A33.48,33.48,0,0,1,32.84,41.92,33.48,33.48,0,0,1-.6,75.36,33.48,33.48,0,0,1-34,41.92,33.48,33.48,0,0,1-.6,8.48m0-5.77A39.21,39.21,0,0,0-39.81,41.92,39.2,39.2,0,0,0-.6,81.13,39.21,39.21,0,0,0,38.61,41.92,39.22,39.22,0,0,0-.6,2.71Z"/><path d="M.33,19.56a20.51,20.51,0,1,1,0,41,20.51,20.51,0,0,1,0-41m0-5.77A26.29,26.29,0,0,0-25.95,40.07,26.28,26.28,0,0,0,.33,66.35,26.28,26.28,0,0,0,26.62,40.07,26.29,26.29,0,0,0,.33,13.79Z"/></g>
+		</svg>
+	</a>
+	            </div>
+        </div>
+        <div class="Nav__section ">
+            <h4 class="Nav__section-title"><a href="/category/games/">GamesBeat</a></h4>
+            <ul>
+                <li><a href="/category/games/">Games</a></li>
+                <li><a href="/category/esports/">Esports</a></li>
+                <li><a href="/category/pc-gaming/">PC Gaming</a></li>
+            </ul>
+            <h4 class=Nav__section-title>Follow</h4>
+            <div class="Nav__footer-social-icons">
+                	<a href="https://twitter.com/GamesBeat" class="" target="_blank" rel="noopener">
+		<svg class="Footer__social-icon" data-name="Twitter Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79 64.2">
+			<title>follow us on Twitter</title>
+			<path d="M71.74,25.06c0,.69.05,1.39.05,2.09,0,21.42-16.3,46.12-46.12,46.12A45.85,45.85,0,0,1,.83,66a35.24,35.24,0,0,0,3.86.22,32.48,32.48,0,0,0,20.13-6.94A16.21,16.21,0,0,1,9.69,48a16.85,16.85,0,0,0,3,.29A16.18,16.18,0,0,0,17,47.74,16.23,16.23,0,0,1,4,31.85v-.21a16.18,16.18,0,0,0,7.34,2A16.22,16.22,0,0,1,6.33,12,46,46,0,0,0,39.74,29a16,16,0,0,1-.42-3.69,16.22,16.22,0,0,1,28-11.09,32.56,32.56,0,0,0,10.29-3.94,16.21,16.21,0,0,1-7.13,9,32.24,32.24,0,0,0,9.31-2.54A32.92,32.92,0,0,1,71.74,25.06Z" transform="translate(-0.83 -9.07)"/>
+		</svg>
+	</a>
+	                	<a href="http://feeds.feedburner.com/gamesbeat/" class="" target="_blank" rel="noopener">
+		<svg class="Footer__social-icon" data-name="RSS Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+			<defs><clipPath><rect x="1.29" y="-3.95" width="42.51" height="42.51" style="fill:none"/></clipPath></defs>
+			<title>Follow us on RSS</title><g style="clip-path:url(#clip-path)">
+			<circle cx="6.5" cy="33.6" r="4.9"/><path d="M-.6,8.48A33.48,33.48,0,0,1,32.84,41.92,33.48,33.48,0,0,1-.6,75.36,33.48,33.48,0,0,1-34,41.92,33.48,33.48,0,0,1-.6,8.48m0-5.77A39.21,39.21,0,0,0-39.81,41.92,39.2,39.2,0,0,0-.6,81.13,39.21,39.21,0,0,0,38.61,41.92,39.22,39.22,0,0,0-.6,2.71Z"/><path d="M.33,19.56a20.51,20.51,0,1,1,0,41,20.51,20.51,0,0,1,0-41m0-5.77A26.29,26.29,0,0,0-25.95,40.07,26.28,26.28,0,0,0,.33,66.35,26.28,26.28,0,0,0,26.62,40.07,26.29,26.29,0,0,0,.33,13.79Z"/></g>
+		</svg>
+	</a>
+	            </div>
+        </div>
+        <div class="Nav__section">
+            <h4 class="Nav__section-title"><a href="https://events.venturebeat.com/">Events</a></h4>
+            <ul>
+                <li><a href="https://events.venturebeat.com/upcoming-events/">Upcoming</a></li>
+                <li><a href="https://events.venturebeat.com/transform2021/">Transform</a></li>
+                <li><a href="mailto:partners@venturebeat.com">Media Partner</a></li>
+                <li><a href="/webinars/">Webinars</a></li>
+            </ul>
+        </div>
+        <div class="Nav__section">
+            <h4 class="Nav__section-title">General</h4>
+            <ul>
+                <li><a href="/newsletters/">Newsletters</a></li>
+                <li><a href="/contact/">Got a news tip?</a></li>
+                <li><a href="/advertise/">Advertise</a></li>
+                <li><a href="/tag/business-sponsored-company-news/">Press Releases</a></li>
+                <li><a href="/guest-posts/">Guest Posts</a></li>
+                <li><a href="https://deals.venturebeat.com/">Deals</a></li>
+                <li><a href="https://jobs.venturebeat.com/?app_source=venturebeat&source=venturebeat&utm_source=venturebeat&utm_medium=header&utm_campaign=jobbio_december">Jobs</a></li>
+                <li><a href="/vb-lab/">VB Lab</a></li>
+                <li><a href="/about/">About</a></li>
+                <li><a href="/contact/">Contact</a></li>
+                <li><a href="/privacy-policy/">Privacy Policy</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="login-modal venture-beat" id="login-modal">
+    <div class="modal-content">
+        <div class="modal-header">
+            <span id="modal-close" class="close">&times;</span>
+
+            <div id="login-modal-usual">
+                <h2>Join the VentureBeat Community</h2>
+            </div>
+            <div id="login-modal-article" style="display: none;">
+                <h2>Free: Join the VentureBeat Community for access to 3 premium posts or videos a month.</h2>
+                <a v-if="template.is_new" class="text-center" target="_top" href="https://venturebeat.com/venturebeat-membership-plans">Learn More</a>
+            </div>
+        </div>
+        <div class="modal-body">
+            <div id="firebaseui-loader">Please wait...</div>
+            <div id="firebaseui-auth-container">
+                <form method="POST" id="sign-in-header">
+                    <input type="hidden" id="nonce_firebase" name="nonce_firebase" value="ba3479d018" /><input type="hidden" name="_wp_http_referer" value="/2019/05/20/clinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks/" />                    <input type="hidden" id="user-jwt" name="user-jwt">
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<div class="MobileNav">
+    <div class="MobileNav__share-opts MobileNav__share-opts--hidden" id="mobileNavSocial">
+            <h4>Share</h4>
+        
+<ul class="SocialIcons">
+	<li class="SocialIcons__icon">
+		<a aria-label="Share on Facebook"
+			rel="noopener noreferrer"
+			target="_blank"
+			href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;t=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks"
+			class="share-button"
+			data-share-site="facebook">
+			<svg class="SocialIcon__svg" data-name="Facebook Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.17 49.85"><title>Share on Facebook</title><path d="M50.83,39.89h-7v24.9H33.5V39.89H28.57v-8.8H33.5V25.4C33.5,21.32,35.43,15,43.94,15l7.67,0v8.54H46a2.11,2.11,0,0,0-2.19,2.4v5.17h7.89Z" transform="translate(-28.57 -14.95)"/></svg>
+		</a>
+	</li>
+	<li class="SocialIcons__icon">
+		<a aria-label="Share on Twitter"
+			rel="noopener noreferrer" target="_blank"
+			href="//twitter.com/intent/tweet?text=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks&#038;url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;via=VentureBeat&#038;related=VentureBeat,GamesBeat"
+			class="share-button"
+			data-share-site="twitter">
+			<svg class="SocialIcon__svg" data-name="Twitter Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79 64.2"><title>Share on Twitter</title><path d="M71.74,25.06c0,.69.05,1.39.05,2.09,0,21.42-16.3,46.12-46.12,46.12A45.85,45.85,0,0,1,.83,66a35.24,35.24,0,0,0,3.86.22,32.48,32.48,0,0,0,20.13-6.94A16.21,16.21,0,0,1,9.69,48a16.85,16.85,0,0,0,3,.29A16.18,16.18,0,0,0,17,47.74,16.23,16.23,0,0,1,4,31.85v-.21a16.18,16.18,0,0,0,7.34,2A16.22,16.22,0,0,1,6.33,12,46,46,0,0,0,39.74,29a16,16,0,0,1-.42-3.69,16.22,16.22,0,0,1,28-11.09,32.56,32.56,0,0,0,10.29-3.94,16.21,16.21,0,0,1-7.13,9,32.24,32.24,0,0,0,9.31-2.54A32.92,32.92,0,0,1,71.74,25.06Z" transform="translate(-0.83 -9.07)"/></svg>
+		</a>
+	</li>
+	<li class="SocialIcons__icon">
+		<a aria-label="Share on LinkedIn"
+			rel="noopener noreferrer" target="_blank"
+			href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;token=&#038;isFramed=true"
+			class="share-button"
+			data-share-site="linkedin">
+			<svg class="SocialIcon__svg" data-name="LinkedIn Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 47.79"><title>Share on LinkedIn</title><path d="M43,35.33v-.11l-.07.11Z" transform="translate(-15 -15.11)"/><path d="M26.35,62.9H15.63V30.66H26.35ZM21,26.25h-.07A5.55,5.55,0,0,1,15,20.68c0-3.16,2.4-5.57,6.06-5.57s5.93,2.41,6,5.57S24.73,26.25,21,26.25ZM65,62.9H54.28V45.65c0-4.34-1.55-7.3-5.43-7.3a5.89,5.89,0,0,0-5.5,3.93A7.37,7.37,0,0,0,43,44.89v18H32.28s.14-29.22,0-32.24H43v4.56a10.63,10.63,0,0,1,9.66-5.32C59.71,29.9,65,34.5,65,44.41Z" transform="translate(-15 -15.11)"/></svg>
+		</a>
+	</li>
+</ul>
+    </div>
+    <div class="MobileNav__profile-links MobileNav__profile-links--hidden" id="mobileNavProfilePanel">
+        <h4>Profile</h4>
+        <button class="MobileNav__sign-out" id="mobileNavSignOut" aria-label="Log Out">Log Out</button>
+    </div>
+    <ul class="MobileNav__icons">
+        <li>
+            <a href="https://venturebeat.com">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <title>VentureBeat Homepage</title>
+                    <g id="home_24px">
+                        <path id="icon/action/home_24px" fill-rule="evenodd" clip-rule="evenodd" d="M5 12.5H2L12 3.5L22 12.5H19V20.5H13V14.5H11V20.5H5V12.5ZM17 10.69L12 6.19L7 10.69V18.5H9V12.5H15V18.5H17V10.69Z" fill="black" fill-opacity="0.54"/>
+                    </g>
+                </svg>
+            </a>
+        </li>
+        <li class="MobileNav__share" id="mobileNavShare">
+            <button on="tap:mobileNavSocial.toggleClass(class='MobileNav__share-opts--hidden')">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <title>Social Links</title>
+                    <g id="share_24px">
+                        <path id="icon/social/share_24px" fill-rule="evenodd" clip-rule="evenodd" d="M16.04 16.89C16.5601 16.42 17.24 16.12 18 16.12C19.61 16.12 20.92 17.43 20.92 19.04C20.92 20.65 19.61 21.96 18 21.96C16.39 21.96 15.08 20.65 15.08 19.04C15.08 18.82 15.11 18.6 15.16 18.39L8.04004 14.23C7.5 14.73 6.79004 15.04 6 15.04C4.33997 15.04 3 13.7 3 12.04C3 10.38 4.33997 9.03998 6 9.03998C6.79004 9.03998 7.5 9.34998 8.04004 9.84998L15.09 5.73999C15.04 5.50995 15 5.27997 15 5.03998C15 3.38 16.34 2.03998 18 2.03998C19.66 2.03998 21 3.38 21 5.03998C21 6.69995 19.66 8.03998 18 8.03998C17.21 8.03998 16.5 7.72998 15.96 7.22998L8.91003 11.34C8.95996 11.57 9 11.8 9 12.04C9 12.28 8.95996 12.5099 8.91003 12.74L16.04 16.89ZM19 5.03998C19 4.48999 18.55 4.03998 18 4.03998C17.45 4.03998 17 4.48999 17 5.03998C17 5.58997 17.45 6.03998 18 6.03998C18.55 6.03998 19 5.58997 19 5.03998ZM6 13.04C5.44995 13.04 5 12.59 5 12.04C5 11.49 5.44995 11.04 6 11.04C6.55005 11.04 7 11.49 7 12.04C7 12.59 6.55005 13.04 6 13.04ZM17 19.06C17 19.61 17.45 20.06 18 20.06C18.55 20.06 19 19.61 19 19.06C19 18.51 18.55 18.06 18 18.06C17.45 18.06 17 18.51 17 19.06Z" fill="black" fill-opacity="0.54"/>
+                    </g>
+                </svg>
+            </button>
+        </li>
+        <li>
+            <a href="https://venturebeat.com/newsletters">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <title>Newsletters</title>
+                    <g id="email_24px">
+                        <path id="icon/communication/email_24px" fill-rule="evenodd" clip-rule="evenodd" d="M22 6C22 4.89999 21.1 4 20 4H4C2.90002 4 2 4.89999 2 6V18C2 19.1 2.90002 20 4 20H20C21.1 20 22 19.1 22 18V6ZM20 6L12 11L4 6H20ZM12 13L4 8V18H20V8L12 13Z" fill="black" fill-opacity="0.54"/>
+                    </g>
+                </svg>
+            </a>
+        </li>
+        <li>
+            <a href="https://events.venturebeat.com/">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <title>Events</title>
+                    <g id="event_24px">
+                        <path id="icon/action/event_24px" fill-rule="evenodd" clip-rule="evenodd" d="M18 4H19C20.1 4 21 4.9 21 6V20C21 21.1 20.1 22 19 22H5C3.89001 22 3 21.1 3 20L3.01001 6C3.01001 4.9 3.89001 4 5 4H6V2H8V4H16V2H18V4ZM5 10V20H19V10H5ZM19 8H5V6H19V8ZM17 13H12V18H17V13Z" fill="black" fill-opacity="0.54"/>
+                    </g>
+                </svg>
+            </a>
+        </li>
+                <li>
+            <button class="MobileNav__profile" id="mobileNavProfileIcon" aria-label="Profile Options">
+                <title>Profile</title>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="person_outline_24px">
+                <path id="icon/social/person_outline_24px" fill-rule="evenodd" clip-rule="evenodd" d="M12 4C9.79004 4 8 5.78998 8 8C8 10.21 9.79004 12 12 12C14.21 12 16 10.21 16 8C16 5.78998 14.21 4 12 4ZM14.1 8C14.1 6.84003 13.16 5.90002 12 5.90002C10.84 5.90002 9.90002 6.84003 9.90002 8C9.90002 9.16003 10.84 10.1 12 10.1C13.16 10.1 14.1 9.16003 14.1 8ZM18.1 17C18.1 16.36 14.97 14.9 12 14.9C9.03003 14.9 5.90002 16.36 5.90002 17V18.1H18.1V17ZM4 17C4 14.34 9.32996 13 12 13C14.67 13 20 14.34 20 17V20H4V17Z" fill="black" fill-opacity="0.54"/>
+                </g>
+                </svg>
+            </button>
+        </li>
+            </ul>
+</div>
+
+		<div class="skin-wrapper">
+
+		
+		<!-- Set up hero image if page css requires one -->
+		
+					<div class="body-container container clearfix MainBlock
+				MainBlock--article">
+				<header class="article-header">
+			<div class="Label__wrapper">
+											</div>
+			<h1 class="article-title">Clinc raises over $50 million to bring conversational AI to cars, banks, and kiosks</h1>
+			<div class="article-byline">
+				<a href="https://venturebeat.com/author/kylewiggers/" title="Posts by Kyle Wiggers" class="author url fn" rel="author">Kyle Wiggers</a><a href="https://twitter.com/Kyle_L_Wiggers" target="_blank" rel="noopener noreferrer" class="author-twitter">@Kyle_L_Wiggers</a>				<time class="the-time" title="2019-05-20T11:00:18+00:00" datetime="2019-05-20T11:00:18+00:00">May 20, 2019 4:00 AM</time>
+
+				
+<ul class="SocialIcons">
+	<li class="SocialIcons__icon">
+		<a aria-label="Share on Facebook"
+			rel="noopener noreferrer"
+			target="_blank"
+			href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;t=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks"
+			class="share-button"
+			data-share-site="facebook">
+			<svg class="SocialIcon__svg" data-name="Facebook Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.17 49.85"><title>Share on Facebook</title><path d="M50.83,39.89h-7v24.9H33.5V39.89H28.57v-8.8H33.5V25.4C33.5,21.32,35.43,15,43.94,15l7.67,0v8.54H46a2.11,2.11,0,0,0-2.19,2.4v5.17h7.89Z" transform="translate(-28.57 -14.95)"/></svg>
+		</a>
+	</li>
+	<li class="SocialIcons__icon">
+		<a aria-label="Share on Twitter"
+			rel="noopener noreferrer" target="_blank"
+			href="//twitter.com/intent/tweet?text=Clinc%20raises%20over%20%2450%20million%20to%20bring%20conversational%20AI%20to%20cars%2C%20banks%2C%20and%20kiosks&#038;url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;via=VentureBeat&#038;related=VentureBeat,GamesBeat"
+			class="share-button"
+			data-share-site="twitter">
+			<svg class="SocialIcon__svg" data-name="Twitter Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79 64.2"><title>Share on Twitter</title><path d="M71.74,25.06c0,.69.05,1.39.05,2.09,0,21.42-16.3,46.12-46.12,46.12A45.85,45.85,0,0,1,.83,66a35.24,35.24,0,0,0,3.86.22,32.48,32.48,0,0,0,20.13-6.94A16.21,16.21,0,0,1,9.69,48a16.85,16.85,0,0,0,3,.29A16.18,16.18,0,0,0,17,47.74,16.23,16.23,0,0,1,4,31.85v-.21a16.18,16.18,0,0,0,7.34,2A16.22,16.22,0,0,1,6.33,12,46,46,0,0,0,39.74,29a16,16,0,0,1-.42-3.69,16.22,16.22,0,0,1,28-11.09,32.56,32.56,0,0,0,10.29-3.94,16.21,16.21,0,0,1-7.13,9,32.24,32.24,0,0,0,9.31-2.54A32.92,32.92,0,0,1,71.74,25.06Z" transform="translate(-0.83 -9.07)"/></svg>
+		</a>
+	</li>
+	<li class="SocialIcons__icon">
+		<a aria-label="Share on LinkedIn"
+			rel="noopener noreferrer" target="_blank"
+			href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fventurebeat.com%2F2019%2F05%2F20%2Fclinc-raises-50-million-to-bring-conversational-ai-to-cars-banks-and-kiosks%2F&#038;token=&#038;isFramed=true"
+			class="share-button"
+			data-share-site="linkedin">
+			<svg class="SocialIcon__svg" data-name="LinkedIn Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 47.79"><title>Share on LinkedIn</title><path d="M43,35.33v-.11l-.07.11Z" transform="translate(-15 -15.11)"/><path d="M26.35,62.9H15.63V30.66H26.35ZM21,26.25h-.07A5.55,5.55,0,0,1,15,20.68c0-3.16,2.4-5.57,6.06-5.57s5.93,2.41,6,5.57S24.73,26.25,21,26.25ZM65,62.9H54.28V45.65c0-4.34-1.55-7.3-5.43-7.3a5.89,5.89,0,0,0-5.5,3.93A7.37,7.37,0,0,0,43,44.89v18H32.28s.14-29.22,0-32.24H43v4.56a10.63,10.63,0,0,1,9.66-5.32C59.71,29.9,65,34.5,65,44.41Z" transform="translate(-15 -15.11)"/></svg>
+		</a>
+	</li>
+</ul>
+
+			</div><!-- .article-byline -->
+			<div class="article-media-header">
+				<img width="1200" height="600" src="https://venturebeat.com/wp-content/uploads/2017/02/PHOTO_20170222_111835.jpg?resize=1200%2C600&amp;strip=all" class="attachment-hero size-hero wp-post-image" alt="Clinc" srcset="https://venturebeat.com/wp-content/uploads/2017/02/PHOTO_20170222_111835.jpg?w=100&amp;strip=all 100w, https://venturebeat.com/wp-content/uploads/2017/02/PHOTO_20170222_111835.jpg?w=350&amp;strip=all 350w, https://venturebeat.com/wp-content/uploads/2017/02/PHOTO_20170222_111835.jpg?w=1200&amp;strip=all 1200w, https://venturebeat.com/wp-content/uploads/2017/02/PHOTO_20170222_111835.jpg?w=700&amp;strip=all 700w" sizes="(max-width: 1200px) 100vw, 1200px" /><div class="wp-caption"><span class="wp-caption-text">Finie, an app powered by Clinc, in action.</span><div class="vb_image_source"><em>Image Credit: Paul Sawers / VentureBeat</em></div></div>			</div><!-- .article-media-header -->
+		</header><!-- .article-header -->
+		<div id="primary">
+			<div id="content" role="main">
+				<div class="trinityAudioPlaceholder"></div>
+
+				<article id="post-2494689" class="border-top clearfix article-wrapper post-2494689 post type-post status-publish format-standard has-post-thumbnail category-ai category-big-data category-cloud category-dev category-enterprise category-entrepreneur category-mobile category-business tag-ai tag-artificial-intelligence tag-category-business-industrial tag-clinc tag-conversational-ai tag-funding-daily tag-machine-learning vb_post_designations-homepage has-thumbnail">
+					
+<aside id="" class="MainBlock__sidebar">
+			<div class="vb_widget widget sidebar-widget-featured-event">
+						<h2 class="widgettitle">
+				Is AI getting used responsibly in health care?			</h2>
+			
+								<p class="sidebar-widget-featured-event-description">
+					AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed.				</p>
+								<a href="https://www.brighttalk.com/webcast/12339/471416?utm_source=vb&#038;utm_medium=mar-18-sidebar&#038;utm_content=text-link&#038;utm_campaign=mar-31-optum-webinar" rel="noopener" target="_blank" class="sidebar-widget-featured-event-cta">Register Now</a>
+						</div>
+			<div id="browsi_left_margin"></div>
+</aside><!-- #secondary .widget-area -->
+
+					<div class="article-content">
+						<!-- Boilerplate CSS for "after" --><style type="text/css">.article-content .boilerplate-after {padding: 30px;line-height

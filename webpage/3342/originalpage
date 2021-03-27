@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="HandheldFriendly" content="True">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="msapplication-TileColor" content="#da532c">
+   <meta name="theme-color" content="#ffffff">
+   <meta name="msapplication-config" content="./browserconfig.xml">
+
+   
+
+   <title>QOMPLX - Risk Management through Data, AI, Cybersecurity, &amp; Insurance</title>
+
+   <style>
+      .dark .background-pattern {
+         background-image: url("/assets/images/light-pattern.png?v=5b1a985e8b")
+      }
+
+      .dark .post-presentation .author-image-fill {
+         background-image: url("/assets/images/prof-icon-dark.png?v=5b1a985e8b");
+      }
+
+      .dark .logo-light,
+      .light .logo-dark {
+         display: inline-block;
+      }
+
+      .dark .logo-dark,
+      .light .logo-light {
+         display: none;
+      }
+   </style>
+
+   <link
+      href='https://fonts.googleapis.com/css?family=Raleway:400,300,600|Oswald:400,700|Montserrat:400,700|Rubik:100,200,300,400,500,600,700|Inter:300,400,700'
+      rel='stylesheet' type='text/css'>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+      integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+   <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+   <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet"
+      type="text/css">
+   <link rel="stylesheet" href="https://unpkg.com/@coreui/coreui@3.0.0-rc.0/dist/css/coreui.min.css">
+   <link href="/assets/css/home.css?v=5b1a985e8b" rel="stylesheet" type="text/css">
+<link href="/assets/css/product-page.css?v=5b1a985e8b" rel="stylesheet" type="text/css">
+
+   <link href="/assets/css/style.css?v=5b1a985e8b" rel="stylesheet" type="text/css">
+   <link href="/assets/css/index.css?v=5b1a985e8b" rel="stylesheet" type="text/css">
+   <link href="/assets/css/navbar.css?v=5b1a985e8b" rel="stylesheet" type="text/css">
+   <link href="/assets/css/hubspot-form.css?v=5b1a985e8b" rel="stylesheet" type="text/css">
+
+   <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+   <link rel="dns-prefetch" href="https://maxcdn.bootstrapcdn.com">
+   <link rel="dns-prefetch" href="https://code.jquery.com">
+   <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+
+
+   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png?v=5b1a985e8b">
+   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png?v=5b1a985e8b">
+   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png?v=5b1a985e8b">
+   <link rel="manifest" href="assets/favicon/site.webmanifest">
+   <meta name="msapplication-TileImage" content="/assets/favicon/mstile-150x150.png?v=5b1a985e8b" />
+   <meta name="msapplication-TileColor" content="#00205B">
+   <meta name="theme-color" content="#00205b">
+   <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg?v=5b1a985e8b" color="#00205b">
+
+   <meta name="description" content="QOMPLX offers quantitative, SaaS-based solutions for data analytics, cybersecurity, insurance, and finance. Our tools enable customers to understand, model, manage, and transfer complex risks." />
+    <link rel="icon" href="/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://www.qomplx.com/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="QOMPLX - Risk Management through Data, AI, Cybersecurity, &amp; Insurance" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="QOMPLX - Risk Management through Data, AI, Cybersecurity, &amp; Insurance" />
+    <meta property="og:description" content="QOMPLX offers quantitative, SaaS-based solutions for data analytics, cybersecurity, insurance, and finance. Our tools enable customers to understand, model, manage, and transfer complex risks." />
+    <meta property="og:url" content="https://www.qomplx.com/" />
+    <meta property="og:image" content="https://www.qomplx.com/content/images/2019/07/Cover-Publication-image.png" />
+    <meta property="article:publisher" content="https://www.facebook.com/qomplxos" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="QOMPLX - Risk Management through Data, AI, Cybersecurity, &amp; Insurance" />
+    <meta name="twitter:description" content="QOMPLX offers quantitative, SaaS-based solutions for data analytics, cybersecurity, insurance, and finance. Our tools enable customers to understand, model, manage, and transfer complex risks." />
+    <meta name="twitter:url" content="https://www.qomplx.com/" />
+    <meta name="twitter:image" content="https://www.qomplx.com/content/images/2019/07/Cover-Publication-image.png" />
+    <meta name="twitter:site" content="@QOMPLXOS" />
+    <meta property="og:image:width" content="1500" />
+    <meta property="og:image:height" content="900" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "publisher": {
+        "@type": "Organization",
+        "name": "QOMPLX - Risk Management through Data, AI, Cybersecurity, &amp; Insurance",
+        "url": "https://www.qomplx.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.qomplx.com/content/images/2020/12/QOMPLX_Tagline_TM.svg",
+            "width": 142,
+            "height": 37
+        }
+    },
+    "url": "https://www.qomplx.com/",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.qomplx.com/content/images/2019/07/Cover-Publication-image.png",
+        "width": 1500,
+        "height": 900
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.qomplx.com/"
+    },
+    "description": "QOMPLX offers quantitative, SaaS-based solutions for data analytics, cybersecurity, insurance, and finance. Our tools enable customers to understand, model, manage, and transfer complex risks."
+}
+    </script>
+
+    <meta name="generator" content="Ghost 3.42" />
+    <link rel="alternate" type="application/rss+xml" title="QOMPLX - Risk Management through Data, AI, Cybersecurity, &amp; Insurance" href="https://www.qomplx.com/rss/" />
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5948943.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163793312-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-163793312-1');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1166331397057333');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1166331397057333&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Start of Async Drift Code -->
+<script>
+"use strict";
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('d7fip28w2sat');
+</script>
+<!-- End of Async Drift Code -->
+</head>
+
+<body class="home-template">
+   
+<div class="qomplx-navbar">
+  <div class="qomplx-navbar-inner-wrapper qomplx-container">
+    <a class="qomplx-logo" href="https://www.qomplx.com">
+      <img alt="QOMPLX - Risk Management through Data, AI, Cybersecurity, &amp; Insurance" src="/content/images/2020/12/QOMPLX_Tagline_TM.svg" />
+    </a>
+    <ul class="qomplx-navbar-links-wrapper">
+      <li class="nav-item" id="aboutLink">
+        <a>
+          About
+          <i class="fas fa-chevron-down navbar-arrow" id="aboutDropdownArrow"></i>
+        </a>
+        <div id="aboutDropdown" class="navbar-dropdown">
+
+          <section class="product-section about-menu-outer menu-outer">
+            <section class="product-subsection product-menu-wrapper">
+              <div class="about-dropdown-item">
+                <a class="dropdown-item product-item" href="/about-us/">Overview</a>
+                <a class="dropdown-item product-item" href="/awards/">Awards</a>
+              </div>
+              <div class="about-dropdown-item">
+                <a class="dropdown-item product-item" href="/leadership/">Leadership</a>
+                <a class="dropdown-item product-item" href="/investor-relations/">Investors</a>
+              </div>
+              <div class="about-dropdown-item">
+                <a class="dropdown-item product-item" href="/events/">Events</a>
+                <a class="dropdown-item product-item" href="/partners/">Partners</a>
+              </div>
+              <div class="about-dropdown-item">
+                <a class="dropdown-item product-item" href="/careers/">Careers</a>
+              </div>
+            </section>
+          </section>
+        </div>
+      </li>
+      <li class="nav-item" id="productsLink">
+        <a>
+          Products
+          <i class="fas fa-chevron-down navbar-arrow" id="productsDropdownArrow"></i>
+        </a>
+        <section id="productsDropdown" class="navbar-dropdown">
+          <section class="product-section product-menu-outer menu-outer">
+            <section class="product-subsection product-menu-wrapper">
+              <div class="product-menu">
+                <p class="product-menu-header">The QOMPLX Platform - Q:OS</p>
+                <p class="product-menu-subheader">A Comprehensive Unified Data Risk Platform: Scalable collection of cloud-native infrastructure components to derive insight and deliver business value.</p>
+              </div>
+              <div class="product-menu">
+                <a data-product="os" class="dropdown-item product-item" href="/os/">Q:OS Data Solutions <i
+                    class="fas fa-chevron-right" style="font-weight: 500;"></i></a>
+                <a data-product="cyber" class="dropdown-item product-item" href="/cyber/">Q:CYBER <i
+                    class="fas fa-chevron-right" style="font-weight: 500;"></i></a>
+                <a data-product="insurance" class="dropdown-item product-item" href="/insurance/">Q:INSURANCE <i
+                    class="fas fa-chevron-right" style="font-weight: 500;"></i></a>
+                <a data-product="finance" class="dropdown-item product-item" href="/finance/">Q:FINANCE <i
+                    class="fas fa-chevron-right" style="font-weight: 500;"></i></a>
+                <a data-product="government" class="dropdown-item product-item" href="/government/">Q:Government
+                  Solutions <i class="fas fa-chevron-right" style="font-weight: 500;"></i></a>
+              </div>
+              <div id="navSubMenu"></div>
+              <section id="productSubMenusHolder">
+                <div id="osSubMenu" class="product-menu product-sub-menu">
+                  <p class="product-menu-header margin-bottom-small"><a class="nav-product-title-link" href="/os/">QOMPLX:OS</a></p>
+                  <div class="sub-menu-col">
+                    <a href="/os/">Overview</a>
+                    <a href="/os/solutions/">Solutions</a>
+                  </div>
+                </div>
+                <div id="cyberSubMenu" class="product-menu product-sub-menu">
+                  <p class="product-menu-header margin-bottom-small"><a class="nav-product-title-link" href="/cyber/">QOMPLX:CYBER</a></p>
+                  <div class="sub-menu-col">
+                    <a href="/cyber/">Overview</a>
+                    <a href="/cyber/identity/">Identity Assurance</a>
+                    <a href="/cyber/privilege/">Privilege Assurance</a>
+                    <a href="/cyber/db/">D&B Cyber Risk Rating</a>
+                    <a href="/cyber/scan/">Q:SCAN</a>
+                    <a href="/cyber/mdr/">Managed Detection and Response</a>
+                  </div>
+                </div>
+                <div id="insuranceSubMenu" class="product-menu product-sub-menu">
+                  <p class="product-menu-header margin-bottom-small"><a class="nav-product-title-link" href="/insurance/">QOMPLX:INSURANCE</a></p>
+                  <section class="sub-menu-col-wrapper">
+                    <div class="sub-menu-col">
+                      <a href="/insurance/">Overview</a>
+                      <a href="/insurance/decision/">Underwriting Decision Platform</a></a>
+                      <a href="/insurance/helm/">Q:HELM</a>
+                      <a href="/insurance/cyber/">Cyber Insurance</a>
+                    </div>
+                    <div class="sub-menu-col">
+                      <a href="http://www.qomplx.insurance/">WonderCover <i class="fas fa-external-link" style="font-weight: 500"></i></a>
+                      <a href="http://www.reqoncile.io/">ReQoncile <i class="fas fa-external-link" style="font-weight: 500"></i></a>
+                    </div>
+                  </section>
+                </div>
+                <div id="financeSubMenu" class="product-menu product-sub-menu">
+                  <p class="product-menu-header margin-bottom-small"><a class="nav-product-title-link" href="/finance/">QOMPLX:FINANCE</a></p>
+                  <div class="sub-menu-col">
+                    <a href="/finance/">Overview</a>
+                  </div>
+                </div>
+                <div id="governmentSubMenu" class="product-menu product-sub-menu">
+                  <p class="product-menu-header margin-bottom-small"><a class="nav-product-title-link" href="/government/">Government Solutions</a></p>
+                  <div class="sub-menu-col">
+                    <a href="/government/">Overview</a>
+                  </div>
+                </div>
+              </section>
+            </section>
+          </section>
+        </section>
+      </li>
+      <li class="nav-item">
+        <a class="" href="/news/">Newsroom</a>
+      </li>
+      <li class="nav-item">
+        <a class="" href="/blog/">Blog</a>
+      </li>
+      <li class="nav-item">
+        <a class="" href="/resources/">Resources</a>
+      </li>
+      <li class="nav-item">
+        <a class="navbar-demo-btn" href="/contact-us/" target="_blank">Request A Demo</a>
+      </li>
+      <li class="nav-item">
+        <a class="navbar-signin-btn" href="https://qomplxos.com" target="_blank">Sign In</a>
+      </li>
+    </ul>
+  </div>
+
+
+  <div class="qomplx-navbar-inner-wrapper-mobile">
+    <a class="qomplx-logo" href="https://www.qomplx.com">
+      <img alt="QOMPLX - Risk Management through Data, AI, Cybersecurity, &amp; Insurance" src="/content/images/2020/12/QOMPLX_Tagline_TM.svg" />
+    </a>
+    <i id="hambugerMenuIcon" class="fas fa-bars" style="color: black"></i>
+  </div>
+  <div id="mobileMenuOuter">
+    <section id="mobileMenuWrapper">
+      <ul id="activeMenuMobile" class="mobile-menu">
+        <li id="aboutLinkMobile">
+          <a class="mobile-menu-item-bold">About<i class="fas fa-chevron-right"></i></a>
+        </li>
+        <li id="productsLinkMobile">
+          <a class="mobile-menu-item-bold">Products<i class="fas fa-chevron-right"></i></a>
+        </li>
+        <li>
+          <a class="mobile-menu-item-bold" href="/news/">Newsroom</a>
+        </li>
+        <li>
+          <a class="mobile-menu-item-bold" href="/blog/">Blog</a>
+        </li>
+        <li>
+          <a class="mobile-menu-item-bold" href="/resources/">Resources</a>
+        </li>
+        <li>
+          <a id="navbar-demo-btn-mobile" href="/contact-us/" target="_blank">Request a Demo</a>
+        </li>
+        <li>
+          <a id="navbar-signin-btn-mobile" href="https://qomplxos.com" target="_blank"><img
+              src="/assets/images/product/signin-icon.png?v=5b1a985e8b" /> Sign In</a>
+        </li>
+      </ul>
+      <ul id="mainMenuMobile" class="mobile-menu mobile-menu-hidden">
+        <li id="aboutLinkMobile">
+          <a class="mobile-menu-item-bold">About<i class="fas fa-chevron-right"></i></a>
+        </li>
+        <li id="productsLinkMobile">
+          <a class="mobile-menu-item-bold">Products<i class="fas fa-chevron-right"></i></a>
+        </li>
+        <li>
+          <a class="mobile-menu-item-bold" href="/news/">Newsroom</a>
+        </li>
+        <li>
+          <a class="mobile-menu-item-bold" href="/blog/">Blog</a>
+        </li>
+        <li>
+          <a class="mobile-menu-item-bold" href="/resources/">Resources</a>
+        </li>
+        <li>
+          <a id="navbar-demo-btn-mobile" href="/contact-us/" target="_blank">Request a Demo</a>
+        </li>
+        <li>
+          <a id="navbar-signin-btn-mobile" href="https://qomplxos.com" target="_blank"><img
+              src="/assets/images/product/signin-icon.png?v=5b1a985e8b" /> Sign In</a>
+        </li>
+      </ul>
+
+      <ul id="aboutMenuMobile" class="mobile-menu mobile-menu-hidden">
+        <li data-destination="mainMenuMobile" class="mobile-menu-back-btn">
+          <p class="os-primary-color"><i class="fas fa-chevron-left"></i>Back</p>
+        </li>
+        <li><a class="dropdown-item navbar-demo-btn-mobile" href="/about-us/">Overview</a></li>
+        <li><a class="dropdown-item navbar-demo-btn-mobile" href="/leadership/">Leadership</a></li>
+        <li><a class="dropdown-item navbar-demo-btn-mobile" href="/events/">Events</a></li>
+        <li><a class="dropdown-item navbar-demo-btn-mobile" href="/careers/">Careers</a></li>
+        <li><a class="dropdown-item navbar-demo-btn-mobile" href="/awards/">Awards</a></li>
+        <li><a class="dropdown-item navbar-demo-btn-mobile" href="/investor-relations/">Investors</a></li>
+        <li><a class="dropdown-item navbar-demo-btn-mobile" href="/partners/">Partners</a></li>
+      </ul>
+
+
+      <ul id="productsMenuMobile" class="mobile-menu mobile-menu-hidden">
+        <li data-destination="mainMenuMobile" class="mobile-menu-back-btn">
+          <p class="os-primary-color"><i class="fas fa-chevron-left"></i>Back</p>
+        </li>
+        <li data-product="os" class="dropdown-item mobile-menu-item-bold">Q:OS Data Solutions <i
+            class="fas fa-chevron-right"></i>
+        </li>
+        <li data-product="cyber" class="dropdown-item mobile-menu-item-bold">Q:CYBER <i class="fas fa-chevron-right"></i>
+        </li>
+        <li data-product="insurance" class="dropdown-item mobile-menu-item-bold">Q:INSURANCE <i
+            class="fas fa-chevron-right"></i></li>
+        <li data-product="finance" class="dropdown-item mobile-menu-item-bold">Q:FINANCE <i
+            class="fas fa-chevron-right"></i></li>
+        <li data-product="government" class="dropdown-item mobile-menu-item-bold">Q:Government
+          Solutions <i class="fas fa-chevron-right"></i></li>
+      </ul>
+
+
+      <ul id="osMenuMobile" class="mobile-menu mobile-menu-hidden">
+        <li data-destination="productsMenuMobile" class="mobile-menu-back-btn">
+          <p class="os-primary-color"><i class="fas fa-chevron-left"></i>Back</p>
+        </li>
+        <li>
+          <p class="product-menu-header">QOMPLX:OS Data Solutions</p>
+        </li>
+        <li class="product-sub-mobile-item"><a href="/os/">
+            <p>Overview</p>
+          </a></li>
+        <li class="product-sub-mobile-item"><a href="/os/solutions/">
+            <p>Solutions</p>
+          </a></li>
+      </ul>
+
+
+      <ul id="cyberMenuMobile" class="mobile-menu mobile-menu-hidden">
+        <li data-destination="productsMenuMobile" class="mobile-menu-back-btn">
+          <p class="os-primary-color"><i class="fas fa-chevron-left"></i>Back</p>
+        </li>
+        <li>
+          <p class="product-menu-header">QOMPLX:CYBER</p>
+        </li>
+        <li class="product-sub-mobile-item"><a href="/cyber/">
+            <p>Overview</p>
+          </a></li>
+        <li class="product-sub-mobile-item"><a href="/cyber/identity/">
+            <p>Identity Assurance</p>
+          </a></li>
+        <li class="product-sub-mobile-item"><a href="/cyber/privilege/">
+            <p>Privilege Assurance</p>
+          </a></li>
+          <li class="product-sub-mobile-item"><a href="/cyber/db/">
+            <p>D&B Cyber Risk Rating</p>
+          </a></li>
+          <li class="product-sub-mobile-item"><a href="/cyber/scan/">
+            <p>Q:SCAN</p>
+          </a></li>
+          <li class="product-sub-mobile-item"><a href="/cyber/mdr/">
+            <p>Managed Detection and Response</p>
+          </a></li>
+      </ul>
+
+
+      <ul id="insuranceMenuMobile" class="mobile-menu mobile-menu-hidden">
+        <li data-destination="productsMenuMobile" class="mobile-menu-back-btn">
+          <p class="os-primary-color"><i class="fas fa-chevron-left"></i>Back</p>
+        </li>
+        <li>
+          <p class="product-menu-header">QOMPLX:INSURANCE</p>
+        </li>
+        <li class="product-sub-mobile-item"><a href="/insurance/">
+            <p>Overview</p>
+          </a></li>
+        <li class="product-sub-mobile-item"><a href="/insurance/helm/">
+            <p>Q:HELM</p>
+          </a></li>
+        <li class="product-sub-mobile-item"><a href="/insurance/cyber/">
+            <p>Cyber Insurance</p>
+          </a></li>
+        <li class="product-sub-mobile-item"><a href="http://www.qomplx.insurance">
+            <p>WonderCover <i class="fas fa-external-link"></i></p>
+          </a></li>
+        <li class="product-sub-mobile-item"><a href="http://www.reqoncile.io">
+            <p>ReQoncile <i class="fas fa-external-link"></i></p>
+          </a></li>
+      </ul>
+
+
+      <ul id="financeMenuMobile" class="mobile-menu mobile-menu-hidden">
+        <li data-destination="productsMenuMobile" class="mobile-menu-back-btn">
+          <p class="os-primary-color"><i class="fas fa-chevron-left"></i>Back</p>
+        </li>
+        <li>
+          <p class="product-menu-header">QOMPLX:FINANCE</p>
+        </li>
+        <li class="product-sub-mobile-item"><a href="/finance/">
+            <p>Overview</p>
+          </a></li>
+      </ul>
+
+
+      <ul id="governmentMenuMobile" class="mobile-menu mobile-menu-hidden">
+        <li data-destination="productsMenuMobile" class="mobile-menu-back-btn">
+          <p class="os-primary-color"><i class="fas fa-chevron-left"></i>Back</p>
+        </li>
+        <li>
+          <p class="product-menu-header">Q:Government Solutions</p>
+        </li>
+        <li class="product-sub-mobile-item"><a href="/government/">
+            <p>Overview</p>
+          </a></li>
+      </ul>
+
+    </section>
+
+
+  </div>
+</div>
+
+
+   
+
+<main class="product-full-page home-page">
+  <section class="home-carousel-wrapper product-full-page">
+  <div id="home-carousel" class="carousel slide carousel-fade product-full-page" data-ride="carousel" data-interval="7000">
+    <ol class="carousel-indicators">
+      <li data-target="#home-carousel" data-slide-to="0" class="active"></li>
+      <li data-target="#home-carousel" data-slide-to="1"></li>
+      <li data-target="#home-carousel" data-slide-to="2"></li>
+      <li data-target="#home-carousel" data-slide-to="3"></li>
+      <li data-target="#home-carousel" data-slide-to="4"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+      <div class="active carousel-item home-carousel-image product-section"
+        style="background-image: url(https://www.qomplx.com/content/images/2021/02/DES-1495-Carousel_TBD-Media-Carousel-Edit-4.jpg)">
+        <div class="home-radial-gradient-cover"></div>
+        <div class="product-subsection product-hero-subsection home-carousel-titles">
+          <div class="product-hero-section-titles">
+            
+            <h3 class="qomplx-primary-color">TBD Media and CBS feature QOMPLX for its innovative approach to data-driven risk management</h3>
+            <!--kg-card-begin: html--><button class="learn-more-btn"><a href="https://www.cbsnews.com/video/qomplx-reimagining-the-future-of-business/">Watch Now</a></button><!--kg-card-end: html-->
+          </div>
+        </div>
+      </div>
+      <div class=" carousel-item home-carousel-image product-section"
+        style="background-image: url(https://www.qomplx.com/content/images/2021/02/DES-1495-Carousel_Ransomware.jpg)">
+        <div class="home-radial-gradient-cover"></div>
+        <div class="product-subsection product-hero-subsection home-carousel-titles">
+          <div class="product-hero-section-titles">
+            
+            <h3 class="qomplx-primary-color">How Prepared Are You For a Ransomware Outbreak?</h3>
+            <!--kg-card-begin: html--><button class="learn-more-btn"><a href="https://info.qomplx.com/en-us/download-qomplx-ransomware-preparedness-guide?__hstc=85357126.9c7468d55306576ce5294b0c1a8da3c5.1596213045759.1596225158807.1596229080691.3&__hssc=85357126.2.1596229080691&__hsfp=3229288930">Learn More</a></button><!--kg-card-end: html-->
+          </div>
+        </div>
+      </div>
+      <div class=" carousel-item home-carousel-image product-section"
+        style="background-image: url(https://www.qomplx.com/content/images/2021/02/DES-1495-Carousel_ManyKatz-2.jpg)">
+        <div class="home-radial-gradient-cover"></div>
+        <div class="product-subsection product-hero-subsection home-carousel-titles">
+          <div class="product-hero-section-titles">
+            
+            <h3 class="qomplx-primary-color">&quot;Prior to the release of Mimikatz, hacks of Active Directory were ‘artisan’ level attacks. New tools have made them available to even novice attackers.”</h3>
+            <!--kg-card-begin: html--><button class="learn-more-btn"><a href="/manykatz-how-active-directory-hacks-went-mainstream/">Learn More</a></button><!--kg-card-end: html-->
+          </div>
+        </div>
+      </div>
+      <div class=" carousel-item home-carousel-image product-section"
+        style="background-image: url(https://www.qomplx.com/content/images/2020/07/Carousel-Image_DnB.jpg)">
+        <div class="home-radial-gradient-cover"></div>
+        <div class="product-subsection product-hero-subsection home-carousel-titles">
+          <div class="product-hero-section-titles">
+            
+            <h3 class="qomplx-primary-color">Dun &amp; Bradstreet and QOMPLX join forces to provide cybersecurity certification tools for defense contractors</h3>
+            <!--kg-card-begin: html--><button class="learn-more-btn"><a href="https://qomplx.com/dun-bradstreet-and-qomplx-join-forces-to-provide-defense-contractors-with-fast-and-reliable-cybersecurity-maturity-model-certification/">Learn More</a></button><!--kg-card-end: html-->
+          </div>
+        </div>
+      </div>
+      <div class=" carousel-item home-carousel-image product-section"
+        style="background-image: url(https://www.qomplx.com/content/images/2021/02/DES-1495-Carousel_Wondercover-1.jpg)">
+        <div class="home-radial-gradient-cover"></div>
+        <div class="product-subsection product-hero-subsection home-carousel-titles">
+          <div class="product-hero-section-titles">
+            
+            <h3 class="qomplx-primary-color">QOMPLX:UNDERWRITING has launched WonderCover, a new SME offering for parametric Cyber and Terrorism</h3>
+            <!--kg-card-begin: html--><button class="learn-more-btn"><a href="https://qomplx.insurance">Learn More</a></button><!--kg-card-end: html-->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <section class="product-section home-header-section-outer">
+    <section class="product-subsection home-header-section-inner">
+      <div>
+        <h3 class="qomplx-primary-color margin-bottom-tiny">QOMPLX Risk Cloud</h3>
+        <p>QOMPLX is a cloud-native leader in risk analytics. Our customers rapidly ingest, transform, and contextualize large, complex, and disparate data sources using our data factory in order to better quantify, model, and predict risks. We help organizations develop more informed risk strategies and decisions for <a href="/cyber/">Cyber Security</a>, <a href="/insurance/">Insurance</a>, and <a href="/finance/">Finance</a>.</p>
+      </div>
+      <div>
+        <img src=/assets/images/home/risk-cloud.png?v=5b1a985e8b alt="Diagram of the QOMPLX Risk Cloud" />
+      </div>
+    </section>
+    <section class="product-subsection home-header-section-2-inner-desktop">
+      <div>
+        <img src=/assets/images/home/shared-ground.png?v=5b1a985e8b alt="View of critical risks" />
+      </div>
+      <div>
+        <p>Our unified analytics platform enables organizations to obtain and maintain a dynamic and scalable view of their critical risks. We bring together data sources across your organization including operations, finance, and risk teams to provide the ground truth of your dynamic risks.
+          <br />
+          <br />
+        This centralized view enables more informed and intelligent decisions—using risk as a filter to focus attention on the most critical elements.</p>
+      </div>
+    </section>
+    <section class="product-subsection home-header-section-2-inner-mobile">
+      <p>Our unified analytics platform enables organizations to obtain and maintain a dynamic and scalable view of their critical risks. We bring together data sources across your organization including operations, finance, and risk teams to provide the ground truth of your dynamic risks.</p>
+        <img src=/assets/images/home/shared-ground.png?v=5b1a985e8b alt="View of critical risks" />
+        <p>This centralized view enables more informed and intelligent decisions—using risk as a filter to focus attention on the most critical elements.</p>
+    </section>
+  </section>
+
+  <section class="product-section home-ushering-outer">
+    <section class="product-subsection">
+      <h3 class="margin-bottom-small">The Era of the Programmable Enterprise</h3>
+      <p>The QOMPLX risk cloud is ushering in the era of the programmable enterprise—enabling our customers to build trust and longevity in an uncertain world and capitalize on their risks as opportunities. Our cloud-native risk analytics platform leads the way by scaling and blending the best attributes of human decision-making with:</p>
+      <div class="home-ushering-inner">
+        <div>
+          <img src=/assets/images/home/di.png?v=5b1a985e8b alt="Contextual data analytics icon" />
+          <h5>Contextual data analytics</h5>
+        </div>
+        <div>
+          <img src=/assets/images/home/ms.png?v=5b1a985e8b alt="Scenario-based modeling simulation icon" />
+          <h5>Scenario-based modeling simulation</h5>
+        </div>
+        <div>
+          <img src=/assets/images/home/rm.png?v=5b1a985e8b alt="Multi-dimensional risk management icon" />
+          <h5>Multi-dimensional risk management</h5>
+        </div>
+        <div>
+          <img src=/assets/images/home/ar.png?v=5b1a985e8b alt="Adaptive automation icon" />
+          <h5>Adaptive automation</h5>
+        </div>
+      </div>
+    </section>
+  </section>
+
+  <section class="product-section graphic-title">
+    <section class="product-subsection">
+      <h4>Unify your data and power economic risk quantification, mitigation, & response</h4>
+    </section>
+  </section>
+
+  <section class="product-section home-graphic-outer">
+    <section class="product-subsection">
+      <img class="graphic-desktop" src=/assets/images/home/graphic-desktop.png?v=5b1a985e8b alt="graphic flow chart of the QOMPLX Risk Management system" />
+    </section>
+      <div class="graphic-wrapper-mobile">
+        <img src=/assets/images/home/graphic-mobile.png?v=5b1a985e8b alt="graphic flow chart of the QOMPLX Risk Management system" />
+      </div>
+  </section>
+
+  <section class="product-section home-graphic-text-outer">
+    <section class="product-subsection">
+      <p><strong>Our cloud-native data factory streamlines the development of data-intensive applications allowing clients to focus on their business use cases.</strong> A powerful configurable core platform allows business, operations, financial, and risk data to be brought together and then directed, utilized, and consistently managed across the enterprise. QOMPLX continuously collects, ingests, and enriches all of your disparate data and integrates them into a centralized data fabric with integrated persistence, orchestration, and transformation engines. This dramatically reduces the time spent by data engineers on data preparation, engineering, and persistence and allows them to focus on solving your toughest business challenges, increasing the quality of your analytic outcomes, and maximizing the potential for growth.</p>
+    </section>
+  </section>
+
+  <section class="product-section background-gray">
+    <section class="product-subsection home-risk-approach-inner">
+      <div>
+        <h3 class="qomplx-primary-color margin-bottom-small">Our Platform’s Approach to Risk Analytics</h3>
+        <p class="padding-bottom-1">Risk is an inherent part of our highly connected and interdependent world. The most successful organizations don’t just manage risk; they use it as a competitive differentiator to drive success in their greatest business decisions and outcomes. At QOMPLX, we understand that the ubiquity of data can make it overwhelming to identify, quantify, contextualize, and respond to changing threats and vulnerabilities at scale. We provide data infrastructure that manages the dynamic digital supply chain to allow our customers to leverage powerful turn-key data flows—ensuring that proprietary data sets, models, detections, and even simulations are fit for purpose, traceable, and securely available for enterprise-wide use at scale.</p>
+      </div>
+      <div>
+      <img src=/assets/images/home/pie-chart.png?v=5b1a985e8b alt="graphic of the QOMPLX risk approach" />
+      </div>
+    </section>
+    <section class="product-subsection home-risk-approach-2-inner">
+      <h4>The foundations of our risk approach:</h4>
+      <ul>
+        <li><p><strong>Visibility must be expansive and flexible:</strong> A modern organization requires a full data and model asset inventory to understand the supply chain that feeds its own products and decision-making.</p></li>
+        <li><p><strong>Risk is a consequence of dependence:</strong> Businesses need to understand how their critical services relate to IT and physical infrastructure. Risk analytics, economics, and insurance are essential to a healthy balance sheet.</p></li>
+        <li><p><strong>Trust:</strong> Authentication is at the center of the digital enterprise; businesses must have confidence in it as the “root” of trust.</p></li>
+        <li><p><strong>Balance:</strong> Your strategy is ultimately an allocation of resources to anticipatory and reactive investments: prevention vs response. QOMPLX helps focus investments to drive the right balance based on the threat models and consequence scenarios that are most appropriate for your business.
+        </p></li>
+      </ul>
+    </section>
+  </section>
+
+  <section class="product-section home-together-title">
+    <section class="product-subsection">
+      <h3 class="qomplx-primary-color">Together, We Can</h3>
+    </section>
+  </section>
+
+  <section class="product-section home-together-outer">
+    <section class="product-subsection home-together-inner">
+      <div>
+        <img src=/assets/images/home/uncover.png?v=5b1a985e8b alt="finger print icon" />
+        <h6 class="margin-bottom-tiny">Uncover the ground truth of your risks</h6>
+        <p class="padding-bottom-1">That ground truth evolves with new data and is the basis for building risk management and remediation plans, at scale, driving toward your most strategic objectives through:</p>
+        <ul>
+          <li><p>Continuous collection of internal, external, and third party data</p></li>
+          <li><p>Utilization of synthetic data and simulations</p></li>
+          <li><p>Dynamic deterministic and stochastic risk modeling</p></li>
+          <li><p>Quantification of potential exposures and exploration of historical loss events</p></li>
+        </ul>
+      </div>
+      <div>
+        <img src=/assets/images/home/employ.png?v=5b1a985e8b alt="finger print icon" />
+        <h6 class="margin-bottom-tiny">Employ proactive cyber health & financial risk management</h6>
+        <p class="padding-bottom-1">Our customers gain increased operational resilience, and a holistic, retrospective, current, and forward-looking view of their risks that will enable them to:</p>
+        <ul>
+          <li><p>Unify data from authentication, logs, and other telemetry sources for both on-premise and cloud resources</p></li>
+          <li><p>Know and improve baseline cyber health with a better understanding of internal and external security posture, breach propensity, scenario and threat-model driven risk profile, and resulting cyber risk score</p></li>
+          <li><p>Model risks and improve your security posture and operations with real-time data that supports both ad hoc and industrialized threat hunting</p></li>
+          <li><p>Utilize improved risk scores and profiles to better understand economic risks and gain the perspective required to optimize insurance coverage and costs</p></li>
+        </ul>
+      </div>
+      <div>
+        <img src=/assets/images/home/build.png?v=5b1a985e8b alt="finger print icon" />
+        <h6 class="margin-bottom-tiny">Build trust for your enterprise</h6>
+        <p class="padding-bottom-1">QOMPLX restores trust in the enterprise with improved control around authentication, visibility across existing on-premises and hybrid cloud environments, and integration of data generated by other security and operations tools. Powerful exemplary resultant use cases include:</p>
+        <ul>
+          <li><p>Detect forged credentials, privilege escalation and lateral movement attacks for on-premise and the cloud</p></li>
+          <li><p>Gain visibility across multiple log and application data sources with unified search, ad hoc data analytics, and extensible detection and alerting frameworks</p></li>
+          <li><p>Develop comprehensive and dynamic enterprise-wide risk management and risk finance programs that leverage real operational data feeds</p></li>
+          <li><p>Simulate real scenarios to better understand how to navigate different opportunities and risks both operationally and financially</p></li>
+        </ul>
+      </div>
+    </section>
+  </section>
+
+  <section class="product-section home-solution-title">
+    <section class="product-subsection">
+      <h3 class="qomplx-primary-color">QOMPLX Solutions Portfolio</h3>
+    </section>
+  </section>
+
+  <section class="product-section home-solution-outer">
+    <section class="product-subsection home-solution-inner">
+      <a href="/cyber/">
+        <img src=/assets/images/home/cyber.png?v=5b1a985e8b alt="man sitting at a computer thinking" />
+        <h5 class="cyber-primary-color padding-top-1">QOMPLX:CYBER<sup>®</sup></h5>
+        <h6>Cybersecurity</h6>
+        <p>Cyber-criminal groups and nation-state actors are exploiting critical IT infrastructure including Microsoft Active Directory and the Kerberos authentication protocol to establish long-term residence on sensitive networks disguised as privileged users or applications. QOMPLX Q:CYBER helps some of the world’s leading companies identify such attacks and defeat these sophisticated cyber adversaries. With the help of Q:CYBER institutions can integrate disparate identity and authentication data from across their enterprise, spotting malicious activity such as Kerberos ticket forgeries and defusing attacks at their earliest stages.</p>
+      </a>
+      <a href="/insurance/">
+        <img src=/assets/images/home/insurance.png?v=5b1a985e8b alt="man sitting at a computer thinking" />
+        <h5 class="insurance-primary-color padding-top-1">QOMPLX:INSURANCE<sup>®</sup></h5>
+        <h6>Cyber Insurance, Underwriting and Portfolio Risk Management, Model Marketplace</h6>
+        <p>An integrated decision platform that links all efforts across the insurance value chain including underwriting and/or referrals, pricing, risk management, and reinsurance sourcing.</p>
+      </a>
+      <a href="/finance/">
+        <img src=/assets/images/home/finance.png?v=5b1a985e8b alt="man sitting at a computer thinking" />
+        <h5 class="finance-primary-color padding-top-1">QOMPLX:FINANCE<sup>®</sup></h5>
+        <h6>Quantitative Finance</h6>
+        <p>A quantitative, multi-asset decision platform designed to identify and optimize alpha generation opportunities, manage risk across the firm, and minimize compliance vulnerabilities.</p>
+      </a>
+      <a href="/os/">
+        <img src=/assets/images/home/os.png?v=5b1a985e8b alt="man sitting at a computer thinking" />
+        <h5 class="os-primary-color padding-top-1">QOMPLX:OS<sup>®</sup></h5>
+        <h6>Infrastructure</h6>
+        <p>An Enterprise Operation System designed to enable data-driven, contextualized decision platforms that are risk-centric and highly customizable for virtually any business domain.</p>
+      </a>
+    </section>
+  </section>
+
+  <section class="product-section form-contact-section">
+    <section class="product-subsection">
+      <h3 class="color-white">Contact Us</h3>
+      <h4 class="color-white padding-bottom-2">Learn more about our solutions</h4>
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+      <script>
+        hbspt.forms.create({
+        portalId: "5948943",
+        formId: "915d565a-4948-4d91-b277-6fc326fa7811",
+        sfdcCampaignId: "7011U000000EBGyQAO"
+        });
+      </script>
+    </section>
+  </section>
+  
+  <div class="scroll-to-top"><i class="fas fa-chevron-up"></i></div>
+</main>
+
+
+
+
+
+   <div class="footer">
+
+      <!-- Mobile footer -->
+
+      <div class="container-fluid pt-3">
+         <div class="row d-md-none pt-2 pl-3 pr-1 justify-content-between">
+            <button class="btn btn-link text-uppercase" type="button" data-toggle="collapse" data-target="#about-links"
+               aria-controls="footerLinks" aria-expanded="false" aria-label="Toggle footer links"
+               style="color:#fff;text-decoration:none;font-weight:600;">
+               ABOUT
+            </button><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#about-links"
+               aria-controls="footerLinks" aria-expanded="false" aria-label="Toggle footer links"><i
+                  class="fas fa-chevron-down chevron-footer"></i>
+            </button>
+         </div>
+         <div class="collapse" id="about-links">
+            <div class="container text-left">
+               <!-- Grid row -->
+               <div class="row d-md-none">
+                  <!-- Grid column -->
+                  <div class="col-md-3 mx-auto pt-2">
+                     <!-- Links -->
+                     <ul class="list-unstyled qomplx-footer-list">
+                        <li>
+                        <p><a href="/about-us/">Overview</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/leadership">Leadership</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/partners/">Partners</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/careers/">Careers</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/awards/">Awards</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/events/">Events</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/investor-relations/">Investors</a></p>
+                     </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="row d-md-none pt-1 pl-3 pr-1 justify-content-between">
+            <button class="btn btn-link text-uppercase" type="button" data-toggle="collapse"
+               data-target="#products-links" aria-controls="footerLinks" aria-expanded="false"
+               aria-label="Toggle footer links" style="color:#fff;text-decoration:none;font-weight:600;">
+               PRODUCTS
+            </button><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#products-links"
+               aria-controls="footerLinks" aria-expanded="false" aria-label="Toggle footer links"><i
+                  class="fas fa-chevron-down chevron-footer"></i>
+            </button>
+         </div>
+         <div class="collapse" id="products-links">
+            <div class="container text-left">
+               <!-- Grid row -->
+               <div class="row d-md-none">
+                  <!-- Grid column -->
+                  <div class="col-md-3 mx-auto pt-2">
+                     <!-- Links -->
+                     <ul class="list-unstyled qomplx-footer-list">
+                        <li>
+                           <p><a href="/os/">OS</a></p>
+                        </li>
+                        <li>
+                           <p><a href="/cyber/">Cyber</a></p>
+                        </li>
+                        <li>
+                           <p><a href="/insurance/">Insurance</a></p>
+                        </li>
+                        <li>
+                           <p><a href="/finance/">Finance</a></p>
+                        </li>
+                        <li>
+                        <p><a href="/government/">Government</a></p>
+                     </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="row d-md-none pt-1 pl-3 pr-1 justify-content-between"><button class="btn text-uppercase"
+               type="button" style="color:#fff;text-decoration:none;font-weight:600;">
+               <a class="text-uppercase" style="color:#fff;text-decoration:none;font-weight:600;"
+                  href="/news/">Newsroom</a>
+            </button>
+         </div>
+         <div class="row d-md-none pt-1 pl-3 pr-1 justify-content-between"><button class="btn text-uppercase"
+               type="button" style="color:#fff;text-decoration:none;font-weight:600;">
+               <a class="text-uppercase" style="color:#fff;text-decoration:none;font-weight:600;"
+                  href="/resources/">Resources</a>
+            </button>
+         </div>
+         <div class="row d-md-none pt-1 pl-3 pr-1 justify-content-between"><button class="btn text-uppercase"
+               type="button" style="color:#fff;text-decoration:none;font-weight:600;">
+               <a class="text-uppercase" style="color:#fff;text-decoration:none;font-weight:600;" href="/blog/">Blog</a>
+            </button>
+         </div>
+         <div class="row d-md-none pt-1 pl-3 pr-1 justify-content-between">
+            <button class="btn btn-link text-uppercase" type="button" data-toggle="collapse"
+               data-target="#contact-links" aria-controls="footerLinks" aria-expanded="false"
+               aria-label="Toggle footer links" style="color:#fff;text-decoration:none;font-weight:600;">
+               CONTACT
+            </button><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#contact-links"
+               aria-controls="footerLinks" aria-expanded="false" aria-label="Toggle footer links"><i
+                  class="fas fa-chevron-down chevron-footer"></i>
+            </button>
+         </div>
+         <div class="collapse" id="contact-links">
+            <div class="container text-left">
+               <!-- Grid row -->
+               <div class="row d-md-none">
+                  <!-- Grid column -->
+                  <div class="col-md-3 mx-auto pt-2">
+                     <!-- Links -->
+                     <ul class="list-unstyled d-md-none qomplx-footer-list">
+                        <li>
+                           <p><a href="/contact-us/">Contact Us</a></p>
+                        </li>
+                        <li>
+                           <p><a href="https://rationemllc.atlassian.net/servicedesk/customer/portal/5">Support</a></p>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+      </div>
+
+      <!--Desktop footer -->
+
+      <div class="footer-desktop">
+         <div class="container text-center text-md-left d-none d-md-block">
+            <!-- Grid row -->
+            <div class="row">
+               <!-- Grid column -->
+               <div class="col-md-2 mx-auto">
+                  <!-- Links -->
+                  <h6 class="text-uppercase mt-3 mb-4">About</h6>
+                  <ul class="list-unstyled qomplx-footer-list qomplx-footer-list">
+                     <li>
+                        <p><a href="/about-us/">Overview</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/leadership">Leadership</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/partners/">Partners</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/careers/">Careers</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/awards/">Awards</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/events/">Events</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/investor-relations/">Investors</a></p>
+                     </li>
+                  </ul>
+               </div>
+               <!-- Grid column -->
+               <hr class="clearfix w-100 d-md-none">
+               <!-- Grid column -->
+               <div class="col-md-2 mx-auto">
+                  <!-- Links -->
+                  <h6 class="text-uppercase mt-3 mb-4">Products</h6>
+                  <ul class="list-unstyled qomplx-footer-list">
+                     <li>
+                        <p><a href="/os/">OS</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/cyber/">Cyber</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/insurance/">Insurance</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/finance/">Finance</a></p>
+                     </li>
+                     <li>
+                        <p><a href="/government/">Government</a></p>
+                     </li>
+                  </ul>
+               </div>
+               <!-- Grid column -->
+               <hr class="clearfix w-100 d-md-none">
+               <!-- Grid column -->
+               <div class="col-md-2 mx-auto">
+                  <h6 class="text-uppercase mt-3 mb-4"><a class="text-uppercase" style="font-weight: 500"
+                        href="/news/">Newsroom</a></h6>
+               </div>
+               <div class="col-md-2 mx-auto">
+                  <h6 class="text-uppercase mt-3 mb-4"><a class="text-uppercase" style="font-weight: 500"
+                        href="/resources/">Resources</a></h6>
+               </div>
+               <div class="col-md-2 mx-auto">
+                  <h6 class="text-uppercase mt-3 mb-4"><a class="text-uppercase" style="font-weight: 500"
+                        href="/blog/">Blog</a></h6>
+               </div>
+               <!-- Grid column -->
+               <hr class="clearfix w-100 d-md-none">
+               <!-- Grid column -->
+               <div class="col-md-2 mx-auto">
+                  <!-- Links -->
+                  <h6 class="text-uppercase mt-3 mb-4">Contact</h6>
+                  <ul class="list-unstyled qomplx-footer-list">
+                     <li>
+                        <p><a href="/contact-us/">Contact Us</a></p>
+                     </li>
+                     <li>
+                        <p><a href="https://rationemllc.atlassian.net/servicedesk/customer/portal/5"
+                              target="_blank">Support</a></p>
+                     </li>
+                  </ul>
+               </div>
+               <!-- Grid column -->
+            </div>
+            <!-- Grid row -->
+         </div>
+      </div>
+
+
+      <div id="rights" class="d-lg-none">
+         <hr / class="mx-4">
+         <div class="gradient footer d-flex align-items-center">
+            <div class="container d-md-flex align-items justify-content-center">
+               <p class="pb-3"><a href="/terms-of-service-agreement/">Terms of Service Agreement</a></p>
+               <p class="pb-3"><a href="/privacy-policy">Privacy Policy</a></p>
+               <p class="pb-2">&copy;2021 QOMPLX | All rights reserved</p>
+               <div class="qomplx-footer-socials">
+                  <div class="footer-socials-inner">
+                     <a href="https://twitter.com/QOMPLXOS" target="_blank" rel="noopener"><i
+                           class="fab fa-twitter"></i></a>
+                     <a href="https://www.linkedin.com/company/qomplx/about/" target="_blank" rel="noopener"><i
+                           class="fa fa-linkedin"></i></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <div id="rights" class="d-none d-lg-block">
+      <div class="gradient footer d-flex align-items-center">
+         <div class="container d-md-flex align-items justify-content-between">
+            <p><a href="/terms-of-service-agreement/">Terms of Service Agreement</a> | <a href="/privacy-policy">Privacy
+                  Policy</a>
+            <div class="qomplx-footer-socials">
+               <div class="footer-socials-inner">
+                  <a href="https://twitter.com/QOMPLXOS" target="_blank" rel="noopener"><i
+                        class="fab fa-twitter"></i></a>
+                  <a href="https://www.linkedin.com/company/qomplx/about/" target="_blank" rel="noopener"><i
+                        class="fa fa-linkedin"></i></a>
+               </div>
+            </div>
+            <p>Copyright &copy; QOMPLX, Inc. 2021 All rights reserved</p>
+         </div>
+      </div>
+   </div>
+   </div>
+
+   </div>
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/10.17.0/lazyload.min.js"></script>
+   <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"></script>
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+      integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+      crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.sticky/1.0.4/jquery.sticky.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+   <script src="https://kit.fontawesome.com/945396afee.js"></script>
+   <script src="https://unpkg.com/@coreui/coreui/dist/js/coreui.bundle.min.js"></script>
+   <script src="/assets/js/productPage.js?v=5b1a985e8b"></script>
+<script src="/assets/js/home.js?v=5b1a985e8b"></script>
+
+<script src="/assets/js/navbar.js?v=5b1a985e8b"></script>
+
+   <script src="/assets/js/ghostHunter.js?v=5b1a985e8b"></script>
+   <script src="/assets/js/placeholder.js?v=5b1a985e8b"></script>
+   <script src="/assets/js/main.js?v=5b1a985e8b"></script>
+   <script type="text/javascript">
+    window._mfq = window._mfq || [];
+    (function() {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; mf.async = true;
+        mf.src = "//cdn.mouseflow.com/projects/12094f40-8f34-4110-9e02-affb996c6b99.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+    })();
+</script>
+<script type="text/javascript"> _linkedin_partner_id = "1929386"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1929386&fmt=gif" /> </noscript>
+
+</body>
+
+</html>

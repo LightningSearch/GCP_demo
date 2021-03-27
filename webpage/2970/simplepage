@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html>
+<title>
+Forbes Wheels: Car Shopping Simplified 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Reviews Lists Guides Car Accessories Reviews Lists Guides Car Accessories Models Ford F-150 Chevrolet Silverado 1500 Ram 1500 Toyota RAV4 Honda CR-V Toyota Camry Honda Civic Chevrolet Equinox GMC Sierra 1500 Nissan Rogue Ford Mustang Mach-E Types Best SUVs For 2021 Best Midsize SUVs Best Midsize Luxury SUVs Best Small SUVs And Crossovers Best Luxury SUVs Best Luxury SUVs Under $50,000 Best Off-Road SUVs Best Pickup Trucks Best Midsize Pickup Trucks Best Sedans For 2021 Best Electric Cars Best Cars of 2021 Car of the Year 2021 Best Minivans Best Sports Cars Best Lease Deals Best SUV Lease Deals Articles Unique Features of the Ford F150 How To Think Like A Car Dealer AWD Vs. 4WD Car Subscription Services What Are Advanced Driver-Assistance Systems? Best Infotainment Systems Why New Vehicles Should Have Apple CarPlay Or Android Auto What Are All-Season Tires? How To Prepare Your Vehicle For A Road Trip Best Summer Road Trip Vehicles 3-Row SUVs With The Most Cargo Space Best SUVs With Roof Rails Types Best Car Accessories Best Car GPS Navigation Systems Best Jumper Cables Best Car Battery Chargers Best Radar Detectors Best Car Seat Covers Best GPS Trackers For Cars Best Ceramic Coatings Best Car Lifts Back To Forbes.com 2022 Audi e-tron GT First Drive Review: Sexier Than A Tesla Read our take 2022 Kia EV6 Showcases A Bold Design Direction Read our take 2022 Jeep Wagoneer, Grand Wagoneer Go Large, Long And Luxe Read our take Best Off-Road SUVs For 2021 By Andrew Wendler Forbes Staff Best Minivans For 2021 By Andrew Wendler Forbes Staff Best Crossovers And Small SUVs For 2021 By Carly Schaffner Forbes Staff Best Midsize Pickups For 2021 By Alex Kwanten Forbes Staff Latest Reviews <base-star-rating-v2 class="article-star-rating" :star-rating=" 83" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Ram 1500 TRX: A Supercharged Pickup Truck Predator <base-star-rating-v2 class="article-star-rating" :star-rating=" 82" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Audi Q7: The Midsize Premium SUV, Evolved <base-star-rating-v2 class="article-star-rating" :star-rating=" 80" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Chevrolet Silverado 1500: Capable and Customizable <base-star-rating-v2 class="article-star-rating" :star-rating=" 82" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Toyota 4Runner: Still Does Everything SUVs Were Born To Do <base-star-rating-v2 class="article-star-rating" :star-rating=" 79" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Jeep Grand Cherokee: Serious Off-Road Ability And Features <base-star-rating-v2 class="article-star-rating" :star-rating=" 86" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Cadillac Escalade: Supersized Satisfaction <base-make-model-year-widget :show-car-image = "true"> Browse Cars By Brand Acura Audi BMW Buick Cadillac Chevrolet Chrysler Dodge FIAT Ford Genesis GMC Honda Hyundai Infiniti Jaguar Jeep Kia Land Rover Lexus Lincoln Maserati Mazda Mercedes-Benz MINI Mitsubishi Nissan Porsche Ram Subaru Tesla Toyota Volkswagen Volvo Load More Brands View Less Brands <base-lot-linx-ad > Cars EDITOR's PICK 2021 Porsche 911 Targa 4S First Drive Review: A Modern Classic By Lawrence Ulrich Contributor Car Subscription Services: The Complete Guide To Getting The Car You Want By Clifford Atiyeh Contributor 2021 Polestar 2 First Drive Review: Lots To Love But Its Range Falls Short By Lawrence Ulrich Contributor 2021 Toyota Venza First Drive Review: An Elegant Hybrid SUV For The Post-Prius Set By Scotty Reiss Contributor 2021 Ford F-150 First Drive Review: Pushing Pickup Truck Innovation By Jerry Hirsch Contributor 2022 Mercedes-Benz C-Class: All-New Compact Five-Seater Brings Electrification, New Tech By Basem Wasef Contributor 2022 Hyundai Ioniq 5 Electric Crossover Is Well-Equipped For EV Battle By John O'Dell Contributor Show More <base-now :posts="articles" total="3" title="More from Wheels" :loadmore="true" tags="" exclude="277733,277419,274928,277769,277539,277532,277525,277349,277357,277314,276441,276318,276252,274625,122040,273538,273428,252320,245924,245638,277776,277653,277319,277464" v-if="articles.length > 0" > © 2021 Forbes Media LLC. All Rights Reserved. AdChoices AdChoices Privacy Statement Terms and Conditions Contact Us Send Us Feedback Jobs At Forbes Reprints &amp; Permissions Forbes Press Room Forbes Quote of the Day Advertise 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="https://www.forbes.com/wheels/">https://www.forbes.com/wheels/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ford/f-150/">https://www.forbes.com/wheels/cars/ford/f-150/</a> ( Ford F-150 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chevrolet/silverado-1500/">https://www.forbes.com/wheels/cars/chevrolet/silverado-1500/</a> ( Chevrolet Silverado 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ram/1500/">https://www.forbes.com/wheels/cars/ram/1500/</a> ( Ram 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/rav4/">https://www.forbes.com/wheels/cars/toyota/rav4/</a> ( Toyota RAV4 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/honda/cr-v/">https://www.forbes.com/wheels/cars/honda/cr-v/</a> ( Honda CR-V )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/camry/">https://www.forbes.com/wheels/cars/toyota/camry/</a> ( Toyota Camry )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/honda/civic-sedan/">https://www.forbes.com/wheels/cars/honda/civic-sedan/</a> ( Honda Civic )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chevrolet/equinox/">https://www.forbes.com/wheels/cars/chevrolet/equinox/</a> ( Chevrolet Equinox )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/gmc/sierra-1500/">https://www.forbes.com/wheels/cars/gmc/sierra-1500/</a> ( GMC Sierra 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/nissan/rogue/">https://www.forbes.com/wheels/cars/nissan/rogue/</a> ( Nissan Rogue )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2021/">https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2021/</a> ( Ford Mustang Mach-E )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs/">https://www.forbes.com/wheels/best/suvs/</a> ( Best SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-luxury-suvs/">https://www.forbes.com/wheels/best/midsize-luxury-suvs/</a> ( Best Midsize Luxury SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/small-suvs-crossovers/">https://www.forbes.com/wheels/best/small-suvs-crossovers/</a> ( Best Small SUVs And Crossovers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs/">https://www.forbes.com/wheels/best/luxury-suvs/</a> ( Best Luxury SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs-under-50000/">https://www.forbes.com/wheels/best/luxury-suvs-under-50000/</a> ( Best Luxury SUVs Under $50,000 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/pickups/">https://www.forbes.com/wheels/best/pickups/</a> ( Best Pickup Trucks )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-pickup-trucks/">https://www.forbes.com/wheels/best/midsize-pickup-trucks/</a> ( Best Midsize Pickup Trucks )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sedans/">https://www.forbes.com/wheels/best/sedans/</a> ( Best Sedans For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-10-best-evs-2021/">https://www.forbes.com/wheels/advice/forbes-wheels-10-best-evs-2021/</a> ( Best Electric Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-best-cars-2021-semifinalists/">https://www.forbes.com/wheels/advice/forbes-wheels-best-cars-2021-semifinalists/</a> ( Best Cars of 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-car-of-the-year-for-2021-mazda3/">https://www.forbes.com/wheels/advice/forbes-wheels-car-of-the-year-for-2021-mazda3/</a> ( Car of the Year 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/minivans/">https://www.forbes.com/wheels/best/minivans/</a> ( Best Minivans )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sports-cars/">https://www.forbes.com/wheels/best/sports-cars/</a> ( Best Sports Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/lease-deals/">https://www.forbes.com/wheels/best/lease-deals/</a> ( Best Lease Deals )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-suv-lease-deals/">https://www.forbes.com/wheels/advice/best-suv-lease-deals/</a> ( Best SUV Lease Deals )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/8-unique-features-on-the-2021-ford-f-150/">https://www.forbes.com/wheels/features/8-unique-features-on-the-2021-ford-f-150/</a> ( Unique Features of the Ford F150 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/how-to-think-like-a-dealer-get-best-price-car-you-want/">https://www.forbes.com/wheels/advice/how-to-think-like-a-dealer-get-best-price-car-you-want/</a> ( How To Think Like A Car Dealer )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/awd-versus-4wd/">https://www.forbes.com/wheels/advice/awd-versus-4wd/</a> ( AWD Vs. 4WD )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/car-subscription-services/">https://www.forbes.com/wheels/advice/car-subscription-services/</a> ( Car Subscription Services )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/advanced-driver-assistance-systems-what-are-they/">https://www.forbes.com/wheels/advice/advanced-driver-assistance-systems-what-are-they/</a> ( What Are Advanced Driver-Assistance Systems? )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/5-best-infotainment-systems/">https://www.forbes.com/wheels/advice/5-best-infotainment-systems/</a> ( Best Infotainment Systems )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/why-your-new-vehicle-should-have-apple-carplay-android-auto/">https://www.forbes.com/wheels/advice/why-your-new-vehicle-should-have-apple-carplay-android-auto/</a> ( Why New Vehicles Should Have Apple CarPlay Or Android Auto )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/what-are-all-season-tires-are-they-right-for-you/">https://www.forbes.com/wheels/advice/what-are-all-season-tires-are-they-right-for-you/</a> ( What Are All-Season Tires? )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/how-to-prepare-your-vehicle-road-trip/">https://www.forbes.com/wheels/advice/how-to-prepare-your-vehicle-road-trip/</a> ( How To Prepare Your Vehicle For A Road Trip )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-summer-road-trip-vehicles/">https://www.forbes.com/wheels/advice/best-summer-road-trip-vehicles/</a> ( Best Summer Road Trip Vehicles )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/three-row-midsize-suvs-most-cargo-space/">https://www.forbes.com/wheels/advice/three-row-midsize-suvs-most-cargo-space/</a> ( 3-Row SUVs With The Most Cargo Space )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs-with-roof-rails/">https://www.forbes.com/wheels/best/suvs-with-roof-rails/</a> ( Best SUVs With Roof Rails )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-10-best-car-accessories-2021/">https://www.forbes.com/wheels/advice/forbes-wheels-10-best-car-accessories-2021/</a> ( Best Car Accessories )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-gps-navigation/">https://www.forbes.com/wheels/accessories/best-car-gps-navigation/</a> ( Best Car GPS Navigation Systems )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-jumper-cables/">https://www.forbes.com/wheels/accessories/best-jumper-cables/</a> ( Best Jumper Cables )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-battery-chargers/">https://www.forbes.com/wheels/accessories/best-car-battery-chargers/</a> ( Best Car Battery Chargers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-radar-detectors/">https://www.forbes.com/wheels/accessories/best-radar-detectors/</a> ( Best Radar Detectors )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-seat-covers/">https://www.forbes.com/wheels/accessories/best-car-seat-covers/</a> ( Best Car Seat Covers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-gps-trackers-for-cars/">https://www.forbes.com/wheels/accessories/best-gps-trackers-for-cars/</a> ( Best GPS Trackers For Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-ceramic-coatings/">https://www.forbes.com/wheels/accessories/best-ceramic-coatings/</a> ( Best Ceramic Coatings )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-lifts/">https://www.forbes.com/wheels/accessories/best-car-lifts/</a> ( Best Car Lifts )
+</p>
+<p>
+<a href="https://www.forbes.com/">https://www.forbes.com/</a> ( Back To Forbes.com )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2022-audi-e-tron-gt-review/">https://www.forbes.com/wheels/features/2022-audi-e-tron-gt-review/</a> ( 2022 Audi e-tron GT First Drive Review: Sexier Than A Tesla )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2022-audi-e-tron-gt-review/">https://www.forbes.com/wheels/features/2022-audi-e-tron-gt-review/</a> ( Read our take )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2022-kia-ev6/">https://www.forbes.com/wheels/features/2022-kia-ev6/</a> ( 2022 Kia EV6 Showcases A Bold Design Direction )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2022-kia-ev6/">https://www.forbes.com/wheels/features/2022-kia-ev6/</a> ( Read our take )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/news/2022-jeep-grand-wagoneer/">https://www.forbes.com/wheels/news/2022-jeep-grand-wagoneer/</a> ( 2022 Jeep Wagoneer, Grand Wagoneer Go Large, Long And Luxe )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/news/2022-jeep-grand-wagoneer/">https://www.forbes.com/wheels/news/2022-jeep-grand-wagoneer/</a> ( Read our take )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/awendler/">https://www.forbes.com/wheels/author/awendler/</a> ( Andrew Wendler )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/minivans/">https://www.forbes.com/wheels/best/minivans/</a> ( Best Minivans For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/awendler/">https://www.forbes.com/wheels/author/awendler/</a> ( Andrew Wendler )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/small-suvs-crossovers/">https://www.forbes.com/wheels/best/small-suvs-crossovers/</a> ( Best Crossovers And Small SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/cchaffner/">https://www.forbes.com/wheels/author/cchaffner/</a> ( Carly Schaffner )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-pickup-trucks/">https://www.forbes.com/wheels/best/midsize-pickup-trucks/</a> ( Best Midsize Pickups For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/akwanten/">https://www.forbes.com/wheels/author/akwanten/</a> ( Alex Kwanten )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ram/1500-trx/2021/">https://www.forbes.com/wheels/cars/ram/1500-trx/2021/</a> ( <base-star-rating-v2 class="article-star-rating" :star-rating=" 83" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Ram 1500 TRX: A Supercharged Pickup Truck Predator )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/audi/q7/2021/">https://www.forbes.com/wheels/cars/audi/q7/2021/</a> ( <base-star-rating-v2 class="article-star-rating" :star-rating=" 82" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Audi Q7: The Midsize Premium SUV, Evolved )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chevrolet/silverado-1500/2021/">https://www.forbes.com/wheels/cars/chevrolet/silverado-1500/2021/</a> ( <base-star-rating-v2 class="article-star-rating" :star-rating=" 80" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Chevrolet Silverado 1500: Capable and Customizable )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/4runner/2021/">https://www.forbes.com/wheels/cars/toyota/4runner/2021/</a> ( <base-star-rating-v2 class="article-star-rating" :star-rating=" 82" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Toyota 4Runner: Still Does Everything SUVs Were Born To Do )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/jeep/grand-cherokee/2021/">https://www.forbes.com/wheels/cars/jeep/grand-cherokee/2021/</a> ( <base-star-rating-v2 class="article-star-rating" :star-rating=" 79" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Jeep Grand Cherokee: Serious Off-Road Ability And Features )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/cadillac/escalade/2021/">https://www.forbes.com/wheels/cars/cadillac/escalade/2021/</a> ( <base-star-rating-v2 class="article-star-rating" :star-rating=" 86" out-of = "100" :show-forbes-img="false" :percentage-font-size="isMobileView ? 14 : 24" :out-of-font-size="isMobileView ? 4 : 8" :line-width="isMobileView ? 3 : 6" :rating-height="isMobileView ? 35 : 56" :rating-width="isMobileView ? 35 : 56"> 2021 Cadillac Escalade: Supersized Satisfaction )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/acura/">https://www.forbes.com/wheels/cars/acura/</a> ( Acura )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/audi/">https://www.forbes.com/wheels/cars/audi/</a> ( Audi )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/bmw/">https://www.forbes.com/wheels/cars/bmw/</a> ( BMW )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/buick/">https://www.forbes.com/wheels/cars/buick/</a> ( Buick )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/cadillac/">https://www.forbes.com/wheels/cars/cadillac/</a> ( Cadillac )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chevrolet/">https://www.forbes.com/wheels/cars/chevrolet/</a> ( Chevrolet )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chrysler/">https://www.forbes.com/wheels/cars/chrysler/</a> ( Chrysler )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/dodge/">https://www.forbes.com/wheels/cars/dodge/</a> ( Dodge )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/fiat/">https://www.forbes.com/wheels/cars/fiat/</a> ( FIAT )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ford/">https://www.forbes.com/wheels/cars/ford/</a> ( Ford )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/genesis/">https://www.forbes.com/wheels/cars/genesis/</a> ( Genesis )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/gmc/">https://www.forbes.com/wheels/cars/gmc/</a> ( GMC )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/honda/">https://www.forbes.com/wheels/cars/honda/</a> ( Honda )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/hyundai/">https://www.forbes.com/wheels/cars/hyundai/</a> ( Hyundai )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/infiniti/">https://www.forbes.com/wheels/cars/infiniti/</a> ( Infiniti )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/jaguar/">https://www.forbes.com/wheels/cars/jaguar/</a> ( Jaguar )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/jeep/">https://www.forbes.com/wheels/cars/jeep/</a> ( Jeep )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/kia/">https://www.forbes.com/wheels/cars/kia/</a> ( Kia )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/land-rover/">https://www.forbes.com/wheels/cars/land-rover/</a> ( Land Rover )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/lexus/">https://www.forbes.com/wheels/cars/lexus/</a> ( Lexus )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/lincoln/">https://www.forbes.com/wheels/cars/lincoln/</a> ( Lincoln )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/maserati/">https://www.forbes.com/wheels/cars/maserati/</a> ( Maserati )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/mazda/">https://www.forbes.com/wheels/cars/mazda/</a> ( Mazda )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/mercedes-benz/">https://www.forbes.com/wheels/cars/mercedes-benz/</a> ( Mercedes-Benz )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/mini/">https://www.forbes.com/wheels/cars/mini/</a> ( MINI )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/mitsubishi/">https://www.forbes.com/wheels/cars/mitsubishi/</a> ( Mitsubishi )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/nissan/">https://www.forbes.com/wheels/cars/nissan/</a> ( Nissan )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/porsche/">https://www.forbes.com/wheels/cars/porsche/</a> ( Porsche )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ram/">https://www.forbes.com/wheels/cars/ram/</a> ( Ram )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/subaru/">https://www.forbes.com/wheels/cars/subaru/</a> ( Subaru )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/tesla/">https://www.forbes.com/wheels/cars/tesla/</a> ( Tesla )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/">https://www.forbes.com/wheels/cars/toyota/</a> ( Toyota )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/volkswagen/">https://www.forbes.com/wheels/cars/volkswagen/</a> ( Volkswagen )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/volvo/">https://www.forbes.com/wheels/cars/volvo/</a> ( Volvo )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2021-porsche-911-targa-4s/">https://www.forbes.com/wheels/features/2021-porsche-911-targa-4s/</a> ( EDITOR's PICK )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2021-porsche-911-targa-4s/">https://www.forbes.com/wheels/features/2021-porsche-911-targa-4s/</a> ( 2021 Porsche 911 Targa 4S First Drive Review: A Modern Classic )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/lulrich/">https://www.forbes.com/wheels/author/lulrich/</a> ( Lawrence Ulrich )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/car-subscription-services/">https://www.forbes.com/wheels/advice/car-subscription-services/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/car-subscription-services/">https://www.forbes.com/wheels/advice/car-subscription-services/</a> ( Car Subscription Services: The Complete Guide To Getting The Car You Want )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/catiyeh/">https://www.forbes.com/wheels/author/catiyeh/</a> ( Clifford Atiyeh )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2021-polestar-2-first-drive-review/">https://www.forbes.com/wheels/features/2021-polestar-2-first-drive-review/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2021-polestar-2-first-drive-review/">https://www.forbes.com/wheels/features/2021-polestar-2-first-drive-review/</a> ( 2021 Polestar 2 First Drive Review: Lots To Love But Its Range Falls Short )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/lulrich/">https://www.forbes.com/wheels/author/lulrich/</a> ( Lawrence Ulrich )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/first-drive-2021-toyota-venza/">https://www.forbes.com/wheels/features/first-drive-2021-toyota-venza/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/first-drive-2021-toyota-venza/">https://www.forbes.com/wheels/features/first-drive-2021-toyota-venza/</a> ( 2021 Toyota Venza First Drive Review: An Elegant Hybrid SUV For The Post-Prius Set )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/sreiss/">https://www.forbes.com/wheels/author/sreiss/</a> ( Scotty Reiss )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/news/2021-ford-f-150-first-drive-review/">https://www.forbes.com/wheels/news/2021-ford-f-150-first-drive-review/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/news/2021-ford-f-150-first-drive-review/">https://www.forbes.com/wheels/news/2021-ford-f-150-first-drive-review/</a> ( 2021 Ford F-150 First Drive Review: Pushing Pickup Truck Innovation )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/jhirsch/">https://www.forbes.com/wheels/author/jhirsch/</a> ( Jerry Hirsch )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/news/2022-mercedes-benz-c-class-electrification-new-tech/">https://www.forbes.com/wheels/news/2022-mercedes-benz-c-class-electrification-new-tech/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/news/2022-mercedes-benz-c-class-electrification-new-tech/">https://www.forbes.com/wheels/news/2022-mercedes-benz-c-class-electrification-new-tech/</a> ( 2022 Mercedes-Benz C-Class: All-New Compact Five-Seater Brings Electrification, New Tech )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/bwasef/">https://www.forbes.com/wheels/author/bwasef/</a> ( Basem Wasef )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/news/2022-hyundai-ioniq-5-electric-crossover-well-equipped/">https://www.forbes.com/wheels/news/2022-hyundai-ioniq-5-electric-crossover-well-equipped/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/news/2022-hyundai-ioniq-5-electric-crossover-well-equipped/">https://www.forbes.com/wheels/news/2022-hyundai-ioniq-5-electric-crossover-well-equipped/</a> ( 2022 Hyundai Ioniq 5 Electric Crossover Is Well-Equipped For EV Battle )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/jodell/">https://www.forbes.com/wheels/author/jodell/</a> ( John O'Dell )
+</p>
+<p>
+<a href="https://www.forbes.com/">https://www.forbes.com/</a> ( )
+</p>
+<p>
+<a href="https://www.facebook.com/forbeswheels">https://www.facebook.com/forbeswheels</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/ForbesWheels">https://twitter.com/ForbesWheels</a> ( )
+</p>
+<p>
+<a href="https://www.instagram.com/forbeswheels/">https://www.instagram.com/forbeswheels/</a> ( )
+</p>
+<p>
+<a href="https://preferences-mgr.truste.com/?pid=forbes01">https://preferences-mgr.truste.com/?pid=forbes01</a> ( AdChoices )
+</p>
+<p>
+<a href="https://preferences-mgr.truste.com/?pid=forbes01&amp;aid=forbes_mobile01">https://preferences-mgr.truste.com/?pid=forbes01&amp;aid=forbes_mobile01</a> ( AdChoices )
+</p>
+<p>
+<a href="//www.forbes.com/fdc/privacy.html">//www.forbes.com/fdc/privacy.html</a> ( Privacy Statement )
+</p>
+<p>
+<a href="//www.forbes.com/terms">//www.forbes.com/terms</a> ( Terms and Conditions )
+</p>
+<p>
+<a href="//www.forbes.com/fdc/contact.html">//www.forbes.com/fdc/contact.html</a> ( Contact Us )
+</p>
+<p>
+<a href="mailto:feedback@forbes.com">mailto:feedback@forbes.com</a> ( Send Us Feedback )
+</p>
+<p>
+<a href="//www.forbes.com/sites/careers-at-forbes/">//www.forbes.com/sites/careers-at-forbes/</a> ( Jobs At Forbes )
+</p>
+<p>
+<a href="http://forbesreprints.magreprints.com/">http://forbesreprints.magreprints.com/</a> ( Reprints &amp; Permissions )
+</p>
+<p>
+<a href="//www.forbes.com/sites/forbespr/">//www.forbes.com/sites/forbespr/</a> ( Forbes Press Room )
+</p>
+<p>
+<a href="//www.forbes.com/quotes/">//www.forbes.com/quotes/</a> ( Forbes Quote of the Day )
+</p>
+<p>
+<a href="http://www.forbesmedia.com/">http://www.forbesmedia.com/</a> ( Advertise )
+</p>
+</body>
+</html>

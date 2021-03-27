@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html>
+<title>
+Julianna Ianni, Vice President, AI Research &amp; Development, Proscia - Interview Series | Unite.AI 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+<!--mvp-fly-logo-- > <!--mvp-fly-top-in-- > <!--mvp-fly-but-wrap-- > <!--mvp-fly-top-out-- > <!--mvp-fly-menu-top-- > News Artificial General Intelligence Artificial Neural Networks Autonomous Vehicles Brain Machine Interface Data Science COVID-19 Cybersecurity Deep Learning Deepfakes Education Environment Ethics Facial Recognition Healthcare Investments Manufacturing Natural Language Processing Quantum Computing Regulation Reinforcement Learning Robotics Speech Recognition Startups Surveillance Virtual Assistants AI 101 Autoencoder Backpropagation Bayes Theorem Big Data Computer Vision Confusion Matrix Convolutional Neural Networks Cybersecurity Decision Tree Data Science Deepfakes Deep Learning Deep Reinforcement Learning Dimensionality Reduction Edge AI &#038; Edge Computing Ensemble Learning Federated Learning Few-Shot Learning Generative Adversarial Network Generative vs Discriminative Models Gradient Boosting Gradient Descent Image Classification K-Means Clustering K-Nearest Neighbors Linear Regression Long Short-Term Memory (LSTM) Machine Learning Meta-Learning Nanobots Natural Language Processing Natural Language Understanding Neural Networks Overfitting Quantum Computers Recurrent Neural Networks Reinforcement Learning Robotic Process Automation (RPA) Structured vs Unstructured Data Supervised vs Unsupervised Support Vector Machines Synthetic Data Text Classification Transfer Learning Transformer Neural Networks Turing Test Certifications Blockchain Cloud Cybersecurity Data Science Machine Learning Natural Language Processing Python Robotic Process Automation TensorFlow Courses Conferences AI Conferences Cybersecurity Conferences Robotics Conferences Interviews Thought Leaders Newsletters Organizations Meet the Team Our Charter Contact Us <!--mvp-fly-menu-wrap-- > Connect with us <!--mvp-fly-soc-wrap-- > <!--mvp-fly-wrap-- > <!--mvp-search-box-- > <!--mvp-search-but-wrap-- > <!--mvp-search-wrap-- > <!--mvp-fly-but-wrap-- > <!--mvp-nav-small-left-- > Unite.AI <!--mvp-nav-small-logo-- > Julianna Ianni, Vice President, AI Research &#038; Development, Proscia &#8211; Interview Series <!--mvp-drop-nav-title-- > News A - C Artificial General Intelligence Artificial Neural Networks Autonomous Vehicles Brain Machine Interface COVID-19 Cybersecurity D - F Data Science Deepfakes Deep Learning Education Ethics Environment Facial Recognition G - Q Healthcare Investments Manufacturing Natural Language Processing Quantum Computing R - Z Regulation Reinforcement Learning Robotics Speech Recognition Startups Surveillance Virtual Assistants AI 101 A - D Autoencoder Backpropagation Bayes Theorem Big Data Computer Vision Confusion Matrix Convolutional Neural Networks Cybersecurity Data Science Decision Tree Deepfakes Deep Learning Deep Reinforcement Learning D - K Dimensionality Reduction Edge AI Ensemble Learning Federated Learning Few-Shot Learning Generative Adversarial Network (GAN) Generative vs. Discriminative Models Gradient Boosting Gradient Descent Image Classification K-Means Clustering K-Nearest Neighbors L - Q Linear Regression Long Short-Term Memory Machine Learning Meta-Learning Nanobots Natural Language Processing Natural Language Understanding Neural Networks Overfitting Quantum Computers Recurrent Neural Networks R - Z Reinforcement Learning Robotic Process Automation (RPA) Structured vs Unstructured Data Supervised vs Unsupervised Learning Support Vector Machines Synthetic Data Text Classification Transfer Learning Transformer Neural Networks Turing Test Certifications Blockchain Cloud Cybersecurity Data Science Machine Learning Natural Language Processing Python Robotic Process Automation TensorFlow Conferences Artificial Intelligence Cybersecurity Robotics Interviews Thought Leaders Meet the Team Contact <!--mvp-nav-menu-- > <!--mvp-nav-small-mid-right-- > <!--mvp-nav-small-mid-- > <!--mvp-nav-small-left-in-- > <!--mvp-nav-small-left-out-- > <!--mvp-nav-small-cont-- > <!--mvp-nav-small-right-in-- > <!--mvp-nav-small-right-- > <!--mvp-nav-small-right-out-- > <!--mvp-nav-small-wrap-- > <!--mvp-main-box-- > <!--mvp-main-nav-small-cont-- > <!--mvp-main-nav-small-- > <!--mvp-main-nav-wrap-- > <!--mvp-main-head-wrap-- > Interviews Julianna Ianni, Vice President, AI Research &#038; Development, Proscia &#8211; Interview Series <!--mvp-author-info-thumb-- > Published 1 week ago &nbsp;on March 15, 2021 <!--mvp-author-info-date-- > By Antoine Tardif <!--mvp-author-info-name-- > <!--mvp-author-info-text-- > <!--mvp-author-info-wrap-- > Table Of Contents <!--mvp-post-feat-img-- > Julianna Ianni leads Proscia’s AI R&amp;D to develop high-quality computational pathology products. Proscia is pushing labs past the limits of traditional tools with its Concentriq ® digital pathology platform and pipeline of computational applications. Operating at the center of the modern digital laboratory, these technologies are transforming the economics and practice of pathology, putting the power of modern, data-centric medicine to work in the fight against cancer. Could you share the genesis story behind Proscia? Pathology sits at the core of biomedical research and cancer diagnosis; yet, while we’ve all seen digitization impact almost every other aspect of healthcare, pathology has remained largely unchanged over its 150-year history. It still centers around a pathologist recognizing patterns in tissue under the microscope. This practice is inherently manual and subjective, two challenges that are further compounded by a shrinking pathologist population and a rising cancer burden. Proscia was founded to advance this standard of care. Our founders recognized an opportunity to take on the fight against cancer by driving pathology’s shift from microscope to images. In doing so – in driving digital pathology forward – we are enabling laboratories to streamline operations, achieve meaningful improvements in quality and productivity, and unlock new insights unseen by the human eye. Collectively, these benefits are helping researchers to accelerate breakthroughs and helping pathologists to improve outcomes for patients around the world. Since our early days, we have amassed a customer base of leading laboratories, health systems, life sciences companies, and research organizations. Among our many enterprise customers, we work with Johns Hopkins University, the University of Pennsylvania, and 10 of the top 20 pharmaceutical companies. We also recently announced that LabPON, the first laboratory in the world to reach 100% digital pathology diagnosis, is transitioning to our software platform, and the Joint Pathology Center, which houses the world’s largest repository of human tissue data, is going digital with Proscia. Proscia is a digital and computational pathology company. Can you explain to our readers what this means? At a high level, digital pathology is the practice of digitizing glass microscope slides using a scanner, which can then be viewed, managed, shared, and analyzed using software, including computational applications leveraging AI. Proscia specifically focuses on the software side of things. We offer a core platform, called Concentriq, that provides all of the enterprise functionality that laboratories need for carrying out their routine pathology operations. Concentriq also serves as a launchpad for AI applications, including a suite of solutions that we are building. I highlighted many of the benefits of AI-enabled digital pathology, including driving efficiency and productivity gains and the ability to unlock new insights, above, so let’s dive into some of the specific use cases to see how these play out. One that’s especially top of mind right now is enabling remote operations during COVID. As laboratories have had to adjust to new ways of working to accommodate social distancing, digital pathology has enabled pathologists to continue working and serve patients since it enables them to easily share images and view them on-demand with a platform like Concentriq. The alternative is often for laboratories to have physical glass slides delivered to pathologists’ homes. Think about how time consuming and expensive this could be! More generally, when we look at how digital and computational pathology solutions like those Proscia delivers are enabling pathologists to improve quality and efficiency – whether by making it easier to share images for a second opinion or by helping to eliminate error-prone, manual tasks in the lab – it is ultimately making it possible for patients to receive the right diagnosis faster, and this is important when we consider that early treatment often leads to better outcomes. Can you describe how machine learning is being used in pathology today? Where is it going? That’s a big question! Machine learning has really shown promise in a number of areas in pathology. One common use case for machine learning in pathology is to identify specific regions in an image where tumor tissue is located to draw a pathologist’s attention there. It can also be used to deliver quantitative insights about tissue samples &#8211; for example, counting the number of cells actively undergoing division (a common marker of cancer). Some are also working on classification problems, like being able to categorize images based on diagnosis or particular patterns that they represent, and still others are working on ways to use machine learning to predict patient outcomes or responses to specific therapies. There is so much interesting work going on in the space! Ultimately, in pathology, most of these machine learning use cases are aimed at solving a few overarching clinical and research problems. The first is the volume problem I mentioned earlier. There is an increasing number of cases to review, and there’s this compounding issue of a decreasing number of pathologists available to perform the diagnosis of these cases. Much of machine learning in pathology aims to improve the efficiency of diagnosis at the individual and laboratory-level. The second major one is the quality of diagnosis and care &#8211; how can we improve diagnostic accuracy, how can we improve prognosis, and how can we improve patient outcomes at the end of the day? To answer the second part of your question, I should distinguish between what’s at the research stage today, and what’s actually happening in clinical practice. Right now, most of the work in the field has been research, and it can be extremely challenging to translate some of the findings to clinical practice. That’s where I think machine learning is going and needs to go &#8211; building out the systems and the level of quality needed to actually put some of the fantastic research being done into practice, in a way that holds up to all of the amazing findings we’re seeing in the research setting and delivering these benefits to pathology labs and ultimately their patients. Building AI that works in the “real world” is and has always been Proscia’s approach. Proscia’s DermAI leverages deep learning to pre-screen and automatically classify hundreds of variants of skin disease into pre-diagnostic categories. What were your key considerations in designing and developing this application? First and foremost, we had to consider what we were building the system to do. We wanted it to be able to classify any skin lesion, not just a specific type. And there is quite a lot of variability in skin pathology, as you said, hundreds of variants. So, we needed to make sure we had all of that variation well-represented in our training set. This can actually be quite challenging, as some types of lesions are rarer than others, and it can be difficult to build a dataset that has enough examples of some of these rarer pathologies to train with and ensure that we had enough examples for our model to learn from. Second, we really had to think about the fact that we weren’t just building something that needed to work at a single site, or for images scanned with a particular type of scanner. It was really about building something that could work on any laboratory’s images, on any scanner. There can be quite a lot of variation between sites and scanners in terms of the appearance of the image &#8211; colors, lightness, artifacts etc. We had to develop a system that could account for all of these variations, and not require a massive amount of data to calibrate and get it working for a new site. We had several other considerations to account for in terms of building an AI system that could operate in the “real world.” One more, which was especially important for us, was representing the “unknowns.” After all, we know that AI systems are never perfect, and there’s so much variability in skin lesions. We needed DermAI to know what it didn’t know and be able to deliver that information when it was too uncertain to make a good classification. That’s why we built into the system a method to assign each classification a confidence score, and we took care to design this in such a way that it would be correlated with the system’s performance &#8211; the higher the confidence score, the more likely that classification is to be correct. This means we can basically tune system performance; if the way I’m using this in my lab requires extremely high accuracy, I can set DermAI to deliver high-confidence classifications only. If my use case is a little more tolerant of error and I prefer to have more cases classified, then I can include lower-confidence classifications as well. DermAI was validated in one of pathology’s most comprehensive studies to date. Can you summarize the study and its key takeaways? This was a study of extremely ambitious scope. As I just mentioned, there’s a tremendous amount of variability in skin lesions, which translates into their corresponding pathology images, and we wanted to develop a system that could automatically classify any routinely prepared skin pathology slide – from any lab and any scanner. The idea was that pathologists could use it to sort and triage cases before they sit down to make a diagnosis &#8211; prioritizing cases in an order that makes sense rather than in the random order they naturally come in and making sure the right cases go to the right pathologist rather than having to be sent somewhere else later. And no one had demonstrated anything close to that when we began developing this a few years ago. The system we developed broke down the task of classifying images into multiple stages using a combination of deep learning and basic computer vision techniques &#8211; detecting the tissue on the slide, adapting the image appearance so that it’s in a familiar space to the trained system, detecting the relevant regions of interest, and finally making a classification into four different categories based on the patterns present in the tissue. The important part though, was how we tested it. While we only trained the system on 5,000 images from a single site, we calibrated and tested it on almost three times as many images from three entirely separate institutions whose data our system had never seen. By doing this, we showed it was possible to build an AI application to sort and triage skin biopsies, that could perform well on multiple sites with minimal calibration. Since the data we tested on mimicked each of these sites’ prospective workload, we could be confident that the performance demonstrated here would be comparable to what we’d see if we were to install DermAI in a lab. And because the system is tunable by adjusting the confidence threshold I mentioned before, depending on what percentage of images we classify, we can tune it up to at least 98% accuracy. One of the observations in the study was how deep learning algorithms can be sensitive to image artifacts. What precisely are these image artifacts in this case and what are some solutions to solve this problem? Yes, a few studies have demonstrated the sensitivity of AI systems to image artifacts in pathology as in any other field. These are often simple things that our human brains overlook easily &#8211; dirt on a slide, slight changes in lighting, blurry regions of an image, pen ink that pathologists often use to mark regions of tumor. I’m listing a few examples but there are countless others. AI systems can be easily fooled by these sorts of issues if they haven’t been properly exposed to them. There are really two routes to handling image artifacts for AI systems. The first is by cleaning &#8211; making sure that you’re training on and testing images have been meticulously cleaned, either digitally or physically, so there aren’t any artifacts present. This is sometimes easy to do for a training dataset but much harder to do consistently if you’re looking to install an AI system at many sites. So, we took the second approach: making sure that these kinds of artifacts were well represented in our data. We didn’t have slides cleaned before they were sent to us so we have a lot of representation of some of the strange issues that you might not see in a pristine training set, but that you’ll certainly ultimately encounter in the real world. This way, we could ensure that our system was ready when exposed to these artifacts in images it wasn’t trained on. How are AI applications like DermAI being implemented in the pathology laboratory? That’s a great question. While different laboratories are taking different approaches, we believe that the only way laboratories will truly scale their AI adoption is by leveraging an AI-enabled platform. As I described above, laboratories’ digital pathology operations center around a platform that they use for viewing, managing, and analyzing images. Proscia’s platform, Concentriq, provides all of this functionality and also serves as a launchpad for AI applications. We believe that this approach makes it easy for laboratories to deploy AI in practice, seamlessly integrating it into their day-to-day work so that they can leverage it at scale and realize its true promise. Is there anything else that you would like to share about Proscia? I’m really excited about the work that my team and I are doing. The unfortunate reality today is that we all know someone who has been impacted by cancer and the significant impact that it has on them and their loved ones. Our work has the potential to improve patient outcomes and truly make a meaningful difference. This is something I’m proud to be a part of. To that end, it’s great to see that so many leading organizations also believe in the work that we are doing. Over the past few months alone, the Joint Pathology Center (JPC), which houses the world’s largest repository of human tissue data, selected Proscia to digitize this archive. JPC has several reasons for wanting to go digital, including accelerating the development of AI. LabPON, the first laboratory in the world to reach 100% digital pathology diagnosis, also recently selected Proscia’s platform to scale its pathology operations and lay the foundation for implementing AI. LabPON will also collaborate with us on the development and validation of our AI systems. And finally, we recognize that we can’t transform the practice of pathology alone and are constantly growing our team. If you’re interested in joining us, I encourage you to learn more about Proscia and view our open roles . <!--mvp-content-main-- > Related Topics: Interview pathology Proscia <!--mvp-post-tags-- > <!--posts-nav-link-- > Up Next Tobias Rijken, Co-Founder &#038; CTO at Kheiron Medical Technologies &#8211; Interview Series <!--mvp-prev-next-text-- > <!--mvp-next-cont-in-- > <!--mvp-prev-next-out-- > <!--mvp-prev-next-cont-- > <!--mvp-next-post-wrap-- > Don&#039;t Miss Ali Asmari, PhD, Head of AI and Machine Learning at ULC Technologies &#8211; Interview Series <!--mvp-prev-next-text-- > <!--mvp-prev-cont-in-- > <!--mvp-prev-cont-out-- > <!--mvp-prev-next-cont-- > <!--mvp-prev-post-wrap-- > <!--mvp-prev-next-wrap-- > <!--mvp-author-box-img-- > Antoine Tardif <!--mvp-author-box-soc-wrap-- > <!--mvp-author-box-head-- > <!--mvp-author-box-in-- > <!--mvp-author-box-out-- > Antoine Tardif is a Futurist who is passionate about the future of AI and robotics. He is the CEO of BlockVentures.com , and has invested in over 50 AI & blockchain projects. He is the Co-Founder of Securities.io a news website focusing on digital assets, digital securities and investing. He is a founding partner of unite.AI & a member of the Forbes Technology Council. <!--mvp-author-box-text-- > <!--author__item-- > <!--mvp-author-box-wrap-- > <!--mvp-org-logo-- > <!--mvp-org-wrap-- > <!--mvp-content-bot-- > <!--mvp-content-body-top-- > You may like <!--mvp-related-img-- > Kushal Chakrabarti, VP of Research and Data Science at Opendoor &#8211; Interview Series <!--mvp-related-text-- > <!--mvp-related-img-- > Alex Sappok, CEO of RaySecur &#8211; Interview Series <!--mvp-related-text-- > <!--mvp-related-img-- > Dr. George Aronoff, Chief Medical Officer at Dosis, Inc &#8211; Interview Series <!--mvp-related-text-- > <!--mvp-related-img-- > Tobias Rijken, Co-Founder &#038; CTO at Kheiron Medical Technologies &#8211; Interview Series <!--mvp-related-text-- > <!--mvp-related-img-- > Chris Nicholson, Founder &#038; CEO of Pathmind &#8211; Interview Series <!--mvp-related-text-- > <!--mvp-related-img-- > Dan O&#8217;Connell, Chief Strategy Officer at Dialpad &#8211; Interview Series <!--mvp-related-text-- > <!--mvp-related-posts-- > <!--mvp-cont-read-wrap-- > <!--mvp-content-body-- > <!--mvp-post-soc-in-- > <!--mvp-post-soc-out-- > <!--mvp-content-wrap-- > <!--mvp-post-content-- > <!--mvp-post-main-in-- > Recent Posts Researchers Aim To Boost Drug Discovery Speed By Calculating Binding Efficiencies With AI Kushal Chakrabarti, VP of Research and Data Science at Opendoor &#8211; Interview Series Researchers Develop AI-Backed Method of Seed Analysis DataGen Secures $18 Million in Investments to Create Synthetic Data for AIs Alex Sappok, CEO of RaySecur &#8211; Interview Series Interviews Zayd Enam, Co-founder and CEO of Cresta Zack Dvey-Aharon, Ph.D., CEO and Co-Founder of AEYE Health &#8211; Interview Series Yi Zou, Senior Director of Engineering, ASML Silicon Valley &#8211; Interview Series Yasser Khan, CEO of ONE Tech &#8211; Interview Series Wilson Pang, Chief Technology Officer at Appen &#8211; Interview Series William Santana Li, CEO of Knightscope &#8211; Interview Series Vincent Scesa &#8211; Autonomous Vehicle Program Manager, EasyMile &#8211; Interview Series Vikrant Tomar, CTO and Founder of Fluent.ai &#8211; Interview Series Vijay Kurkal, Chief Executive Officer for Resolve &#8211; Interview Series Vahid Behzadan, Director of Secured and Assured Intelligent Learning (SAIL) Lab &#8211; Interview Series <!--mvp-side-wrap-- > <!--mvp-post-main-out-- > <!--mvp-post-main-- > <!--mvp-main-box-- > <!--mvp-article-cont-- > <!--mvp-article-wrap-- > <!--mvp-main-body-wrap-- > Meet the Team Our Charter Press Tools Contact Us Advertiser Disclosure : Unite.AI is committed to rigorous editorial standards to provide our readers with accurate information and news. We may receive compensation when you click on links to products we reviewed. Copyright © 2021 Unite.AI Editorial Policy Privacy Policy Terms and Conditions <!--mvp-site-main-- > <!--mvp-site-wall-- > <!--mvp-site-- > <!--mvp-fly-top-- > <!--mvp-fly-fade-- > 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="https://www.unite.ai/">https://www.unite.ai/</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/">https://www.unite.ai/</a> ( News )
+</p>
+<p>
+<a href="https://www.unite.ai/agi/">https://www.unite.ai/agi/</a> ( Artificial General Intelligence )
+</p>
+<p>
+<a href="https://www.unite.ai/artificial-neural-networks/">https://www.unite.ai/artificial-neural-networks/</a> ( Artificial Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/autonomous-vehicles/">https://www.unite.ai/autonomous-vehicles/</a> ( Autonomous Vehicles )
+</p>
+<p>
+<a href="https://www.unite.ai/brain-machine-interface/">https://www.unite.ai/brain-machine-interface/</a> ( Brain Machine Interface )
+</p>
+<p>
+<a href="https://www.unite.ai/data-science/">https://www.unite.ai/data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/covid-19/">https://www.unite.ai/covid-19/</a> ( COVID-19 )
+</p>
+<p>
+<a href="https://www.unite.ai/cybersecurity/">https://www.unite.ai/cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/deep-learning/">https://www.unite.ai/deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/deepfakes/">https://www.unite.ai/deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/education/">https://www.unite.ai/education/</a> ( Education )
+</p>
+<p>
+<a href="https://www.unite.ai/environment/">https://www.unite.ai/environment/</a> ( Environment )
+</p>
+<p>
+<a href="https://www.unite.ai/ethics/">https://www.unite.ai/ethics/</a> ( Ethics )
+</p>
+<p>
+<a href="https://www.unite.ai/facing-recognition/">https://www.unite.ai/facing-recognition/</a> ( Facial Recognition )
+</p>
+<p>
+<a href="https://www.unite.ai/healthcare/">https://www.unite.ai/healthcare/</a> ( Healthcare )
+</p>
+<p>
+<a href="https://www.unite.ai/investments/">https://www.unite.ai/investments/</a> ( Investments )
+</p>
+<p>
+<a href="https://www.unite.ai/manufacturing/">https://www.unite.ai/manufacturing/</a> ( Manufacturing )
+</p>
+<p>
+<a href="https://www.unite.ai/natural-language-processing/">https://www.unite.ai/natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/quantum-computing/">https://www.unite.ai/quantum-computing/</a> ( Quantum Computing )
+</p>
+<p>
+<a href="https://www.unite.ai/regulation/">https://www.unite.ai/regulation/</a> ( Regulation )
+</p>
+<p>
+<a href="https://www.unite.ai/reinforcement-learning/">https://www.unite.ai/reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/robotics/">https://www.unite.ai/robotics/</a> ( Robotics )
+</p>
+<p>
+<a href="https://www.unite.ai/speech-recognition/">https://www.unite.ai/speech-recognition/</a> ( Speech Recognition )
+</p>
+<p>
+<a href="https://www.unite.ai/startups/">https://www.unite.ai/startups/</a> ( Startups )
+</p>
+<p>
+<a href="https://www.unite.ai/surveillance/">https://www.unite.ai/surveillance/</a> ( Surveillance )
+</p>
+<p>
+<a href="https://www.unite.ai/virtual-assistants/">https://www.unite.ai/virtual-assistants/</a> ( Virtual Assistants )
+</p>
+<p>
+<a href="https://www.unite.ai/ai-101/">https://www.unite.ai/ai-101/</a> ( AI 101 )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-an-autoencoder/">https://www.unite.ai/what-is-an-autoencoder/</a> ( Autoencoder )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-backpropagation/">https://www.unite.ai/what-is-backpropagation/</a> ( Backpropagation )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-bayes-theorem/">https://www.unite.ai/what-is-bayes-theorem/</a> ( Bayes Theorem )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-big-data/">https://www.unite.ai/what-is-big-data/</a> ( Big Data )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-computer-vision/">https://www.unite.ai/what-is-computer-vision/</a> ( Computer Vision )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-confusion-matrix/">https://www.unite.ai/what-is-a-confusion-matrix/</a> ( Confusion Matrix )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-convolutional-neural-networks/">https://www.unite.ai/what-are-convolutional-neural-networks/</a> ( Convolutional Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-cybersecurity/">https://www.unite.ai/what-is-cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-decision-tree/">https://www.unite.ai/what-is-a-decision-tree/</a> ( Decision Tree )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-data-science/">https://www.unite.ai/what-is-data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-deepfakes/">https://www.unite.ai/what-are-deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-learning/">https://www.unite.ai/what-is-deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-reinforcement-learning/">https://www.unite.ai/what-is-deep-reinforcement-learning/</a> ( Deep Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-dimensionality-reduction/">https://www.unite.ai/what-is-dimensionality-reduction/</a> ( Dimensionality Reduction )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-edge-ai/">https://www.unite.ai/what-is-edge-ai/</a> ( Edge AI &#038; Edge Computing )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-ensemble-learning/">https://www.unite.ai/what-is-ensemble-learning/</a> ( Ensemble Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-federated-learning/">https://www.unite.ai/what-is-federated-learning/</a> ( Federated Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/few-shot-learning/">https://www.unite.ai/few-shot-learning/</a> ( Few-Shot Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-generative-adversarial-network-gan/">https://www.unite.ai/what-is-a-generative-adversarial-network-gan/</a> ( Generative Adversarial Network )
+</p>
+<p>
+<a href="https://www.unite.ai/generative-vs-discriminative-machine-learning-models/">https://www.unite.ai/generative-vs-discriminative-machine-learning-models/</a> ( Generative vs Discriminative Models )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-boosting/">https://www.unite.ai/what-is-gradient-boosting/</a> ( Gradient Boosting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-descent/">https://www.unite.ai/what-is-gradient-descent/</a> ( Gradient Descent )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-image-classification-work/">https://www.unite.ai/how-does-image-classification-work/</a> ( Image Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-means-clustering/">https://www.unite.ai/what-is-k-means-clustering/</a> ( K-Means Clustering )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-nearest-neighbors/">https://www.unite.ai/what-is-k-nearest-neighbors/</a> ( K-Nearest Neighbors )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-linear-regression/">https://www.unite.ai/what-is-linear-regression/</a> ( Linear Regression )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Long Short-Term Memory (LSTM) )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-machine-learning/">https://www.unite.ai/what-is-machine-learning/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-meta-learning/">https://www.unite.ai/what-is-meta-learning/</a> ( Meta-Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/">https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/</a> ( Nanobots )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-processing/">https://www.unite.ai/what-is-natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-understanding/">https://www.unite.ai/what-is-natural-language-understanding/</a> ( Natural Language Understanding )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-neural-networks/">https://www.unite.ai/what-are-neural-networks/</a> ( Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-overfitting/">https://www.unite.ai/what-is-overfitting/</a> ( Overfitting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-quantum-computers/">https://www.unite.ai/what-are-quantum-computers/</a> ( Quantum Computers )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Recurrent Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-reinforcement-learning/">https://www.unite.ai/what-is-reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-robotic-process-automation/">https://www.unite.ai/what-is-robotic-process-automation/</a> ( Robotic Process Automation (RPA) )
+</p>
+<p>
+<a href="https://www.unite.ai/structured-vs-unstructured-data/">https://www.unite.ai/structured-vs-unstructured-data/</a> ( Structured vs Unstructured Data )
+</p>
+<p>
+<a href="https://www.unite.ai/supervised-vs-unsupervised-learning/">https://www.unite.ai/supervised-vs-unsupervised-learning/</a> ( Supervised vs Unsupervised )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-support-vector-machines/">https://www.unite.ai/what-are-support-vector-machines/</a> ( Support Vector Machines )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-synthetic-data/">https://www.unite.ai/what-is-synthetic-data/</a> ( Synthetic Data )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-text-classification-work/">https://www.unite.ai/how-does-text-classification-work/</a> ( Text Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-transfer-learning/">https://www.unite.ai/what-is-transfer-learning/</a> ( Transfer Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-transformer-neural-networks/">https://www.unite.ai/what-are-transformer-neural-networks/</a> ( Transformer Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/">https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/</a> ( Turing Test )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-blockchain-certifications/">https://www.unite.ai/top-5-blockchain-certifications/</a> ( Blockchain )
+</p>
+<p>
+<a href="https://www.unite.ai/7-best-cloud-certifications/">https://www.unite.ai/7-best-cloud-certifications/</a> ( Cloud )
+</p>
+<p>
+<a href="https://www.unite.ai/top-cybersecurity-certifications/">https://www.unite.ai/top-cybersecurity-certifications/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/top-data-science-certifications/">https://www.unite.ai/top-data-science-certifications/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/top-machine-learning-certifications/">https://www.unite.ai/top-machine-learning-certifications/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-nlp-certifications/">https://www.unite.ai/top-5-nlp-certifications/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/top-python-certifications/">https://www.unite.ai/top-python-certifications/</a> ( Python )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-rpa-certifications/">https://www.unite.ai/top-5-rpa-certifications/</a> ( Robotic Process Automation )
+</p>
+<p>
+<a href="https://www.unite.ai/top-tensorflow-certifications/">https://www.unite.ai/top-tensorflow-certifications/</a> ( TensorFlow )
+</p>
+<p>
+<a href="https://www.unite.ai/courses/">https://www.unite.ai/courses/</a> ( Courses )
+</p>
+<p>
+<a href="https://www.unite.ai/conferences/">https://www.unite.ai/conferences/</a> ( Conferences )
+</p>
+<p>
+<a href="https://www.unite.ai/conferences/">https://www.unite.ai/conferences/</a> ( AI Conferences )
+</p>
+<p>
+<a href="https://www.unite.ai/cybersecurity-conferences/">https://www.unite.ai/cybersecurity-conferences/</a> ( Cybersecurity Conferences )
+</p>
+<p>
+<a href="https://www.unite.ai/robotics-conferences/">https://www.unite.ai/robotics-conferences/</a> ( Robotics Conferences )
+</p>
+<p>
+<a href="https://www.unite.ai/interviews/">https://www.unite.ai/interviews/</a> ( Interviews )
+</p>
+<p>
+<a href="https://www.unite.ai/thought-leaders/">https://www.unite.ai/thought-leaders/</a> ( Thought Leaders )
+</p>
+<p>
+<a href="https://www.unite.ai/ai-newsletters/">https://www.unite.ai/ai-newsletters/</a> ( Newsletters )
+</p>
+<p>
+<a href="https://www.unite.ai/organizations/">https://www.unite.ai/organizations/</a> ( Organizations )
+</p>
+<p>
+<a href="https://www.unite.ai/meet-the-team/">https://www.unite.ai/meet-the-team/</a> ( Meet the Team )
+</p>
+<p>
+<a href="https://www.unite.ai/our-charter/">https://www.unite.ai/our-charter/</a> ( Our Charter )
+</p>
+<p>
+<a href="https://www.unite.ai/contact-us/">https://www.unite.ai/contact-us/</a> ( Contact Us )
+</p>
+<p>
+<a href="https://www.facebook.com/uniteai">https://www.facebook.com/uniteai</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/UniteAI">https://twitter.com/UniteAI</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/feed/">https://www.unite.ai/feed/</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/company/unite-ai">https://www.linkedin.com/company/unite-ai</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/">https://www.unite.ai/</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai">https://www.unite.ai</a> ( News )
+</p>
+<p>
+<a href="https://www.unite.ai">https://www.unite.ai</a> ( A - C )
+</p>
+<p>
+<a href="https://www.unite.ai/agi/">https://www.unite.ai/agi/</a> ( Artificial General Intelligence )
+</p>
+<p>
+<a href="https://www.unite.ai/artificial-neural-networks/">https://www.unite.ai/artificial-neural-networks/</a> ( Artificial Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/autonomous-vehicles/">https://www.unite.ai/autonomous-vehicles/</a> ( Autonomous Vehicles )
+</p>
+<p>
+<a href="https://www.unite.ai/brain-machine-interface/">https://www.unite.ai/brain-machine-interface/</a> ( Brain Machine Interface )
+</p>
+<p>
+<a href="https://www.unite.ai/covid-19/">https://www.unite.ai/covid-19/</a> ( COVID-19 )
+</p>
+<p>
+<a href="https://www.unite.ai/cybersecurity/">https://www.unite.ai/cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/data-science/">https://www.unite.ai/data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/deepfakes/">https://www.unite.ai/deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/deep-learning/">https://www.unite.ai/deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/education/">https://www.unite.ai/education/</a> ( Education )
+</p>
+<p>
+<a href="https://www.unite.ai/ethics/">https://www.unite.ai/ethics/</a> ( Ethics )
+</p>
+<p>
+<a href="https://www.unite.ai/environment/">https://www.unite.ai/environment/</a> ( Environment )
+</p>
+<p>
+<a href="https://www.unite.ai/facing-recognition/">https://www.unite.ai/facing-recognition/</a> ( Facial Recognition )
+</p>
+<p>
+<a href="https://www.unite.ai/healthcare/">https://www.unite.ai/healthcare/</a> ( Healthcare )
+</p>
+<p>
+<a href="https://www.unite.ai/investments/">https://www.unite.ai/investments/</a> ( Investments )
+</p>
+<p>
+<a href="https://www.unite.ai/manufacturing/">https://www.unite.ai/manufacturing/</a> ( Manufacturing )
+</p>
+<p>
+<a href="https://www.unite.ai/natural-language-processing/">https://www.unite.ai/natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/quantum-computing/">https://www.unite.ai/quantum-computing/</a> ( Quantum Computing )
+</p>
+<p>
+<a href="https://www.unite.ai/regulation/">https://www.unite.ai/regulation/</a> ( Regulation )
+</p>
+<p>
+<a href="https://www.unite.ai/reinforcement-learning/">https://www.unite.ai/reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/robotics/">https://www.unite.ai/robotics/</a> ( Robotics )
+</p>
+<p>
+<a href="https://www.unite.ai/speech-recognition/">https://www.unite.ai/speech-recognition/</a> ( Speech Recognition )
+</p>
+<p>
+<a href="https://www.unite.ai/startups/">https://www.unite.ai/startups/</a> ( Startups )
+</p>
+<p>
+<a href="https://www.unite.ai/surveillance/">https://www.unite.ai/surveillance/</a> ( Surveillance )
+</p>
+<p>
+<a href="https://www.unite.ai/virtual-assistants/">https://www.unite.ai/virtual-assistants/</a> ( Virtual Assistants )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-an-autoencoder/">https://www.unite.ai/what-is-an-autoencoder/</a> ( Autoencoder )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-backpropagation/">https://www.unite.ai/what-is-backpropagation/</a> ( Backpropagation )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-bayes-theorem/">https://www.unite.ai/what-is-bayes-theorem/</a> ( Bayes Theorem )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-big-data/">https://www.unite.ai/what-is-big-data/</a> ( Big Data )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-computer-vision/">https://www.unite.ai/what-is-computer-vision/</a> ( Computer Vision )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-confusion-matrix/">https://www.unite.ai/what-is-a-confusion-matrix/</a> ( Confusion Matrix )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-convolutional-neural-networks/">https://www.unite.ai/what-are-convolutional-neural-networks/</a> ( Convolutional Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-cybersecurity/">https://www.unite.ai/what-is-cybersecurity/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-data-science/">https://www.unite.ai/what-is-data-science/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-decision-tree/">https://www.unite.ai/what-is-a-decision-tree/</a> ( Decision Tree )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-deepfakes/">https://www.unite.ai/what-are-deepfakes/</a> ( Deepfakes )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-learning/">https://www.unite.ai/what-is-deep-learning/</a> ( Deep Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-reinforcement-learning/">https://www.unite.ai/what-is-deep-reinforcement-learning/</a> ( Deep Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-dimensionality-reduction/">https://www.unite.ai/what-is-dimensionality-reduction/</a> ( Dimensionality Reduction )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-edge-ai/">https://www.unite.ai/what-is-edge-ai/</a> ( Edge AI )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-ensemble-learning/">https://www.unite.ai/what-is-ensemble-learning/</a> ( Ensemble Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-federated-learning/">https://www.unite.ai/what-is-federated-learning/</a> ( Federated Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/few-shot-learning/">https://www.unite.ai/few-shot-learning/</a> ( Few-Shot Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-a-generative-adversarial-network-gan/">https://www.unite.ai/what-is-a-generative-adversarial-network-gan/</a> ( Generative Adversarial Network (GAN) )
+</p>
+<p>
+<a href="https://www.unite.ai/generative-vs-discriminative-machine-learning-models/">https://www.unite.ai/generative-vs-discriminative-machine-learning-models/</a> ( Generative vs. Discriminative Models )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-boosting/">https://www.unite.ai/what-is-gradient-boosting/</a> ( Gradient Boosting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-gradient-descent/">https://www.unite.ai/what-is-gradient-descent/</a> ( Gradient Descent )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-image-classification-work/">https://www.unite.ai/how-does-image-classification-work/</a> ( Image Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-means-clustering/">https://www.unite.ai/what-is-k-means-clustering/</a> ( K-Means Clustering )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-k-nearest-neighbors/">https://www.unite.ai/what-is-k-nearest-neighbors/</a> ( K-Nearest Neighbors )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-linear-regression/">https://www.unite.ai/what-is-linear-regression/</a> ( Linear Regression )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Long Short-Term Memory )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-machine-learning/">https://www.unite.ai/what-is-machine-learning/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-meta-learning/">https://www.unite.ai/what-is-meta-learning/</a> ( Meta-Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/">https://www.unite.ai/what-are-nanobots-understanding-nanobot-structure-operation-and-uses/</a> ( Nanobots )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-processing/">https://www.unite.ai/what-is-natural-language-processing/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-natural-language-understanding/">https://www.unite.ai/what-is-natural-language-understanding/</a> ( Natural Language Understanding )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-neural-networks/">https://www.unite.ai/what-are-neural-networks/</a> ( Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-overfitting/">https://www.unite.ai/what-is-overfitting/</a> ( Overfitting )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-quantum-computers/">https://www.unite.ai/what-are-quantum-computers/</a> ( Quantum Computers )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/">https://www.unite.ai/what-are-rnns-and-lstms-in-deep-learning/</a> ( Recurrent Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-reinforcement-learning/">https://www.unite.ai/what-is-reinforcement-learning/</a> ( Reinforcement Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-robotic-process-automation/">https://www.unite.ai/what-is-robotic-process-automation/</a> ( Robotic Process Automation (RPA) )
+</p>
+<p>
+<a href="https://www.unite.ai/structured-vs-unstructured-data/">https://www.unite.ai/structured-vs-unstructured-data/</a> ( Structured vs Unstructured Data )
+</p>
+<p>
+<a href="https://www.unite.ai/supervised-vs-unsupervised-learning/">https://www.unite.ai/supervised-vs-unsupervised-learning/</a> ( Supervised vs Unsupervised Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-support-vector-machines/">https://www.unite.ai/what-are-support-vector-machines/</a> ( Support Vector Machines )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-synthetic-data/">https://www.unite.ai/what-is-synthetic-data/</a> ( Synthetic Data )
+</p>
+<p>
+<a href="https://www.unite.ai/how-does-text-classification-work/">https://www.unite.ai/how-does-text-classification-work/</a> ( Text Classification )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-transfer-learning/">https://www.unite.ai/what-is-transfer-learning/</a> ( Transfer Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-are-transformer-neural-networks/">https://www.unite.ai/what-are-transformer-neural-networks/</a> ( Transformer Neural Networks )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/">https://www.unite.ai/what-is-the-turing-test-and-why-does-it-matter/</a> ( Turing Test )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-blockchain-certifications/">https://www.unite.ai/top-5-blockchain-certifications/</a> ( Blockchain )
+</p>
+<p>
+<a href="https://www.unite.ai/7-best-cloud-certifications/">https://www.unite.ai/7-best-cloud-certifications/</a> ( Cloud )
+</p>
+<p>
+<a href="https://www.unite.ai/top-cybersecurity-certifications/">https://www.unite.ai/top-cybersecurity-certifications/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/top-data-science-certifications/">https://www.unite.ai/top-data-science-certifications/</a> ( Data Science )
+</p>
+<p>
+<a href="https://www.unite.ai/top-machine-learning-certifications/">https://www.unite.ai/top-machine-learning-certifications/</a> ( Machine Learning )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-nlp-certifications/">https://www.unite.ai/top-5-nlp-certifications/</a> ( Natural Language Processing )
+</p>
+<p>
+<a href="https://www.unite.ai/top-python-certifications/">https://www.unite.ai/top-python-certifications/</a> ( Python )
+</p>
+<p>
+<a href="https://www.unite.ai/top-5-rpa-certifications/">https://www.unite.ai/top-5-rpa-certifications/</a> ( Robotic Process Automation )
+</p>
+<p>
+<a href="https://www.unite.ai/top-tensorflow-certifications/">https://www.unite.ai/top-tensorflow-certifications/</a> ( TensorFlow )
+</p>
+<p>
+<a href="https://www.unite.ai/conferences/">https://www.unite.ai/conferences/</a> ( Artificial Intelligence )
+</p>
+<p>
+<a href="https://www.unite.ai/cybersecurity-conferences/">https://www.unite.ai/cybersecurity-conferences/</a> ( Cybersecurity )
+</p>
+<p>
+<a href="https://www.unite.ai/robotics-conferences/">https://www.unite.ai/robotics-conferences/</a> ( Robotics )
+</p>
+<p>
+<a href="https://www.unite.ai/interviews/">https://www.unite.ai/interviews/</a> ( Interviews )
+</p>
+<p>
+<a href="https://www.unite.ai/thought-leaders/">https://www.unite.ai/thought-leaders/</a> ( Thought Leaders )
+</p>
+<p>
+<a href="https://www.unite.ai/meet-the-team/">https://www.unite.ai/meet-the-team/</a> ( Meet the Team )
+</p>
+<p>
+<a href="https://www.unite.ai/contact-us/">https://www.unite.ai/contact-us/</a> ( Contact )
+</p>
+<p>
+<a href=" https://www.unite.ai/interviews/"> https://www.unite.ai/interviews/</a> ( Interviews )
+</p>
+<p>
+<a href="https://www.unite.ai/author/admin/">https://www.unite.ai/author/admin/</a> ( Antoine Tardif )
+</p>
+<p>
+<a href="https://proscia.com">https://proscia.com</a> ( Proscia )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-machine-learning/">https://www.unite.ai/what-is-machine-learning/</a> ( machine learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-deep-learning/">https://www.unite.ai/what-is-deep-learning/</a> ( deep learning )
+</p>
+<p>
+<a href="https://www.unite.ai/what-is-computer-vision/">https://www.unite.ai/what-is-computer-vision/</a> ( computer vision )
+</p>
+<p>
+<a href="http://proscia.com">http://proscia.com</a> ( learn more about Proscia )
+</p>
+<p>
+<a href="https://proscia.com/careers/">https://proscia.com/careers/</a> ( view our open roles )
+</p>
+<p>
+<a href="https://www.unite.ai/tag/interview/">https://www.unite.ai/tag/interview/</a> ( Interview )
+</p>
+<p>
+<a href="https://www.unite.ai/tag/pathology/">https://www.unite.ai/tag/pathology/</a> ( pathology )
+</p>
+<p>
+<a href="https://www.unite.ai/tag/proscia/">https://www.unite.ai/tag/proscia/</a> ( Proscia )
+</p>
+<p>
+<a href="https://www.unite.ai/tobias-rijken-co-founder-cto-at-kheiron-medical-technologies-interview-series/">https://www.unite.ai/tobias-rijken-co-founder-cto-at-kheiron-medical-technologies-interview-series/</a> ( Up Next Tobias Rijken, Co-Founder &#038; CTO at Kheiron Medical Technologies &#8211; Interview Series <!--mvp-prev-next-text-- > <!--mvp-next-cont-in-- > <!--mvp-prev-next-out-- > <!--mvp-prev-next-cont-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/ali-asmari-phd-head-of-ai-and-machine-learning-at-ulc-technologies-interview-series/">https://www.unite.ai/ali-asmari-phd-head-of-ai-and-machine-learning-at-ulc-technologies-interview-series/</a> ( Don&#039;t Miss Ali Asmari, PhD, Head of AI and Machine Learning at ULC Technologies &#8211; Interview Series <!--mvp-prev-next-text-- > <!--mvp-prev-cont-in-- > <!--mvp-prev-cont-out-- > <!--mvp-prev-next-cont-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/author/admin/">https://www.unite.ai/author/admin/</a> ( Antoine Tardif )
+</p>
+<p>
+<a href="https://twitter.com/futuristdotai">https://twitter.com/futuristdotai</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/in/antoine-tardif">https://www.linkedin.com/in/antoine-tardif</a> ( )
+</p>
+<p>
+<a href="https://www.futurist.ai">https://www.futurist.ai</a> ( Futurist )
+</p>
+<p>
+<a href="https://www.blockventures.com">https://www.blockventures.com</a> ( BlockVentures.com )
+</p>
+<p>
+<a href="https://www.securities.io">https://www.securities.io</a> ( Securities.io )
+</p>
+<p>
+<a href="https://profiles.forbes.com/members/business/profile/Antoine-Tardif-Founder-Unite-AI/a378ec8f-9ffd-45da-a73f-6ed9e7fd3df1">https://profiles.forbes.com/members/business/profile/Antoine-Tardif-Founder-Unite-AI/a378ec8f-9ffd-45da-a73f-6ed9e7fd3df1</a> ( Forbes Technology Council. <!--mvp-author-box-text-- > <!--author__item-- > <!--mvp-author-box-wrap-- > <!--mvp-org-logo-- > <!--mvp-org-wrap-- > <!--mvp-content-bot-- > <!--mvp-content-body-top-- > You may like )
+</p>
+<p>
+<a href="https://www.unite.ai/kushal-chakrabarti-vp-of-research-and-data-science-at-opendoor-interview-series/">https://www.unite.ai/kushal-chakrabarti-vp-of-research-and-data-science-at-opendoor-interview-series/</a> ( <!--mvp-related-img-- > Kushal Chakrabarti, VP of Research and Data Science at Opendoor &#8211; Interview Series <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/alex-sappok-ceo-of-raysecur-interview-series/">https://www.unite.ai/alex-sappok-ceo-of-raysecur-interview-series/</a> ( <!--mvp-related-img-- > Alex Sappok, CEO of RaySecur &#8211; Interview Series <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/dr-george-aronoff-chief-medical-officer-at-dosis-inc-interview-series/">https://www.unite.ai/dr-george-aronoff-chief-medical-officer-at-dosis-inc-interview-series/</a> ( <!--mvp-related-img-- > Dr. George Aronoff, Chief Medical Officer at Dosis, Inc &#8211; Interview Series <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/tobias-rijken-co-founder-cto-at-kheiron-medical-technologies-interview-series/">https://www.unite.ai/tobias-rijken-co-founder-cto-at-kheiron-medical-technologies-interview-series/</a> ( <!--mvp-related-img-- > Tobias Rijken, Co-Founder &#038; CTO at Kheiron Medical Technologies &#8211; Interview Series <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/chris-nicholson-founder-ceo-of-pathmind-interview-series/">https://www.unite.ai/chris-nicholson-founder-ceo-of-pathmind-interview-series/</a> ( <!--mvp-related-img-- > Chris Nicholson, Founder &#038; CEO of Pathmind &#8211; Interview Series <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/dan-oconnell-chief-strategy-officer-at-dialpad-interview-series/">https://www.unite.ai/dan-oconnell-chief-strategy-officer-at-dialpad-interview-series/</a> ( <!--mvp-related-img-- > Dan O&#8217;Connell, Chief Strategy Officer at Dialpad &#8211; Interview Series <!--mvp-related-text-- > )
+</p>
+<p>
+<a href="https://www.unite.ai/researchers-aim-to-boost-drug-discovery-speed-by-calculating-binding-efficiencies-with-ai/">https://www.unite.ai/researchers-aim-to-boost-drug-discovery-speed-by-calculating-binding-efficiencies-with-ai/</a> ( Researchers Aim To Boost Drug Discovery Speed By Calculating Binding Efficiencies With AI )
+</p>
+<p>
+<a href="https://www.unite.ai/kushal-chakrabarti-vp-of-research-and-data-science-at-opendoor-interview-series/">https://www.unite.ai/kushal-chakrabarti-vp-of-research-and-data-science-at-opendoor-interview-series/</a> ( Kushal Chakrabarti, VP of Research and Data Science at Opendoor &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/researchers-develop-ai-backed-method-of-seed-analysis/">https://www.unite.ai/researchers-develop-ai-backed-method-of-seed-analysis/</a> ( Researchers Develop AI-Backed Method of Seed Analysis )
+</p>
+<p>
+<a href="https://www.unite.ai/datagen-secures-18-million-in-investments-to-create-synthetic-data-for-ais/">https://www.unite.ai/datagen-secures-18-million-in-investments-to-create-synthetic-data-for-ais/</a> ( DataGen Secures $18 Million in Investments to Create Synthetic Data for AIs )
+</p>
+<p>
+<a href="https://www.unite.ai/alex-sappok-ceo-of-raysecur-interview-series/">https://www.unite.ai/alex-sappok-ceo-of-raysecur-interview-series/</a> ( Alex Sappok, CEO of RaySecur &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/zayd-enam-co-founder-and-ceo-of-cresta/">https://www.unite.ai/zayd-enam-co-founder-and-ceo-of-cresta/</a> ( Zayd Enam, Co-founder and CEO of Cresta )
+</p>
+<p>
+<a href="https://www.unite.ai/zack-dvey-aharon-ph-d-ceo-and-co-founder-of-aeye-health-interview-series/">https://www.unite.ai/zack-dvey-aharon-ph-d-ceo-and-co-founder-of-aeye-health-interview-series/</a> ( Zack Dvey-Aharon, Ph.D., CEO and Co-Founder of AEYE Health &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/yi-zou-senior-director-of-engineering-asml-silicon-valley-interview-series/">https://www.unite.ai/yi-zou-senior-director-of-engineering-asml-silicon-valley-interview-series/</a> ( Yi Zou, Senior Director of Engineering, ASML Silicon Valley &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/yasser-khan-ceo-of-one-tech-interview-series/">https://www.unite.ai/yasser-khan-ceo-of-one-tech-interview-series/</a> ( Yasser Khan, CEO of ONE Tech &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/wilson-pang-chief-technology-officer-at-appen-interview-series/">https://www.unite.ai/wilson-pang-chief-technology-officer-at-appen-interview-series/</a> ( Wilson Pang, Chief Technology Officer at Appen &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/william-santana-li-ceo-of-knightscope-interview-series/">https://www.unite.ai/william-santana-li-ceo-of-knightscope-interview-series/</a> ( William Santana Li, CEO of Knightscope &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/vincent-scesa-autonomous-vehicle-program-manager-easymile-interview-series/">https://www.unite.ai/vincent-scesa-autonomous-vehicle-program-manager-easymile-interview-series/</a> ( Vincent Scesa &#8211; Autonomous Vehicle Program Manager, EasyMile &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/vikrant-tomar-cto-and-founder-of-fluent-ai-interview-series/">https://www.unite.ai/vikrant-tomar-cto-and-founder-of-fluent-ai-interview-series/</a> ( Vikrant Tomar, CTO and Founder of Fluent.ai &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/vijay-kurkal-chief-executive-officer-for-resolve-interview-series/">https://www.unite.ai/vijay-kurkal-chief-executive-officer-for-resolve-interview-series/</a> ( Vijay Kurkal, Chief Executive Officer for Resolve &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/vahid-behzadan-director-of-secured-and-assured-intelligent-learning-sail-lab-interview-series/">https://www.unite.ai/vahid-behzadan-director-of-secured-and-assured-intelligent-learning-sail-lab-interview-series/</a> ( Vahid Behzadan, Director of Secured and Assured Intelligent Learning (SAIL) Lab &#8211; Interview Series )
+</p>
+<p>
+<a href="https://www.unite.ai/meet-the-team/">https://www.unite.ai/meet-the-team/</a> ( Meet the Team )
+</p>
+<p>
+<a href="https://www.unite.ai/our-charter/">https://www.unite.ai/our-charter/</a> ( Our Charter )
+</p>
+<p>
+<a href="https://www.unite.ai/press-tools/">https://www.unite.ai/press-tools/</a> ( Press Tools )
+</p>
+<p>
+<a href="https://www.unite.ai/contact-us/">https://www.unite.ai/contact-us/</a> ( Contact Us )
+</p>
+<p>
+<a href="https://www.facebook.com/uniteai">https://www.facebook.com/uniteai</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/UniteAI">https://twitter.com/UniteAI</a> ( )
+</p>
+<p>
+<a href="https://www.linkedin.com/company/unite-ai">https://www.linkedin.com/company/unite-ai</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/feed/">https://www.unite.ai/feed/</a> ( )
+</p>
+<p>
+<a href="https://www.unite.ai/editorial-policy/">https://www.unite.ai/editorial-policy/</a> ( Editorial Policy )
+</p>
+<p>
+<a href="https://www.unite.ai/privacy-policy/">https://www.unite.ai/privacy-policy/</a> ( Privacy Policy )
+</p>
+<p>
+<a href="https://www.unite.ai/terms-and-conditions/">https://www.unite.ai/terms-and-conditions/</a> ( Terms and Conditions )
+</p>
+</body>
+</html>

@@ -1,0 +1,1265 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - Clinc.com</title><style id="rocket-critical-css">@font-face{font-family:'ElegantIcons';src:url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.eot);src:url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.eot?#iefix) format('embedded-opentype'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.woff) format('woff'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.ttf) format('truetype'),url(https://clinc.com/wp-content/plugins/lekker-core/inc/icons/elegant-icons/assets/fonts/ElegantIcons.svg#ElegantIcons) format('svg');font-weight:normal;font-style:normal}.icon_search{font-family:'ElegantIcons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased}.icon_search:before{content:"\55"}.rs-p-wp-fix{display:none!important;margin:0!important;height:0px!important}.wp-block-themepunch-revslider{position:relative}rs-module-wrap{visibility:hidden}rs-module-wrap,rs-module-wrap *{box-sizing:border-box}rs-module-wrap{position:relative;z-index:1;width:100%;display:block}rs-module{position:relative;overflow:hidden;display:block}rs-module img{max-width:none!important;margin:0px;padding:0px;border:none}rs-slides,rs-slide,rs-slide:before{position:absolute;text-indent:0em;top:0px;left:0px}rs-slide,rs-slide:before{display:block;visibility:hidden}rs-module rs-layer{opacity:0;position:relative;visibility:hidden;white-space:nowrap;display:block;-webkit-font-smoothing:antialiased!important;-moz-osx-font-smoothing:grayscale;z-index:1}rs-layer:not(.rs-wtbindex){outline:none!important}rs-layer img{vertical-align:top}rs-static-layers{position:absolute;z-index:101;top:0px;left:0px;display:block;width:100%;height:100%}:root{--swiper-theme-color:#007aff}:root{--swiper-navigation-size:44px}a,body,div,form,h4,h5,html,label,li,p,span,strong,ul{vertical-align:baseline;margin:0;padding:0;background:0 0;border:0;outline:0}*{-webkit-box-sizing:border-box;box-sizing:border-box}header,main,nav,section{display:block}ul{list-style-position:inside;margin-bottom:1.5em;padding:0}ul:not(.wp-block){margin:0 0 1.5em}a img{border:none}img{height:auto;max-width:100%}img{vertical-align:middle;border-style:none}label{display:block;margin-bottom:.5em}strong{font-weight:bolder}.screen-reader-text{position:absolute!important;width:1px;height:0;line-height:1;clip:rect(1px,1px,1px,1px);word-wrap:normal!important;overflow:hidden}.clear:after,.clear:before,.widget:after,.widget:before{content:'';display:table;table-layout:fixed}.clear:after,.widget:after{clear:both}body{font-family:Poppins,sans-serif;font-size:16px;line-height:1.6875em;font-weight:400;color:#333;background-color:#fff;overflow-x:hidden;-webkit-font-smoothing:antialiased}h4{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:31px;line-height:1.22em;letter-spacing:-.04em;margin:25px 0;-ms-word-wrap:break-word;word-wrap:break-word}h5{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;margin:25px 0;-ms-word-wrap:break-word;word-wrap:break-word}a{color:#1f1f1f;text-decoration:none}p{margin:10px 0;line-height:1.6875em}button[type=submit]{position:relative;display:inline-block;vertical-align:middle;width:auto;margin:0;font-family:Poppins,sans-serif;font-size:13px;line-height:2em;font-weight:700;text-decoration:none;letter-spacing:-.01em;border-radius:0;outline:0;-webkit-box-sizing:border-box;box-sizing:border-box;padding:15px 40px;color:#fff;background-color:#1f1f1f;border:1px solid #1f1f1f}.qodef-content-grid{width:1100px;margin:0 auto}.qodef-grid{position:relative;display:inline-block;width:100%;vertical-align:top}.qodef-grid>.qodef-grid-inner{margin:0 -15px}.qodef-grid>.qodef-grid-inner>.qodef-grid-item{padding:0 15px}.qodef-grid .qodef-grid-item{position:relative;display:inline-block;width:100%;vertical-align:top;min-height:1px;float:left}@media only screen and (min-width:1025px){.qodef-grid.qodef-layout--template>.qodef-grid-inner>.qodef-grid-item.qodef-col--12{width:100%}}#qodef-page-wrapper{position:relative;overflow:hidden}#qodef-page-outer{position:relative}#qodef-page-inner{position:relative;padding:100px 0 90px}#qodef-page-header{position:relative;display:inline-block;width:100%;vertical-align:top;height:110px;background-color:#fff;z-index:200}#qodef-page-header .qodef-header-logo-link{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-ms-flex-negative:0;flex-shrink:0;height:110px;max-height:100%;max-width:100%}#qodef-page-header .qodef-header-logo-link img{display:block;margin:auto 0;width:auto;max-height:100%}#qodef-page-header-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 45px}#qodef-page-mobile-header{position:relative;display:none;height:70px;z-index:100}#qodef-page-mobile-header .qodef-mobile-header-logo-link{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:70px;max-height:100%;max-width:100%}#qodef-page-mobile-header .qodef-mobile-header-logo-link img{display:block;margin:auto;width:auto;max-height:100%;max-width:100%}#qodef-page-mobile-header-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 38px}@media only screen and (max-width:768px){#qodef-page-mobile-header-inner{padding:0}}#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;width:100%;margin:0 auto}@media only screen and (max-width:768px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:600px}}@media only screen and (max-width:680px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:420px}}@media only screen and (max-width:480px){#qodef-page-mobile-header-inner .qodef-page-mobile-header-logo-opener{width:300px}}.qodef-mobile-header-opener{font-size:20px;margin-left:20px}.qodef-mobile-header-opener .qodef-m-lines{position:relative;display:block;width:45px;height:45px;background-color:#000;border-radius:50%}.qodef-mobile-header-opener .qodef-m-lines:before{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:4px;top:3px;z-index:-1;opacity:0}.qodef-mobile-header-opener .qodef-m-lines:after{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:8px;top:7px;z-index:-1;opacity:0}.qodef-mobile-header-opener .qodef-m-line{position:absolute;left:10px;height:2px;width:56%;background-color:#fff}.qodef-mobile-header-opener .qodef-m-line.qodef--1{top:18px}.qodef-mobile-header-opener .qodef-m-line.qodef--2{top:26px}.qodef-mobile-header-navigation{position:absolute;top:100%;left:0;display:none;width:100%;max-height:calc(100vh - 70px);background-color:#fff;border-bottom:1px solid #e1e1e1;padding:0;margin:0;overflow-y:scroll;z-index:10}.qodef-mobile-header-navigation ul{margin:0;padding:0;list-style:none}.qodef-mobile-header-navigation ul li{position:relative;margin:0;padding:0}.qodef-mobile-header-navigation ul li ul{display:none;padding:3px 0;margin-left:0}.qodef-mobile-header-navigation ul li.menu-item-has-children>a:after{content:'>';position:absolute;top:0;right:0;line-height:inherit;-webkit-transform-origin:50% 50%;-ms-transform-origin:50% 50%;transform-origin:50% 50%}.qodef-mobile-header-navigation>ul{margin:0 auto;padding:34px 0}.qodef-mobile-header-navigation>ul>li>a{font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;font-weight:600;font-size:15px}.qodef-mobile-header-navigation>ul>li>a>span{position:relative}.qodef-mobile-header-navigation>ul>li>a>span:before{content:'';position:absolute;display:inline-block;background-color:currentColor;width:100%;height:2px;left:0;bottom:0;z-index:100;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}.qodef-mobile-header-navigation>ul>li.current-menu-item>a>span:before{-webkit-transform:scaleX(1);-ms-transform:scaleX(1);transform:scaleX(1)}.qodef-mobile-header-navigation .qodef-drop-down-second-inner ul li>a{font-family:Poppins,sans-serif;font-size:15px;line-height:1.6875em;font-weight:400;color:#333}.qodef-header-navigation{height:100%}.qodef-header-navigation ul{margin:0;padding:0;list-style:none}.qodef-header-navigation ul li{position:relative;margin:0;padding:0}.qodef-header-navigation ul li.qodef-menu-item--narrow ul{position:absolute;top:100%;left:0;width:260px;margin:0;padding:28px 0;background-color:#1f1f1f;opacity:0;visibility:hidden;text-align:left}.qodef-header-navigation ul li.qodef-menu-item--narrow ul li{padding:1px 39px}.qodef-header-navigation>ul{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:100%}.qodef-header-navigation>ul>li{height:100%;margin:0 18px}.qodef-header-navigation>ul>li:first-child{margin-left:0}.qodef-header-navigation>ul>li:last-child{margin-right:0}.qodef-header-navigation>ul>li>a{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-family:Poppins,sans-serif;font-weight:700;color:#1f1f1f;font-size:18px;line-height:1.5em;letter-spacing:-.02em;font-weight:600;font-size:15px;height:100%}.qodef-header-navigation>ul>li>a>span{position:relative}.qodef-header-navigation>ul>li>a>span:before{content:'';position:absolute;display:inline-block;background-color:currentColor;width:100%;height:2px;left:0;bottom:0;z-index:100;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}.qodef-header-navigation>ul>li.current-menu-item>a>span:before{-webkit-transform:scaleX(1);-ms-transform:scaleX(1);transform:scaleX(1)}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul li>a{font-family:Poppins,sans-serif;font-size:16px;line-height:1.6875em;font-weight:400;color:#fff;font-size:15px}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;margin:0 0 4px 0;overflow:hidden;padding-right:25px;justify-content:flex-start}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a span{position:relative;padding:0}.qodef-header-navigation>ul>li.qodef-menu-item--narrow ul:not(.qodef-drop-down--right) li>a span:before{content:'';position:absolute;bottom:0;left:0;height:2px;width:100%;background:#e82a2a;z-index:-1;-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0)}.widget{margin:0 0 50px}.widget:last-child{margin-bottom:0!important}.widget .qodef-widget-title{margin:0 0 13px}.widget a{color:#333}.widget.widget_lekker_core_side_area_opener{margin:0!important}.widget.widget_search .qodef-search-form-inner{position:relative;display:inline-block;width:100%;vertical-align:top}.widget.widget_search button,.widget.widget_search input{height:60px;padding:18px 0;font-family:inherit;font-weight:inherit;line-height:24px;border-radius:0;outline:0;-webkit-appearance:none}.widget.widget_search input{position:relative;display:inline-block;width:100%;vertical-align:top;padding-left:27px;padding-right:60px;font-size:16px;color:#333;background-color:#f7f7f7;border:1px solid transparent}.widget.widget_search input::-webkit-input-placeholder{color:inherit;opacity:1}.widget.widget_search input::-moz-placeholder{color:inherit;opacity:1}.widget.widget_search input:-ms-input-placeholder{color:inherit;opacity:1}.widget.widget_search input::-ms-input-placeholder{color:inherit;opacity:1}.widget.widget_search button{position:absolute;top:0;right:0;width:77px;font-size:13px;text-align:center;color:#1f1f1f;background-color:transparent;border:0}.widget.widget_search button span{display:block;line-height:inherit}.widget.widget_search button span:before{display:block;line-height:inherit}#qodef-side-area .widget{margin:0 0 20px;color:#fff}#qodef-side-area .widget:last-child{margin-bottom:0!important}#qodef-side-area .widget .qodef-widget-title{margin:0 0 13px;color:#fff}#qodef-side-area .widget.widget_search .qodef-search-form-inner{position:relative;display:inline-block;width:100%;vertical-align:top}#qodef-side-area .widget.widget_search button,#qodef-side-area .widget.widget_search input{height:60px;padding:18px 0;font-family:inherit;font-weight:inherit;line-height:24px;border-radius:0;outline:0;-webkit-appearance:none}#qodef-side-area .widget.widget_search input{position:relative;display:inline-block;width:100%;vertical-align:top;padding-left:27px;padding-right:60px;font-size:16px;color:#333;background-color:#f7f7f7;border:1px solid transparent}#qodef-side-area .widget.widget_search input::-webkit-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input::-moz-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input:-ms-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search input::-ms-input-placeholder{color:inherit;opacity:1}#qodef-side-area .widget.widget_search button{position:absolute;top:0;right:0;width:77px;font-size:13px;text-align:center;color:#1f1f1f;background-color:transparent;border:0}#qodef-side-area .widget.widget_search button span{display:block;line-height:inherit}#qodef-side-area .widget.widget_search button span:before{display:block;line-height:inherit}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input[type=search]::-ms-clear{display:none}@media only screen and (max-width:1200px){.qodef-content-grid{width:960px}}@media only screen and (max-width:1024px){.qodef-content-grid{width:768px}}@media only screen and (max-width:768px){.qodef-content-grid{width:600px}}@media only screen and (max-width:680px){.qodef-content-grid{width:420px}}@media only screen and (max-width:480px){.qodef-content-grid{width:300px}}@media only screen and (max-width:1024px){#qodef-page-header{display:none}}@media only screen and (max-width:1024px){#qodef-page-mobile-header{display:block}}#qodef-back-to-top{position:fixed;width:58px;right:50px;bottom:8%;margin:0;z-index:10000;opacity:0;visibility:hidden;-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}#qodef-back-to-top .qodef-btn-background{position:absolute;left:-26px;top:0;background-color:transparent;width:158px;height:58px;z-index:-10}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines{width:58px;height:58px;position:absolute;left:139px}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:after,#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:before{content:'';width:2px;height:24px;background-color:#1f1f1f;position:absolute;right:100%;top:5px;-webkit-transform-origin:top;-ms-transform-origin:top;transform-origin:top;display:inline-block!important}#qodef-back-to-top .qodef-btn-background .qodef-m-nav-lines:after{top:29px;-webkit-transform-origin:bottom;-ms-transform-origin:bottom;transform-origin:bottom}#qodef-back-to-top .qodef-back-to-top-text{position:relative;display:block;width:158px;height:58px;font-family:Poppins,sans-serif;color:#1f1f1f;letter-spacing:-.02em;line-height:58px;font-size:13px;text-align:center;font-weight:700;overflow:hidden}#qodef-back-to-top span span{display:block;line-height:inherit}.qodef-header--dark #qodef-page-header .qodef-header-navigation>ul>li>a{color:#000!important}#qodef-page-header .qodef-widget-holder{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:100%;margin-left:24px}#qodef-page-header .qodef-widget-holder .widget{margin:0 12px}#qodef-page-header .qodef-widget-holder .widget:first-child{margin-left:0;margin-right:5px}#qodef-page-header .qodef-widget-holder .widget:last-child{margin-right:0}#qodef-page-header .qodef-header-logo-link img.qodef--main{opacity:1}#qodef-page-header .qodef-header-logo-link img.qodef--dark,#qodef-page-header .qodef-header-logo-link img.qodef--light{opacity:0}#qodef-page-header .qodef-header-logo-link img:not(.qodef--main):not(.qodef--sticky){position:absolute;top:50%;left:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.qodef-header--dark #qodef-page-header .qodef-header-logo-link .qodef--dark{opacity:1}.qodef-header--dark #qodef-page-header .qodef-header-logo-link .qodef--light,.qodef-header--dark #qodef-page-header .qodef-header-logo-link .qodef--main{opacity:0}.qodef-header-standard--right #qodef-page-header-inner .qodef-header-navigation{margin-left:auto}.qodef-header-sticky{position:fixed;top:0;left:0;height:110px;width:100%;background-color:#fff;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);z-index:100}.qodef-header-sticky-inner{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;height:100%;padding:0 45px}.qodef-header-standard--right .qodef-header-sticky-inner .qodef-header-logo-link{margin-right:auto}#qodef-page-mobile-header{background-color:#fff}#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--main{opacity:1}#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--dark,#qodef-page-mobile-header .qodef-mobile-header-logo-link img.qodef--light{opacity:0}#qodef-page-mobile-header .qodef-mobile-header-logo-link img:not(.qodef--main){position:absolute;top:50%;left:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}.qodef-mobile-header--standard #qodef-page-mobile-header #qodef-page-mobile-header-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.qodef-mobile-header--standard #qodef-page-mobile-header #qodef-page-mobile-header-inner .qodef-mobile-header-logo-link{margin-right:auto}.qodef-header-navigation ul li .qodef-drop-down-second{position:absolute;top:100%;left:-33px;display:block;width:260px;opacity:0;visibility:hidden;overflow:hidden;z-index:10;background-color:#1f1f1f}.qodef-header-navigation ul li.qodef-menu-item--narrow .qodef-drop-down-second-inner{position:relative;display:inline-block;width:100%;vertical-align:top}.qodef-header-navigation ul li.qodef-menu-item--narrow .qodef-drop-down-second-inner>ul{opacity:1;visibility:visible}.qodef-opener-icon{position:relative;display:inline-block;vertical-align:middle;line-height:1}.qodef-opener-icon .qodef-m-icon{position:relative;visibility:visible}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines{position:relative;display:block;width:45px;height:45px;background-color:#000;border-radius:50%;-webkit-backface-visibility:hidden;backface-visibility:hidden}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines:before{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:4px;top:3px;z-index:-1;-webkit-transform:scale(.5);-ms-transform:scale(.5);transform:scale(.5)}.qodef-opener-icon.qodef-source--predefined .qodef-m-lines:after{content:'';position:absolute;width:43px;height:43px;border:1px solid #000;border-radius:50%;background-color:transparent;left:8px;top:7px;z-index:-1;-webkit-transform:scale(.5);-ms-transform:scale(.5);transform:scale(.5)}.qodef-opener-icon.qodef-source--predefined .qodef-m-line{position:absolute;left:10px;height:2px;width:56%;background-color:#fff}.qodef-opener-icon.qodef-source--predefined .qodef-m-line.qodef--1{top:18px}.qodef-opener-icon.qodef-source--predefined .qodef-m-line.qodef--2{top:26px}.qodef-header--dark:not(.qodef-fullscreen-menu--opened) .qodef-opener-icon.qodef-source--predefined{color:#000!important}.qodef-separator{position:relative;height:auto;font-size:0;line-height:1}.qodef-separator .qodef-m-line{position:relative;display:inline-block;width:100%;vertical-align:top;margin:10px 0;border-bottom:1px solid #e1e1e1}#qodef-side-area .widget.widget_lekker_core_separator{margin-bottom:0}#qodef-side-area{position:fixed;top:0;right:-490px;width:490px;height:100%;min-height:100%;padding:64px 101px 35px 66px;text-align:left;background-color:#1f1f1f;overflow:hidden;visibility:hidden;z-index:9999}#qodef-side-area-close{position:absolute;top:31px;right:46px;display:block;z-index:1000;color:#fff}#qodef-side-area-close.qodef-source--predefined .qodef-m-line{background-color:#1f1f1f}#qodef-side-area-close.qodef-source--predefined .qodef-m-line.qodef--1{top:21px;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}#qodef-side-area-close.qodef-source--predefined .qodef-m-line.qodef--2{top:21px;-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg)}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines{background-color:#fff}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines:after,#qodef-side-area-close.qodef-source--predefined .qodef-m-lines:before{display:none}#qodef-side-area-close.qodef-source--predefined .qodef-m-lines .qodef-m-line{height:2px;width:56%}button::-moz-focus-inner{padding:0;border:0}section.qodef-elementor-content-grid>.elementor-container{width:1100px;margin:0 auto}@media only screen and (max-width:1200px){section.qodef-elementor-content-grid>.elementor-container{width:960px}}@media only screen and (max-width:1024px){section.qodef-elementor-content-grid>.elementor-container{width:768px}}@media only screen and (max-width:768px){section.qodef-elementor-content-grid>.elementor-container{width:600px}}@media only screen and (max-width:680px){section.qodef-elementor-content-grid>.elementor-container{width:420px}}@media only screen and (max-width:480px){section.qodef-elementor-content-grid>.elementor-container{width:300px}}.elementor-element.elementor-widget-text-editor{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit}.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated{padding:10px}.elementor-column-gap-wide>.elementor-row>.elementor-column>.elementor-element-populated{padding:20px}@media (max-width:767px){.elementor-column{width:100%}}.screen-reader-text{position:absolute;top:-10000em;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}.elementor-clearfix:after{content:"";display:block;clear:both;width:0;height:0}.elementor{-webkit-hyphens:manual;-ms-hyphens:manual;hyphens:manual}.elementor *,.elementor :after,.elementor :before{-webkit-box-sizing:border-box;box-sizing:border-box}.elementor img{height:auto;max-width:100%;border:none;-webkit-border-radius:0;border-radius:0;-webkit-box-shadow:none;box-shadow:none}:root{--page-title-display:block}.elementor-section{position:relative}.elementor-section .elementor-container{display:-webkit-box;display:-ms-flexbox;display:flex;margin-right:auto;margin-left:auto;position:relative}@media (max-width:1024px){.elementor-section .elementor-container{-ms-flex-wrap:wrap;flex-wrap:wrap}}.elementor-section.elementor-section-boxed>.elementor-container{max-width:1140px}.elementor-row{width:100%;display:-webkit-box;display:-ms-flexbox;display:flex}@media (max-width:1024px){.elementor-row{-ms-flex-wrap:wrap;flex-wrap:wrap}}.elementor-widget-wrap{position:relative;width:100%;-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-line-pack:start;align-content:flex-start}.elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-wrap>.elementor-element{width:100%}.elementor-widget{position:relative}.elementor-widget:not(:last-child){margin-bottom:20px}.elementor-column{min-height:1px}.elementor-column,.elementor-column-wrap{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-column-wrap{width:100%}@media (min-width:768px){.elementor-column.elementor-col-50{width:50%}.elementor-column.elementor-col-100{width:100%}}@media (max-width:767px){.elementor-column{width:100%}}.elementor-kit-32{--e-global-color-primary:#000000;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#FF00E5;--e-global-color-4786da9:#FFFFFF;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Maven Pro";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500}.elementor-section.elementor-section-boxed>.elementor-container{max-width:1140px}.elementor-widget:not(:last-child){margin-bottom:20px}@media (max-width:1024px){.elementor-section.elementor-section-boxed>.elementor-container{max-width:1025px}}@media (max-width:767px){.elementor-section.elementor-section-boxed>.elementor-container{max-width:768px}}.elementor-widget-text-editor{color:var(--e-global-color-text);font-family:var(--e-global-typography-text-font-family);font-weight:var(--e-global-typography-text-font-weight)}.elementor-4808 .elementor-element.elementor-element-9b97a39:not(.elementor-motion-effects-element-type-background){background-color:#FFFFFF}.elementor-4808 .elementor-element.elementor-element-228d2ec:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap{background-color:#FFFFFF}.elementor-4808 .elementor-element.elementor-element-228d2ec>.elementor-element-populated{padding:0px 0px 0px 0px}.elementor-4808 .elementor-element.elementor-element-5f13444:not(.elementor-motion-effects-element-type-background){background-color:#000000}.elementor-4808 .elementor-element.elementor-element-5f13444{padding:100px 0px 100px 0px}.elementor-4808 .elementor-element.elementor-element-49dd9cb.elementor-column>.elementor-column-wrap>.elementor-widget-wrap{justify-content:center}.elementor-4808 .elementor-element.elementor-element-49dd9cb>.elementor-element-populated{padding:20px 20px 20px 20px}.elementor-4808 .elementor-element.elementor-element-a3f5a5e .elementor-text-editor{text-align:left}.elementor-4808 .elementor-element.elementor-element-a3f5a5e{color:#FFFFFF;font-family:"Roboto",Sans-serif;font-weight:400}.elementor-4808 .elementor-element.elementor-element-a3f5a5e>.elementor-widget-container{padding:0% 0% 0% 0%}.elementor-4808 .elementor-element.elementor-element-9b0e4c8{color:var(--e-global-color-4786da9);font-family:"Roboto",Sans-serif;font-weight:100}.elementor-4808 .elementor-element.elementor-element-9b0e4c8>.elementor-widget-container{padding:0% 0% 0% 0%}.elementor-4808 .elementor-element.elementor-element-f5f6816{margin-top:0px;margin-bottom:0px;padding:30px 0px 30px 0px}.elementor-4808 .elementor-element.elementor-element-75b8e4b>.elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.elementor-4808 .elementor-element.elementor-element-e0ef410>.elementor-widget-container{padding:0px 20px 0px 0px}.elementor-4808 .elementor-element.elementor-element-e58db00.elementor-column.elementor-element[data-element_type="column"]>.elementor-column-wrap.elementor-element-populated>.elementor-widget-wrap{align-content:flex-start;align-items:flex-start}.elementor-4808 .elementor-element.elementor-element-e58db00>.elementor-element-populated{padding:0px 0px 0px 0px}.elementor-4808 .elementor-element.elementor-element-f0b6503:not(.elementor-motion-effects-element-type-background){background-color:#FF6A00;background-image:url("http://clinc.com/wp-content/uploads/2020/11/home-engineer-bg-scaled.jpg");background-position:center center;background-size:cover}.elementor-4808 .elementor-element.elementor-element-f0b6503{padding:100px 0px 100px 0px}.elementor-4808 .elementor-element.elementor-element-c712ffc.elementor-column>.elementor-column-wrap>.elementor-widget-wrap{justify-content:center}.elementor-4808 .elementor-element.elementor-element-c712ffc>.elementor-element-populated{padding:20px 20px 20px 20px}.elementor-4808 .elementor-element.elementor-element-f9dd719 .elementor-text-editor{text-align:left}.elementor-4808 .elementor-element.elementor-element-f9dd719{color:#FFFFFF;font-family:"Roboto",Sans-serif;font-weight:400}.elementor-4808 .elementor-element.elementor-element-f9dd719>.elementor-widget-container{padding:0% 0% 0% 0%}@media (max-width:1024px){.elementor-4808 .elementor-element.elementor-element-a3f5a5e>.elementor-widget-container{padding:0px 2px 0px 2px}.elementor-4808 .elementor-element.elementor-element-9b0e4c8>.elementor-widget-container{padding:0px 2px 0px 2px}.elementor-4808 .elementor-element.elementor-element-f9dd719>.elementor-widget-container{padding:0px 2px 0px 2px}}@media (max-width:767px){.elementor-4808 .elementor-element.elementor-element-a3f5a5e>.elementor-widget-container{padding:0px 0px 0px 0px}.elementor-4808 .elementor-element.elementor-element-9b0e4c8>.elementor-widget-container{padding:0px 0px 0px 0px}.elementor-4808 .elementor-element.elementor-element-f9dd719>.elementor-widget-container{padding:0px 0px 0px 0px}}</style><link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%7CMaven%20Pro%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMaven%20Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C300%7CMaven%20Pro%3A500&#038;subset=latin-ext%2Clatin&#038;display=swap" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" /><link rel="preload" href="https://clinc.com/wp-content/cache/min/1/157584514c27602a0aee8dd80f4ddc4f.css" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" media="all" data-minify="1" />
+	<meta name="description" content="Clinc conversational AI for enterprises supports complex conversational flows to deliver sophisticated voice and chat solutions for all industries. Learn more." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://clinc.com/" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Clinc AI">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="1 minute">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://clinc.com/#organization","name":"Clinc","url":"https://clinc.com/","sameAs":["https://www.facebook.com/clincAI","https://www.instagram.com/clinc.ai/","https://www.linkedin.com/company/clinc-inc./","https://twitter.com/ClincAI"],"logo":{"@type":"ImageObject","@id":"https://clinc.com/#logo","inLanguage":"en-US","url":"https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg","caption":"Clinc"},"image":{"@id":"https://clinc.com/#logo"}},{"@type":"WebSite","@id":"https://clinc.com/#website","url":"https://clinc.com/","name":"Clinc.com","description":"Clinc Conversational AI","publisher":{"@id":"https://clinc.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://clinc.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://clinc.com/#primaryimage","inLanguage":"en-US","url":"https://clinc.com/wp-content/uploads/2020/10/temp-logo.svg"},{"@type":"WebPage","@id":"https://clinc.com/#webpage","url":"https://clinc.com/","name":"Home - Clinc.com","isPartOf":{"@id":"https://clinc.com/#website"},"about":{"@id":"https://clinc.com/#organization"},"primaryImageOfPage":{"@id":"https://clinc.com/#primaryimage"},"datePublished":"2020-04-15T13:06:45+00:00","dateModified":"2021-01-26T22:50:27+00:00","description":"Clinc conversational AI for enterprises supports complex conversational flows to deliver sophisticated voice and chat solutions for all industries. Learn more.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://clinc.com/"]}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Clinc.com &raquo; Feed" href="https://clinc.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Clinc.com &raquo; Comments Feed" href="https://clinc.com/comments/feed/" />
+		
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	
+
+
+
+
+
+
+<link rel='preload'   href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.6.2' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" type='text/css' media='all' />
+
+
+
+
+
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+
+
+
+
+
+
+
+
+
+
+<style id='lekker-style-inline-css' type='text/css'>
+#qodef-page-outer { margin-top: -110px;}@media only screen and (max-width: 1024px) { #qodef-page-outer { margin-top: -70px;}}#qodef-page-inner { padding: 0px 0px 0px 0px;}@media only screen and (max-width: 1024px) { #qodef-page-inner { padding: 0px 0px 0px 0px;}}#qodef-side-area { background-color: #1f1f1f;}.qodef-page-title { height: 250px;background-color: #f7f7f7;}.qodef-page-title .qodef-m-content { padding-top: 110px;}@media only screen and (max-width: 1024px) { .qodef-page-title { height: 200px;}}@media only screen and (max-width: 1024px) { .qodef-page-title .qodef-m-content { padding-top: 70px;}}h1 { font-weight: 500;}a:hover, p a:hover { color: #8224e3;}.qodef-header--standard #qodef-page-header { background-color: rgba(255,255,255,0);}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' src='https://clinc.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+
+
+<link rel="https://api.w.org/" href="https://clinc.com/wp-json/" /><link rel="alternate" type="application/json" href="https://clinc.com/wp-json/wp/v2/pages/4808" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://clinc.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://clinc.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://clinc.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://clinc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fclinc.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://clinc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fclinc.com%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v7.47.0-->
+			
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					}
+					Object.defineProperty(window.hbspt.forms, 'create', {
+						configurable: true,
+						get: function() {
+							return hbspt._wpCreateForm;
+						},
+						set: function(value) {
+							hbspt._wpCreateForm = value;
+							while (hbspt._wpFormsQueue.length) {
+								var formDef = hbspt._wpFormsQueue.shift();
+								if (!document.currentScript) {
+									var formScriptId = 'hbspt-forms-loader-script';
+									hubspot.utils.currentScript = document.getElementsById(formScriptId);
+								}
+								hbspt._wpCreateForm.call(hbspt.forms, formDef);
+							}
+						},
+					})
+				})();
+			</script>
+		<style>/* CSS added by WP Meta and Date Remover*/.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }</style>		
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<meta name="generator" content="Powered by Slider Revolution 6.2.22 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57GP8T2');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NL5M9C2');</script>
+<!-- End Google Tag Manager -->
+<!-- ay gsc -->
+<meta name="google-site-verification" content="xaMz-1XKQTqnresOhb4sfOuEzeWk8G4lrbx805VygHE">
+
+<!-- mb gsc -->
+<meta name="google-site-verification" content="xsf4J2XL-2DBg4L14IENWsi4l_PX1hpr6UZvWtzJWdA">
+
+<link rel="icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://clinc.com/wp-content/uploads/2020/11/cropped-icon-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			.wp-block-quote:before, blockquote:before {
+  content: '“';
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  height: .3em;
+  font-size: 150px;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: -.03em;
+  color: #333;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: -1;
+}
+
+/* Remove meta data */
+
+
+.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }		</style>
+		<script>
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
+</script></head>
+<body class="home page-template page-template-page-full-width page-template-page-full-width-php page page-id-4808 qode-framework-1.1.3 qodef-back-to-top--enabled  qodef-content-grid-1300 qodef-content-behind-header qodef-header--dark qodef-header--standard qodef-header-appearance--sticky qodef-mobile-header--standard qodef-drop-down-second--full-width qodef-drop-down-second--animate-height lekker-core-1.0.1 lekker-1.1 qodef-header-standard--right qodef-search--covers-header elementor-default elementor-kit-32 elementor-page elementor-page-4808" itemscope itemtype="https://schema.org/WebPage">
+
+		<div id="qodef-page-wrapper" class="">
+		<header id="qodef-page-header">
+		<div id="qodef-page-header-inner" >
+		<a itemprop="url" class="qodef-header-logo-link qodef-height--set" href="https://clinc.com/" style="height:44px" rel="home">
+	<img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main" alt="logo main" loading="lazy" /></noscript></noscript>	<img   alt="logo dark" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--dark lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--dark" alt="logo dark" loading="lazy" /></noscript>	<img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light" alt="logo light" loading="lazy" /></noscript></noscript></a>	<nav class="qodef-header-navigation" role="navigation" aria-label="Top Menu">
+		<ul id="menu-clinc-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4808 current_page_item menu-item-4967"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5334"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5092 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5142"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5090"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5147"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5234 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5225"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5014"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5233"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5228 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5266"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5290"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5449"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi Case Study</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5086"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	<div class="qodef-widget-holder">
+		<div id="lekker_core_side_area_opener-2" class="widget widget_lekker_core_side_area_opener qodef-header-widget-area-one" data-area="header-widget-one"><a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--predefined qodef-side-area-opener" style="color: #1f1f1f;;margin: 0 0 0 13px" >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a></div>	</div>
+	</div>
+	<div class="qodef-header-sticky ">
+    <div class="qodef-header-sticky-inner ">
+		<a itemprop="url" class="qodef-header-logo-link qodef-height--set" href="https://clinc.com/" style="height:44px" rel="home">
+	<img   alt="logo sticky" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--sticky lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--sticky" alt="logo sticky" loading="lazy" /></noscript></a>	<nav class="qodef-header-navigation" role="navigation" aria-label="Top Menu">
+		<ul id="menu-clinc-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4808 current_page_item menu-item-4967"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5334"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5092 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5142"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5192"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5090"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5147"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5234 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5225"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5014"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5233"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5228 qodef-menu-item--narrow"><a><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5266"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5290"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5449"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi Case Study</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5086"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	    <div class="qodef-widget-holder">
+		    <div id="lekker_core_side_area_opener-4" class="widget widget_lekker_core_side_area_opener qodef-sticky-right"><a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--predefined qodef-side-area-opener" style="margin: 0 0 0 13px" >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a></div>	    </div>
+	        </div>
+</div></header><header id="qodef-page-mobile-header">
+		<div id="qodef-page-mobile-header-inner">
+		<div class="qodef-page-mobile-header-logo-opener">
+    <a itemprop="url" class="qodef-mobile-header-logo-link" href="https://clinc.com/" style="height:26px" rel="home">
+	<img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo main" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo.svg" class="qodef-header-logo-image qodef--main" alt="logo main" loading="lazy" /></noscript></noscript>	<img   alt="logo dark" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--dark lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--dark" alt="logo dark" loading="lazy" /></noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt="logo light" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white.svg" class="qodef-header-logo-image qodef--light" alt="logo light" loading="lazy" /></noscript></noscript></a><a class="qodef-mobile-header-opener" href="#">
+	<span class="qodef-m-lines">
+		<span class="qodef-m-line qodef--1"></span>
+		<span class="qodef-m-line qodef--2"></span>
+	</span>
+</a></div>
+	<nav class="qodef-mobile-header-navigation" role="navigation" aria-label="Mobile Menu">
+		<ul id="menu-mobile-menu-1" class="qodef-content-grid"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4808 current_page_item menu-item-5497"><a href="https://clinc.com/"><span class="qodef-menu-item-text">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5486"><a href="https://clinc.com/why-clinc/"><span class="qodef-menu-item-text">Why Clinc?</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5496 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Solutions</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5494"><a href="https://clinc.com/finie/"><span class="qodef-menu-item-text">Finie</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5495"><a href="https://clinc.com/platform/"><span class="qodef-menu-item-text">Platform</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5493"><a href="https://clinc.com/technology/"><span class="qodef-menu-item-text">Technology</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5491"><a href="https://clinc.com/ivr/"><span class="qodef-menu-item-text">IVR</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5498 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Company</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5490"><a href="https://clinc.com/about-us/"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5489"><a href="https://clinc.com/careers/"><span class="qodef-menu-item-text">Careers</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5500"><a href="https://clinc.com/our-team/"><span class="qodef-menu-item-text">Our Team</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5501 qodef-menu-item--narrow"><a href="https://*"><span class="qodef-menu-item-text">Resources</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5488"><a href="https://clinc.com/blog/"><span class="qodef-menu-item-text">Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5487"><a href="https://clinc.com/press/"><span class="qodef-menu-item-text">Press</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5485"><a href="https://clinc.com/maxi/"><span class="qodef-menu-item-text">Maxi</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5502"><a href="https://clinc.com/contact-us/"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+</ul>	</nav>
+	</div>
+	</header>		<div id="qodef-page-outer">
+						<div id="qodef-page-inner" class="qodef-content-full-width"><main id="qodef-page-content" class="qodef-grid qodef-layout--template ">
+	<div class="qodef-grid-inner clear">
+		<div class="qodef-grid-item qodef-page-content-section qodef-col--12">
+			<div data-elementor-type="wp-page" data-elementor-id="4808" class="elementor elementor-4808" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-9b97a39 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="9b97a39" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-228d2ec" data-id="228d2ec" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-05c9e48 elementor-widget elementor-widget-slider_revolution" data-id="05c9e48" data-element_type="widget" data-widget_type="slider_revolution.default">
+				<div class="elementor-widget-container">
+			
+		<div class="wp-block-themepunch-revslider">
+			<!-- START New Home Slider REVOLUTION SLIDER 6.2.22 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_15_1_wrapper" data-source="gallery" style="background:transparent;padding:0;">
+				<rs-module id="rev_slider_15_1" style="" data-version="6.2.22">
+					<rs-slides>
+						<rs-slide data-key="rs-34" data-title="Slide" data-duration="12000ms" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img src="//clinc.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" alt="Slide" title="Home" data-bg="c:#ffffff;" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-group
+								id="slider-15-slide-34-layer-3" 
+								data-type="group"
+								data-rsp_ch="on"
+								data-xy="xo:945px,780px,373px,230px;yo:470px,388px,294px,181px;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:163px,134px,101px,62px;h:97px,80px,61px,37px;maxh:none,none,30px,none;"
+								data-vbility="t,t,f,f"
+								data-border="bor:5px,5px,5px,5px;"
+								data-ford="frame_0;frame_1;frame_2;frame_3;frame_4;frame_999;"
+								data-frame_0="y:100%;"
+								data-frame_0_mask="u:t;"
+								data-frame_1="st:1190;sp:1200;"
+								data-frame_1_mask="u:t;"
+								data-frame_999="o:0;st:w;sR:3600;sA:12000;"
+								data-frame_2="y:-102px,-84px,-63px,-38px;oX:50%;oY:50%;oZ:0;tp:600;st:3500;sp:400;sR:1910;"
+								data-frame_3="y:-220px,-181px,-137px,-84px;oX:50%;oY:50%;oZ:0;tp:600;st:6000;sp:500;sR:2100;"
+								data-frame_4="y:-272px,-224px,-170px,-104px;oX:50%;oY:50%;oZ:0;tp:600;st:9000;sp:400;sR:1500;"
+								style="z-index:14;background-color:#007aff;"
+							><!--
+								--><rs-layer
+									id="slider-15-slide-34-layer-6" 
+									data-type="text"
+									data-color="#fff"
+									data-rsp_ch="on"
+									data-xy="xo:15px,12px,9px,5px;y:m;"
+									data-text="w:normal;s:14,11,8,4;l:16,13,9,6;ls:1,0,0,0;"
+									data-dim="w:130px,107px,81px,49px;minh:0px,none,none,none;"
+									data-frame_999="o:0;st:w;sR:11700;"
+									style="z-index:13;font-family:Roboto;"
+								>“I wanna transfer some cheddar from my checking to savings” 
+								</rs-layer><!--
+							--></rs-group><!--
+
+							--><rs-group
+								id="slider-15-slide-34-layer-11" 
+								data-type="group"
+								data-rsp_ch="on"
+								data-xy="xo:864px,713px,309px,190px;yo:471px,388px,294px,181px;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:163px,134px,101px,62px;h:97px,80px,60px,37px;"
+								data-vbility="t,t,f,f"
+								data-border="bor:5px,5px,5px,5px;"
+								data-ford="frame_0;frame_1;frame_2;frame_3;frame_999;"
+								data-frame_0="sX:0.9;sY:0.9;"
+								data-frame_1="st:3500;sp:500;sR:3500;"
+								data-frame_999="o:0;st:w;sR:3600;sA:12000;"
+								data-frame_2="y:-118px,-97px,-73px,-45px;oX:50%;oY:50%;oZ:0;tp:600;st:6000;sp:500;sR:2000;"
+								data-frame_3="y:-171px,-141px,-107px,-66px;oX:50%;oY:50%;oZ:0;tp:600;st:9000;sp:400;sR:1500;"
+								style="z-index:12;background:linear-gradient(rgba(255,0,229,1) 0%, rgba(255,122,0,1) 100%);"
+							><!--
+								--><rs-layer
+									id="slider-15-slide-34-layer-12" 
+									data-type="text"
+									data-color="#fff"
+									data-rsp_ch="on"
+									data-xy="xo:15px,12px,9px,5px;y:m;"
+									data-text="w:normal;s:14,11,8,4;l:16,13,9,6;ls:1,0,0,0;"
+									data-dim="w:130px,107px,81px,49px;minh:0px,none,none,none;"
+									data-frame_999="o:0;st:w;sR:11700;"
+									style="z-index:11;font-family:Roboto;"
+								>Okay - Please provide the amount you’d like to transfer. 
+								</rs-layer><!--
+							--></rs-group><!--
+
+							--><rs-group
+								id="slider-15-slide-34-layer-15" 
+								data-type="group"
+								data-rsp_ch="on"
+								data-xy="xo:945px,780px,373px,230px;yo:456px,376px,294px,181px;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:163px,134px,101px,62px;h:97px,80px,60px,37px;"
+								data-vbility="t,t,f,f"
+								data-border="bor:5px,5px,5px,5px;"
+								data-ford="frame_0;frame_1;frame_2;frame_999;"
+								data-frame_0="sX:0.9;sY:0.9;"
+								data-frame_1="st:6000;sp:500;sR:6000;"
+								data-frame_999="o:0;st:w;sR:3600;sA:12000;"
+								data-frame_2="y:-53px,-43px,-32px,-19px;oX:50%;oY:50%;oZ:0;tp:600;st:9000;sp:400;sR:1500;"
+								style="z-index:16;background-color:#007aff;"
+							><!--
+								--><rs-layer
+									id="slider-15-slide-34-layer-16" 
+									data-type="text"
+									data-color="#fff"
+									data-rsp_ch="on"
+									data-xy="xo:10px,8px,6px,3px;y:m;"
+									data-text="w:normal;s:14,11,8,4;l:16,13,9,6;ls:1,0,0,0;"
+									data-dim="w:145px,119px,90px,55px;minh:0px,none,none,none;"
+									data-frame_999="o:0;st:w;sR:11700;"
+									style="z-index:15;font-family:Roboto;"
+								>$50 bucks, but actually, let’s transfer that from savings to checking 
+								</rs-layer><!--
+							--></rs-group><!--
+
+							--><rs-group
+								id="slider-15-slide-34-layer-26" 
+								data-type="group"
+								data-xy="xo:50px,41px,391px,241px;yo:50px,41px,266px,204px;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:300px,247px,187px,115px;h:180px,148px,112px,69px;"
+								data-vbility="f,f,t,f"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-border="bor:5px,5px,5px,5px;"
+								data-frame_0="sX:0.8;sY:0.8;"
+								data-frame_1="e:power4.out;st:200;sp:1000;"
+								data-frame_999="o:0;st:w;sA:12000;"
+								style="z-index:21;background-color:rgba(0,122,255,0.9);"
+							><!--
+								--><rs-layer
+									id="slider-15-slide-34-layer-27" 
+									data-type="text"
+									data-rsp_ch="on"
+									data-xy="xo:50px,41px,15px,9px;y:t,t,m,m;yo:50px,41px,0,0;"
+									data-text="w:normal;s:20,16,14,8;l:25,20,16,9;"
+									data-dim="w:auto,auto,150px,92px;"
+									data-frame_999="o:0;st:w;"
+									style="z-index:20;font-family:Roboto;"
+								>“$50 bucks, but actually, let’s transfer that from savings to checking.” 
+								</rs-layer><!--
+							--></rs-group><!--
+
+							--><rs-group
+								id="slider-15-slide-34-layer-30" 
+								data-type="group"
+								data-xy="xo:50px,41px,391px,241px;yo:50px,41px,136px,123px;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:300px,247px,187px,115px;h:180px,148px,112px,69px;"
+								data-vbility="f,f,t,f"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-border="bor:5px,5px,5px,5px;"
+								data-frame_0="sX:0.8;sY:0.8;"
+								data-frame_1="e:power4.out;st:300;sp:1000;"
+								data-frame_999="o:0;st:w;sA:12000;"
+								style="z-index:23;background-color:rgba(0,122,255,0.9);"
+							><!--
+								--><rs-layer
+									id="slider-15-slide-34-layer-31" 
+									data-type="text"
+									data-rsp_ch="on"
+									data-xy="xo:50px,41px,15px,9px;y:t,t,m,m;yo:50px,41px,0,0;"
+									data-text="w:normal;s:20,16,14,8;l:25,20,16,9;"
+									data-dim="w:auto,auto,150px,92px;"
+									data-vbility="f,f,t,t"
+									data-frame_999="o:0;st:w;"
+									style="z-index:22;font-family:Roboto;"
+								>“I wanna transfer some money from my checking to savings” 
+								</rs-layer><!--
+							--></rs-group><!--
+
+							--><rs-group
+								id="slider-15-slide-34-layer-32" 
+								data-type="group"
+								data-rsp_ch="on"
+								data-xy="xo:50px,41px,213px,131px;yo:50px,41px,206px,167px;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:300px,247px,187px,115px;h:180px,148px,112px,69px;"
+								data-vbility="f,f,t,f"
+								data-border="bor:5px,5px,5px,5px;"
+								data-frame_0="sX:0.8;sY:0.8;"
+								data-frame_1="e:power4.out;st:400;sp:1000;"
+								data-frame_999="o:0;st:w;sA:12000;"
+								style="z-index:19;background:linear-gradient(rgba(255,0,229,0.9) 0%, rgba(255,122,0,0.9) 100%);"
+							><!--
+								--><rs-layer
+									id="slider-15-slide-34-layer-33" 
+									data-type="text"
+									data-rsp_ch="on"
+									data-xy="xo:50px,41px,15px,9px;y:t,t,m,m;yo:50px,41px,0,0;"
+									data-text="w:normal;s:20,16,14,8;l:25,20,16,9;"
+									data-dim="w:auto,auto,150px,92px;"
+									data-frame_999="o:0;st:w;"
+									style="z-index:18;font-family:Roboto;"
+								>Okay - Please provide the amount you’d like to transfer. 
+								</rs-layer><!--
+							--></rs-group><!--
+
+							--><rs-layer
+								id="slider-15-slide-34-layer-0" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="x:r,r,c,c;xo:0,0,5px,3px;yo:50px,41px,31px,40px;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:500px,412px,340px,238px;h:722px,596px,491px,344px;"
+								data-vbility="t,t,t,f"
+								data-frame_999="o:0;st:w;sR:11700;"
+								style="z-index:9;"
+							><img loading="lazy"  alt="iphone-front-view" width="1200" height="1733" data-no-retina data-src="//clinc.com/wp-content/uploads/2020/11/03-iPhone-12-Pro-Front-View.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img loading="lazy" src="//clinc.com/wp-content/uploads/2020/11/03-iPhone-12-Pro-Front-View.png" alt="iphone-front-view" width="1200" height="1733" data-no-retina></noscript> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-15-slide-34-layer-1" 
+								data-type="text"
+								data-color="#000000"
+								data-rsp_ch="on"
+								data-xy="x:l,l,c,c;xo:50px,50px,0,0;y:m;yo:-80px,-80px,123px,103px;"
+								data-text="w:normal;s:86,70,68,54;l:80,64,58,48;ls:-2px;fw:500;a:left,left,center,center;"
+								data-dim="w:745px,618px,618px,383px;minh:0px,none,none,none;"
+								data-frame_0="x:-175%;o:1;"
+								data-frame_0_mask="u:t;x:100%;"
+								data-frame_1="e:power3.out;sp:1000;"
+								data-frame_1_mask="u:t;"
+								data-frame_999="o:0;st:w;sR:11000;"
+								style="z-index:10;font-family:Maven Pro;text-transform:capitalize;"
+							>Conversational AI that's Truly Conversational 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-15-slide-34-layer-5" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="x:c;y:m;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:2510px,2800px,2127px,1312px;h:1724px,1923px,1461px,901px;"
+								data-frame_0="sX:2;sY:2;"
+								data-frame_0_mask="u:t;"
+								data-frame_1="e:power2.out;sp:1000;"
+								data-frame_1_mask="u:t;"
+								data-frame_999="o:0;st:w;sR:11000;"
+								style="z-index:8;"
+							><img  data-no-retina data-src="//clinc.com/wp-content/uploads/2020/10/circle-grid-1.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="//clinc.com/wp-content/uploads/2020/10/circle-grid-1.svg" data-no-retina></noscript> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-15-slide-34-layer-24" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="x:l,l,l,c;xo:50px,41px,31px,0;yo:50px,41px,31px,9px;"
+								data-text="w:normal;s:20,16,12,7;l:0,20,15,9;"
+								data-dim="w:300px,247px,187px,550px;h:180px,148px,112px,388px;"
+								data-vbility="f,f,f,t"
+								data-frame_0="sX:0.9;sY:0.9;"
+								data-frame_1="sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:25;"
+							><img loading="lazy"  alt="mobile-home" width="601" height="424" data-no-retina data-src="//clinc.com/wp-content/uploads/2020/11/Mobile-Home-1.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img loading="lazy" src="//clinc.com/wp-content/uploads/2020/11/Mobile-Home-1.png" alt="mobile-home" width="601" height="424" data-no-retina></noscript> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-15-slide-34-layer-25" 
+								data-type="text"
+								data-color="#000000||#000000||#0c0c0c||#0c0c0c"
+								data-rsp_ch="on"
+								data-xy="x:l,l,c,c;xo:866px,715px,0,0;yo:510px,421px,142px,87px;"
+								data-text="w:normal;s:14,11,14,8;l:18,14,10,6;"
+								data-dim="w:240px,198px,150px,92px;minh:0px,none,none,none;"
+								data-vbility="t,t,f,f"
+								data-frame_0="y:-130px,-107px,-81px,-49px;"
+								data-frame_0_mask="u:t;"
+								data-frame_1="st:9000;sp:400;sR:8000;"
+								data-frame_1_mask="u:t;"
+								data-frame_999="o:0;st:w;sR:3400;"
+								style="z-index:17;font-family:Roboto;"
+							><b>Confirmation:</b> <br>$50.00 has been transferred from savings to checking. 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-15-slide-34-layer-34" 
+								data-type="text"
+								data-color="#000000"
+								data-rsp_ch="on"
+								data-xy="x:l,l,c,c;xo:50px,41px,0,0;y:m;yo:110px,90px,268px,225px;"
+								data-text="w:normal;s:35,28,21,22;l:45,37,28,27;ls:2,1,0,0;fw:300;a:left,left,center,center;"
+								data-dim="w:651px,537px,407px,367px;minh:0px,none,none,none;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:24;font-family:Roboto;"
+							>Experience a revolutionary end-to-end Conversational AI solution 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+					<rs-static-layers><!--
+					--></rs-static-layers>
+				</rs-module>
+				<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_15_1',rl:[1240,1024,778,480],el:[900,768,960,720],gw:[1240,1024,778,480],gh:[900,768,960,720],type:'hero',justify:'',layout:'fullscreen',offsetContainer:'',offset:'',mh:"0"});
+					var	revapi15,
+						tpj;
+					function revinit_revslider151() {
+					jQuery(function() {
+						tpj = jQuery;
+						revapi15 = tpj("#rev_slider_15_1");
+						if(revapi15==undefined || revapi15.revolution == undefined){
+							revslider_showDoubleJqueryError("rev_slider_15_1");
+						}else{
+							revapi15.revolution({
+								sliderType:"hero",
+								sliderLayout:"fullscreen",
+								visibilityLevels:"1240,1024,778,480",
+								gridwidth:"1240,1024,778,480",
+								gridheight:"900,768,960,720",
+								spinner:"spinner0",
+								perspective:600,
+								perspectiveType:"global",
+								editorheight:"900,768,960,720",
+								responsiveLevels:"1240,1024,778,480",
+								progressBar:{disableProgressBar:true},
+								navigation: {
+									onHoverStop:false
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+					} // End of RevInitScript
+				var once_revslider151 = false;
+				if (document.readyState === "loading") {document.addEventListener('readystatechange',function() { if((document.readyState === "interactive" || document.readyState === "complete") && !once_revslider151 ) { once_revslider151 = true; revinit_revslider151();}});} else {once_revslider151 = true; revinit_revslider151();}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div>
+
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f13444 qodef-elementor-content-grid elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f13444" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49dd9cb" data-id="49dd9cb" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a3f5a5e elementor-widget elementor-widget-text-editor" data-id="a3f5a5e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9b0e4c8 elementor-widget elementor-widget-text-editor" data-id="9b0e4c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4><span style="color: #ffffff;"> Clinc’s patented technology optimized for banks.</span></h4></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f5f6816 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="f5f6816" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-75b8e4b" data-id="75b8e4b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e0ef410 elementor-widget elementor-widget-text-editor" data-id="e0ef410" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #ffffff;">Clinc AI understands and follows complex conversations, enabling a vastly superior customer interaction. Customers can check balances, report lost or stolen cards, transfer funds, and change their addresses in a single, seamless interaction—without ever speaking to a human.</span></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e58db00" data-id="e58db00" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-340460f elementor-widget elementor-widget-text-editor" data-id="340460f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #ffffff;">Successful large-scale deployments</span></li>
+<li style="font-weight: 400;"><font color="#ffffff">Deploy via cloud or on-premise for maximum flexibility.</font></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #ffffff;">Seamless plug-and-play integration with existing systems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #ffffff;">Scalable, repeatable improvement across all KPIs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #ffffff;">Nimble technology enables swift deployments</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; color: #ffffff;">Hands-on support and training ensure a successful launch</span></li>
+</ul></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f0b6503 qodef-elementor-content-grid elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f0b6503" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateY_direction&quot;:&quot;negative&quot;,&quot;background_motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:6.1,&quot;sizes&quot;:[]},&quot;background_motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:23,&quot;end&quot;:78}},&quot;background_motion_fx_range&quot;:&quot;viewport&quot;,&quot;background_motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c712ffc" data-id="c712ffc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f9dd719 elementor-widget elementor-widget-text-editor" data-id="f9dd719" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b779511 elementor-widget elementor-widget-text-editor" data-id="b779511" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4><span style="color: #ffffff;"> Built by scientists, leveraged by developers.<br /></span></h4></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6583145 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="6583145" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-72d2954" data-id="72d2954" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3c331a5 elementor-widget elementor-widget-text-editor" data-id="3c331a5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><span style="color: #ffffff;">We aim to provide developers with the building blocks to create exceptional conversational AI experiences without the need for rules or scripts. With a robust set of developer tools, documentation, training resources, and a dedicated customer support team, developers can feel empowered and ready to create solutions your customers will love.</span></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3c6878e" data-id="3c6878e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d57409a elementor-widget elementor-widget-text-editor" data-id="d57409a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul>
+ 	<li style="font-weight: 400; color: #ffffff;"><span style="font-weight: 400; color: #ffffff;">Comprehensive AI Testing Capabilities</span></li>
+ 	<li style="font-weight: 400; color: #ffffff;"><span style="font-weight: 400; color: #ffffff;">Built-in Version Control</span></li>
+ 	<li style="font-weight: 400; color: #ffffff;"><span style="font-weight: 400; color: #ffffff;">Customizable Response Editors</span></li>
+ 	<li style="font-weight: 400; color: #ffffff;"><span style="font-weight: 400; color: #ffffff;">AI Model Insight Tools</span></li>
+ 	<li style="font-weight: 400; color: #ffffff;">Build in Python, Jinja or Block</li>
+ 	<li style="font-weight: 400; color: #ffffff;">Rich Conversational Design Options &amp; Tools</li>
+</ul></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6cde300 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="6cde300" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a3ba3e0" data-id="a3ba3e0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1206954 animated-fast elementor-invisible elementor-widget elementor-widget-text-editor" data-id="1206954" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4><span style="color: #000000;">The Benefits</span></h4></div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e7f4b65 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="e7f4b65" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-ee29535" data-id="ee29535" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8196b05 elementor-widget elementor-widget-lekker_core_section_title" data-id="8196b05" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  qodef-section-title--animated">
+		<h5 class="qodef-m-title" >
+					Reduce Live Agent Reliance			</h5>
+		<p class="qodef-m-text" >Automate your most frequent customer requests and deliver immediate ROI to your
+institution.
+</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5a679d0" data-id="5a679d0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-48e33b4 elementor-widget elementor-widget-lekker_core_section_title" data-id="48e33b4" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  qodef-section-title--animated">
+		<h5 class="qodef-m-title" >
+					Improve CSAT			</h5>
+		<p class="qodef-m-text" >The less time customers spend waiting to hear from you, the more satisfied they are overall.  
+</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d952875" data-id="d952875" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6437cd2 elementor-widget elementor-widget-lekker_core_section_title" data-id="6437cd2" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  qodef-section-title--animated">
+		<h5 class="qodef-m-title" >
+					Decrease Customer Churn			</h5>
+		<p class="qodef-m-text" >Through truly personalized interaction, you will improve retention and create a loyal base of customer advocates.
+</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-ae5f994" data-id="ae5f994" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5f0e704 elementor-widget elementor-widget-lekker_core_section_title" data-id="5f0e704" data-element_type="widget" data-widget_type="lekker_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  qodef-section-title--animated">
+		<h5 class="qodef-m-title" >
+					Minimize Operational Costs			</h5>
+		<p class="qodef-m-text" >Eliminate expenses associated with managing and scaling customer service teams.
+</p>
+</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9fe5bdf elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="9fe5bdf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8cc22eb" data-id="8cc22eb" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-08b3a3e elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="08b3a3e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4fc0e4d" data-id="4fc0e4d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f9da0a4 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="f9da0a4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h3><span style="color: #ff00ff;">82%
+</span>Customer Satisfaction</h3></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-461ebf7 elementor-widget elementor-widget-text-editor" data-id="461ebf7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>With an average <strong>82% CSAT</strong> across all of our live deployments, your customers are going to love a virtual assistant built with Clinc.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5e68e33" data-id="5e68e33" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c3f5468 elementor-widget elementor-widget-text-editor" data-id="c3f5468" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h3><span style="color: #ff00ff;">95%</span>
+Containment Rate</h3></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a337345 elementor-widget elementor-widget-text-editor" data-id="a337345" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Clinc technology has a <strong>95% containment rate</strong>, demonstrated in interactions with over <strong>10 million users</strong> in a production environment.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3d22bb8 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default" data-id="3d22bb8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b58393" data-id="5b58393" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-b6f8b8d elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="b6f8b8d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3a7e3f7" data-id="3a7e3f7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-723bd22 elementor-widget elementor-widget-image" data-id="723bd22" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="650" height="330"   alt="" loading="lazy" data-srcset="https://clinc.com/wp-content/uploads/2020/10/isBank.png 650w, https://clinc.com/wp-content/uploads/2020/10/isBank-300x152.png 300w"  data-src="https://clinc.com/wp-content/uploads/2020/10/isBank.png" data-sizes="(max-width: 650px) 100vw, 650px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="650" height="330" src="https://clinc.com/wp-content/uploads/2020/10/isBank.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://clinc.com/wp-content/uploads/2020/10/isBank.png 650w, https://clinc.com/wp-content/uploads/2020/10/isBank-300x152.png 300w" sizes="(max-width: 650px) 100vw, 650px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5c03bba" data-id="5c03bba" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ac583f6 elementor-widget elementor-widget-text-editor" data-id="ac583f6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h3><span style="color: #ffffff;">Isbank / Maxi</span></h3></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-71ba415 elementor-widget elementor-widget-text-editor" data-id="71ba415" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;"><span style="color: #ffffff;">Isbank deployed to over 8 million users in native Turkish in only 6 months. Maxi’s experience boasts an average of 2.5 million active users and consistent growth rates month over month.</span></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-67fa135 elementor-widget elementor-widget-lekker_core_button" data-id="67fa135" data-element_type="widget" data-widget_type="lekker_core_button.default">
+				<div class="elementor-widget-container">
+			<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--outlined  qodef-html--link" href="/maxi" target="_self" data-hover-color="#000000" data-hover-background-color="#FFFFFF" style="color: #FFFFFF;border-color: #FFFFFF;font-size: 16px;font-weight: 500">
+	<span class="qodef-m-text">Read More About Maxi</span>
+</a>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-1b0f058 elementor-widget elementor-widget-lekker_core_button" data-id="1b0f058" data-element_type="widget" data-widget_type="lekker_core_button.default">
+				<div class="elementor-widget-container">
+			<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link" href="" target="_self"  >
+	<span class="qodef-m-text"></span>
+	<span class="qodef-m-lines"></span>
+</a>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6bbeb2f elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default" data-id="6bbeb2f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-31067be" data-id="31067be" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-798f57b elementor-widget elementor-widget-text-editor" data-id="798f57b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h3 style="text-align: center;"><!--(figmeta)eyJmaWxlS2V5IjoiWEt6ZGNMQ3VUVUdPeTQ0NWRGeWFyaCIsInBhc3RlSUQiOi0xLCJkYXRhVHlwZSI6InNjZW5lIn0K(/figmeta)--><!--(figma)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(/figma)-->You&#8217;re In Good Company</h3></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-83ec941 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no" data-id="83ec941" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-868e3d7" data-id="868e3d7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-17ba3a4 elementor-widget elementor-widget-image" data-id="17ba3a4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="176" height="70"   alt="" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/04/Client4.png" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="176" height="70" src="https://clinc.com/wp-content/uploads/2020/04/Client4.png" class="attachment-large size-large" alt="" loading="lazy" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-0f372c1" data-id="0f372c1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1e01451 elementor-widget elementor-widget-image" data-id="1e01451" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="147" height="54"   alt="ford" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/11/ford-logo-1.jpg" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="147" height="54" src="https://clinc.com/wp-content/uploads/2020/11/ford-logo-1.jpg" class="attachment-large size-large" alt="ford" loading="lazy" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-28fe800" data-id="28fe800" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bec8d3b elementor-widget elementor-widget-image" data-id="bec8d3b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="104" height="70"   alt="visa" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/04/Client1.png" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="104" height="70" src="https://clinc.com/wp-content/uploads/2020/04/Client1.png" class="attachment-large size-large" alt="visa" loading="lazy" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-cd6f016" data-id="cd6f016" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-187f0b7 elementor-widget elementor-widget-image" data-id="187f0b7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="229" height="70"   alt="turkiye" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/04/Client2.png" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="229" height="70" src="https://clinc.com/wp-content/uploads/2020/04/Client2.png" class="attachment-large size-large" alt="turkiye" loading="lazy" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-e9a7321" data-id="e9a7321" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b5dedc3 elementor-widget elementor-widget-image" data-id="b5dedc3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="204" height="70"   alt="" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/04/Client3.png" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="204" height="70" src="https://clinc.com/wp-content/uploads/2020/04/Client3.png" class="attachment-large size-large" alt="" loading="lazy" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-64dbf28" data-id="64dbf28" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5c6bf13 elementor-widget elementor-widget-image" data-id="5c6bf13" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="275" height="70"   alt="ocbc" loading="lazy" data-src="https://clinc.com/wp-content/uploads/2020/04/Client-5.png" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="275" height="70" src="https://clinc.com/wp-content/uploads/2020/04/Client-5.png" class="attachment-large size-large" alt="ocbc" loading="lazy" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4fe04f1 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default" data-id="4fe04f1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a989bb2" data-id="a989bb2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-10e3476 elementor-widget elementor-widget-text-editor" data-id="10e3476" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h3 style="text-align: center;"><span style="color: #ffffff;">Ready to Start Exploring the Most Robust AI Tech on the Planet?</span></h3></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5a3365a elementor-align-center elementor-widget elementor-widget-button" data-id="5a3365a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/contact-us" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Get Started</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		</div>	</div>
+</main>
+			</div><!-- close #qodef-page-inner div from header.php -->
+		</div><!-- close #qodef-page-outer div from header.php -->
+		<footer id="qodef-page-footer" >
+		<div id="qodef-page-footer-top-area">
+		<div id="qodef-page-footer-top-area-inner" class="qodef-content-grid">
+			<div class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--3 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1">
+				<div class="qodef-grid-inner clear">
+											<div class="qodef-grid-item">
+							<div id="nav_menu-2" class="widget widget_nav_menu" data-area="footer_top_area_column_1"><div class="menu-footer-menu-left-container"><ul id="menu-footer-menu-left" class="menu"><li id="menu-item-5520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4808 current_page_item menu-item-5520"><a href="https://clinc.com/" aria-current="page">Home</a></li>
+<li id="menu-item-5465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5465"><a href="https://clinc.com/why-clinc/">Why Clinc?</a></li>
+<li id="menu-item-5466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5466"><a href="https://clinc.com/about-us/">About Us</a></li>
+</ul></div></div>						</div>
+											<div class="qodef-grid-item">
+							<div id="media_image-2" class="widget widget_media_image" data-area="footer_top_area_column_2"><img   alt="" loading="lazy" style="max-width: 100%; height: auto;" data-src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white-1.svg" class="image wp-image-4986  attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://clinc.com/wp-content/uploads/2020/10/clinc-logo-white-1.svg" class="image wp-image-4986  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></noscript></div><div id="lekker_core_separator-2" class="widget widget_lekker_core_separator" data-area="footer_top_area_column_2"><div class="qodef-shortcode qodef-m  qodef-separator clear ">
+	<div class="qodef-m-line" style="border-color: #ffffff;width: 50px;border-bottom-width: 2px;margin-top: 47px;margin-bottom: 40px"></div>
+</div></div><div id="text-2" class="widget widget_text" data-area="footer_top_area_column_2">			<div class="textwidget"><p>Follow us on social networks:</p>
+</div>
+		</div><div id="lekker_core_social_icons_group-8" class="widget widget_lekker_core_social_icons_group" data-area="footer_top_area_column_2">            <div class="qodef-social-icons-group">
+				<span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://www.facebook.com/clincAI" target="_blank">
+            <span class="qodef-icon-elegant-icons social_facebook qodef-icon qodef-e" style="" ></span>            </a>
+	</span><span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://www.instagram.com/clinc.ai/?hl=en" target="_blank">
+            <span class="qodef-icon-elegant-icons social_instagram qodef-icon qodef-e" style="" ></span>            </a>
+	</span><span class="qodef-shortcode qodef-m  qodef-icon-holder  qodef-layout--normal"  style="margin: 10px">
+			<a itemprop="url" href="https://twitter.com/clincAI" target="_blank">
+            <span class="qodef-icon-elegant-icons social_twitter qodef-icon qodef-e" style="" ></span>            </a>
+	</span>            </div>
+		</div>						</div>
+											<div class="qodef-grid-item">
+							<div id="nav_menu-3" class="widget widget_nav_menu" data-area="footer_top_area_column_3"><div class="menu-footer-menu-right-container"><ul id="menu-footer-menu-right" class="menu"><li id="menu-item-5467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5467"><a href="https://clinc.com/blog/">Blog</a></li>
+<li id="menu-item-5468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5468"><a href="https://clinc.com/careers/">Careers</a></li>
+<li id="menu-item-5469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5469"><a href="https://clinc.com/contact-us/">Contact Us</a></li>
+</ul></div></div>						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</footer><a id="qodef-back-to-top" href="#">
+    <span class="qodef-btn-background">
+		<span class="qodef-m-nav-lines"></span>
+		<span class="qodef-back-to-top-text">
+			Back To Top		</span>
+    </span>
+</a>	<div id="qodef-side-area" >
+		<a href="javascript:void(0)" id="qodef-side-area-close" class="qodef-opener-icon qodef-m qodef-source--predefined"  >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-m-lines"><span class="qodef-m-line qodef--1"></span><span class="qodef-m-line qodef--2"></span></span>	</span>
+		</a>		<div id="qodef-side-area-inner">
+			<div id="search-4" class="widget widget_search" data-area="side-area"><form role="search" method="get" class="qodef-search-form" action="https://clinc.com/">
+	<label for="qodef-search-form-605b4874705f2" class="screen-reader-text">Search for:</label>
+	<div class="qodef-search-form-inner clear">
+		<input type="search" id="qodef-search-form-605b4874705f2" class="qodef-search-form-field" value="" name="s" placeholder="Search..." />
+		<button type="submit" class="qodef-search-form-button"><span class="qodef-icon-elegant-icons icon_search" ></span></button>
+	</div>
+</form></div><div id="lekker_core_separator-15" class="widget widget_lekker_core_separator" data-area="side-area"><div class="qodef-shortcode qodef-m  qodef-separator clear ">
+	<div class="qodef-m-line" style="border-bottom-width: 0px;margin-bottom: -2px"></div>
+</div></div><div id="text-4" class="widget widget_text" data-area="side-area"><h5 class="qodef-widget-title">Where to find us</h5>			<div class="textwidget"><p><span style="line-height: 34px;"><br />
+Headquarters<br />
+<strong>ANN ARBOR</strong><br />
+200 S. First Street<br />
+Ann Arbor, Michigan<br />
+</span><span style="line-height: 34px;">48104<br />
+</span></p>
+</div>
+		</div>		</div>
+	</div>
+	</div><!-- close #qodef-page-wrapper div from header.php -->
+	<!-- Instagram Feed JS -->
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-delay-js-js-after'>
+(function() {
+"use strict";var e=function(){function n(e,t){for(var r=0;r<t.length;r++){var n=t[r];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(e,n.key,n)}}return function(e,t,r){return t&&n(e.prototype,t),r&&n(e,r),e}}();function n(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function r(e,t){n(this,r),this.attrName="data-rocketlazyloadscript",this.browser=t,this.options=this.browser.options,this.triggerEvents=e,this.userEventListener=this.triggerListener.bind(this)}return e(r,[{key:"init",value:function(){this._addEventListener(this)}},{key:"reset",value:function(){this._removeEventListener(this)}},{key:"_addEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.addEventListener(e,t.userEventListener,t.options)})}},{key:"_removeEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.removeEventListener(e,t.userEventListener,t.options)})}},{key:"_loadScriptSrc",value:function(){var r=this,e=document.querySelectorAll("script["+this.attrName+"]");0!==e.length&&Array.prototype.slice.call(e).forEach(function(e){var t=e.getAttribute(r.attrName);e.setAttribute("src",t),e.removeAttribute(r.attrName)}),this.reset()}},{key:"triggerListener",value:function(){this._loadScriptSrc(),this._removeEventListener(this)}}],[{key:"run",value:function(){RocketBrowserCompatibilityChecker&&new r(["keydown","mouseover","touchmove","touchstart"],new RocketBrowserCompatibilityChecker({passive:!0})).init()}}]),r}();t.run();
+}());
+</script>
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.11","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/clinc.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4808,"title":"Home%20-%20Clinc.com","excerpt":"","featuredImage":"https:\/\/clinc.com\/wp-content\/uploads\/2020\/10\/temp-logo.svg"}};
+</script>
+
+
+
+
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/clinc.com\/wp-admin\/admin-ajax.php","nonce":"2ac1744e25","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/clinc.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+
+ 
+<script>"use strict";var wprRemoveCPCSS=function wprRemoveCPCSS(){var elem;document.querySelector('link[data-rocket-async="style"][rel="preload"]')?setTimeout(wprRemoveCPCSS,200):(elem=document.getElementById("rocket-critical-css"))&&"remove"in elem&&elem.remove()};window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><script src="https://clinc.com/wp-content/cache/min/1/70a6fc5dd53026e29df4396eac139c41.js" data-minify="1" defer></script><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%7CMaven%20Pro%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A300%2C400%2C500%2C600%2C700%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMaven%20Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A400%2C300%7CMaven%20Pro%3A500&#038;subset=latin-ext%2Clatin&#038;display=swap" /><link rel="stylesheet" href="https://clinc.com/wp-content/cache/min/1/157584514c27602a0aee8dd80f4ddc4f.css" media="all" data-minify="1" /><link rel='stylesheet' id='material-icons-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&#038;ver=5.6.2' type='text/css' media='all' /></noscript></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

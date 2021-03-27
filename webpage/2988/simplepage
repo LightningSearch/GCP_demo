@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html>
+<title>
+Best SUVs For 2021 - Forbes Wheels 
+</title>
+
+<body style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:0.9em">
+<h2>
+Body text
+</h2>
+<p>
+Reviews Lists Guides Car Accessories Reviews Lists Guides Car Accessories Models Ford F-150 Chevrolet Silverado 1500 Ram 1500 Toyota RAV4 Honda CR-V Toyota Camry Honda Civic Chevrolet Equinox GMC Sierra 1500 Nissan Rogue Ford Mustang Mach-E Types Best SUVs For 2021 Best Midsize SUVs Best Midsize Luxury SUVs Best Small SUVs And Crossovers Best Luxury SUVs Best Luxury SUVs Under $50,000 Best Off-Road SUVs Best Pickup Trucks Best Midsize Pickup Trucks Best Sedans For 2021 Best Electric Cars Best Cars of 2021 Car of the Year 2021 Best Minivans Best Sports Cars Best Lease Deals Best SUV Lease Deals Articles Unique Features of the Ford F150 How To Think Like A Car Dealer AWD Vs. 4WD Car Subscription Services What Are Advanced Driver-Assistance Systems? Best Infotainment Systems Why New Vehicles Should Have Apple CarPlay Or Android Auto What Are All-Season Tires? How To Prepare Your Vehicle For A Road Trip Best Summer Road Trip Vehicles 3-Row SUVs With The Most Cargo Space Best SUVs With Roof Rails Types Best Car Accessories Best Car GPS Navigation Systems Best Jumper Cables Best Car Battery Chargers Best Radar Detectors Best Car Seat Covers Best GPS Trackers For Cars Best Ceramic Coatings Best Car Lifts Back To Forbes.com <base-star-rating-v2 :star-rating="ratingValue" out-of="100" v-if="renderRating" :tool-tip-text = "toolTipText"> WHY WE PICKED IT Read More SCROLL TO SITE <compare-modal v-bind:smart-compare-visible="false" v-on:close="toggleCarModal" v-on:add="addCarToCompare"> <transition name="slide-fade"> <bottom-compare-drawer v-if="compareList.length > 0" v-bind:data="compareList" v-on:toggle="toggleCarModal" v-on:removecar="removeCarFromCompare" v-on:compare="sendToComparePage"/> <overlay v-if="showDialogBox" :back-drop-opacity="isDeviceMobile ? 0.38 : 0.7"> <transition name="slide-fade"> <alert v-on:close-alert="showDialogBox = false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="CloseSlideShow" v-if="viewPhotos" :title="galleryTitle"> Wheels Best SUVs Best SUVs For 2021 Carly Schaffner Forbes Staff Updated: Jan 20, 2021 Updated: Jan 20, 2021 People haulers have always been a thing, but the marriage between passenger space and utility is highly apparent in modern SUVs. They promise daily driving competency as well as weekend adventuring talent. The desire for of-the-moment tech also is strong, with drivers and passengers demanding 24/7 connectivity. That means enough USB ports to charge multiple smartphones or interact with a system (usually on an oversized touchscreen) that requires zero learning curve and some form of voice control. Light trucks—a category that includes pickups, SUVs and minivans—now account for nearly 80% of new car sales in the U.S. Almost 70% of those sales are from SUVs; about 25% fit into the mid- and full-size category, stretching between 190 and more than 200 inches. No matter what the flavor—mainstream, premium, off-road ready—it’s undeniable that Americans prefer larger vehicles. Cheaper gas also makes the case for SUVs even stronger. Today petrol sells for 20 cents a gallon less than the historical inflation-adjusted average of $2.40, according to AAA. Many advances in safety technology and powertrains have made these once cumbersome transporters more livable and fuel-efficient than ever before. Our top picks identify the utility vehicles that go above and beyond, offering buyers that want to haul people and things standout characteristics such as affordable luxury, approachable capability, thoughtful interiors, innovative powertrains and tech—so much tech. Read More Show Summary BMW X5 Prioritizes Handling And Power Chevrolet Tahoe Bigger Inside And Out Chrysler Pacifica Spacious Highway Cruiser Genesis GV80 An Attention-Grabbing Premiere SUV Hyundai Palisade Well-Appointed Freshman Three-Row SUV Kia Telluride Uptown Looks Without Breaking The Bank Land Rover Defender An Off-Road Icon Reimagined Lincoln Aviator All-American Luxury And Comfort Subaru Outback A Companion For All Adventures Toyota Highlander Playing it Safe, Efficiently <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2020 BMW X5"> (28) 2020 BMW X5 (28) Price Starting From $58,900 <base-star-rating-v2 star-rating="87" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The BMW X5 midsize SUV debuted in 2000 and was the German automaker’s first utility vehicle. Now in its fourth generation, the X5 outsells every sedan in BMW’s lineup and is second only to the smaller X3 crossover. The X5 can carry five or seven passengers, and offers kid-hauling drivers a premium cabin experience and impressive space (the optional third row is a little cramped). The 33 cubic-feet of cargo space behind the X5’s second row also is top-of-class. Following the 2020 introduction of the performance-oriented M50i, which offers a 523-horsepower twin-turbo 4.4-liter V8, the engine lineup now has a plug-in hybrid option. The new-for-2021, all-wheel-drive-only xDrive 45e replaces the 50i and is powered by a 3.0-liter inline-six cylinder engine (same as in the 40i models) paired with an electric motor that delivers a combined 389 horsepower. The onboard 24 kilowatt-hour battery pack gives the X5 30 miles of all-electric range. In addition to the three powertrains, the X5’s slope-roofed counterpart, the X6, helps cast a wider net for buyers who prefer sportier looks. Pros & Cons Powerful engine lineup Sharp reflexes Attractive interior Performance models command big money Available third row is cramped Faces a lot of excellent rivals Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Why We Picked It Pros & Cons Specs The BMW X5 midsize SUV debuted in 2000 and was the German automaker’s first utility vehicle. Now in its fourth generation, the X5 outsells every sedan in BMW’s lineup and is second only to the smaller X3 crossover. The X5 can carry five or seven passengers, and offers kid-hauling drivers a premium cabin experience and impressive space (the optional third row is a little cramped) ...Read More The BMW X5 midsize SUV debuted in 2000 and was the German automaker’s first utility vehicle. Now in its fourth generation, the X5 outsells every sedan in BMW’s lineup and is second only to the smaller X3 crossover. The X5 can carry five or seven passengers, and offers kid-hauling drivers a premium cabin experience and impressive space (the optional third row is a little cramped). The 33 cubic-feet of cargo space behind the X5’s second row also is top-of-class. Following the 2020 introduction of the performance-oriented M50i, which offers a 523-horsepower twin-turbo 4.4-liter V8, the engine lineup now has a plug-in hybrid option. The new-for-2021, all-wheel-drive-only xDrive 45e replaces the 50i and is powered by a 3.0-liter inline-six cylinder engine (same as in the 40i models) paired with an electric motor that delivers a combined 389 horsepower. The onboard 24 kilowatt-hour battery pack gives the X5 30 miles of all-electric range. In addition to the three powertrains, the X5’s slope-roofed counterpart, the X6, helps cast a wider net for buyers who prefer sportier looks. Read Less Powerful engine lineup Sharp reflexes Attractive interior Performance models command big money Available third row is cramped Faces a lot of excellent rivals <best-of-specs :specs="specs" :show-mobile-ui="false"> <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Chevrolet Tahoe"> (16) 2021 Chevrolet Tahoe (16) Price Starting From $49,000 = 3 && !addedToCompare" > Compare = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The full-size Chevrolet Tahoe is a completely new beast for 2021, bigger inside and out, with more interior room for passengers and cargo. There’s also a new independent rear suspension, which gives the truck-based SUV a smoother ride. The new suspension also helped give third-row passengers 10 additional inches of legroom and added 10 extra cubic feet of storage space behind the third row. The powertrain lineup still comprises the 355-horsepower 5.3-liter and 420 horsepower 6.2-liter V8 engines and offers a new third option: a 3.0-liter six-cylinder Duramax turbo-diesel that matches the larger V8’s 460 pound-feet of torque and gets 24 mpg in city and highway driving combined. Based on testing, it also should easily top 30 mpg on the highway, well above the EPA’s 26 mpg rating. The new Tahoe gets a standard 10-inch touchscreen and a slew of standard safety features, including automatic emergency braking, front pedestrian braking, a following distance indicator and automatic headlamps. Pros & Cons Available engines include two V8s and, for the first time, a diesel option New independent rear suspension Larger all-around than previous model Starts pricey and climbs from there Love it/hate it design elements Some interior controls and fit/finish don’t live up to its price point Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #8 in Best Off-Road SUVs For 2021 Why We Picked It Pros & Cons Specs Also Featured In The full-size Chevrolet Tahoe is a completely new beast for 2021, bigger inside and out, with more interior room for passengers and cargo. There’s also a new independent rear suspension, which gives the truck-based SUV a smoother ride. The new suspension also helped give third-row passengers 10 additional inches of legroom and added 10 extra cubic feet of storage space behind ...Read More The full-size Chevrolet Tahoe is a completely new beast for 2021, bigger inside and out, with more interior room for passengers and cargo. There’s also a new independent rear suspension, which gives the truck-based SUV a smoother ride. The new suspension also helped give third-row passengers 10 additional inches of legroom and added 10 extra cubic feet of storage space behind the third row. The powertrain lineup still comprises the 355-horsepower 5.3-liter and 420 horsepower 6.2-liter V8 engines and offers a new third option: a 3.0-liter six-cylinder Duramax turbo-diesel that matches the larger V8’s 460 pound-feet of torque and gets 24 mpg in city and highway driving combined. Based on testing, it also should easily top 30 mpg on the highway, well above the EPA’s 26 mpg rating. The new Tahoe gets a standard 10-inch touchscreen and a slew of standard safety features, including automatic emergency braking, front pedestrian braking, a following distance indicator and automatic headlamps. Read Less Available engines include two V8s and, for the first time, a diesel option New independent rear suspension Larger all-around than previous model Starts pricey and climbs from there Love it/hate it design elements Some interior controls and fit/finish don’t live up to its price point <best-of-specs :specs="specs" :show-mobile-ui="false"> #8 in Best Off-Road SUVs For 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2020 Chrysler Pacifica"> (32) 2020 Chrysler Pacifica (32) Price Starting From $34,045 = 3 && !addedToCompare" > Compare = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The 2021 Chrysler Pacifica people mover got a significant mid-life refresh that added all-wheel drive and slightly more SUV-like styling. Chrysler’s familiar Stow ’n Go fold-down seats allow drivers to tuck the second and third-row seats into the floor, transforming the eight-passenger minivan into a proficient cargo hauler. Also standard is a new 10.1-inch touchscreen and a half-dozen advanced driver-assistance tech, including automatic emergency braking for cars and pedestrians, stop-and-go adaptive cruise control, lane keeping assistance, automatic high beams and blind spot monitoring. The lineup also includes a plug-in hybrid (called Pacifica Hybrid, not to be confused with a conventional hybrid) that uses a modified version of the 287-horsepower 3.6-liter V6 engine found on the gas version. The hybrid delivers a slightly reduced 260 horsepower but has a 3,650-pound tow rating, 32 miles of all-electric range and a traveling distance of 500 miles with all power sources topped off. Pros & Cons Stow ‘n Go seating offers unrivaled interior versatility Solid build and quiet ride Classic and elegant styling, for a minivan Transmission behavior can occasionally be erratic Passenger rows slightly more cramped than primary rivals Price escalates quickly Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #1 in Best Minivans For 2021 Why We Picked It Pros & Cons Specs Also Featured In The 2021 Chrysler Pacifica people mover got a significant mid-life refresh that added all-wheel drive and slightly more SUV-like styling. Chrysler’s familiar Stow ’n Go fold-down seats allow drivers to tuck the second and third-row seats into the floor, transforming the eight-passenger minivan into a proficient cargo hauler. Also standard is a new 10.1-inch touchscreen and a ...Read More The 2021 Chrysler Pacifica people mover got a significant mid-life refresh that added all-wheel drive and slightly more SUV-like styling. Chrysler’s familiar Stow ’n Go fold-down seats allow drivers to tuck the second and third-row seats into the floor, transforming the eight-passenger minivan into a proficient cargo hauler. Also standard is a new 10.1-inch touchscreen and a half-dozen advanced driver-assistance tech, including automatic emergency braking for cars and pedestrians, stop-and-go adaptive cruise control, lane keeping assistance, automatic high beams and blind spot monitoring. The lineup also includes a plug-in hybrid (called Pacifica Hybrid, not to be confused with a conventional hybrid) that uses a modified version of the 287-horsepower 3.6-liter V6 engine found on the gas version. The hybrid delivers a slightly reduced 260 horsepower but has a 3,650-pound tow rating, 32 miles of all-electric range and a traveling distance of 500 miles with all power sources topped off. Read Less Stow ‘n Go seating offers unrivaled interior versatility Solid build and quiet ride Classic and elegant styling, for a minivan Transmission behavior can occasionally be erratic Passenger rows slightly more cramped than primary rivals Price escalates quickly <best-of-specs :specs="specs" :show-mobile-ui="false"> #1 in Best Minivans For 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Genesis GV80"> (15) 2021 Genesis GV80 (15) Price Starting From $48,900 <base-star-rating-v2 star-rating="91" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The GV80 is the first SUV from Genesis, the high-value luxury division of Hyundai. The GV80’s styling is reminiscent of Bentley, unsurprising as its designer is responsible for fashioning the ultra-high-end Bentayga. It also shares driving characteristics with German rivals thanks to its rear-drive platform (not to mention the head of Genesis R&amp;D is the former chief engineer for BMW’s M performance division). Besides being fun-to-drive, the GV80’s platform accentuates its long hood and cab-rearward design, setting it apart visually from front-drive, car-based SUVs. The GV80 offers two engine choices: a 300-horsepower 2.5-liter four-cylinder and a twin-turbo 3.5-liter V6 that makes 375 horsepower and comes only with an all-wheel drivetrain. The luxurious interior of the GV80 features a high-mounted 14.5-inch touchscreen with navigation that overlays street camera views with directional graphics. Not so flashy tech includes multiple collision avoidance systems, semi-autonomous adaptive cruise control and remote parking for either parallel or perpendicular spots. Pros & Cons Standout design, tech and luxury Euro-style ride and handling Solid value Genesis’ lack of brand cachet Optional third-row seat strictly for kids Small dealer network Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #1 in Best Luxury SUVs For 2021 #1 in Best Midsize Luxury SUVs For 2021 Why We Picked It Pros & Cons Specs Also Featured In The GV80 is the first SUV from Genesis, the high-value luxury division of Hyundai. The GV80’s styling is reminiscent of Bentley, unsurprising as its designer is responsible for fashioning the ultra-high-end Bentayga. It also shares driving characteristics with German rivals thanks to its rear-drive platform (not to mention the head of Genesis R&amp;D is the former chief engineer ...Read More The GV80 is the first SUV from Genesis, the high-value luxury division of Hyundai. The GV80’s styling is reminiscent of Bentley, unsurprising as its designer is responsible for fashioning the ultra-high-end Bentayga. It also shares driving characteristics with German rivals thanks to its rear-drive platform (not to mention the head of Genesis R&amp;D is the former chief engineer for BMW’s M performance division). Besides being fun-to-drive, the GV80’s platform accentuates its long hood and cab-rearward design, setting it apart visually from front-drive, car-based SUVs. The GV80 offers two engine choices: a 300-horsepower 2.5-liter four-cylinder and a twin-turbo 3.5-liter V6 that makes 375 horsepower and comes only with an all-wheel drivetrain. The luxurious interior of the GV80 features a high-mounted 14.5-inch touchscreen with navigation that overlays street camera views with directional graphics. Not so flashy tech includes multiple collision avoidance systems, semi-autonomous adaptive cruise control and remote parking for either parallel or perpendicular spots. Read Less Standout design, tech and luxury Euro-style ride and handling Solid value Genesis’ lack of brand cachet Optional third-row seat strictly for kids Small dealer network <best-of-specs :specs="specs" :show-mobile-ui="false"> #1 in Best Luxury SUVs For 2021 #1 in Best Midsize Luxury SUVs For 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2020 Hyundai Palisade"> (19) 2020 Hyundai Palisade (19) Price Starting From $31,775 = 3 && !addedToCompare" > Compare = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The Hyundai Palisade three-row SUV shares a platform with the Kia Telluride but differentiates itself with smoother styling and extra chrome detailing for a more upscale aesthetic. All trims are powered by a 3.8-liter V6 engine that delivers 291 horsepower and 262 pound-feet of torque. With trailer brakes, the pretty SUV can haul an impressive 5,000 pounds. It also offers a segment-leading 18 cubic-feet behind the third row. For 2021, Hyundai added a top-end Calligraphy trim that includes exclusive exterior lighting, 20-inch wheels, a unique grille design and a Nappa leather interior. It also gets all-wheel drive and a pre-set driving mode for the snow, which means it’s proficient in inclement weather, a major plus for parents who live in seasonal regions. What really wows is the long list of standard safety and driver-assistance tech across the line: adaptive cruise control with stop and go capability, lane following, lane keeping assistance, forward collision avoidance assistance with pedestrian detection and driver attention warning. All this and even the highest trim doesn’t crest the $50,000 mark. Pros & Cons Distinctive design Upscale Euro-style interior Excellent warranty Polarizing front end design Only one powertrain 3.0 cubic-feet less behind the third row than Telluride due to the Palisade’s available power-folding third-row seat Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #7 in Best Summer Road Trip Vehicles #2 in Best Midsize SUVs For 2021 Why We Picked It Pros & Cons Specs Also Featured In The Hyundai Palisade three-row SUV shares a platform with the Kia Telluride but differentiates itself with smoother styling and extra chrome detailing for a more upscale aesthetic. All trims are powered by a 3.8-liter V6 engine that delivers 291 horsepower and 262 pound-feet of torque. With trailer brakes, the pretty SUV can haul an impressive 5,000 pounds. It also offers a segment-leading ...Read More The Hyundai Palisade three-row SUV shares a platform with the Kia Telluride but differentiates itself with smoother styling and extra chrome detailing for a more upscale aesthetic. All trims are powered by a 3.8-liter V6 engine that delivers 291 horsepower and 262 pound-feet of torque. With trailer brakes, the pretty SUV can haul an impressive 5,000 pounds. It also offers a segment-leading 18 cubic-feet behind the third row. For 2021, Hyundai added a top-end Calligraphy trim that includes exclusive exterior lighting, 20-inch wheels, a unique grille design and a Nappa leather interior. It also gets all-wheel drive and a pre-set driving mode for the snow, which means it’s proficient in inclement weather, a major plus for parents who live in seasonal regions. What really wows is the long list of standard safety and driver-assistance tech across the line: adaptive cruise control with stop and go capability, lane following, lane keeping assistance, forward collision avoidance assistance with pedestrian detection and driver attention warning. All this and even the highest trim doesn’t crest the $50,000 mark. Read Less Distinctive design Upscale Euro-style interior Excellent warranty Polarizing front end design Only one powertrain 3.0 cubic-feet less behind the third row than Telluride due to the Palisade’s available power-folding third-row seat <best-of-specs :specs="specs" :show-mobile-ui="false"> #7 in Best Summer Road Trip Vehicles #2 in Best Midsize SUVs For 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Kia Telluride"> (18) 2021 Kia Telluride (18) Price Starting From $31,990 <base-star-rating-v2 star-rating="88" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It Kia’s Telluride three-row SUV is having a moment, and that’s because it’s a new shiny toy that does all the things and looks more expensive than it is. It sits on the same platform as Hyundai’s Palisade but offers a different experience. The Telluride’s 3.8-liter V6 engine has 291 horsepower and 262 pound-feet of torque and delivers a sporty ride. When equipped with all-wheel drive, it shows off-road prowess unexpected from the Kia value brand. Its ground clearance is 8 inches, the minimum required for consideration as an authentic trailblazer. Speaking of eight, the base model gets an 8-inch touchscreen while the other trims get a 10.3-inch screen with wireless phone charging. The top-spec SX trim costs—wait for it—under $45,000. For 2021 there’s also a new Nightfall package that blacks everything out (wheels, grille, badging), so for buyers that want a luxury experience that doesn’t scream value, this might be the answer. Pros & Cons Impressive and beautiful cabin Unbelievable value Capable and comfortable for families Fuel economy could be better Not very fun to drive Interior needs more small-item storage Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #2 in Forbes Wheels Car Of The Year For 2021 #5 in Best Summer Road Trip Vehicles #1 in Best Midsize SUVs For 2021 Why We Picked It Pros & Cons Specs Also Featured In Kia’s Telluride three-row SUV is having a moment, and that’s because it’s a new shiny toy that does all the things and looks more expensive than it is. It sits on the same platform as Hyundai’s Palisade but offers a different experience. The Telluride’s 3.8-liter V6 engine has 291 horsepower and 262 pound-feet of torque and delivers a sporty ride. When equipped with all-wheel ...Read More Kia’s Telluride three-row SUV is having a moment, and that’s because it’s a new shiny toy that does all the things and looks more expensive than it is. It sits on the same platform as Hyundai’s Palisade but offers a different experience. The Telluride’s 3.8-liter V6 engine has 291 horsepower and 262 pound-feet of torque and delivers a sporty ride. When equipped with all-wheel drive, it shows off-road prowess unexpected from the Kia value brand. Its ground clearance is 8 inches, the minimum required for consideration as an authentic trailblazer. Speaking of eight, the base model gets an 8-inch touchscreen while the other trims get a 10.3-inch screen with wireless phone charging. The top-spec SX trim costs—wait for it—under $45,000. For 2021 there’s also a new Nightfall package that blacks everything out (wheels, grille, badging), so for buyers that want a luxury experience that doesn’t scream value, this might be the answer. Read Less Impressive and beautiful cabin Unbelievable value Capable and comfortable for families Fuel economy could be better Not very fun to drive Interior needs more small-item storage <best-of-specs :specs="specs" :show-mobile-ui="false"> #2 in Forbes Wheels Car Of The Year For 2021 #5 in Best Summer Road Trip Vehicles #1 in Best Midsize SUVs For 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Land Rover Defender"> (16) 2021 Land Rover Defender (16) Price Starting From $46,100 <base-star-rating-v2 star-rating="81" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It It’s hard to reinvent a classic. That’s why replacing a line of trucks that traces all the way back to the original Land Rover of 1948–an iconic vehicle in its home market–as well as a vehicle that’s been on a 22-year hiatus in North America, is a heavy lift. Luckily the new Defender delivered with its modern styling cues and classic off-road dominance. Land Rover has enough self-awareness to know that in the U.S. the new Defender will mostly strut around (tinsel) town and not too far off the beaten path, but it’s still on the hook to be a legitimate adventuring ass-kicker. The 2021 Defender comes in two sizes: a two-door 90 or a longer, four-door 110, mirroring the old models. It can be powered by either a 2.0-liter four-cylinder turbocharged engine or a 3.0-liter inline six-cylinder engine that uses a mild hybrid system. The capable SUV has up to 19.7 inches of articulation, a wading depth of 35 inches and a 38-degree approach angle complemented by a 40-degree departure angle. It’s equipped with multiple cameras that offer a 3D perspective of the exterior that enhances situational awareness. A “transparent hood” view lets the driver see the suspension and the wheels while it maneuvers over uneven surfaces, and there’s also a terrain response system with pre-set modes. Legit indeed. Pros & Cons Off-road capability is about as good as one could ask for in a factory rig Standout design is thoroughly modern yet but easily recognizable as a Defender Smooth on-road performance Gas mileage is nothing to write home about Top-end models get quite pricey Feels tall and heavy in corners Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #3 in Best Off-Road SUVs For 2021 Why We Picked It Pros & Cons Specs Also Featured In It’s hard to reinvent a classic. That’s why replacing a line of trucks that traces all the way back to the original Land Rover of 1948–an iconic vehicle in its home market–as well as a vehicle that’s been on a 22-year hiatus in North America, is a heavy lift. Luckily the new Defender delivered with its modern styling cues and classic off-road dominance. Land Rover has ...Read More It’s hard to reinvent a classic. That’s why replacing a line of trucks that traces all the way back to the original Land Rover of 1948–an iconic vehicle in its home market–as well as a vehicle that’s been on a 22-year hiatus in North America, is a heavy lift. Luckily the new Defender delivered with its modern styling cues and classic off-road dominance. Land Rover has enough self-awareness to know that in the U.S. the new Defender will mostly strut around (tinsel) town and not too far off the beaten path, but it’s still on the hook to be a legitimate adventuring ass-kicker. The 2021 Defender comes in two sizes: a two-door 90 or a longer, four-door 110, mirroring the old models. It can be powered by either a 2.0-liter four-cylinder turbocharged engine or a 3.0-liter inline six-cylinder engine that uses a mild hybrid system. The capable SUV has up to 19.7 inches of articulation, a wading depth of 35 inches and a 38-degree approach angle complemented by a 40-degree departure angle. It’s equipped with multiple cameras that offer a 3D perspective of the exterior that enhances situational awareness. A “transparent hood” view lets the driver see the suspension and the wheels while it maneuvers over uneven surfaces, and there’s also a terrain response system with pre-set modes. Legit indeed. Read Less Off-road capability is about as good as one could ask for in a factory rig Standout design is thoroughly modern yet but easily recognizable as a Defender Smooth on-road performance Gas mileage is nothing to write home about Top-end models get quite pricey Feels tall and heavy in corners <best-of-specs :specs="specs" :show-mobile-ui="false"> #3 in Best Off-Road SUVs For 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Lincoln Aviator"> (33) 2021 Lincoln Aviator (33) Price Starting From $51,100 <base-star-rating-v2 star-rating="83" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The Aviator was discontinued after a single generation in the early 2000s, but it returned as a sleek baby Navigator for the 2020 model year. With seating for up to seven people, it shares its exterior styling with its larger SUV sibling. There are no wrong choices when it comes to Aviator powertrains; both are smooth and compliant. All Aviators use the same powertrain, a twin-turbocharged 3.0-liter V6 that delivers 400 horsepower and 415 pound-feet of torque. A plug-in hybrid model, only available with AWD, pairs it with a 13.6 kilowatt-hour battery pack and an electric motor for 494 horsepower and 630 pound-feet of torque. It’s shockingly quick, gets 23 mpg in combined city and highway driving and can travel 21 miles on electricity alone. Standard across the lineup is blind spot monitoring, automatic emergency braking, lane keeping assistance and automatic high-beam headlights. Pros & Cons Smooth, refined gas powertrains Sharp, upscale styling, inside and out Plush interior Hybrid feels clunky at times Can become expensive, quickly Gas fuel economy not the best Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #8 in Best Midsize Luxury SUVs For 2021 Why We Picked It Pros & Cons Specs Also Featured In The Aviator was discontinued after a single generation in the early 2000s, but it returned as a sleek baby Navigator for the 2020 model year. With seating for up to seven people, it shares its exterior styling with its larger SUV sibling. There are no wrong choices when it comes to Aviator powertrains; both are smooth and compliant. All Aviators use the same powertrain, a twin-turbocharged ...Read More The Aviator was discontinued after a single generation in the early 2000s, but it returned as a sleek baby Navigator for the 2020 model year. With seating for up to seven people, it shares its exterior styling with its larger SUV sibling. There are no wrong choices when it comes to Aviator powertrains; both are smooth and compliant. All Aviators use the same powertrain, a twin-turbocharged 3.0-liter V6 that delivers 400 horsepower and 415 pound-feet of torque. A plug-in hybrid model, only available with AWD, pairs it with a 13.6 kilowatt-hour battery pack and an electric motor for 494 horsepower and 630 pound-feet of torque. It’s shockingly quick, gets 23 mpg in combined city and highway driving and can travel 21 miles on electricity alone. Standard across the lineup is blind spot monitoring, automatic emergency braking, lane keeping assistance and automatic high-beam headlights. Read Less Smooth, refined gas powertrains Sharp, upscale styling, inside and out Plush interior Hybrid feels clunky at times Can become expensive, quickly Gas fuel economy not the best <best-of-specs :specs="specs" :show-mobile-ui="false"> #8 in Best Midsize Luxury SUVs For 2021 <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Subaru Outback"> (23) 2021 Subaru Outback (23) Price Starting From $26,795 <base-star-rating-v2 star-rating="80" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The sixth-generation Outback debuted for the 2020 model year and is the most handsomely styled Outback yet. Its muscular lines and athletic presence underlines its inherent capability, and its 8.7-inches of ground clearance is obvious at first glance. The Outback has a 2.5-liter four-cylinder engine that delivers 182 horsepower and 176 pound-feet of torque. Higher trims get a turbocharged 2.4-liter four-cylinder engine with 260 horsepower and 277 pound-feet of torque. All models can tow up to 3,500 pounds when properly equipped. The two-function X-Mode all-wheel-drive system automatically adjusts traction based on the situation (if, say, one wheel lifts off the ground) and gives the Outback a boost on snow, dirt and mud. Inside, two standout features make life easier: a giant 11.6-inch touchscreen and seat release levers that make easy work of folding rear seats (which expands cargo space to 75 cubic feet). The Outback includes a slew of great safety features, from its 360-degree surround-view camera and reverse automatic braking, which will stop the car if it detects an obstacle behind it. Pros & Cons Excellent storage space for small items Surprising performance off-road Generous tech and entertainment features CVT saps fun from otherwise great powertrain Road noise is annoying at highway speeds Wagon shape not for everyone Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #1 in Best SUVs With Roof Rails Why We Picked It Pros & Cons Specs Also Featured In The sixth-generation Outback debuted for the 2020 model year and is the most handsomely styled Outback yet. Its muscular lines and athletic presence underlines its inherent capability, and its 8.7-inches of ground clearance is obvious at first glance. The Outback has a 2.5-liter four-cylinder engine that delivers 182 horsepower and 176 pound-feet of torque. Higher trims get a turbocharged ...Read More The sixth-generation Outback debuted for the 2020 model year and is the most handsomely styled Outback yet. Its muscular lines and athletic presence underlines its inherent capability, and its 8.7-inches of ground clearance is obvious at first glance. The Outback has a 2.5-liter four-cylinder engine that delivers 182 horsepower and 176 pound-feet of torque. Higher trims get a turbocharged 2.4-liter four-cylinder engine with 260 horsepower and 277 pound-feet of torque. All models can tow up to 3,500 pounds when properly equipped. The two-function X-Mode all-wheel-drive system automatically adjusts traction based on the situation (if, say, one wheel lifts off the ground) and gives the Outback a boost on snow, dirt and mud. Inside, two standout features make life easier: a giant 11.6-inch touchscreen and seat release levers that make easy work of folding rear seats (which expands cargo space to 75 cubic feet). The Outback includes a slew of great safety features, from its 360-degree surround-view camera and reverse automatic braking, which will stop the car if it detects an obstacle behind it. Read Less Excellent storage space for small items Surprising performance off-road Generous tech and entertainment features CVT saps fun from otherwise great powertrain Road noise is annoying at highway speeds Wagon shape not for everyone <best-of-specs :specs="specs" :show-mobile-ui="false"> #1 in Best SUVs With Roof Rails <transition name="fade"> <gallery-slide-show :gallery='currentGallery' :on-close="closeSlideShow" v-if="viewPhotos" title="2021 Toyota Highlander"> (16) 2021 Toyota Highlander (16) Price Starting From $34,810 <base-star-rating-v2 star-rating="82" out-of="100" :tool-tip-placement="'left'" :percentage-font-size="'24'"> = 3 && !addedToCompare" > Compare Read In-Depth Review = 3 && !addedToCompare" > Added To Compare Add To Compare Why We Picked It The Toyota Highlander does just about everything well: carry up to eight passengers comfortably as long as the row-three trio are kids, keep occupants safe with a long list of standard safety features and driver assists, tow a 5,000-pound boat and entertain the occupants front and back on long trips. A 295-horsepower V6 engine is standard, but a hybrid version uses a four-cylinder engine and two electric motors to provide better than 35 mpg in city and highway driving. The Highlander offers front-seat passengers an inset shelf in the dash that’s perfect for stashing smartphones, lip balm, loose change or a sandwich (we’re not judging). There’s also ducting from the shelf to the USB jacks at the base of the console that hides the cords. This doesn’t improve zero-to-60 times (7 to 8 seconds), but it makes real people real happy during daily commutes and long trips. A year into its fourth generation, the Highlander is tracking to amass nearly a quarter-million sales in 2020, best of any midsize SUV. Pros & Cons Available hybrid Solid list of standard features Quiet, comfortable ride Confusing mix of buttons and on-screen controls Tiny third row Disconnected driving feel Specs <best-of-specs :specs="specs" :show-mobile-ui="true"> Also Featured In #7 in Best Midsize SUVs For 2021 Why We Picked It Pros & Cons Specs Also Featured In The Toyota Highlander does just about everything well: carry up to eight passengers comfortably as long as the row-three trio are kids, keep occupants safe with a long list of standard safety features and driver assists, tow a 5,000-pound boat and entertain the occupants front and back on long trips. A 295-horsepower V6 engine is standard, but a hybrid version uses a four-cylinder ...Read More The Toyota Highlander does just about everything well: carry up to eight passengers comfortably as long as the row-three trio are kids, keep occupants safe with a long list of standard safety features and driver assists, tow a 5,000-pound boat and entertain the occupants front and back on long trips. A 295-horsepower V6 engine is standard, but a hybrid version uses a four-cylinder engine and two electric motors to provide better than 35 mpg in city and highway driving. The Highlander offers front-seat passengers an inset shelf in the dash that’s perfect for stashing smartphones, lip balm, loose change or a sandwich (we’re not judging). There’s also ducting from the shelf to the USB jacks at the base of the console that hides the cords. This doesn’t improve zero-to-60 times (7 to 8 seconds), but it makes real people real happy during daily commutes and long trips. A year into its fourth generation, the Highlander is tracking to amass nearly a quarter-million sales in 2020, best of any midsize SUV. Read Less Available hybrid Solid list of standard features Quiet, comfortable ride Confusing mix of buttons and on-screen controls Tiny third row Disconnected driving feel <best-of-specs :specs="specs" :show-mobile-ui="false"> #7 in Best Midsize SUVs For 2021 At a Glance Cars Price Mileage Rating 2020 BMW X5 2020 BMW X5 Price $58,900 Mileage 21 City / 26 Hwy Rating 87 /100 = 3 && !compareCarList.includes('21215')"> Added To Compare Add To Compare 2021 Chevrolet Tahoe 2021 Chevrolet Tahoe Price $49,000 Mileage 16 City / 20 Hwy Rating Review not available Not available = 3 && !compareCarList.includes('124250')"> Added To Compare Add To Compare 2020 Chrysler Pacifica 2020 Chrysler Pacifica Price $34,045 Mileage 19 City / 28 Hwy Rating Review not available Not available = 3 && !compareCarList.includes('21632')"> Added To Compare Add To Compare 2021 Genesis GV80 2021 Genesis GV80 Price $48,900 Mileage 21 City / 25 Hwy Rating 91 /100 = 3 && !compareCarList.includes('124729')"> Added To Compare Add To Compare 2020 Hyundai Palisade 2020 Hyundai Palisade Price $31,775 Mileage 19 City / 26 Hwy Rating Review not available Not available = 3 && !compareCarList.includes('22593')"> Added To Compare Add To Compare 2021 Kia Telluride 2021 Kia Telluride Price $31,990 Mileage 20 City / 26 Hwy Rating 88 /100 = 3 && !compareCarList.includes('125138')"> Added To Compare Add To Compare 2021 Land Rover Defender 2021 Land Rover Defender Price $46,100 Mileage 18 (Est) City / 21 (Est) Hwy Rating 81 /100 = 3 && !compareCarList.includes('246717')"> Added To Compare Add To Compare 2021 Lincoln Aviator 2021 Lincoln Aviator Price $51,100 Mileage 18 (2020) City / 26 (2020) Hwy Rating 83 /100 = 3 && !compareCarList.includes('125220')"> Added To Compare Add To Compare 2021 Subaru Outback 2021 Subaru Outback Price $26,795 Mileage 26 City / 33 Hwy Rating 80 /100 = 3 && !compareCarList.includes('125596')"> Added To Compare Add To Compare 2021 Toyota Highlander 2021 Toyota Highlander Price $34,810 Mileage 21 City / 29 Hwy Rating 82 /100 = 3 && !compareCarList.includes('125896')"> Added To Compare Add To Compare Methodology The nominees and winners were selected by the 2020 Forbes Wheels Car of the Year panel, comprised of four staff editors and six contributors. Our criteria included performance, safety, technology, comfort and convenience, fuel economy, design and functionality. Because each category spans the full spectrum of pricing, we selected vehicles that stand out among their peers. Vehicles eligible for nomination include any car or truck for sale or in production during 2020; some debuted prior to 2020. Forbes Wheels Car of the Year Panelists Sam Abuelsamid  (contributor) is a principal research analyst at consulting firm Guidehouse Insights (formerly Navigant Research) and is a frequent contributor to Forbes.com, covering innovation in the transportation sector. Brian Armstead  (contributor) is president emeritus of the Washington Automotive Press Association and a North American Car, Truck and Utility of the Year (NACTOY) Juror. Bill Howard  (Forbes Wheels Staff) is editor of Forbes Wheels. He is the past president of the International Motor Press Association and was previously executive editor and contributing editor for Ziff-Davis’ PC Magazine and ExtremeTech. Alex Kalogiannis (contributor) has been an automotive writer for over 10 years. In addition to bylines at outlets including Gear Patrol, Trucks.com and SlashGear, he was previously the Car section editor at Digital Trends. Alex Kwanten  (Forbes Wheels Staff) has worked in automotive, marine and aviation for over a decade and reported on buying, selling and servicing cars for multiple industry publications, including Automotive News. Carly Schaffner  (Forbes Wheels Staff) has worked in the automotive industry for over a decade in both editorial and communication roles. Before joining Forbes Wheels, she was managing editor of Trucks.com. Chris Teague  (contributor) is a freelance automotive writer focused on new vehicle reviews, industry trends and breaking news, and has an MBA focusing on data analysis that gives him insight into some of the auto industry’s biggest companies. Lawrence Ulrich  (contributor) is an award-winning auto writer, and former chief auto critic for The New York Times, Detroit Free Press and The Drive. John Voelcker (contributor) was editor of Green Car Reports for nine years. He now is a reporter and analyst covering advanced auto technologies and energy policy, and a North American Car, Truck and Utility of the Year (NACTOY) Juror. Andrew Wendler  (Forbes Staff) grew up immersed in automotive, marine and aviation culture and spent a decade at Car and Driver as a writer and editor before joining Forbes Wheels. You May Also Like Best Luxury SUVs Under $50,000 By Liane Yvkoff Contributor Best Small SUVs And Crossovers For 2021 By Carly Schaffner Forbes Staff Best Sedans For 2021 By Alex Kwanten Forbes Staff Best SUVs With Roof Rails By Liane Yvkoff Contributor Best Sports Cars For 2021 By Alex Kwanten Forbes Staff Best Pickups For 2021 By Andrew Wendler Forbes Staff &nbsp; Latest Articles Best Used Cars Under $5,000 For 2021 Best Off-Road SUVs For 2021 2022 Audi e-tron GT First Drive Review: Sexier Than A Tesla Best Small And Midsize SUV Lease Deals Best Crossovers And Small SUVs For 2021 Best Midsize Pickups For 2021 Best Minivans For 2021 © 2021 Forbes Media LLC. All Rights Reserved. AdChoices AdChoices Privacy Statement Terms and Conditions Contact Us Send Us Feedback Jobs At Forbes Reprints &amp; Permissions Forbes Press Room Forbes Quote of the Day Advertise 
+<p>
+
+<h2>
+Base = <a href=""></a>
+</h2>
+
+<h2>
+Links
+</h2>
+<p>
+<a href="https://www.forbes.com/wheels/">https://www.forbes.com/wheels/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ford/f-150/">https://www.forbes.com/wheels/cars/ford/f-150/</a> ( Ford F-150 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chevrolet/silverado-1500/">https://www.forbes.com/wheels/cars/chevrolet/silverado-1500/</a> ( Chevrolet Silverado 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ram/1500/">https://www.forbes.com/wheels/cars/ram/1500/</a> ( Ram 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/rav4/">https://www.forbes.com/wheels/cars/toyota/rav4/</a> ( Toyota RAV4 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/honda/cr-v/">https://www.forbes.com/wheels/cars/honda/cr-v/</a> ( Honda CR-V )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/camry/">https://www.forbes.com/wheels/cars/toyota/camry/</a> ( Toyota Camry )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/honda/civic-sedan/">https://www.forbes.com/wheels/cars/honda/civic-sedan/</a> ( Honda Civic )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/chevrolet/equinox/">https://www.forbes.com/wheels/cars/chevrolet/equinox/</a> ( Chevrolet Equinox )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/gmc/sierra-1500/">https://www.forbes.com/wheels/cars/gmc/sierra-1500/</a> ( GMC Sierra 1500 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/nissan/rogue/">https://www.forbes.com/wheels/cars/nissan/rogue/</a> ( Nissan Rogue )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2021/">https://www.forbes.com/wheels/cars/ford/mustang-mach-e/2021/</a> ( Ford Mustang Mach-E )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs/">https://www.forbes.com/wheels/best/suvs/</a> ( Best SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-luxury-suvs/">https://www.forbes.com/wheels/best/midsize-luxury-suvs/</a> ( Best Midsize Luxury SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/small-suvs-crossovers/">https://www.forbes.com/wheels/best/small-suvs-crossovers/</a> ( Best Small SUVs And Crossovers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs/">https://www.forbes.com/wheels/best/luxury-suvs/</a> ( Best Luxury SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs-under-50000/">https://www.forbes.com/wheels/best/luxury-suvs-under-50000/</a> ( Best Luxury SUVs Under $50,000 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/pickups/">https://www.forbes.com/wheels/best/pickups/</a> ( Best Pickup Trucks )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-pickup-trucks/">https://www.forbes.com/wheels/best/midsize-pickup-trucks/</a> ( Best Midsize Pickup Trucks )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sedans/">https://www.forbes.com/wheels/best/sedans/</a> ( Best Sedans For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-10-best-evs-2021/">https://www.forbes.com/wheels/advice/forbes-wheels-10-best-evs-2021/</a> ( Best Electric Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-best-cars-2021-semifinalists/">https://www.forbes.com/wheels/advice/forbes-wheels-best-cars-2021-semifinalists/</a> ( Best Cars of 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-car-of-the-year-for-2021-mazda3/">https://www.forbes.com/wheels/advice/forbes-wheels-car-of-the-year-for-2021-mazda3/</a> ( Car of the Year 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/minivans/">https://www.forbes.com/wheels/best/minivans/</a> ( Best Minivans )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sports-cars/">https://www.forbes.com/wheels/best/sports-cars/</a> ( Best Sports Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/lease-deals/">https://www.forbes.com/wheels/best/lease-deals/</a> ( Best Lease Deals )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-suv-lease-deals/">https://www.forbes.com/wheels/advice/best-suv-lease-deals/</a> ( Best SUV Lease Deals )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/8-unique-features-on-the-2021-ford-f-150/">https://www.forbes.com/wheels/features/8-unique-features-on-the-2021-ford-f-150/</a> ( Unique Features of the Ford F150 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/how-to-think-like-a-dealer-get-best-price-car-you-want/">https://www.forbes.com/wheels/advice/how-to-think-like-a-dealer-get-best-price-car-you-want/</a> ( How To Think Like A Car Dealer )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/awd-versus-4wd/">https://www.forbes.com/wheels/advice/awd-versus-4wd/</a> ( AWD Vs. 4WD )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/car-subscription-services/">https://www.forbes.com/wheels/advice/car-subscription-services/</a> ( Car Subscription Services )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/advanced-driver-assistance-systems-what-are-they/">https://www.forbes.com/wheels/advice/advanced-driver-assistance-systems-what-are-they/</a> ( What Are Advanced Driver-Assistance Systems? )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/5-best-infotainment-systems/">https://www.forbes.com/wheels/advice/5-best-infotainment-systems/</a> ( Best Infotainment Systems )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/why-your-new-vehicle-should-have-apple-carplay-android-auto/">https://www.forbes.com/wheels/advice/why-your-new-vehicle-should-have-apple-carplay-android-auto/</a> ( Why New Vehicles Should Have Apple CarPlay Or Android Auto )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/what-are-all-season-tires-are-they-right-for-you/">https://www.forbes.com/wheels/advice/what-are-all-season-tires-are-they-right-for-you/</a> ( What Are All-Season Tires? )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/how-to-prepare-your-vehicle-road-trip/">https://www.forbes.com/wheels/advice/how-to-prepare-your-vehicle-road-trip/</a> ( How To Prepare Your Vehicle For A Road Trip )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-summer-road-trip-vehicles/">https://www.forbes.com/wheels/advice/best-summer-road-trip-vehicles/</a> ( Best Summer Road Trip Vehicles )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/three-row-midsize-suvs-most-cargo-space/">https://www.forbes.com/wheels/advice/three-row-midsize-suvs-most-cargo-space/</a> ( 3-Row SUVs With The Most Cargo Space )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs-with-roof-rails/">https://www.forbes.com/wheels/best/suvs-with-roof-rails/</a> ( Best SUVs With Roof Rails )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/forbes-wheels-10-best-car-accessories-2021/">https://www.forbes.com/wheels/advice/forbes-wheels-10-best-car-accessories-2021/</a> ( Best Car Accessories )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-gps-navigation/">https://www.forbes.com/wheels/accessories/best-car-gps-navigation/</a> ( Best Car GPS Navigation Systems )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-jumper-cables/">https://www.forbes.com/wheels/accessories/best-jumper-cables/</a> ( Best Jumper Cables )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-battery-chargers/">https://www.forbes.com/wheels/accessories/best-car-battery-chargers/</a> ( Best Car Battery Chargers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-radar-detectors/">https://www.forbes.com/wheels/accessories/best-radar-detectors/</a> ( Best Radar Detectors )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-seat-covers/">https://www.forbes.com/wheels/accessories/best-car-seat-covers/</a> ( Best Car Seat Covers )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-gps-trackers-for-cars/">https://www.forbes.com/wheels/accessories/best-gps-trackers-for-cars/</a> ( Best GPS Trackers For Cars )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-ceramic-coatings/">https://www.forbes.com/wheels/accessories/best-ceramic-coatings/</a> ( Best Ceramic Coatings )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/accessories/best-car-lifts/">https://www.forbes.com/wheels/accessories/best-car-lifts/</a> ( Best Car Lifts )
+</p>
+<p>
+<a href="https://www.forbes.com/">https://www.forbes.com/</a> ( Back To Forbes.com )
+</p>
+<p>
+<a href="#">#</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/">https://www.forbes.com/wheels/</a> ( Wheels )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/cchaffner/">https://www.forbes.com/wheels/author/cchaffner/</a> ( )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/author/cchaffner/">https://www.forbes.com/wheels/author/cchaffner/</a> ( Carly Schaffner )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/bmw/x5/">https://www.forbes.com/wheels/cars/bmw/x5/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/minivans/">https://www.forbes.com/wheels/best/minivans/</a> ( Best Minivans For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/minivans/">https://www.forbes.com/wheels/best/minivans/</a> ( Best Minivans For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/genesis/gv80/">https://www.forbes.com/wheels/cars/genesis/gv80/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs/">https://www.forbes.com/wheels/best/luxury-suvs/</a> ( Best Luxury SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-luxury-suvs/">https://www.forbes.com/wheels/best/midsize-luxury-suvs/</a> ( Best Midsize Luxury SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs/">https://www.forbes.com/wheels/best/luxury-suvs/</a> ( Best Luxury SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-luxury-suvs/">https://www.forbes.com/wheels/best/midsize-luxury-suvs/</a> ( Best Midsize Luxury SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/summer-road-trip-vehicles/">https://www.forbes.com/wheels/best/summer-road-trip-vehicles/</a> ( Best Summer Road Trip Vehicles )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/summer-road-trip-vehicles/">https://www.forbes.com/wheels/best/summer-road-trip-vehicles/</a> ( Best Summer Road Trip Vehicles )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/kia/telluride/">https://www.forbes.com/wheels/cars/kia/telluride/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/car-of-the-year-2021/">https://www.forbes.com/wheels/best/car-of-the-year-2021/</a> ( Forbes Wheels Car Of The Year For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/summer-road-trip-vehicles/">https://www.forbes.com/wheels/best/summer-road-trip-vehicles/</a> ( Best Summer Road Trip Vehicles )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/car-of-the-year-2021/">https://www.forbes.com/wheels/best/car-of-the-year-2021/</a> ( Forbes Wheels Car Of The Year For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/summer-road-trip-vehicles/">https://www.forbes.com/wheels/best/summer-road-trip-vehicles/</a> ( Best Summer Road Trip Vehicles )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/land-rover/defender/">https://www.forbes.com/wheels/cars/land-rover/defender/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/lincoln/aviator/2021/">https://www.forbes.com/wheels/cars/lincoln/aviator/2021/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-luxury-suvs/">https://www.forbes.com/wheels/best/midsize-luxury-suvs/</a> ( Best Midsize Luxury SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-luxury-suvs/">https://www.forbes.com/wheels/best/midsize-luxury-suvs/</a> ( Best Midsize Luxury SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/subaru/outback/">https://www.forbes.com/wheels/cars/subaru/outback/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs-with-roof-rails/">https://www.forbes.com/wheels/best/suvs-with-roof-rails/</a> ( Best SUVs With Roof Rails )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs-with-roof-rails/">https://www.forbes.com/wheels/best/suvs-with-roof-rails/</a> ( Best SUVs With Roof Rails )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/cars/toyota/highlander/">https://www.forbes.com/wheels/cars/toyota/highlander/</a> ( Read In-Depth Review )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-suvs/">https://www.forbes.com/wheels/best/midsize-suvs/</a> ( Best Midsize SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/luxury-suvs-under-50000/">https://www.forbes.com/wheels/best/luxury-suvs-under-50000/</a> ( Best Luxury SUVs Under $50,000 By Liane Yvkoff Contributor )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/small-suvs-crossovers/">https://www.forbes.com/wheels/best/small-suvs-crossovers/</a> ( Best Small SUVs And Crossovers For 2021 By Carly Schaffner Forbes Staff )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sedans/">https://www.forbes.com/wheels/best/sedans/</a> ( Best Sedans For 2021 By Alex Kwanten Forbes Staff )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/suvs-with-roof-rails/">https://www.forbes.com/wheels/best/suvs-with-roof-rails/</a> ( Best SUVs With Roof Rails By Liane Yvkoff Contributor )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/sports-cars/">https://www.forbes.com/wheels/best/sports-cars/</a> ( Best Sports Cars For 2021 By Alex Kwanten Forbes Staff )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/pickups/">https://www.forbes.com/wheels/best/pickups/</a> ( Best Pickups For 2021 By Andrew Wendler Forbes Staff )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-used-cars-under-5000/">https://www.forbes.com/wheels/advice/best-used-cars-under-5000/</a> ( Best Used Cars Under $5,000 For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/off-road-suvs/">https://www.forbes.com/wheels/best/off-road-suvs/</a> ( Best Off-Road SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/features/2022-audi-e-tron-gt-review/">https://www.forbes.com/wheels/features/2022-audi-e-tron-gt-review/</a> ( 2022 Audi e-tron GT First Drive Review: Sexier Than A Tesla )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/advice/best-suv-lease-deals/">https://www.forbes.com/wheels/advice/best-suv-lease-deals/</a> ( Best Small And Midsize SUV Lease Deals )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/small-suvs-crossovers/">https://www.forbes.com/wheels/best/small-suvs-crossovers/</a> ( Best Crossovers And Small SUVs For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/midsize-pickup-trucks/">https://www.forbes.com/wheels/best/midsize-pickup-trucks/</a> ( Best Midsize Pickups For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/wheels/best/minivans/">https://www.forbes.com/wheels/best/minivans/</a> ( Best Minivans For 2021 )
+</p>
+<p>
+<a href="https://www.forbes.com/">https://www.forbes.com/</a> ( )
+</p>
+<p>
+<a href="https://www.facebook.com/forbeswheels">https://www.facebook.com/forbeswheels</a> ( )
+</p>
+<p>
+<a href="https://twitter.com/ForbesWheels">https://twitter.com/ForbesWheels</a> ( )
+</p>
+<p>
+<a href="https://www.instagram.com/forbeswheels/">https://www.instagram.com/forbeswheels/</a> ( )
+</p>
+<p>
+<a href="https://preferences-mgr.truste.com/?pid=forbes01">https://preferences-mgr.truste.com/?pid=forbes01</a> ( AdChoices )
+</p>
+<p>
+<a href="https://preferences-mgr.truste.com/?pid=forbes01&amp;aid=forbes_mobile01">https://preferences-mgr.truste.com/?pid=forbes01&amp;aid=forbes_mobile01</a> ( AdChoices )
+</p>
+<p>
+<a href="//www.forbes.com/fdc/privacy.html">//www.forbes.com/fdc/privacy.html</a> ( Privacy Statement )
+</p>
+<p>
+<a href="//www.forbes.com/terms">//www.forbes.com/terms</a> ( Terms and Conditions )
+</p>
+<p>
+<a href="//www.forbes.com/fdc/contact.html">//www.forbes.com/fdc/contact.html</a> ( Contact Us )
+</p>
+<p>
+<a href="mailto:feedback@forbes.com">mailto:feedback@forbes.com</a> ( Send Us Feedback )
+</p>
+<p>
+<a href="//www.forbes.com/sites/careers-at-forbes/">//www.forbes.com/sites/careers-at-forbes/</a> ( Jobs At Forbes )
+</p>
+<p>
+<a href="http://forbesreprints.magreprints.com/">http://forbesreprints.magreprints.com/</a> ( Reprints &amp; Permissions )
+</p>
+<p>
+<a href="//www.forbes.com/sites/forbespr/">//www.forbes.com/sites/forbespr/</a> ( Forbes Press Room )
+</p>
+<p>
+<a href="//www.forbes.com/quotes/">//www.forbes.com/quotes/</a> ( Forbes Quote of the Day )
+</p>
+<p>
+<a href="http://www.forbesmedia.com/">http://www.forbesmedia.com/</a> ( Advertise )
+</p>
+</body>
+</html>
