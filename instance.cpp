@@ -23,6 +23,8 @@
 using std::string;
 using std::queue;
 using std::vector;
+using std::cout;
+using std::endl;
 
 queue<string> linksend [TOTAL];
 queue<string> weblist;
@@ -35,7 +37,11 @@ void readLinks( string inventoryFile, vector<string> & links )
    string url;
    for ( int i = 0;  i < 900;  i++ )
       {
-      inv >> ind >> url;
+      inv >> ind;
+      std::getline (inv, url);
+      for ( auto ch: url )
+         if ( std::isspace( ch ) )
+            continue;
       links.push_back( url );
       }
    }
@@ -45,9 +51,11 @@ void hashAndPush( std::vector<string> & links )
    {
    std::hash<string> hashFun;
    vector<int> count ( TOTAL );
+   int badlinks = 0;
    for ( string & link: links )
       {
       ParsedUrl url( link.c_str() );
+      //cout << link << endl;
 	   //cout << url.firstThree << endl;
       int val = hashFun( string( url.firstThree ) );
       int ind = std::abs( val % TOTAL );
@@ -59,12 +67,13 @@ void hashAndPush( std::vector<string> & links )
          weblist.push( link );
          //visited.push( link );
       }
-   std::cout << "Count for each server: \n";
+   cout << "Count for each server: \n";
    for ( auto & co: count )
       {
-      std::cout << co << std::endl;
+      cout << co << std::endl;
       }
    }
+   
 
 
 void* listenLink( void* ptr )
@@ -81,6 +90,7 @@ void* sendLink( void* indexptr )
       {
       sleep( 1 ); // avoid busy waiting
       //send links to other servers
+      break;
       }
    }
 
