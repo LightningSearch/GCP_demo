@@ -1,0 +1,21 @@
+E:
+each crawler modify #define INDEX in the macro
+create new VM instance on the Computing Engine API (containerized)
+promote the ephemeral ip address to static / create static and set it to instance
+mount disk storage to the VM instance needed (instance and docker container data volume)
+docker build
+docker run -d -p 8002:8002 (2nd machine)
+
+A:
+check all the external ip addresses and store locally
+send all instances' external ip address to all the containers running crawlers
+
+E:
+store all ip addresses of all the instances to disk
+do crawling...
+
+A:
+send stopping message to all the instances
+
+E:
+create new containers for other jobs (index server, memory manager, ranker etc.)

@@ -27,13 +27,15 @@ int main(int argc, char const *argv[])
       return -1;
       }
 
-   if (connect(sock, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0)
+   while (connect(sock, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0)
       {
       printf("\nConnection Failed \n");
-      return -1;
+      sleep(1);
       }
    send(sock , hello , strlen(hello) , 0 );
    printf("Hello message sent\n");
+   valread = read( sock , buffer, 5);
+   printf("%s",buffer );
    valread = read( sock , buffer, 1024);
    printf("%s\n",buffer );
    return 0;
