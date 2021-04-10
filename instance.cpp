@@ -137,9 +137,15 @@ void* listenLink( void* ind )
          else if (strncmp(buffer, "ip$$$", 5) == 0) // ip$$$$(address1)$(address2)..$
             {
             std::cout << "\nStart reading ip addresses!\n";
+            // read length
+            memset(&buffer, 0, 1024);
+            bytes = recv( newsocket , buffer, 5, 0);
+            char * end = strstr(buffer, "$");
+            *end = 0;
+            int len = atoi(buffer);
             // receive and print all IPs to "IP.txt"
             memset(&buffer, 0, 1024);
-            bytes = recv( newsocket , buffer, 1024, 0);
+            bytes = recv( newsocket , buffer, len, 0);
             std::cout << bytes << std::endl;
             if (bytes == -1) 
                {
@@ -166,7 +172,6 @@ void* listenLink( void* ind )
             }
          else if (bytes > 0)// links 22$$$/https:---
             {
-            //std::cout << bytes << "\n";
             char * end = strstr(buffer, "$");
             *end = 0;
             int len = atoi(buffer);
@@ -193,7 +198,7 @@ void* sendLink( void* indexptr )
    int port = PORT + index;
    char targetIP [30];
    memset(&targetIP, 0, 30);
-   std::cout << "Index " << index << " :" << IPs[index].c_str() << "\n";
+   std::cout << "Index " << index << ": " << IPs[index].c_str() << "\n";
    if (haveIP) strcpy(targetIP, IPs[index].c_str());
    while (running)
       {
