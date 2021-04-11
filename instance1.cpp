@@ -78,77 +78,6 @@ void hashAndPush( std::vector<string> & links, int INDEX )
       }
    }
 
-void* littleListen( void* newsock )
-   {
-   int newsocket = * ((int*) newsock);
-   int bytes;
-   char buffer[1024] = {0};
-   do
-      {
-      memset(&buffer, 0, 1024);
-      int bytes = recv( * ((int*) newsock) , buffer, 5, 0);
-      if (strncmp(buffer, "stop$", 5) == 0) //stop$
-         {
-         std::cout << "\nThe listening thread stops!\n";
-         close( * ((int*) newsock) );
-         running = false;
-         return nullptr;
-         }
-      else if (strncmp(buffer, "ip$$$", 5) == 0) // ip$$$$(address1)$(address2)..$
-         {
-         std::cout << "\nStart reading ip addresses!\n";
-         // read length
-         memset(&buffer, 0, 1024);
-         bytes = recv( * ((int*) newsock) , buffer, 5, 0);
-         char * end = strstr(buffer, "$");
-         *end = 0;
-         int len = atoi(buffer);
-         // receive and print all IPs to "IP.txt"
-         memset(&buffer, 0, 1024);
-         bytes = recv( * ((int*) newsock) , buffer, len, 0);
-         std::cout << bytes << std::endl;
-         if (bytes == -1) 
-            {
-            bytes = 1;
-            std::cout << "\nFailure for reading ip!\n";
-            return nullptr;
-            }
-         std::ofstream ofs("IP.txt");
-         char * p = buffer + 1;
-         int index = 0;
-         char* curIP;
-         do
-            {
-            for (curIP = p; *p != '$'; p++)
-               ;
-            *p++ = 0; // skip '$'
-            ofs << curIP << "\n";
-            //std::cout << curIP << "\n";
-            IPs[index++] = curIP;
-            } 
-         while (*p);
-         ofs.close();
-         haveIP = true;
-         }
-      else if (bytes > 0)// links 22$$$/https:---
-         {
-         char * end = strstr(buffer, "$");
-         *end = 0;
-         int len = atoi(buffer);
-         // receive IP and push to weblist
-         memset(&buffer, 0, 1024);
-         bytes = recv( * ((int*) newsock) , buffer, len, 0);
-         if (bytes == -1) {bytes = 1; cout << "fail in links" << endl; continue;}
-         weblist.push(buffer);
-         std::cout << weblist.back() << "\n";
-         }
-      }
-   while (bytes > 0);
-   close( * ((int*) newsock) );
-   delete (int*)newsock;
-   return nullptr;
-   }
-
 
 void* listenLink( void* ind )
    {
@@ -166,7 +95,7 @@ void* listenLink( void* ind )
    address.sin_family = AF_INET;
    address.sin_port = htons(PORT + INDEX);
    // convert IPv4 and IPv6 addresses from text to binary form
-   const char* ip = "127.0.0.1";
+   const char* ip = "0.0.0.0";
    if (inet_pton(AF_INET, ip, &address.sin_addr) <= 0) 
       {
       std::cout << "Invalid listen address!\n";
@@ -184,21 +113,78 @@ void* listenLink( void* ind )
       }
    
    // start listening
-   while (running)
+   int bytes, newsocket;
+   char buffer[1024] = {0};
+   while (true)
       {
-      int * newsocket = new int (accept(socketFD, 0, 0));
-      if ( *newsocket < 0 )
+      if ((newsocket = accept(socketFD, 0, 0)) < 0)
          {
          perror("Accept");
          return nullptr;
          }
-      else
+      do
          {
-         // initiate listen thread
-         pthread_t littlethr;
-         pthread_create( &littlethr, nullptr, littleListen, (void*)newsocket );
-         pthread_detach(littlethr);
+         memset(&buffer, 0, 1024);
+         bytes = recv( newsocket , buffer, 5, 0);
+         if (strncmp(buffer, "stop$", 5) == 0) //stop$
+            {
+            std::cout << "\nThe listening thread stops!\n";
+            close( newsocket );
+            close( socketFD );
+            running = false;
+            return nullptr;
+            }
+         else if (strncmp(buffer, "ip$$$", 5) == 0) // ip$$$$(address1)$(address2)..$
+            {
+            std::cout << "\nStart reading ip addresses!\n";
+            // read length
+            memset(&buffer, 0, 1024);
+            bytes = recv( newsocket , buffer, 5, 0);
+            char * end = strstr(buffer, "$");
+            *end = 0;
+            int len = atoi(buffer);
+            // receive and print all IPs to "IP.txt"
+            memset(&buffer, 0, 1024);
+            bytes = recv( newsocket , buffer, len, 0);
+            std::cout << bytes << std::endl;
+            if (bytes == -1) 
+               {
+               bytes = 1;
+               std::cout << "\nFailure for reading ip!\n";
+               return nullptr;
+               }
+            std::ofstream ofs("IP.txt");
+            char * p = buffer + 1;
+            int index = 0;
+            char* curIP;
+            do
+               {
+               for (curIP = p; *p != '$'; p++)
+                  ;
+               *p++ = 0; // skip '$'
+               ofs << curIP << "\n";
+               //std::cout << curIP << "\n";
+               IPs[index++] = curIP;
+               } 
+            while (*p);
+            ofs.close();
+            haveIP = true;
+            }
+         else if (bytes > 0)// links 22$$$/https:---
+            {
+            char * end = strstr(buffer, "$");
+            *end = 0;
+            int len = atoi(buffer);
+            // receive IP and push to weblist
+            memset(&buffer, 0, 1024);
+            bytes = recv( newsocket , buffer, len, 0);
+            if (bytes == -1) break;
+            weblist.push(buffer);
+            //std::cout << weblist.back() << "\n";
+            }
          }
+      while (bytes > 0);
+      close( newsocket );
       }
    return nullptr;
    }
@@ -240,7 +226,7 @@ void* sendLink( void* indexptr )
             perror("\nInvalid send target address!\n");
             return nullptr;
             }
-         while (connect(sock, (struct sockaddr *)&addr, sizeof(addr)) < 0 && running)
+         while (connect(sock, (struct sockaddr *)&addr, sizeof(addr)) < 0)
             {
             perror("Send connection");
             sleep(1); // try to connect again
@@ -269,8 +255,6 @@ void* sendLink( void* indexptr )
             strncpy(cont, hd, 5);
             strcpy(cont + 5, link.c_str());
             int bytes = send(sock, cont, strlen(cont), 0);
-            if (bytes == -1) return nullptr;
-            std::cout << "Send bytes: " << bytes << "\n";
             linksend[index].pop();
             }
          close ( sock );
