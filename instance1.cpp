@@ -43,6 +43,7 @@ void readLinks( string inventoryFile, vector<string> & links )
       {
       inv >> ind;
       std::getline (inv, url);
+      url.erase(0, 1);
       for ( auto ch: url )
          if ( std::isspace( ch ) )
             continue;
@@ -180,7 +181,7 @@ void* listenLink( void* ind )
             bytes = recv( newsocket , buffer, len, 0);
             if (bytes == -1) break;
             weblist.push(buffer);
-            //std::cout << weblist.back() << "\n";
+            std::cout << weblist.back() << "\n";
             }
          }
       while (bytes > 0);

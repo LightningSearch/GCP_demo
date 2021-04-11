@@ -33,16 +33,22 @@ vector<string> IPs(TOTAL);
 static bool haveIP = false;
 static bool running = true;
 
+struct sendArg {
+   string link;
+   int index;
+};
+
 
 void readLinks( string inventoryFile, vector<string> & links )
    {
    std::ifstream inv( inventoryFile );
    int ind;
    string url;
-   for ( int i = 0;  i < 900;  i++ )
+   for ( int i = 0;  i < 100;  i++ )
       {
       inv >> ind;
       std::getline (inv, url);
+      url.erase(0, 1);
       for ( auto ch: url )
          if ( std::isspace( ch ) )
             continue;
@@ -78,19 +84,21 @@ void hashAndPush( std::vector<string> & links, int INDEX )
       }
    }
 
+
 void* littleListen( void* newsock )
    {
+   if (!running)
+      return nullptr;
    int newsocket = * ((int*) newsock);
    int bytes;
    char buffer[1024] = {0};
    do
       {
       memset(&buffer, 0, 1024);
-      int bytes = recv( * ((int*) newsock) , buffer, 5, 0);
+      int bytes = recv( newsocket , buffer, 5, 0);
       if (strncmp(buffer, "stop$", 5) == 0) //stop$
          {
-         std::cout << "\nThe listening thread stops!\n";
-         close( * ((int*) newsock) );
+         close( newsocket );
          running = false;
          return nullptr;
          }
@@ -99,13 +107,13 @@ void* littleListen( void* newsock )
          std::cout << "\nStart reading ip addresses!\n";
          // read length
          memset(&buffer, 0, 1024);
-         bytes = recv( * ((int*) newsock) , buffer, 5, 0);
+         bytes = recv( newsocket , buffer, 5, 0);
          char * end = strstr(buffer, "$");
          *end = 0;
          int len = atoi(buffer);
          // receive and print all IPs to "IP.txt"
          memset(&buffer, 0, 1024);
-         bytes = recv( * ((int*) newsock) , buffer, len, 0);
+         bytes = recv( newsocket , buffer, len, 0);
          std::cout << bytes << std::endl;
          if (bytes == -1) 
             {
@@ -137,14 +145,15 @@ void* littleListen( void* newsock )
          int len = atoi(buffer);
          // receive IP and push to weblist
          memset(&buffer, 0, 1024);
-         bytes = recv( * ((int*) newsock) , buffer, len, 0);
-         if (bytes == -1) {bytes = 1; cout << "fail in links" << endl; continue;}
-         weblist.push(buffer);
-         std::cout << weblist.back() << "\n";
+         bytes = recv( newsocket , buffer, len, 0);
+         if (bytes != -1 && bytes != 0)
+            weblist.push(buffer);
          }
       }
    while (bytes > 0);
-   close( * ((int*) newsock) );
+   cout << "Bytes" << bytes << "\n";
+   cout << "Received links: " << weblist.size() << "\n";
+   close( newsocket );
    delete (int*)newsock;
    return nullptr;
    }
@@ -153,13 +162,11 @@ void* littleListen( void* newsock )
 void* listenLink( void* ind )
    {
    /* listen on local socket */
-
    // create socket
    int INDEX = * ((int*) ind);
    int socketFD = socket( AF_INET, SOCK_STREAM, IPPROTO_TCP );
    if (socketFD == -1) 
       return nullptr;
-   
    // bind to socket with specified ip and port
    struct sockaddr_in address;
    unsigned addrlen = sizeof(address);
@@ -169,10 +176,11 @@ void* listenLink( void* ind )
    const char* ip = "127.0.0.1";
    if (inet_pton(AF_INET, ip, &address.sin_addr) <= 0) 
       {
-      std::cout << "Invalid listen address!\n";
+      std::cout << "\nInvalid listen address!\n";
       return nullptr;
       }
-   while (bind(socketFD, (struct sockaddr *) &address, sizeof(address)) < 0)
+   // bind and set max socket queue
+   while ((bind(socketFD, (struct sockaddr *) &address, sizeof(address)) < 0) && running)
       {
       perror("Bind");
       sleep(1);
@@ -200,6 +208,64 @@ void* listenLink( void* ind )
          pthread_detach(littlethr);
          }
       }
+   std::cout << "\nThe listening thread stops!\n";
+   return nullptr;
+   }
+
+
+void* littleSend( void *arguments )
+   {
+   if (!running)
+      return nullptr;
+   string link = ((struct sendArg *)arguments)->link;
+   int index = ((struct sendArg *)arguments)->index;
+   delete (struct sendArg *) arguments;
+   int port = PORT + index;
+   char targetIP [30];
+   memset(&targetIP, 0, 30);
+   if (!haveIP)
+      return nullptr;
+   strcpy(targetIP, IPs[index].c_str());
+   // connect to target socket
+   int sock;
+   struct sockaddr_in addr;
+   char buffer[1024] = { 0 };
+   if ((sock = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP)) < 0)
+      return nullptr;
+   addr.sin_family = AF_INET;
+   addr.sin_port = htons(port);
+   // convert IPv4 and IPv6 addresses from text to binary form
+   if(inet_pton(AF_INET, targetIP, &addr.sin_addr)<=0) 
+      {
+      std::cout << index << "\n";
+      perror("Invalid send target address");
+      return nullptr;
+      }
+   while (connect(sock, (struct sockaddr *)&addr, sizeof(addr)) < 0 && running)
+      {
+      perror("Send connection");
+      sleep(1); // try to connect again
+      }
+   
+   // send the link
+   char cont[1024] = {0};
+   memset(&cont, 0, 1024);
+   // prepare 5 bytes header e.g. "22$$$"
+   int len = link.length();
+   char lenstr[5];
+   snprintf (lenstr, 5, "%d", len);
+   char hd [6];
+   memset (&hd, 0, 6);
+   strcpy(hd, "$$$$$");
+   strncpy(hd, lenstr, strlen(lenstr));
+   if (hd[4] != '$')
+      return nullptr;
+   // prepare the send content
+   strncpy(cont, hd, 5);
+   strcpy(cont + 5, link.c_str());
+   //std::cout << cont << "\n";
+   if (running) send(sock, cont, strlen(cont), 0);
+   close ( sock );
    return nullptr;
    }
 
@@ -209,74 +275,25 @@ void* sendLink( void* indexptr )
    // send link to the indexed server
    int index = * ((int*) indexptr);
    delete (int*)indexptr;
-   int port = PORT + index;
-   char targetIP [30];
-   memset(&targetIP, 0, 30);
-   std::cout << "Index " << index << ": " << IPs[index].c_str() << "\n";
-   if (haveIP) strcpy(targetIP, IPs[index].c_str());
    while (running)
       {
-      while (!haveIP)
+      while (!haveIP && running)
          {
-         std::cout << "Lacking IPs!\n"; 
+         cout << "Waiting for IP!!!\n";
          sleep( 1 );
-         if (haveIP) strcpy(targetIP, IPs[index].c_str()); // (re)start connecting
-         std::cout << targetIP << "\n";
          }
-      if (!linksend[index].empty())
+      while (haveIP && !linksend[index].empty() && running)
          {
-         std::cout << linksend[index].size() << "\n";
-         // connect to target socket
-         int sock;
-         struct sockaddr_in addr;
-         char buffer[1024] = { 0 };
-         if ((sock = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP)) < 0)
-            return nullptr;
-         addr.sin_family = AF_INET;
-         addr.sin_port = htons(port);
-         // convert IPv4 and IPv6 addresses from text to binary form
-         if(inet_pton(AF_INET, targetIP, &addr.sin_addr)<=0) 
-            {
-            perror("\nInvalid send target address!\n");
-            return nullptr;
-            }
-         while (connect(sock, (struct sockaddr *)&addr, sizeof(addr)) < 0 && running)
-            {
-            perror("Send connection");
-            sleep(1); // try to connect again
-            }
-         
-         // send all the links
-         while (!linksend[index].empty())
-            {
-            string link = linksend[index].front();
-            char cont[1024] = {0};
-            memset(&cont, 0, 1024);
-            // prepare 5 bytes header e.g. "22$$$"
-            int len = link.length();
-            char lenstr[5];
-            snprintf (lenstr, 5, "%d", len);
-            char hd [6];
-            memset (&hd, 0, 6);
-            strcpy(hd, "$$$$$");
-            strncpy(hd, lenstr, strlen(lenstr));
-            if (hd[4] != '$')
-               {
-               linksend[index].pop();
-               continue;
-               }
-            // prepare the send content
-            strncpy(cont, hd, 5);
-            strcpy(cont + 5, link.c_str());
-            int bytes = send(sock, cont, strlen(cont), 0);
-            if (bytes == -1) return nullptr;
-            std::cout << "Send bytes: " << bytes << "\n";
-            linksend[index].pop();
-            }
-         close ( sock );
+         struct sendArg * args = new struct sendArg({linksend[index].front(), index});
+         linksend[index].pop();
+         // send little thread
+         pthread_t sendthr;
+         pthread_create( &sendthr, nullptr, littleSend, (void*)args );
+         pthread_detach(sendthr);
          }
       }
-      return nullptr;
+   cout << "The sending thread stops!\n";
+   return nullptr;
    }
 
 
@@ -329,6 +346,7 @@ int main ( int argc, char **argv )
    pthread_join(listenthr, nullptr);
    for ( int i = 0;  i < (TOTAL - 1);  i++ )
       pthread_join(sendthr[i], nullptr);
+   cout << weblist.size() << "\n";
    while (!weblist.empty())
       {
       std::cout << weblist.front() << "\n";
