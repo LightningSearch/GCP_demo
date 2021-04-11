@@ -172,6 +172,11 @@ void* listenLink( void* ind )
    unsigned addrlen = sizeof(address);
    address.sin_family = AF_INET;
    address.sin_port = htons(PORT + INDEX);
+   // set timeout
+   struct timeval tv;
+    tv.tv_sec = 1;
+    tv.tv_usec = 0;
+    setsockopt(socketFD, SOL_SOCKET, SO_RCVTIMEO, (const char*)&tv, sizeof tv);
    // convert IPv4 and IPv6 addresses from text to binary form
    const char* ip = "127.0.0.1";
    if (inet_pton(AF_INET, ip, &address.sin_addr) <= 0) 
@@ -194,19 +199,15 @@ void* listenLink( void* ind )
    // start listening
    while (running)
       {
-      int * newsocket = new int (accept(socketFD, 0, 0));
-      if ( *newsocket < 0 )
-         {
-         perror("Accept");
-         return nullptr;
-         }
-      else
-         {
-         // initiate listen thread
-         pthread_t littlethr;
-         pthread_create( &littlethr, nullptr, littleListen, (void*)newsocket );
-         pthread_detach(littlethr);
-         }
+      int newsock;
+      newsock = accept(socketFD, 0, 0);
+      if (newsock < 0) 
+         continue;
+      int * newsocket = new int (newsock);
+      // initiate listen thread
+      pthread_t littlethr;
+      pthread_create( &littlethr, nullptr, littleListen, (void*)newsocket );
+      pthread_detach(littlethr);
       }
    std::cout << "\nThe listening thread stops!\n";
    return nullptr;
